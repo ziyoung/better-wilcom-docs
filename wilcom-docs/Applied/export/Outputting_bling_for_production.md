@@ -9,9 +9,13 @@ EmbroideryStudio supports a number of methods for exporting bling for production
 | Bling cutter   | Send bling shapes direct to any supported cutting machine.                                    |
 | Vector file    | Convert bling shapes to vectors in order to cut bling templates.                              |
 
-Note: The Export Multi-Decoration Files capability allows you to output files for multi-decoration designs. The system recognizes whether a component is embroidery, graphic, appliqué, or bling. [See also Exporting multiple decoration files.](Exporting_multiple_decoration_files)
+::: info Note
+The Export Multi-Decoration Files capability allows you to output files for multi-decoration designs. The system recognizes whether a component is embroidery, graphic, appliqué, or bling. [See also Exporting multiple decoration files.](Exporting_multiple_decoration_files)
+:::
 
-Caution: Bling designs can be saved to earlier versions of EMB. However, bling objects will convert to vector objects.
+::: warning Caution
+Bling designs can be saved to earlier versions of EMB. However, bling objects will convert to vector objects.
+:::
 
 ## Related topics...
 

@@ -17,7 +17,9 @@ You can create free-form outlines and borders using the Cross Stitch Run tool. T
 
 ![StitchToolbar.png](assets/StitchToolbar.png)
 
-Tip: The stitch palette can be dragged and floated anywhere within the Design Window.
+::: tip
+The stitch palette can be dragged and floated anywhere within the Design Window.
+:::
 
 4. Mark reference points on your design. Left-click for sharp corners and right-click for round corners.
 
@@ -25,7 +27,9 @@ Tip: The stitch palette can be dragged and floated anywhere within the Design Wi
 
 5. Press Enter. The shape is filled or outlined depending on the stitch type selected. If you are using Full Cross, the currently selected cross stitch type applies.
 
-Note: Depending on the stitch type you select, you can also set the stitch direction.
+::: info Note
+Depending on the stitch type you select, you can also set the stitch direction.
+:::
 
 ![SelectFillStyle00042.png](assets/SelectFillStyle00042.png)
 

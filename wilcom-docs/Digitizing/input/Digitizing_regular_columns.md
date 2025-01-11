@@ -4,7 +4,9 @@ Use Column C to digitize columns and borders of fixed width. Column C is usually
 
 ![input00059.png](assets/input00059.png)
 
-Tip: You can toggle between Column C and Digitize Run by pressing the Spacebar. [See also Convert objects with CorelDRAW Graphics.](../../Automatic/automatic/Convert_objects_with_CorelDRAW_Graphics)
+::: tip
+You can toggle between Column C and Digitize Run by pressing the Spacebar. [See also Convert objects with CorelDRAW Graphics.](../../Automatic/automatic/Convert_objects_with_CorelDRAW_Graphics)
+:::
 
 ## Related topics...
 

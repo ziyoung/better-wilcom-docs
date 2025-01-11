@@ -8,7 +8,7 @@
 | ![ConvertGraphicsToEmbroidery.png](assets/ConvertGraphicsToEmbroidery.png) | Use Mode > Convert Graphics to Embroidery to convert selected graphics to embroidery and switch to Wilcom Workspace.   |
 | ![KeepOriginalObjects.png](assets/KeepOriginalObjects.png)                 | Use Mode > Keep Graphic Objects to retain the original graphics during conversion.                                     |
 
-EmbroideryStudio lets you convert vector graphics directly to embroidery objects using a variety of techniques. Similarly, you can convert embroidery designs or objects to vector graphics. You can also convert between different [Run](../../glossary/glossary) and [Column C](../../glossary/glossary) objects. This is useful when [scaling](../../glossary/glossary) designs – e.g. for creating thicker or thinner columns and borders.
+EmbroideryStudio lets you convert vector graphics directly to embroidery objects using a variety of techniques. Similarly, you can convert embroidery designs or objects to vector graphics. You can also convert between different [Run](../../glossary/glossary) and [Column C](../../glossary/glossary) objects. This is useful when [scaling](../../glossary/glossary#scaling) designs – e.g. for creating thicker or thinner columns and borders.
 
 ![summary_-_create00147.png](assets/summary_-_create00147.png)
 
@@ -17,7 +17,7 @@ EmbroideryStudio lets you convert vector graphics directly to embroidery objects
 <iframe src="https://www.youtube.com/embed/5Sqab5N2y8o" frameborder="0" 
 		 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -25,7 +25,7 @@ EmbroideryStudio lets you convert vector graphics directly to embroidery objects
 <iframe src="https://www.youtube.com/embed/q1zVNto4nVw" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

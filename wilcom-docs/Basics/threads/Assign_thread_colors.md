@@ -33,4 +33,6 @@ The supplied charts represent the brands of threads that EmbroideryStudio suppor
 - Check the thread assignments in the Color toolbar by hovering the pointer over the slots.
 - Optionally, click Remove Unused Colors to remove unused colors.
 
-Note: The Remove Unused Colors tool is disabled for machine formats that use [needle addressing](../../glossary/glossary) – i.e. that have Color Change set as Needle No in the Machine Format Settings dialog.
+::: info Note
+The Remove Unused Colors tool is disabled for machine formats that use [needle addressing](../../glossary/glossary#needle-addressing) – i.e. that have Color Change set as Needle No in the Machine Format Settings dialog.
+:::

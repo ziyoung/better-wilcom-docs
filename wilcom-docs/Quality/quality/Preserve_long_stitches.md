@@ -17,7 +17,9 @@ Apply Auto Jump to satin objects with stitches that exceed the maximum stitch le
 
 3. In the Max length field, enter the maximum stitch length to allow. Stitches exceeding this value will have Auto Jump applied.
 
-Note: This value must be smaller than or equal to the maximum stitch length possible for the selected [format](../../glossary/glossary).
+::: info Note
+This value must be smaller than or equal to the maximum stitch length possible for the selected [format](../../glossary/glossary).
+:::
 
 4. Adjust Jump length as required.
 
@@ -38,7 +40,9 @@ The option you select depends on the way your machine measures stitch length. Se
 
 ![quality00137.png](assets/quality00137.png)
 
-Caution: Many machines trim by jumps. Thus, to prevent the trimmers being activated, usually only one or two jumps between needle penetrations may be used.
+::: warning Caution
+Many machines trim by jumps. Thus, to prevent the trimmers being activated, usually only one or two jumps between needle penetrations may be used.
+:::
 
 ## Related topics...
 

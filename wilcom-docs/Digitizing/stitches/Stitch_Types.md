@@ -1,6 +1,6 @@
 # Stitch Types
 
-All [embroidery objects](../../glossary/glossary) in EmbroideryStudio contain defining settings or [properties](../../glossary/glossary). Some, such as size and position, are common to all objects, while others are specific to object type. The most important property of all is stitch type. The software uses object outlines and the associated stitch type to generate stitches. Whenever you reshape, transform or [scale](../../glossary/glossary) an object, stitches are regenerated according to current settings.
+All [embroidery objects](../../glossary/glossary#embroidery-objects) in EmbroideryStudio contain defining settings or [properties](../../glossary/glossary#properties). Some, such as size and position, are common to all objects, while others are specific to object type. The most important property of all is stitch type. The software uses object outlines and the associated stitch type to generate stitches. Whenever you reshape, transform or [scale](../../glossary/glossary) an object, stitches are regenerated according to current settings.
 
 ![stitches00001.png](assets/stitches00001.png)
 

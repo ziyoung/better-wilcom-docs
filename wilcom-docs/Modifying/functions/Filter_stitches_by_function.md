@@ -17,13 +17,17 @@ You can apply a filter to the Stitch List so that only stitches associated with 
 
 3. Select the functions you want to show.
 
-Tip: To select multiple functions, use Ctrl or Shift keys as you click. Click Select All to show all function types.
+::: tip
+To select multiple functions, use Ctrl or Shift keys as you click. Click Select All to show all function types.
+:::
 
 4. Click OK. Selected functions are displayed in the list.
 
 ![StitchList4.png](assets/StitchList4.png)
 
-Tip: To display the text in the associated stitch color, select Colored Text from the popup menu.
+::: tip
+To display the text in the associated stitch color, select Colored Text from the popup menu.
+:::
 
 5. To show all stitches again, right-click in the Stitch List and select Show All from the popup menu.
 

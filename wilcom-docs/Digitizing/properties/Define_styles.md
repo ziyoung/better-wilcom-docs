@@ -1,6 +1,6 @@
 # Define styles
 
-Define new [styles](../../glossary/glossary) for a [design template](../../glossary/glossary), either from scratch or based on an existing style or object. New styles are saved to the current template.
+Define new [styles](../../glossary/glossary#styles) for a [design template](../../glossary/glossary#design-template), either from scratch or based on an existing style or object. New styles are saved to the current template.
 
 ## To define a style...
 

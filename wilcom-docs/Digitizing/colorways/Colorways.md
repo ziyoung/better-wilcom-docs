@@ -1,6 +1,6 @@
 # Colorways
 
-When digitizing, you select colors from a [color palette](../../glossary/glossary). These can be tailored to each design or color scheme. The particular ‘[colorway](../../glossary/glossary)’ represents the actual thread colors in which a design will be stitched. EmbroideryStudio lets you define multiple color schemes and switch between them.
+When digitizing, you select colors from a [color palette](../../glossary/glossary#color-palette). These can be tailored to each design or color scheme. The particular ‘[colorway](../../glossary/glossary)’ represents the actual thread colors in which a design will be stitched. EmbroideryStudio lets you define multiple color schemes and switch between them.
 
 ![colorways00001.png](assets/colorways00001.png)
 
@@ -8,7 +8,9 @@ For each colorway you define, you can select colors from commercial thread chart
 
 EmbroideryStudio also lets you set the background color, fabric, or product of the current colorway for more realistic previews and presentations. The background and product are saved with the colorway.
 
-Note: You can also print multiple colorways, design [background](../../glossary/glossary) and product, and icons of [color blocks](../../glossary/glossary) in the [production worksheet](../../glossary/glossary). [See also Printing design reports.](../../Production/reports/Printing_design_reports)
+::: info Note
+You can also print multiple colorways, design [background](../../glossary/glossary#background) and product, and icons of [color blocks](../../glossary/glossary) in the [production worksheet](../../glossary/glossary#production-worksheet). [See also Printing design reports.](../../Production/reports/Printing_design_reports)
+:::
 
 ## Related topics...
 

@@ -13,7 +13,9 @@ With Generate Stitches on (the default), stitches are calculated for new objects
 
 - To remove stitches, or digitize without generating stitches, deselect Stitch > Generate Stitches or press G again.
 
-Tip: Make sure Show Outlines is selected, otherwise stitchless objects will not be visible.
+::: tip
+Make sure Show Outlines is selected, otherwise stitchless objects will not be visible.
+:::
 
 ## Related topics...
 

@@ -16,7 +16,9 @@ Sequence logic is as follows:
 
 ![lettering_edit00134.png](assets/lettering_edit00134.png)
 
-Tip: An exception for single-line (multi-word) objects is the case of the center-out stitching sequence. Such objects are broken apart directly into single-letter objects. The stitching sequence is thereby preserved.
+::: tip
+An exception for single-line (multi-word) objects is the case of the center-out stitching sequence. Such objects are broken apart directly into single-letter objects. The stitching sequence is thereby preserved.
+:::
 
 ## Related topics...
 

@@ -4,7 +4,9 @@ EmbroideryStudio provides techniques for ‘sculpting’ motif fills to create t
 
 ![Motif3DWarpSamples.png](assets/Motif3DWarpSamples.png)
 
-Tip: Small stitches may be generated along the edge of objects employing these effects. You can remove these automatically. [See Eliminating small stitches for details.](../../Quality/quality/Eliminating_small_stitches)
+::: tip
+Small stitches may be generated along the edge of objects employing these effects. You can remove these automatically. [See Eliminating small stitches for details.](../../Quality/quality/Eliminating_small_stitches)
+:::
 
 ## Related topics...
 

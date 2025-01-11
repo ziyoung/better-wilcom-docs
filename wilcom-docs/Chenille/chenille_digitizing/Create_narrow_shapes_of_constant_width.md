@@ -23,7 +23,9 @@ To fill narrow shapes of constant width, use Coil or Square outlines with Moss s
 
 ![DigitizeCoilFixedWidth1.png](assets/DigitizeCoilFixedWidth1.png)
 
-Tip: There is a limitation with Coil in handling sharp corners. Square patterns are generally better suited. The Smart Corners effect can be used with Column C objects.
+::: tip
+There is a limitation with Coil in handling sharp corners. Square patterns are generally better suited. The Smart Corners effect can be used with Column C objects.
+:::
 
 - Press Enter to generate the shape.
 
@@ -41,7 +43,9 @@ Tip: There is a limitation with Coil in handling sharp corners. Square patterns 
 
 ![chenille_digitizing00049.png](assets/chenille_digitizing00049.png)
 
-Note: If you are using moss stitching, you need to create a border around the object. For this, you typically use the Run method with Chain stitching. If your machine supports it, you may also combine chenille with regular tie-off stitching.
+::: info Note
+If you are using moss stitching, you need to create a border around the object. For this, you typically use the Run method with Chain stitching. If your machine supports it, you may also combine chenille with regular tie-off stitching.
+:::
 
 ## Related topics
 

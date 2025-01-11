@@ -38,7 +38,9 @@ Normally the hoop will center itself around the geometric center of the design. 
 
 ![HoopedDesignWithTemplate00021.png](assets/HoopedDesignWithTemplate00021.png)
 
-Tip: You can include the hoop template in the production worksheet, together with alignment and registration guide markings. This allows you to cut out the printed design and align it within the hoop. Use the template markings to align it to physical hoop template.
+::: tip
+You can include the hoop template in the production worksheet, together with alignment and registration guide markings. This allows you to cut out the printed design and align it within the hoop. Use the template markings to align it to physical hoop template.
+:::
 
 ## Related topics...
 

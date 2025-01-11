@@ -8,7 +8,9 @@ Boundaries in complex shapes should not overlap or intersect. The shapes below, 
 
 ![input00122.png](assets/input00122.png)
 
-Tip: You can create new objects from existing boundaries using the Fill Holes feature. Alternatively, you can use other objects to cut holes. See [Removing underlying stitching](../../Quality/quality/Removing_underlying_stitching) and [Fill holes](../../Modifying/productivity/Fill_holes) for details.
+::: tip
+You can create new objects from existing boundaries using the Fill Holes feature. Alternatively, you can use other objects to cut holes. See [Removing underlying stitching](../../Quality/quality/Removing_underlying_stitching) and [Fill holes](../../Modifying/productivity/Fill_holes) for details.
+:::
 
 ## Related topics...
 

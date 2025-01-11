@@ -1,8 +1,10 @@
 # Selecting objects
 
-![SelectObjects1.png](assets/SelectObjects1.png)EmbroideryStudio provides various ways to select [embroidery objects](../../glossary/glossary). It supports point & click, [selection marquee](../../glossary/glossary) and multiple object selection. The Color-Object List provides an easy way to select objects and colors and access their properties.
+![SelectObjects1.png](assets/SelectObjects1.png)EmbroideryStudio provides various ways to select [embroidery objects](../../glossary/glossary#embroidery-objects). It supports point & click, [selection marquee](../../glossary/glossary#selection-marquee) and multiple object selection. The Color-Object List provides an easy way to select objects and colors and access their properties.
 
-Tip: Depending on your background, you can change display colors for unsewn stitches, selected objects, object outline, grid and guides. [See also Change display colors.](../view/Change_display_colors)
+::: tip
+Depending on your background, you can change display colors for unsewn stitches, selected objects, object outline, grid and guides. [See also Change display colors.](../view/Change_display_colors)
+:::
 
 ## Related topics...
 

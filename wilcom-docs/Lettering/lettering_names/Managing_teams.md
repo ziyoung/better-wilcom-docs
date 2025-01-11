@@ -34,7 +34,9 @@ A teamname object may contain all names in a given team, or a subset of those na
 
 ![lettering_names00071.png](assets/lettering_names00071.png)
 
-Tip: You can type in the names, or paste them in from a text file. Each name must be separated by a comma. There is no need for a space.
+::: tip
+You can type in the names, or paste them in from a text file. Each name must be separated by a comma. There is no need for a space.
+:::
 
 - Click OK. The new names are added to the Team Members list.
 - Transfer names, selectively or all together, to the Teamname list using the arrow buttons. You can even transfer names from different teams to the same list.

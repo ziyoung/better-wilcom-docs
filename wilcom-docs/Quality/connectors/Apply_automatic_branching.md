@@ -13,13 +13,15 @@ Apply Branching to selected objects. These become a single branched object.
 
 ![Branching2.png](assets/Branching2.png)
 
-Note: The function is only available if more than one object of any suitable type is selected.
+::: info Note
+The function is only available if more than one object of any suitable type is selected.
+:::
 
 2. Click the Branching icon. EmbroideryStudio will prompt you to digitize entry and [exit points](../../glossary/glossary).
 
 3. Digitize entry and exit points, or press Enter twice to accept the [defaults](../../glossary/glossary).
 
-Component objects are grouped and share the color of the first branched object. Objects are resequenced, [connectors](../../glossary/glossary) minimized, and stitches regenerated.
+Component objects are grouped and share the color of the first branched object. Objects are resequenced, [connectors](../../glossary/glossary#connectors) minimized, and stitches regenerated.
 
 ![Branching3.png](assets/Branching3.png)
 

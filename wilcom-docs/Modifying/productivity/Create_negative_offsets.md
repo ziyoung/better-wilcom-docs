@@ -26,6 +26,8 @@ The Outlines & Offsets tool allows you to specify both negative and positive off
 
 ![productivity00052.png](assets/productivity00052.png)
 
-Note: As an alternative to the above technique, you can define your negative offsets entirely as a single offset pattern. Note how you set up the spacings.
+::: info Note
+As an alternative to the above technique, you can define your negative offsets entirely as a single offset pattern. Note how you set up the spacings.
+:::
 
 ![productivity00055.png](assets/productivity00055.png)

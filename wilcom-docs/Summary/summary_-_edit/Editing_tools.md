@@ -9,7 +9,7 @@ The Edit tools contains tools for object editing operations, including manual an
 <iframe src="https://www.youtube.com/embed/lM820ENY6PI" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -17,7 +17,7 @@ The Edit tools contains tools for object editing operations, including manual an
 <iframe src="https://www.youtube.com/embed/j5-IPsbaQjg" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

@@ -21,7 +21,9 @@ When you read a chenille machine file, it is converted to EMB format. The chenil
 
 ![chenille_output00056.png](assets/chenille_output00056.png)
 
-Tip: In Tajima TMCE-600, all Chenille stops are interpreted as color changes.
+::: tip
+In Tajima TMCE-600, all Chenille stops are interpreted as color changes.
+:::
 
 - Select a chenille machine from the Machine Type list and click OK.
 

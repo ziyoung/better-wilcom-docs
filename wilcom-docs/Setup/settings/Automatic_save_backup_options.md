@@ -15,7 +15,9 @@ The Auto Save function creates a temporary file with the extension EMA in the RE
 
 If the Backup Copy checkbox is ticked, a backup copy of the current design file is automatically created in its previously saved form. This protects you from overwriting the design with unintended changes – e.g. using the Save option instead of Save As to save a modified design. The backup copy is saved in the BACKUP folder with the original file name and native file format. Access backup files manually by browsing to the BACKUP folder.
 
-Caution: Backup files remain in the BACKUP folder until you delete them. To prevent the folder from using too much hard disk space, delete unwanted files regularly. Backup files should be kept in a separate physical location, preferably off-site. Access the backup folder via the File > Open Backup Design command.
+::: warning Caution
+Backup files remain in the BACKUP folder until you delete them. To prevent the folder from using too much hard disk space, delete unwanted files regularly. Backup files should be kept in a separate physical location, preferably off-site. Access the backup folder via the File > Open Backup Design command.
+:::
 
 ## Related topics...
 

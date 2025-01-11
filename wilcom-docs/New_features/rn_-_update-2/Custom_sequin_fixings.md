@@ -11,6 +11,8 @@ Benefits of user-defined sequin fixings include:
 - Accommodate specific fixing requirements.
 - Accommodate new capabilities – e.g. offset holes.
 
-Tip: If you have chosen an eccentric sequin type such as ‘ellipse’, fixing stitches automatically adapt to fit.
+::: tip
+If you have chosen an eccentric sequin type such as ‘ellipse’, fixing stitches automatically adapt to fit.
+:::
 
 ![EccentricSequinFixings.png](assets/EccentricSequinFixings.png)

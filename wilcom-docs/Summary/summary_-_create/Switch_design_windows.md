@@ -2,7 +2,7 @@
 
 Open EmbroideryStudio using the desktop icon or the MS Windows® Start menu. The application has one workspace or ‘design window’ but you interact with it in different operating modes:
 
-- CorelDRAW Graphics: This allows you to create and edit [embroidery objects](../../glossary/glossary) using an embroidery digitizing toolset.
+- CorelDRAW Graphics: This allows you to create and edit [embroidery objects](../../glossary/glossary#embroidery-objects) using an embroidery digitizing toolset.
 - Wilcom Workspace: This allows you to create and edit [vector objects](../../glossary/glossary) using the CorelDRAW® Graphics Suite toolset.
 
 ![summary_-_create00005.png](assets/summary_-_create00005.png)

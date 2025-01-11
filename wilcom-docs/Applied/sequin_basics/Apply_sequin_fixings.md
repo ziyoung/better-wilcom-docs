@@ -7,7 +7,9 @@ You can select sequins before or after digitizing. Similarly, you can preset fix
 
 ![FixingStitchSamples.png](assets/FixingStitchSamples.png)
 
-Tip: Digitizers sometimes want to generate a sequin run and overlay it with a plain run so that sequins are more securely fixed. Another reason for backtracking is to avoid jump stitches between objects. The Backtrack/Repeat tool is enabled for sequin-run objects. When applied, EmbroideryStudio generates manual stitches but leaves other functions unaffected. [See also Controlling stitch direction.](../../Quality/quality/Controlling_stitch_direction)
+::: tip
+Digitizers sometimes want to generate a sequin run and overlay it with a plain run so that sequins are more securely fixed. Another reason for backtracking is to avoid jump stitches between objects. The Backtrack/Repeat tool is enabled for sequin-run objects. When applied, EmbroideryStudio generates manual stitches but leaves other functions unaffected. [See also Controlling stitch direction.](../../Quality/quality/Controlling_stitch_direction)
+:::
 
 ## To apply sequin fixing stitches...
 

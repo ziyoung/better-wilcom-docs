@@ -3,7 +3,7 @@
 | ![ObjectProperties.png](assets/ObjectProperties.png) | Use Docker > Object Properties to toggle the Object Properties docker on/off. Use it to set jumps as connectors. |
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 
-You can use automatic jumps as [connectors](../../glossary/glossary) between embroidery objects. Jumps move the frame from one part of the design to another without needle penetrations. You generally need to tie-off and trim the connecting thread.
+You can use automatic jumps as [connectors](../../glossary/glossary#connectors) between embroidery objects. Jumps move the frame from one part of the design to another without needle penetrations. You generally need to tie-off and trim the connecting thread.
 
 ![connectors00003.png](assets/connectors00003.png)
 
@@ -30,7 +30,9 @@ You can use automatic jumps as [connectors](../../glossary/glossary) between emb
 | Tie in     | Tie-in stitches are inserted at the start of objects to prevent stitches from unraveling. You generally use them when the previous connector is trimmed.        |
 | Tie off    | With trims, stitches need to be tied off so the thread can be trimmed without unraveling. Select between automatic tie-off methods to set preferred default.    |
 
-Tip: You can also digitize jumps manually using the Penetrations function.
+::: tip
+You can also digitize jumps manually using the Penetrations function.
+:::
 
 ## Related topics...
 

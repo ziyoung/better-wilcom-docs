@@ -24,7 +24,9 @@ Adjust grid spacing depending on the size of design you are working with. Use th
 - Choose a snap method. You can choose whether to activate in X or Y axes or both.
 - Select the Set Reference Point checkbox to set the zero point of the rule. For example, you can set the grid reference point to the design center. This is easier and faster than moving the whole design. When you close the dialog, you are prompted to mark the zero point of your design.
 
-Tip: To temporarily disable Snap to Grid as you digitize, hold down Alt.
+::: tip
+To temporarily disable Snap to Grid as you digitize, hold down Alt.
+:::
 
 ## Related topics...
 

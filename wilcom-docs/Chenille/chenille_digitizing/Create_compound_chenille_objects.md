@@ -23,7 +23,9 @@ Digitizing chenille objects involves the same techniques as regular lockstitch e
 | ![DoubleSquare.png](assets/DoubleSquare.png) | Double Square | Larger shapes with two layers of straight lines.   |
 | ![IslandCoil.png](assets/IslandCoil.png)     | Island Coil   | Larger shapes with double-spiral stitches.         |
 
-Tip: In theory, it makes little difference to the end result whether you use an underlying square or coil pattern. In practice, square patterns produce fills that vary in appearance with the direction of view. However, they are generally more suited to squarish shapes with sharp corners.
+::: tip
+In theory, it makes little difference to the end result whether you use an underlying square or coil pattern. In practice, square patterns produce fills that vary in appearance with the direction of view. However, they are generally more suited to squarish shapes with sharp corners.
+:::
 
 5. Select a yarn color from the palette. Remember, the View by Chain/Moss function uses the first three colors in the palette. Color slots 1-3 are best left for display purposes only, where:
 
@@ -40,7 +42,9 @@ Tip: In theory, it makes little difference to the end result whether you use an 
 
 ![chenille_digitizing00007.png](assets/chenille_digitizing00007.png)
 
-Tip: Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
+::: tip
+Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
+:::
 
 7. Press Enter to complete.
 
@@ -50,7 +54,9 @@ Tip: Use the prompts in the Prompt Bar to help you digitize. If you make a mista
 
 ![CompoundChenilleSquare.png](assets/CompoundChenilleSquare.png)
 
-Tip: While stitch angle has no effect on coil fill patterns, it can affect the appearance of square fill patterns. Best angles are 30° or 120°.
+::: tip
+While stitch angle has no effect on coil fill patterns, it can affect the appearance of square fill patterns. Best angles are 30° or 120°.
+:::
 
 10. Press Enter to complete. The Compound Chenille object is generated according to current settings.
 
@@ -58,7 +64,9 @@ Tip: While stitch angle has no effect on coil fill patterns, it can affect the a
 
 11. With the object selected, open the Object Properties > Compound Chenille tab to adjust settings.
 
-Tip: The Compound Chenille tool in fact allows for up to three (1-3) offset borders, before and after. Borders can employ either moss or chain stitching, at specific offsets and needle heights. If you intend to use loops of different height, adjust needle height rather than the stitch length. This method is easier and more accurate.
+::: tip
+The Compound Chenille tool in fact allows for up to three (1-3) offset borders, before and after. Borders can employ either moss or chain stitching, at specific offsets and needle heights. If you intend to use loops of different height, adjust needle height rather than the stitch length. This method is easier and more accurate.
+:::
 
 ## Related topics
 

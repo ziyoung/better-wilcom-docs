@@ -26,7 +26,9 @@ You can apply a filter to the Stitch List so that only stitches of a certain len
 
 ![StitchList5.png](assets/StitchList5.png)
 
-Tip: To display the text in the associated stitch color, select Colored Text from the popup menu.
+::: tip
+To display the text in the associated stitch color, select Colored Text from the popup menu.
+:::
 
 5. To show all stitches again, right-click in the Stitch List and select Show All from the popup menu.
 

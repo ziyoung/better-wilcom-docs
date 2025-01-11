@@ -7,7 +7,9 @@
 
 You can load [vector](../../glossary/glossary) artwork of various formats via CorelDRAW Graphics for use as digitizing [backdrops](../../glossary/glossary) for manual or automatic digitizing. You can also use this technique to insert bitmaps.
 
-Note: CorelDRAW® needs to be registered before it can be used by EmbroideryStudio. Registration provides CorelDRAW® Standard Membership which gives you access to content – clipart, fonts, stock photos, templates – via Corel CONNECT.
+::: info Note
+CorelDRAW® needs to be registered before it can be used by EmbroideryStudio. Registration provides CorelDRAW® Standard Membership which gives you access to content – clipart, fonts, stock photos, templates – via Corel CONNECT.
+:::
 
 ## To import a vector graphic...
 
@@ -30,9 +32,13 @@ Note: CorelDRAW® needs to be registered before it can be used by EmbroideryStud
 - Convert [vectors](../../glossary/glossary) to embroidery: [See Convert objects with CorelDRAW Graphics for details.](../automatic/Convert_objects_with_CorelDRAW_Graphics)
 - Switch to Wilcom Workspace and use the artwork as a digitizing backdrop: [See Digitizing methods for details.](../../Digitizing/input/Digitizing_methods)
 
-Note: If you cannot see the image you loaded in Wilcom Workspace, make sure Show Vectors icon is toggled on.
+::: info Note
+If you cannot see the image you loaded in Wilcom Workspace, make sure Show Vectors icon is toggled on.
+:::
 
-Tip: Locking [backdrop](../../glossary/glossary) images holds them in place as you digitize, transform or reshape the embroidery objects near them. Locked objects can be unlocked for modification at any time.
+::: tip
+Locking [backdrop](../../glossary/glossary#backdrop) images holds them in place as you digitize, transform or reshape the embroidery objects near them. Locked objects can be unlocked for modification at any time.
+:::
 
 ## Related topics...
 

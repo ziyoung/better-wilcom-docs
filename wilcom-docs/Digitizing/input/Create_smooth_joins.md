@@ -15,7 +15,7 @@ The ‘continuous input’ option provides a simple and efficient way of digitiz
 2. Select a continuous input method:
 
 - Normal: Use this for non-continuous input.
-- Continuous replace: Use this to continue digitizing the same object after each Enter keypress. Any [properties](../../glossary/glossary) you change during digitizing will affect the entire object, not just the section you are working on.
+- Continuous replace: Use this to continue digitizing the same object after each Enter keypress. Any [properties](../../glossary/glossary#properties) you change during digitizing will affect the entire object, not just the section you are working on.
 
 ![input00107.png](assets/input00107.png)
 
@@ -29,13 +29,17 @@ The ‘continuous input’ option provides a simple and efficient way of digitiz
 
 5. If you are using Continuous Add mode, you can select another stitch type at this point.
 
-Tip: To stop the screen scrolling while moving the mouse, hold down Shift and click the stitch type button you require.
+::: tip
+To stop the screen scrolling while moving the mouse, hold down Shift and click the stitch type button you require.
+:::
 
 6. Recommence digitizing where you left off and press Enter when you have finished.
 
 If you are using Continuous Add mode, the new section is a new object. This means that, while the two sections are smoothly joined, they can have different properties, including stitch type.
 
-Tip: To start a new object without joining to the previous object, click the Column A icon again.
+::: tip
+To start a new object without joining to the previous object, click the Column A icon again.
+:::
 
 ## Related topics...
 

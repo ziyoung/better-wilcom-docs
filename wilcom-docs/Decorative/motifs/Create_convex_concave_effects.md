@@ -28,6 +28,8 @@ Using Globe In with 3D Warp gives a concave effect by increasing motif size and 
 - Change frame width
 - Reposition frame.
 
-Tip: You can generate layers of colored motifs by duplicating an object and selecting a different color. For example, after filling a shape with circles, you can create a second layer, offset it, and apply a different color. You can then apply effects such as Globe Out to the whole motif fill.
+::: tip
+You can generate layers of colored motifs by duplicating an object and selecting a different color. For example, after filling a shape with circles, you can create a second layer, offset it, and apply a different color. You can then apply effects such as Globe Out to the whole motif fill.
+:::
 
 ![Motif2ColorWarpSamples.png](assets/Motif2ColorWarpSamples.png)

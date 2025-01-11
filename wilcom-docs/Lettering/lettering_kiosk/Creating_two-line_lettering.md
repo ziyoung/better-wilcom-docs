@@ -4,4 +4,6 @@ Kiosk mode allows two-lines of text to be entered and edited. The text box in th
 
 ![TwoLineText.png](assets/TwoLineText.png)
 
-Note: If you switch design layouts, the system will attempt to preserve user-entered text between single- and multi- line designs. For example, switching from single to double, the original line of text will be copied to the first line. The second will be empty.
+::: info Note
+If you switch design layouts, the system will attempt to preserve user-entered text between single- and multi- line designs. For example, switching from single to double, the original line of text will be copied to the first line. The second will be empty.
+:::

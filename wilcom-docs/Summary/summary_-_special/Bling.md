@@ -12,7 +12,7 @@ The Bling feature allows digitizers to create patterns of bling runs or fills wi
 <iframe src="https://www.youtube.com/embed/0slVJSfEdY4" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

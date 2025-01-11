@@ -17,4 +17,6 @@ If you take a small product image and blow it up to actual size, it will not gai
 
 Make sure you are using an RGB (24 bit color) photo. Commonly used formats include RAW, PNG, TIFF or JPG.
 
-Note: As well as reasonably high resolution photos, you need a good photo editor. Most screenshots in this document are taken from Corel PhotoPaint which is bundled with EmbroideryStudio.
+::: info Note
+As well as reasonably high resolution photos, you need a good photo editor. Most screenshots in this document are taken from Corel PhotoPaint which is bundled with EmbroideryStudio.
+:::

@@ -1,10 +1,10 @@
 # Open machine files
 
-When you open machine files with object/outline [recognition](../../glossary/glossary), you can set options to determine how the design will convert. Options vary with file type. Alternatively, by opening a machine file without recognition, stitch data is preserved. This allows you to perform minor stitch edits and scaling operations without compromising the original machine file. Alternatively, you can process the whole or selected parts of a design after opening and editing.
+When you open machine files with object/outline [recognition](../../glossary/glossary#recognition), you can set options to determine how the design will convert. Options vary with file type. Alternatively, by opening a machine file without recognition, stitch data is preserved. This allows you to perform minor stitch edits and scaling operations without compromising the original machine file. Alternatively, you can process the whole or selected parts of a design after opening and editing.
 
 ## To open machine files with or without object recognition...
 
-1. Open a file from hard disk or read it from [embroidery disk](../../glossary/glossary).
+1. Open a file from hard disk or read it from [embroidery disk](../../glossary/glossary#embroidery-disk).
 
 ![OpenMachineFile.png](assets/OpenMachineFile.png)
 
@@ -16,9 +16,9 @@ When you open machine files with object/outline [recognition](../../glossary/glo
 
 4. Select or deselect the Objects/Outlines checkbox.
 
-Remember, when you open machine files without object/outline [recognition](../../glossary/glossary), ‘[manual objects](../../glossary/glossary)’ are created wherever machine functions – e.g. color changes or trims – are detected in the design. They have only general and connector [properties](../../glossary/glossary).
+Remember, when you open machine files without object/outline [recognition](../../glossary/glossary#recognition), ‘[manual objects](../../glossary/glossary)’ are created wherever machine functions – e.g. color changes or trims – are detected in the design. They have only general and connector [properties](../../glossary/glossary#properties).
 
-5. Select a different [machine format](../../glossary/glossary) from the Machine Type list as required.
+5. Select a different [machine format](../../glossary/glossary#machine-format) from the Machine Type list as required.
 
 The machine type will default to one suggested by the file format – e.g. DST will be interpreted as Tajima. However, you can choose to convert the file to a different machine format – e.g. Barudan.
 
@@ -30,7 +30,7 @@ When EmbroideryStudio encounters this number of consecutive jumps, it will conve
 
 | Option       | Function                                                                                                                                                                                                                                               |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Color change | Stop codes are interpreted as ‘Next Color’ commands. The next color is selected from the default [color palette](../../glossary/glossary).                                                                                                             |
+| Color change | Stop codes are interpreted as ‘Next Color’ commands. The next color is selected from the default [color palette](../../glossary/glossary#color-palette).                                                                                               |
 | Stops        | Stop codes are interpreted as ‘Explicit Stop’ commands. The machine stops stitching.                                                                                                                                                                   |
 | Custom       | Lets you map thread colors to every stop code in the file. This means you can color code machine files which do not contain needle addressing information. [See Reassigning colors to machine files for details.](Reassigning_colors_to_machine_files) |
 
@@ -51,7 +51,7 @@ On some Barudan machines there is a speed switch. Depending on its position, fas
 
 11. Click OK and then Open.
 
-If you have ticked the Objects/Outlines checkbox, the design is processed and converted to embroidery objects with fill or outline stitch [properties](../../glossary/glossary) as well as general and connector properties. If an object is not recognized, it becomes a [manual object](../../glossary/glossary) with general and connector properties only.
+If you have ticked the Objects/Outlines checkbox, the design is processed and converted to embroidery objects with fill or outline stitch [properties](../../glossary/glossary#properties) as well as general and connector properties. If an object is not recognized, it becomes a [manual object](../../glossary/glossary#manual-object) with general and connector properties only.
 
 ![convert00011.png](assets/convert00011.png)
 

@@ -13,7 +13,9 @@ Chenille Moss produces the typical raised stitching associated with chenille wor
 
 Chenille has no bobbin thread. Without tie-ins and tie-offs, Moss stitch can loosen during washing. For this reason, Chain borders are used to achieve a tie-in and tie-off effect.
 
-Tip: A sticky fabric can also be used to back Chenille embroidery using a heat and press method. Using this production process, moss fill does not require a chain border.
+::: tip
+A sticky fabric can also be used to back Chenille embroidery using a heat and press method. Using this production process, moss fill does not require a chain border.
+:::
 
 ## Chain stitch
 
@@ -26,4 +28,6 @@ Chenille Chain produces a decorative style of stitching resembling the links of 
 
 Compound Chenille objects generally include built-in offset chain borders. Alternatively, chain borders can be digitized separately, usually with Run input method. Chain fills can be created in conjunction with other, non-chenille, stitch patterns.
 
-Tip: In conjunction with chain stitching, a chenille design typically builds in height from the edges to the middle.
+::: tip
+In conjunction with chain stitching, a chenille design typically builds in height from the edges to the middle.
+:::

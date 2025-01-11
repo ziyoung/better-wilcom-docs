@@ -24,10 +24,14 @@ Use the Wreath tool to duplicate objects around a center point. The Kaleidoscope
 
 6. For more precise positioning, adjust Distance and Angle settings. Tab from field to field to enter values. Press Enter to confirm.
 
-Note: Distance and angle are measured from the center of the source to the center of the wreath or kaleidoscope.
+::: info Note
+Distance and angle are measured from the center of the source to the center of the wreath or kaleidoscope.
+:::
 
 7. Click to mark the reflection point and press Enter to confirm. The selection is duplicated and distributed around the center point.
 
 ![productivity00076.png](assets/productivity00076.png)
 
-Note: If the duplicates overlap the original, you are prompted to merge objects.
+::: info Note
+If the duplicates overlap the original, you are prompted to merge objects.
+:::

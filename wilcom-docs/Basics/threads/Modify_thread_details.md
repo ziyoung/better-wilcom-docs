@@ -29,7 +29,9 @@ Code is the identification number of a thread color in a brand.
 | C         | Finer than normal (approx. denier 80)        | \-0.03  |
 | D         | Very fine (approx. denier 100)               | \-0.06  |
 
-Tip: Lighter weight threads do not run so well in a production environment as the machines need to be slowed down in order to avoid thread breaks. However, lighter weight threads are good for very small lettering and fine-detail designs.
+::: tip
+Lighter weight threads do not run so well in a production environment as the machines need to be slowed down in order to avoid thread breaks. However, lighter weight threads are good for very small lettering and fine-detail designs.
+:::
 
 - Click More Colors in the droplist to see more colors or to mix your own.
 - Remove threads as required:

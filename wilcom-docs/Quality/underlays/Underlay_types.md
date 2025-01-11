@@ -4,7 +4,7 @@ Different underlays suit different shapes and different fabrics. Larger areas an
 
 ![underlays00002.png](assets/underlays00002.png)
 
-Underlay settings are stored with each object the same way as other [object properties](../../glossary/glossary). They are regenerated whenever the object is [scaled](../../glossary/glossary) or transformed. They are stored separately from, and do not affect, cover stitch settings.
+Underlay settings are stored with each object the same way as other [object properties](../../glossary/glossary#object-properties). They are regenerated whenever the object is [scaled](../../glossary/glossary) or transformed. They are stored separately from, and do not affect, cover stitch settings.
 
 ## Default underlay values
 

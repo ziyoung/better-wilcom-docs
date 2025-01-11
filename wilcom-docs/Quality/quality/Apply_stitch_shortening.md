@@ -35,7 +35,9 @@ A higher number allows smoother distribution of needle penetrations in tight cur
 
 ![quality00110.png](assets/quality00110.png)
 
-Tip: For best results use a jagged pattern between consecutive stitches.
+::: tip
+For best results use a jagged pattern between consecutive stitches.
+:::
 
 - Select the Randomize checkbox to randomize the shortening pattern values. This will eliminate unwanted lines appearing in regular curves.
 

@@ -14,4 +14,6 @@ If the yarns in use are of the same type, the lengths of chain and moss stitch a
 | Moss stitch length  | 1.5-1.7 mm    | 2.0-2.2 mm | 1.6mm       | 2.1mm             | 1.7mm      |
 | Moss stitch spacing | 1.5mm         | 1.8mm      | 1.7mm       | 1.5mm             | 1.8mm      |
 
-Tip: These values may vary depending on the fabric used. When you use a new thread and fabric combination, sew a test design first using the above values as an initial guide.
+::: tip
+These values may vary depending on the fabric used. When you use a new thread and fabric combination, sew a test design first using the above values as an initial guide.
+:::

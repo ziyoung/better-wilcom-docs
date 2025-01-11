@@ -43,7 +43,9 @@ Fashion trends sometimes favor a more organic look which is very hard to achieve
 
 ![HandStitchEffect6.png](assets/HandStitchEffect6.png)
 
-Tip: Make any further adjustments necessary to the underlying stitch type. For instance, when using Satin stitch, you may want to increase stitch spacing as well as use a lighter underlay.
+::: tip
+Make any further adjustments necessary to the underlying stitch type. For instance, when using Satin stitch, you may want to increase stitch spacing as well as use a lighter underlay.
+:::
 
 ## Tips for use...
 

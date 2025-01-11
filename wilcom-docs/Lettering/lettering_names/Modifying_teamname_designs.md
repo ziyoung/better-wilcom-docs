@@ -52,7 +52,9 @@ You can preview individual team names as they will be stitched out. Add or delet
 
 ![TeamNamesColumn1.png](assets/TeamNamesColumn1.png)
 
-Tip: By default a space is inserted between names. To remove this space, set the Word Spacing value in the Layout dialog to 0%.
+::: tip
+By default a space is inserted between names. To remove this space, set the Word Spacing value in the Layout dialog to 0%.
+:::
 
 ## Related topics...
 

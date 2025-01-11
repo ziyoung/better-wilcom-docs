@@ -31,7 +31,9 @@ Use custom fonts to store any letters you create. To make a new font, you name i
 | Closest join | Resequences entry and [exit points](../../glossary/glossary) in adjacent letters to join them at the closest point.                                   |
 | Bottom join  | Resequences entry and exit points in adjacent letters to create a connector along the lettering baseline.                                             |
 
-Note: The lettering stitch method should be preset to give the best results. In most cases, Closest Join is recommended in order to minimize trims. Bear in mind though that the join method can be changed by the end user.
+::: info Note
+The lettering stitch method should be preset to give the best results. In most cases, Closest Join is recommended in order to minimize trims. Bear in mind though that the join method can be changed by the end user.
+:::
 
 7. Click OK.
 

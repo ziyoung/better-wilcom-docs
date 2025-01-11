@@ -19,7 +19,9 @@ Stitches that exceed this value will be split into smaller stitches. This value 
 
 ![quality00121.png](assets/quality00121.png)
 
-Tip: Use a length of 7.00 mm to preserve the satin effect.
+::: tip
+Use a length of 7.00 mm to preserve the satin effect.
+:::
 
 4. In the Min length field, enter the shortest stitch that can be generated when using Auto Split.
 
@@ -27,7 +29,9 @@ Tip: Use a length of 7.00 mm to preserve the satin effect.
 
 5. Press Enter or click Apply.
 
-Tip: As an alternative to Auto Split, try a textured tatami fill or [Program Split](../../glossary/glossary). Or, use User Defined Split to manage split lines in satin fills.
+::: tip
+As an alternative to Auto Split, try a textured tatami fill or [Program Split](../../glossary/glossary). Or, use User Defined Split to manage split lines in satin fills.
+:::
 
 ![quality00127.png](assets/quality00127.png)
 

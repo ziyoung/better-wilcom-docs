@@ -19,4 +19,6 @@ In addition to the classic fixing stitch types, the Beading feature includes a r
 
 ![rn_-_update-400035.png](assets/rn_-_update-400035.png)
 
-Tip: Before using the Bead tools, you need to choose a suitable [machine format](../../glossary/glossary). Only some machine formats support beading – e.g. Tajima TBF, Dahao and SWF Twin Sequin. Refer to your machine manual for information about support for this type of decoration. [See also Bead encoding & decoding.](../../Applied/beading/Bead_encoding_decoding)
+::: tip
+Before using the Bead tools, you need to choose a suitable [machine format](../../glossary/glossary#machine-format). Only some machine formats support beading – e.g. Tajima TBF, Dahao and SWF Twin Sequin. Refer to your machine manual for information about support for this type of decoration. [See also Bead encoding & decoding.](../../Applied/beading/Bead_encoding_decoding)
+:::

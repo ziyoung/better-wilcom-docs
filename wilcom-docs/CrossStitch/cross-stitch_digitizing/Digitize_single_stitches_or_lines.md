@@ -19,7 +19,9 @@ As an alternative to Cross Stitch Run, you can digitize a single stitch or line 
 
 ![CrossPencilExample.png](assets/CrossPencilExample.png)
 
-Tip: You can also use the Pencil tool to create combinations of partial crosses comprised of multiple colors.
+::: tip
+You can also use the Pencil tool to create combinations of partial crosses comprised of multiple colors.
+:::
 
 ## Related topics
 

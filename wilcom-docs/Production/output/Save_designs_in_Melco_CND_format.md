@@ -4,11 +4,11 @@ You can save files to Melco CND format from EmbroideryStudio. Some stitch qualit
 
 ## Trim functions
 
-Superstar-compatible machines do not have trimmers. If you want to stitch a design to a machine without trimmers, set machine values to not output Trim codes. Then digitize the design for manual trimming. Early versions of CND do not support Melco Trim codes. In this case, set the [machine format](../../glossary/glossary) values to output Trims as Jumps.
+Superstar-compatible machines do not have trimmers. If you want to stitch a design to a machine without trimmers, set machine values to not output Trim codes. Then digitize the design for manual trimming. Early versions of CND do not support Melco Trim codes. In this case, set the [machine format](../../glossary/glossary#machine-format) values to output Trims as Jumps.
 
 ## Turning Tatami fills
 
-When you save to CND format, you need to specify how to convert turning tatami stitches. Objects with curving tatami stitches – e.g. Column A objects – are not supported by early versions of CND format. For Superstar-compatible machines, turning tatami stitches are simply converted to Walk stitches, the EDS equivalent of Manual. For earlier machines, turning tatami fills need to be converted to normal tatami – i.e. with a single [stitch angle](../../glossary/glossary) – then to Normal Fill, the EDS equivalent of normal tatami.
+When you save to CND format, you need to specify how to convert turning tatami stitches. Objects with curving tatami stitches – e.g. Column A objects – are not supported by early versions of CND format. For Superstar-compatible machines, turning tatami stitches are simply converted to Walk stitches, the EDS equivalent of Manual. For earlier machines, turning tatami fills need to be converted to normal tatami – i.e. with a single [stitch angle](../../glossary/glossary#stitch-angle) – then to Normal Fill, the EDS equivalent of normal tatami.
 
 ## To save designs in Melco CND format...
 
@@ -31,7 +31,9 @@ When you save to CND format, you need to specify how to convert turning tatami s
 | Superstar Compatible          | Converts turning tatami to Walk (EDS equivalent of Manual). Complex Fill tatami is output as Normal Fill (EDS equivalent of tatami). Superstar-compatible machines do not have trimmers. |
 | Output Tatami as Complex Fill | Converts turning tatami fills to normal tatami – i.e. with a single stitch angle – then to EDS Normal Fill.                                                                              |
 
-Note: These functions are also available when you send a CND design for stitching.
+::: info Note
+These functions are also available when you send a CND design for stitching.
+:::
 
 6. Click OK and then Save.
 

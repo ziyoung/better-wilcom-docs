@@ -4,7 +4,7 @@
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | ![DigitizeColumn.png](assets/DigitizeColumn.png) | Use Graphics Digitizing > Digitize Column to create columns of varying width and stitch angle. Right-click for settings. |
 
-![InputATurningFill.png](assets/InputATurningFill.png)Use the Column A or Digitize Column tools to digitize columns of varying width and [stitch angle](../../glossary/glossary).
+![InputATurningFill.png](assets/InputATurningFill.png)Use the Column A or Digitize Column tools to digitize columns of varying width and [stitch angle](../../glossary/glossary#stitch-angle).
 
 ## To digitize columns of varying width...
 
@@ -21,11 +21,13 @@ The control points in a pair do not have to be the same type. For example, one c
 
 ![input00097.png](assets/input00097.png)
 
-Tip: If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
+::: tip
+If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
+:::
 
 4. When you have finished digitizing, either:
 
-- Press Enter to keep the last stitch and place the [exit point](../../glossary/glossary) at the last point you digitized, or
+- Press Enter to keep the last stitch and place the [exit point](../../glossary/glossary#exit-point) at the last point you digitized, or
 - Press Spacebar to omit the last stitch and place the exit point on the opposite side of the column.
 
 ![input00100.png](assets/input00100.png)

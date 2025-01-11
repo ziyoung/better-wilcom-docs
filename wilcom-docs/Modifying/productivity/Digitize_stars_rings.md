@@ -12,7 +12,7 @@ Digitize circles and ovals which use turning zigzag stitches to create a ‘Star
 
 ![productivity00004.png](assets/productivity00004.png)
 
-To digitize stars, click to mark the center and click again to set the radius. This point becomes the [entry point](../../glossary/glossary). To create an oval star, mark a second radius point, then press Enter.
+To digitize stars, click to mark the center and click again to set the radius. This point becomes the [entry point](../../glossary/glossary#entry-point). To create an oval star, mark a second radius point, then press Enter.
 
 ![Star1.png](assets/Star1.png)
 

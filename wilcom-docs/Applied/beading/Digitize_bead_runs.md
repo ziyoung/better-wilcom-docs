@@ -25,7 +25,9 @@ Normally beads are stitched last, after motifs and other embroidery are complete
 
 ![DigitizeRunAuto2.png](assets/DigitizeRunAuto2.png)
 
-Tip: You can convert a normal run to bead run by selecting and clicking the Bead Run Auto tool.
+::: tip
+You can convert a normal run to bead run by selecting and clicking the Bead Run Auto tool.
+:::
 
 - Double-click the object to access properties and swap beads as preferred.
 
@@ -76,4 +78,6 @@ Tip: You can convert a normal run to bead run by selecting and clicking the Bead
 
 ![DigitizeRunManual2.png](assets/DigitizeRunManual2.png)
 
-Note: Manual placements can be reset by choosing a different Positioning method. If you change to exact spacing, all drops are recalculated and manual placements lost.
+::: info Note
+Manual placements can be reset by choosing a different Positioning method. If you change to exact spacing, all drops are recalculated and manual placements lost.
+:::

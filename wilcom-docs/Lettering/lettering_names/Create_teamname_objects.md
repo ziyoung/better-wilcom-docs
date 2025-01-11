@@ -33,7 +33,9 @@ To associate team members with a design, you create a variable ‘teamname objec
 
 ![ImportTeamMembers.png](assets/ImportTeamMembers.png)
 
-Tip: When you import a teamname list you can import it from anywhere. However, you cannot use the Manage Teams dialog effectively with it unless it is saved in the ‘Teamname Teams’ system folder. [See Managing teams for details.](Managing_teams)
+::: tip
+When you import a teamname list you can import it from anywhere. However, you cannot use the Manage Teams dialog effectively with it unless it is saved in the ‘Teamname Teams’ system folder. [See Managing teams for details.](Managing_teams)
+:::
 
 - Click the Name Order button if you want to change the default naming order. Use it, for example, to put surnames first or limit which names are included – e.g first and third.
 

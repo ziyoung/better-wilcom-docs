@@ -39,7 +39,9 @@ Density is given as a percentage of preset values:
 
 8. Press Enter or click Apply.
 
-Note: For even more precise results, you can adjust Auto Spacing settings.
+::: info Note
+For even more precise results, you can adjust Auto Spacing settings.
+:::
 
 ## Related topics...
 

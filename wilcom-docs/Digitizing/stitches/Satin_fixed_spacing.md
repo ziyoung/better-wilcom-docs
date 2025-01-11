@@ -10,7 +10,9 @@ In EmbroideryStudio, the Auto Spacing option is turned on by default. Sometimes,
 
 ![stitches00056.png](assets/stitches00056.png)
 
-Tip: If you are using a digitizing tablet, you can quickly switch between preset styles with different spacing settings. Each button on the puck accesses the next preset style. For example, clicking button 1 accesses &lt;PRESET_SATIN_1&gt;.
+::: tip
+If you are using a digitizing tablet, you can quickly switch between preset styles with different spacing settings. Each button on the puck accesses the next preset style. For example, clicking button 1 accesses &lt;PRESET_SATIN_1&gt;.
+:::
 
 ## To apply satin stitch with fixed spacing...
 

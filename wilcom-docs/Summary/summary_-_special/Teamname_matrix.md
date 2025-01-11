@@ -9,7 +9,7 @@ The Teamnames Matrix feature allows you to automatically create a matrix for all
 <iframe src="https://www.youtube.com/embed/b2IPsAeWL2M" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

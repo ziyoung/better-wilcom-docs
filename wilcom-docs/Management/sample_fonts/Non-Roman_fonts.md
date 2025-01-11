@@ -21,4 +21,6 @@
 | Heisei Maru Gosic |     | ![HeiseiMaruGosic.png](assets/HeiseiMaruGosic.png) | 0.4               | 10          | 2.7 | 70  | CJ  |
 | Heisei Mincho     |     | ![HeiseiMincho.png](assets/HeiseiMincho.png)       | 0.4               | 10          | 2.7 | 70  | CJ  |
 
-Note: Japanese fonts (3000 characters each) are available for download from [www.wilcom.com](https://help.wilcom.com/hc/en-us/articles/360000523096-Japanese-Font-Pack) for customers who wish to use them.
+::: info Note
+Japanese fonts (3000 characters each) are available for download from [www.wilcom.com](https://help.wilcom.com/hc/en-us/articles/360000523096-Japanese-Font-Pack) for customers who wish to use them.
+:::

@@ -8,6 +8,10 @@ The most valuable thing you can do when starting out is to spend some time explo
 
 ![FileExplorerArtwork.png](assets/FileExplorerArtwork.png)
 
-Note: CorelDRAW® needs to be registered before it can be used by EmbroideryStudio. Registration gives you access to the latest CorelDRAW® updates. It also provides CorelDRAW® Standard Membership which gives you access to content – clipart, fonts, stock photos, templates – via Corel CONNECT.
+::: info Note
+CorelDRAW® needs to be registered before it can be used by EmbroideryStudio. Registration gives you access to the latest CorelDRAW® updates. It also provides CorelDRAW® Standard Membership which gives you access to content – clipart, fonts, stock photos, templates – via Corel CONNECT.
+:::
 
-Caution: Included artwork (clipart) and embroidery designs can only be used for personal use – i.e. they cannot be commercially sold in any form. Changing the medium – i.e. clipart to embroidery or embroidery to clipart – does not remove copyright protection.
+::: warning Caution
+Included artwork (clipart) and embroidery designs can only be used for personal use – i.e. they cannot be commercially sold in any form. Changing the medium – i.e. clipart to embroidery or embroidery to clipart – does not remove copyright protection.
+:::

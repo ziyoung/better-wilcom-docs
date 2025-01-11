@@ -4,7 +4,7 @@
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | ![AppliqueWithoutHoles00045.png](assets/AppliqueWithoutHoles00045.png) | Right-click Appliqué > Appliqué without Holes to adjust tack stitch settings. |
 
-Tacking is used to fix [appliqué](../../glossary/glossary) shapes to a background fabric before [cover stitching](../../glossary/glossary) is applied. You can adjust settings or omit this layer altogether. You can also specify a [frame-out](../../glossary/glossary) movement in order to trim the appliqué patch.
+Tacking is used to fix [appliqué](../../glossary/glossary#applique) shapes to a background fabric before [cover stitching](../../glossary/glossary) is applied. You can adjust settings or omit this layer altogether. You can also specify a [frame-out](../../glossary/glossary) movement in order to trim the appliqué patch.
 
 ## To adjust tack stitch settings...
 

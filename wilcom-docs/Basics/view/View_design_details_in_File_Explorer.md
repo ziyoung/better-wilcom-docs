@@ -6,7 +6,7 @@ Even without opening [EMB](../../glossary/glossary) files, you can check softwar
 
 - In File Explorer, right-click an [EMB](../../glossary/glossary) file and select Properties from the popup menu.
 
-The Properties dialog displays with an EMB tab. View general file information, such as file size and modification dates, together with design information such as stitch count, number of [stops](../../glossary/glossary) and color changes, as well as [machine format](../../glossary/glossary).
+The Properties dialog displays with an EMB tab. View general file information, such as file size and modification dates, together with design information such as stitch count, number of [stops](../../glossary/glossary) and color changes, as well as [machine format](../../glossary/glossary#machine-format).
 
 ![view00126.png](assets/view00126.png)
 

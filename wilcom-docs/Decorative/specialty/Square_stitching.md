@@ -16,7 +16,9 @@ You can set the Square stitch values for stitch length and spacing.
 
 ![specialty00157.png](assets/specialty00157.png)
 
-Tip: Limit travel runs showing through the stitching by changing entry and exit points to reduce segmentation within the shape.
+::: tip
+Limit travel runs showing through the stitching by changing entry and exit points to reduce segmentation within the shape.
+:::
 
 ## Double Square stitch
 
@@ -33,4 +35,6 @@ You can adjust stitch length, spacing, and the angle of the second Double Square
 
 The angle of the first layer is defined by Complex Fill object properties. The Double Square properties give you the angle of the second layer in relation to the first – default, 90°. Thus, if the first is 30°, the second will be 120°.
 
-Tip: Like Square stitch, you can use Double Square to create a ‘chenille look’ using cord and adjusting the presser foot height to create loops. Double square creates a denser fill.
+::: tip
+Like Square stitch, you can use Double Square to create a ‘chenille look’ using cord and adjusting the presser foot height to create loops. Double square creates a denser fill.
+:::

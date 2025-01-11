@@ -27,7 +27,9 @@ When you come to output your design to machine file, make sure you are using the
 
 When you select Dahao multi-sequin DST as you output file format, the Drop Sequin functions are inserted according to Dahao multi-sequin requirements. Dahao control panels include a protocol to interpret this encoding. Tajima machines, on the other hand, strictly follow the DST file specification.
 
-Note: For machine formats that have no sequin capability, the sequin palette will display. However, if you attempt to create a sequin object, fixing stitches will be digitized without sequin drops. No sequins appear.
+::: info Note
+For machine formats that have no sequin capability, the sequin palette will display. However, if you attempt to create a sequin object, fixing stitches will be digitized without sequin drops. No sequins appear.
+:::
 
 Create a hard copy of your production worksheet to provide thread and sequin information for the machine operator.
 

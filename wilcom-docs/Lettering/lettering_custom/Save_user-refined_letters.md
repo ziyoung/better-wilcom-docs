@@ -43,7 +43,9 @@ In the example, the letter ‘a’ tends to close over at reduced sizes. You may
 
 ![SaveLetter.png](assets/SaveLetter.png)
 
-Tip: To apply changes to all the same letters in the selected object, select the Use saved version checkbox in the Object Properties > Special > Lettering docker.
+::: tip
+To apply changes to all the same letters in the selected object, select the Use saved version checkbox in the Object Properties > Special > Lettering docker.
+:::
 
 ![lettering_custom00021.png](assets/lettering_custom00021.png)
 

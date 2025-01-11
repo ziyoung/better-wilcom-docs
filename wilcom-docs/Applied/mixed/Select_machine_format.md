@@ -16,7 +16,9 @@ The [default setting](../../glossary/glossary) for Tajima and Dahao formats is f
 
 If you are using a boring needle instead of a knife, no offset is required. Some machines automatically adjust the offset when a Borer In function is encountered. These require a value of ‘0’. This too should be part of the machine format definition, but you may need to adjust it manually. See your machine manual for details.
 
-Note: With Tajima and Barudan machines the Borers function inserts a Stop which allows the machine to change to the needle position that uses the boring attachment. The machine must be correctly programmed to use the correct needle position.
+::: info Note
+With Tajima and Barudan machines the Borers function inserts a Stop which allows the machine to change to the needle position that uses the boring attachment. The machine must be correctly programmed to use the correct needle position.
+:::
 
 ## Related topics...
 

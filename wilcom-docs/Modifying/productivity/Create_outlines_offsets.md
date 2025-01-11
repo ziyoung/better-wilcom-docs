@@ -54,4 +54,6 @@ The offsets panel allows you to generate single or multiple offsets in any combi
 
 ![productivity00041.png](assets/productivity00041.png)
 
-Note: By default, source objects are preserved. If you choose not to, the offset object replaces the original in the same position in the stitching order. Start and end points of the resultant object will be as close as possible to those of the source object.
+::: info Note
+By default, source objects are preserved. If you choose not to, the offset object replaces the original in the same position in the stitching order. Start and end points of the resultant object will be as close as possible to those of the source object.
+:::

@@ -17,7 +17,9 @@ Where...
 | Number          | Numeric only. Range 1 – 99,999,999.                                                                                  |
 | Interval        | Interval is numeric only and is the amount the number is incremented each time a file is generated. Range is 1 – 99. |
 
-Note: When enabled, Kiosk also uses this auto-name specification for all machine files. If not enabled, it uses the kiosk machine file definition.
+::: info Note
+When enabled, Kiosk also uses this auto-name specification for all machine files. If not enabled, it uses the kiosk machine file definition.
+:::
 
 ## PDF printing
 

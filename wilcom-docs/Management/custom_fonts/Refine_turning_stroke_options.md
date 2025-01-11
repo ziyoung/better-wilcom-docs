@@ -4,7 +4,9 @@ With Turning Strokes, preset values are automatically adjusted according to sele
 
 ![custom_fonts00026.png](assets/custom_fonts00026.png)
 
-Tip: Click Suggest Values if you need to return to suggested settings at any time.
+::: tip
+Click Suggest Values if you need to return to suggested settings at any time.
+:::
 
 ## Match ends
 
@@ -33,7 +35,7 @@ Select the Break Angle checkbox to apply a cap to sharp angles. This effect is s
 Fine-tune processing of corners with these settings:
 
 - Corner Detection Angle specifies the angle which will identify a corner in the letter. This is more important for getting well-defined small letters. Note, however, that EmbroideryStudio automatically inserts stitch angles where needed in order to obtain smooth turning stitches. These generally occur at locations where the shape changes significantly in direction or width.
-- Corner Fraction specifies [fractional spacing](../../glossary/glossary) at corners. It is used to create smooth transitions of stitch angle at corners, shape ends, or where a shape changes in width or curvature significantly.
+- Corner Fraction specifies [fractional spacing](../../glossary/glossary#fractional-spacing) at corners. It is used to create smooth transitions of stitch angle at corners, shape ends, or where a shape changes in width or curvature significantly.
 
 ![custom_fonts00038.png](assets/custom_fonts00038.png)
 

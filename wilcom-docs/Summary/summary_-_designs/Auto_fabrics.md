@@ -7,7 +7,7 @@ Normally you choose a [fabric](../../glossary/glossary) when you first set up a 
 <iframe src="https://www.youtube.com/embed/Uxw6Olj0pyE" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

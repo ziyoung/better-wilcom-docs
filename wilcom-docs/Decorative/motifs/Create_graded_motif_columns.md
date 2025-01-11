@@ -15,4 +15,6 @@ Choose between proportional or fixed spacings. Fixed spacing maintains constant 
 
 ![MotifColumnSpacings.png](assets/MotifColumnSpacings.png)
 
-Caution: Stitches are ungenerated when branching two Column A objects together with Motif Column.
+::: warning Caution
+Stitches are ungenerated when branching two Column A objects together with Motif Column.
+:::

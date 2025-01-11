@@ -42,7 +42,9 @@ EmbroideryStudio provides support for ‘complex text layout’ (right-to-left) 
 
 ![NonRomanFontSample2.png](assets/NonRomanFontSample2.png)
 
-Tip: It is also possible to select TrueType fonts in CorelDRAW® Graphics Suite and convert them on-the-fly via Convert tool.
+::: tip
+It is also possible to select TrueType fonts in CorelDRAW® Graphics Suite and convert them on-the-fly via Convert tool.
+:::
 
 ## Recommended sizes
 

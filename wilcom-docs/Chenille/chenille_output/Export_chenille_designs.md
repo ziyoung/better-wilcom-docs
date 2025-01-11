@@ -15,7 +15,9 @@ While chenille design files are saved to native EMB format, this cannot be read 
 
 ![chenille_output00058.png](assets/chenille_output00058.png)
 
-Tip: Once a design is complete, you can output to any supported embroidery machine without changing the original machine format. If a selected machine format does not support a particular function in the design – either automatically or manually inserted – it is simply ignored.
+::: tip
+Once a design is complete, you can output to any supported embroidery machine without changing the original machine format. If a selected machine format does not support a particular function in the design – either automatically or manually inserted – it is simply ignored.
+:::
 
 ## Related topics
 

@@ -5,7 +5,9 @@
 
 You can process manual stitches to recognize outlines or adjust size and stitch density. You can also use the Process Stitches feature to change stitch count and density for the whole design, or for objects of a particular stitch type only.
 
-Tip: You can also split larger [manual objects](../../glossary/glossary) into smaller objects, and process them individually.
+::: tip
+You can also split larger [manual objects](../../glossary/glossary) into smaller objects, and process them individually.
+:::
 
 ## To process manual stitches...
 
@@ -27,11 +29,13 @@ Tip: You can also split larger [manual objects](../../glossary/glossary) into sm
 
 7. Click Recognition to set advanced recognition options as required.
 
-8. Click OK. Selected objects are processed and converted to [Column A](../../glossary/glossary) or Run objects with fill or outline stitch [properties](../../glossary/glossary) as well as general and connector properties. If an object is not recognized, it remains a [manual object](../../glossary/glossary) with general and connector properties only. In this case, the target stitch count may not be reached.
+8. Click OK. Selected objects are processed and converted to [Column A](../../glossary/glossary) or Run objects with fill or outline stitch [properties](../../glossary/glossary#properties) as well as general and connector properties. If an object is not recognized, it remains a [manual object](../../glossary/glossary#manual-object) with general and connector properties only. In this case, the target stitch count may not be reached.
 
 ![functions00095.png](assets/functions00095.png)
 
-Note: Process Stitches adds the missing information to the file, but does not change the stitches.
+::: info Note
+Process Stitches adds the missing information to the file, but does not change the stitches.
+:::
 
 ## Related topics...
 

@@ -25,7 +25,9 @@ You may need to change stitch density in order to stitch on a different fabric o
 
 ![quality00040.png](assets/quality00040.png)
 
-Note: If a design was originally created in EmbroideryStudio, or was converted into objects, changes you make through the Process Stitches dialog will change [properties](../../glossary/glossary) of selected objects. You can check changes via the Object Properties docker.
+::: info Note
+If a design was originally created in EmbroideryStudio, or was converted into objects, changes you make through the Process Stitches dialog will change [properties](../../glossary/glossary#properties) of selected objects. You can check changes via the Object Properties docker.
+:::
 
 ## Related topics...
 

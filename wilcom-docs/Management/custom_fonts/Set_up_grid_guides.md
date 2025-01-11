@@ -4,7 +4,9 @@ First we need to set up a grid to assist when digitizing embroidery letters. Gui
 
 ![custom_fonts00077.png](assets/custom_fonts00077.png)
 
-Tip: If you are planning to do more custom font digitizing, it may be worth setting up a template dedicated to the task.
+::: tip
+If you are planning to do more custom font digitizing, it may be worth setting up a template dedicated to the task.
+:::
 
 ## Related topics...
 

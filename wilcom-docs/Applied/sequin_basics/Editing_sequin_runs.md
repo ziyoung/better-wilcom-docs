@@ -7,7 +7,9 @@
 
 You have complete control over scaling and reshaping sequin-run objects. You can also manually fine-tune sequin spacings as well as remove or add individual sequins. You can even edit individual fixing stitches.
 
-Note: Performing manual edits to sequin-run objects automatically deselects all options. If you reset to Exact, Contract to fit, or Expand to fit, all manual edits are lost and sequin drops recalculated.
+::: info Note
+Performing manual edits to sequin-run objects automatically deselects all options. If you reset to Exact, Contract to fit, or Expand to fit, all manual edits are lost and sequin drops recalculated.
+:::
 
 ## To edit a sequin run...
 

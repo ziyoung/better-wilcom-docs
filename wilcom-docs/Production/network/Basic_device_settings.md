@@ -10,7 +10,9 @@ Access the Info tab to modify details provided during the setup procedure. Here 
 
 ![network00042.png](assets/network00042.png)
 
-Note: Use ‘Rotate design by 180° on output’ to auto-rotate the design by 180° when output to machine file on a connected EC device. If the machine is dedicated for cap designs, tick this option.
+::: info Note
+Use ‘Rotate design by 180° on output’ to auto-rotate the design by 180° when output to machine file on a connected EC device. If the machine is dedicated for cap designs, tick this option.
+:::
 
 ## Design options
 

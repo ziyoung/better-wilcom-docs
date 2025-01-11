@@ -27,7 +27,9 @@ You can [scale](../../glossary/glossary) lettering objects vertically, horizonta
 
 ![lettering_edit00021.png](assets/lettering_edit00021.png)
 
-Note: Letter height can vary between roughly 5mm and 200 mm. For recommended sizes, see [Standard Fonts](../../Management/sample_fonts/Standard_Fonts).
+::: info Note
+Letter height can vary between roughly 5mm and 200 mm. For recommended sizes, see [Standard Fonts](../../Management/sample_fonts/Standard_Fonts).
+:::
 
 ## Related topics...
 

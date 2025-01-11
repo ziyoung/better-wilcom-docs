@@ -25,7 +25,9 @@ To fill narrow shapes of varying width, use Coil or Square fill with Moss stitch
 
 ![DigitizeCoilVaryWidth1.png](assets/DigitizeCoilVaryWidth1.png)
 
-Tip: Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
+::: tip
+Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
+:::
 
 4. Press Spacebar or Enter to generate the shape.
 
@@ -34,7 +36,9 @@ Tip: Use the prompts in the Prompt Bar to help you digitize. If you make a mista
 
 ![DigitizeCoilVaryWidth2.png](assets/DigitizeCoilVaryWidth2.png)
 
-Note: Because moss stitching tends to unravel, you need to create a border around the object. For this, you typically use the Run method with Chain stitching. If your machine supports it, you may also combine chenille with regular tie-off stitching.
+::: info Note
+Because moss stitching tends to unravel, you need to create a border around the object. For this, you typically use the Run method with Chain stitching. If your machine supports it, you may also combine chenille with regular tie-off stitching.
+:::
 
 ## Related topics
 

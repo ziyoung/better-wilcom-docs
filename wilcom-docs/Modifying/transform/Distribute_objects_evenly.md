@@ -13,7 +13,9 @@ You can automatically distribute selected objects with even spacing between them
 
 ![transform00013.png](assets/transform00013.png)
 
-Note: The tools all become enabled when three or more objects are selected.
+::: info Note
+The tools all become enabled when three or more objects are selected.
+:::
 
 ## Related topics...
 

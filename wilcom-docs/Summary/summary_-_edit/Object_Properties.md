@@ -7,7 +7,7 @@ The most important docker is Object Properties. Use it together with the Propert
 <iframe src="https://www.youtube.com/embed/QhlJbJIQKrw" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -15,7 +15,7 @@ The most important docker is Object Properties. Use it together with the Propert
 <iframe src="https://www.youtube.com/embed/WvgldwMdCUw" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

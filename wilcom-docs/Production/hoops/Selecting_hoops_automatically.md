@@ -32,7 +32,9 @@ The simplest way to hoop a design is to prompt the system to select a hoop for y
 
 ![HoopedDesignWithTemplate00010.png](assets/HoopedDesignWithTemplate00010.png)
 
-Tip: The current hoop name is displayed in the Prompt Line.
+::: tip
+The current hoop name is displayed in the Prompt Line.
+:::
 
 ## Related topics...
 

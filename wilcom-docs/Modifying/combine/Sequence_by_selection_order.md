@@ -16,7 +16,9 @@ You can resequence objects by selecting them in the required stitching order.
 
 ![ResequenceBySelects2.png](assets/ResequenceBySelects2.png)
 
-Tip: [Entry ](../../glossary/glossary)and [exit](../../glossary/glossary) points should also be checked when you are resequencing objects in a design.
+::: tip
+[Entry ](../../glossary/glossary)and [exit](../../glossary/glossary#exit) points should also be checked when you are resequencing objects in a design.
+:::
 
 ## Related topics...
 

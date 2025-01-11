@@ -14,14 +14,16 @@ The Auto Spacing Settings dialog lets you specify how rapidly the spacing change
 
 ![AutoSpacingSettings.png](assets/AutoSpacingSettings.png)
 
-Note: Embroidery machines have a maximum possible stitch length which is determined by the physical frame movement. If a stitch exceeds this, it is generally broken into smaller stitches of equal length. The line formed by needle penetrations can affect the appearance of the embroidery, especially satin fills. Auto Split breaks long satin stitches into shorter ones.
+::: info Note
+Embroidery machines have a maximum possible stitch length which is determined by the physical frame movement. If a stitch exceeds this, it is generally broken into smaller stitches of equal length. The line formed by needle penetrations can affect the appearance of the embroidery, especially satin fills. Auto Split breaks long satin stitches into shorter ones.
+:::
 
 ## Related video
 
 <iframe src="https://www.youtube.com/embed/tU3ui7L6uNA" title="YouTube video player" 
 		 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -29,7 +31,7 @@ Note: Embroidery machines have a maximum possible stitch length which is determi
 <iframe src="https://www.youtube.com/embed/L7p3nAupGH0" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

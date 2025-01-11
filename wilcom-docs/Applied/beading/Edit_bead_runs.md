@@ -7,7 +7,9 @@
 
 You have complete control over editing bead-run objects, from scaling to adding or removing individual beads. You can also manually fine-tune bead spacing and orienation. You can even edit individual fixing stitches.
 
-Tip: Performing manual edits automatically sets bead positioning to Manual. If you reset to Exact, Contract to fit, or Expand to fit, all manual edits are lost.
+::: tip
+Performing manual edits automatically sets bead positioning to Manual. If you reset to Exact, Contract to fit, or Expand to fit, all manual edits are lost.
+:::
 
 ## To edit a bead run...
 

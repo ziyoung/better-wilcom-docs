@@ -4,7 +4,9 @@ Satin is one of those stitch types which can be used for thicker borders or for 
 
 ![SatinStitchSample.png](assets/SatinStitchSample.png)
 
-Tip: The [Auto Split](../../glossary/glossary) and Auto Jump features help you to control long satin stitches. [See Optimizing long satin stitches for details.](../../Quality/quality/Optimizing_long_satin_stitches)
+::: tip
+The [Auto Split](../../glossary/glossary) and Auto Jump features help you to control long satin stitches. [See Optimizing long satin stitches for details.](../../Quality/quality/Optimizing_long_satin_stitches)
+:::
 
 ## Related topics...
 

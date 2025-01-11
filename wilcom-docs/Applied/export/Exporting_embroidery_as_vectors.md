@@ -1,6 +1,6 @@
 # Exporting embroidery as vectors
 
-Once digitized in EmbroideryStudio, embroidery designs can be output as vectors. These can be opened in CorelDRAW Graphics. This can serve various purposes such as [appliqué](../../glossary/glossary) cutting, multimedia, screen printing, and so on. The Export Design as Vector command exports whole designs or selected objects only. Included bitmaps will remain as bitmaps in the resultant file.
+Once digitized in EmbroideryStudio, embroidery designs can be output as vectors. These can be opened in CorelDRAW Graphics. This can serve various purposes such as [appliqué](../../glossary/glossary#applique) cutting, multimedia, screen printing, and so on. The Export Design as Vector command exports whole designs or selected objects only. Included bitmaps will remain as bitmaps in the resultant file.
 
 ## To export embroidery as vectors...
 

@@ -4,7 +4,9 @@ The release of EmbroideryStudio e4 is minor in terms of version number but major
 
 ![e4.5_HeroDesign.png](assets/e4.5_HeroDesign.png)
 
-Note: This update is intended for installation with any released version (already installed) of ES e4\. It contains all improvements up to this release plus any previous updates.
+::: info Note
+This update is intended for installation with any released version (already installed) of ES e4\. It contains all improvements up to this release plus any previous updates.
+:::
 
 ## Related topics
 

@@ -4,11 +4,13 @@
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | ![ShowEntryExit.png](assets/ShowEntryExit.png) | Use Reshape Views > Show Entry/Exit Points to toggle entry/exit point display when using the Reshape Object tool. |
 
-EmbroideryStudio allows you to manually change [entry ](../../glossary/glossary)and [exit](../../glossary/glossary) points of individual objects. Entry and exit points should always be checked if you are re-sequencing objects in a design.
+EmbroideryStudio allows you to manually change [entry ](../../glossary/glossary)and [exit](../../glossary/glossary#exit) points of individual objects. Entry and exit points should always be checked if you are re-sequencing objects in a design.
 
 ![connectors00052.png](assets/connectors00052.png)
 
-Tip: Closest joins are not automatically maintained when objects are moved, re-sequenced, or edited. The Apply Closest Join feature allows you to automatically re-apply closest joins to objects after editing.
+::: tip
+Closest joins are not automatically maintained when objects are moved, re-sequenced, or edited. The Apply Closest Join feature allows you to automatically re-apply closest joins to objects after editing.
+:::
 
 ## To adjust entry/exit points...
 
@@ -21,7 +23,9 @@ Tip: Closest joins are not automatically maintained when objects are moved, re-s
 
 - Press Enter.
 
-Tip: If you are digitizing adjoining columns, optionally keep or omit the last stitch in the first column to achieve a smoother join or shorter connecting stitches.
+::: tip
+If you are digitizing adjoining columns, optionally keep or omit the last stitch in the first column to achieve a smoother join or shorter connecting stitches.
+:::
 
 ## Related topics...
 

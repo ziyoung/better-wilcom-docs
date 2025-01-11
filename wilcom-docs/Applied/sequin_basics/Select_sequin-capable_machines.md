@@ -14,7 +14,9 @@ Before you can use the Sequin tools, you need to choose a suitable machine forma
 
 ![sequin_basics00006.png](assets/sequin_basics00006.png)
 
-Note: Different machines require different presets. Typical modifiable values include stitch and jump length, trim functions and color change functions. Use the Machine Format Settings dialog to customize values if outputting to a specific machine format.
+::: info Note
+Different machines require different presets. Typical modifiable values include stitch and jump length, trim functions and color change functions. Use the Machine Format Settings dialog to customize values if outputting to a specific machine format.
+:::
 
 ![sequin_basics00009.png](assets/sequin_basics00009.png)
 

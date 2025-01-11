@@ -25,7 +25,7 @@ The Rename Letter dialog lets you rename custom letters.
 <iframe src="https://www.youtube.com/embed/rv34v_FqWdE" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -33,7 +33,7 @@ The Rename Letter dialog lets you rename custom letters.
 <iframe src="https://www.youtube.com/embed/qYpFyHIXaB8" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

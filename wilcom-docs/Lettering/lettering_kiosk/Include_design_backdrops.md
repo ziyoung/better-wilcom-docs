@@ -20,7 +20,9 @@ It’s a simple matter to include a design backdrop to your design layout – e.
 
 - As the lettering object and stitching boundary may not be in the correct position for the backdrop, click the Auto Start & End icon and digitize a start and end point as shown.
 
-Note: The stitching boundary is locked in the template. It has to be unlocked to be moved.
+::: info Note
+The stitching boundary is locked in the template. It has to be unlocked to be moved.
+:::
 
 - When you are happy with the result, click Save.
 

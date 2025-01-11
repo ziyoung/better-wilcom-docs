@@ -4,7 +4,9 @@ Bling-fill objects can be scaled and reshaped like any embroidery object. When r
 
 ![bling00071.png](assets/bling00071.png)
 
-Tip: Object properties for bling-run and bling-fill objects can be copied and applied to other objects. This is done via the Make Properties Current and Apply Current Properties commands.
+::: tip
+Object properties for bling-run and bling-fill objects can be copied and applied to other objects. This is done via the Make Properties Current and Apply Current Properties commands.
+:::
 
 ## Related topics...
 

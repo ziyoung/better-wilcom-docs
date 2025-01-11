@@ -2,7 +2,9 @@
 
 Peripheral devices can be connected to your computer via USB port, serial port, parallel port, specialized network card, or Ethernet network. Local area networks (LANs) commonly use Ethernet networks for machine connection.
 
-Note: For instructions on connecting devices to your computer and setting up in MS Windows®, see the documentation for the device as well as your MS Windows® documentation.
+::: info Note
+For instructions on connecting devices to your computer and setting up in MS Windows®, see the documentation for the device as well as your MS Windows® documentation.
+:::
 
 ## USB ports
 
@@ -22,4 +24,6 @@ The following table provides standard settings for various devices. They are a g
 | Tape Reader        | COM2 | 4800 | XOn/XOff     | 8         | 1         | None   |
 | Embroidery Machine | COM2 | 9600 | Hardware     | 8         | 1         | None   |
 
-Tip: The number of available ports limits the number of devices you can connect. If additional ports are required, you can add them. Multi-port serial cards can also be used. See a PC technician about your requirements.
+::: tip
+The number of available ports limits the number of devices you can connect. If additional ports are required, you can add them. Multi-port serial cards can also be used. See a PC technician about your requirements.
+:::

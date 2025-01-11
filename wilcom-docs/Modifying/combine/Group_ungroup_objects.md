@@ -4,7 +4,7 @@
 | ---------------------------------- | -------------------------------------------------- |
 | ![Ungroup.png](assets/Ungroup.png) | Use Arrange > Ungroup to ungroup selected objects. |
 
-Group objects, or an entire design, to keep them together for moving, [scaling](../../glossary/glossary) and transforming actions. With grouped objects you can also apply global changes, saving time and ensuring consistency. When you have finished making changes to a group, you can ungroup and work with the component objects.
+Group objects, or an entire design, to keep them together for moving, [scaling](../../glossary/glossary#scaling) and transforming actions. With grouped objects you can also apply global changes, saving time and ensuring consistency. When you have finished making changes to a group, you can ungroup and work with the component objects.
 
 ## To group or ungroup objects...
 
@@ -18,7 +18,9 @@ Selected objects are combined. This group can be selected, moved, resized and tr
 
 ![combine00020.png](assets/combine00020.png)
 
-Tip: The Color-Object List provides an easy way to select objects in designs and access their [properties](../../glossary/glossary). Use it to group, lock, and hide objects.
+::: tip
+The Color-Object List provides an easy way to select objects in designs and access their [properties](../../glossary/glossary#properties). Use it to group, lock, and hide objects.
+:::
 
 ![combine00023.png](assets/combine00023.png)
 

@@ -29,8 +29,12 @@ Use the Ctrl key to select multiples.
 
 These operations are treated as manual edits. The object’s layout status is automatically changed to Manual. This means that bling count does not change during object transformations.
 
-Tip: By default, Automatic Overlap Removal is selected in order to automatically remove unwanted items from overlapping bling objects. Choose another option if you want to manually edit rhinestone overlaps.
+::: tip
+By default, Automatic Overlap Removal is selected in order to automatically remove unwanted items from overlapping bling objects. Choose another option if you want to manually edit rhinestone overlaps.
+:::
 
 ![bling00105.png](assets/bling00105.png)
 
-Note: Bling overlaps are determined by the Overlap Tolerance setting. This defines the minimum allowable distance between stones.
+::: info Note
+Bling overlaps are determined by the Overlap Tolerance setting. This defines the minimum allowable distance between stones.
+:::

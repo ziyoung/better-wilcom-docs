@@ -18,7 +18,7 @@ The Insert Symbol dialog lets you add/delete special characters and symbols in y
 <iframe src="https://www.youtube.com/embed/ntNNpkf1LfM" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

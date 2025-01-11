@@ -5,7 +5,9 @@
 
 The Break Apart tool allows you to break up composite objects – monograms, appliqués, lettering, etc. The effect on these objects is similar to ungrouping.
 
-Note: When saved into earlier versions of the software, monograms, appliqués, lettering, and blackwork runs may be subjected to the Break Apart procedure by default.
+::: info Note
+When saved into earlier versions of the software, monograms, appliqués, lettering, and blackwork runs may be subjected to the Break Apart procedure by default.
+:::
 
 ## To break apart a composite object...
 
@@ -17,9 +19,13 @@ Note: When saved into earlier versions of the software, monograms, appliqués, l
 
 ![reshape00070.png](assets/reshape00070.png)
 
-Tip: To modify individual objects – e.g. to change the stitching sequence of monogram borders – use the Color-Object List to ungroup and resequence.
+::: tip
+To modify individual objects – e.g. to change the stitching sequence of monogram borders – use the Color-Object List to ungroup and resequence.
+:::
 
-Tip: Applying the Break Apart function to a lettering object breaks it into a logical stitching sequence while maintaining lettering object characteristics.
+::: tip
+Applying the Break Apart function to a lettering object breaks it into a logical stitching sequence while maintaining lettering object characteristics.
+:::
 
 ## Related topics...
 

@@ -10,13 +10,17 @@ The simplest way to move an object is to drag-and-drop to a new position.
 
 - For more accurate positioning, use the arrow keys to ‘nudge’ selected objects.
 
-Tip: With no objects selected, using arrow keys will travel through the design.
+::: tip
+With no objects selected, using arrow keys will travel through the design.
+:::
 
 - For even more accurate positioning, enter X:Y coordinates in the Property Bar. The selection is centered over the coordinates you set.
 
 ![PropertyBar.png](assets/PropertyBar.png)
 
-Tip: Zoom in to make small adjustments. The distance the object moves depends on the current zoom factor.
+::: tip
+Zoom in to make small adjustments. The distance the object moves depends on the current zoom factor.
+:::
 
 ## Related topics...
 

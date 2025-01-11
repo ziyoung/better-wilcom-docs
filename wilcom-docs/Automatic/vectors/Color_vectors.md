@@ -39,7 +39,9 @@ EmbroideryStudio lets you set colors for vector outlines as well as fills. Color
 
 ![VectorObjectsColoringBitmapFill.png](assets/VectorObjectsColoringBitmapFill.png)
 
-Note: To view the changes in the [production worksheet](../../glossary/glossary), select File > Print Preview. In the Options > Design tab select the Vectors checkbox.
+::: info Note
+To view the changes in the [production worksheet](../../glossary/glossary#production-worksheet), select File > Print Preview. In the Options > Design tab select the Vectors checkbox.
+:::
 
 ## Related topics...
 

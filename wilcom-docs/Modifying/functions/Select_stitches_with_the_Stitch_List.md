@@ -9,7 +9,7 @@ You can view and select individual stitches by means of the Stitch List.
 
 - Click the Stitch List icon.
 
-The Stitch List opens. It shows stitch position coordinates and function information – e.g. whether the stitch is a [jump](../../glossary/glossary). It also shows the length of every stitch in the design.
+The Stitch List opens. It shows stitch position coordinates and function information – e.g. whether the stitch is a [jump](../../glossary/glossary#jump). It also shows the length of every stitch in the design.
 
 ![functions00009.png](assets/functions00009.png)
 

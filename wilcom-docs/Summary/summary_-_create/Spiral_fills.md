@@ -12,7 +12,7 @@ Spiral Fill works best for ‘blobby’ shapes but can be applied to longer shap
 <iframe src="https://www.youtube.com/embed/ymGpdFO2bp4" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -20,7 +20,7 @@ Spiral Fill works best for ‘blobby’ shapes but can be applied to longer shap
 <iframe src="https://www.youtube.com/embed/alTI1Q9UkGQ" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

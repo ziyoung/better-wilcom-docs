@@ -18,7 +18,9 @@ Let’s say your design contains two (2) sequins and two (2) beads. And let’s 
 
 Note that this mapping is not indicated on the production worksheet since it only affects the machine file, not the source design file. This means the designer must communicate the correct mapping to the machine operator (or vice versa) according to how sequins and beads are configured. It is important to make sure that mappings do not intersect. For instance, you do not want both Bead A and Sequin A to be allocated to Slot A.
 
-Note: DST files can only encode up to four (4) sequins and/or beads. This means that if you have, say, 3 sequins and 5 beads in the same design, mapping will not work. You will run out of slots.
+::: info Note
+DST files can only encode up to four (4) sequins and/or beads. This means that if you have, say, 3 sequins and 5 beads in the same design, mapping will not work. You will run out of slots.
+:::
 
 ## Compensate for bead-switch delay
 
@@ -28,7 +30,9 @@ To correct the error, you must compensate by employing a ‘preemptive bead swap
 
 ![Bead-Rotation-4.png](assets/Bead-Rotation-4.png)
 
-Note: Installation engineers will be able to advise if it is necessary to compensate for ‘bead shift’.
+::: info Note
+Installation engineers will be able to advise if it is necessary to compensate for ‘bead shift’.
+:::
 
 ## Decode sequins as beads
 
@@ -36,7 +40,9 @@ The Open Options dialog provides an inverse set of controls to decode machine fi
 
 ![beading00158.png](assets/beading00158.png)
 
-Note: When you open a Tajima DST file, the software only shows the Standard tab. When you choose ‘Dahao’ from the machine type droplist, the Conversion Details tab becomes available.
+::: info Note
+When you open a Tajima DST file, the software only shows the Standard tab. When you choose ‘Dahao’ from the machine type droplist, the Conversion Details tab becomes available.
+:::
 
 ## Related topics...
 

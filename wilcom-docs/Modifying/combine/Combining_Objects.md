@@ -4,7 +4,7 @@ EmbroideryStudio provides various techniques for combining and sequencing object
 
 ![CombineDesigns.png](assets/CombineDesigns.png)
 
-The [stitching sequence](../../glossary/glossary) naturally occurs in the order in which an embroidery design is digitized or assembled. When converting a graphic design to an embroidery design, EmbroideryStudio decides the stitching sequence according to its own internal logic. Either way, you may, for reasons of aesthetics or production efficiency, want to adjust it.
+The [stitching sequence](../../glossary/glossary#stitching-sequence) naturally occurs in the order in which an embroidery design is digitized or assembled. When converting a graphic design to an embroidery design, EmbroideryStudio decides the stitching sequence according to its own internal logic. Either way, you may, for reasons of aesthetics or production efficiency, want to adjust it.
 
 The Color-Object List displays a sequential list of objects grouped by object and color. It provides an easy way to group, cut, copy and paste, and resequence selected objects and color blocks.
 

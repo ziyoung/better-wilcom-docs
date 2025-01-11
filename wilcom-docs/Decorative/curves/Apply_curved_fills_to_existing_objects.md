@@ -5,7 +5,7 @@
 | ![LiquidEffect00088.png](assets/LiquidEffect00088.png)         | Use Stitch Effects > Liquid Effect to apply curve stitching to existing objects.     |
 | ![ReshapeObject00089.png](assets/ReshapeObject00089.png)       | Use Reshape > Reshape Object to adjust control points of the guideline.              |
 
-Apply Florentine Effect to existing [complex fill](../../glossary/glossary) objects. The effect can also be applied to [Column A/B](../../glossary/glossary) objects. You can also apply Liquid Effect to existing objects.
+Apply Florentine Effect to existing [complex fill](../../glossary/glossary#complex-fill) objects. The effect can also be applied to [Column A/B](../../glossary/glossary) objects. You can also apply Liquid Effect to existing objects.
 
 ## To apply a curved fill to an existing object...
 

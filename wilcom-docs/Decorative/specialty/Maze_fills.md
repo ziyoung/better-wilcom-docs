@@ -31,7 +31,9 @@ Automatically fill large areas with double-spiral stitching that never crosses i
 
 ![MazeFill4.png](assets/MazeFill4.png)
 
-Tip: Maze Fill uses single run stitch for the fill. If you want a thicker stitch type, use Break Apart to turn the object into an outline and then apply a different stitch type.
+::: tip
+Maze Fill uses single run stitch for the fill. If you want a thicker stitch type, use Break Apart to turn the object into an outline and then apply a different stitch type.
+:::
 
 ![MazeFillSample2.png](assets/MazeFillSample2.png)
 

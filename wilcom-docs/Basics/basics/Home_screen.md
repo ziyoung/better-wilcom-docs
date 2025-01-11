@@ -7,7 +7,9 @@ The Home screen loads when EmbroideryStudio starts, offering you quick access to
 
 ![WilcomHomeScreen.png](assets/WilcomHomeScreen.png)
 
-Tip: You can deactivate the Home screen from running on startup via the Options dialog. [See Other general options for details.](../../Setup/settings/Other_general_options)
+::: tip
+You can deactivate the Home screen from running on startup via the Options dialog. [See Other general options for details.](../../Setup/settings/Other_general_options)
+:::
 
 ## Related topics...
 

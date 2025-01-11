@@ -18,4 +18,6 @@ EmbroideryStudio gives you multiple views of the same design. It also allows you
 
 - Use the Remove Tiling command to return the design window to normal display mode.
 
-Tip: After certain operations you may need to refresh the screen for a clearer display. Select View > Refresh Screen or press R.
+::: tip
+After certain operations you may need to refresh the screen for a clearer display. Select View > Refresh Screen or press R.
+:::

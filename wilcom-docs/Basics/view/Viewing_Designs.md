@@ -1,6 +1,6 @@
 # Viewing Designs
 
-EmbroideryStudio provides many viewing features to make it easier to work with your design. Use zoom and pan functions to study design details. Toggle between ‘artistic’ and ‘technical’ views. You can also preview designs in different colors on different fabrics by means of ‘[colorways](../../glossary/glossary)’.
+EmbroideryStudio provides many viewing features to make it easier to work with your design. Use zoom and pan functions to study design details. Toggle between ‘artistic’ and ‘technical’ views. You can also preview designs in different colors on different fabrics by means of ‘[colorways](../../glossary/glossary#colorways)’.
 
 ![view00001.png](assets/view00001.png)
 

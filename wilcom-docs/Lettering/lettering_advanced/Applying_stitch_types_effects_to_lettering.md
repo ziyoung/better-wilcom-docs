@@ -2,7 +2,9 @@
 
 ![ChangeLetteringStitchTypes.png](assets/ChangeLetteringStitchTypes.png)By default, lettering objects are filled with Satin stitch. You can apply other fill stitch types such as Tatami or Program Split as well as stitch effects such as Jagged Edge. [See Stitch Types for details.](../../Digitizing/stitches/Stitch_Types)
 
-Note: Lettering values are stored in the &lt;PRESET_LETTERING&gt; style in the Normal template. Changing these does not affect the values of other objects. Do not delete or rename this style. [See Working with styles for details.](../../Digitizing/properties/Working_with_styles)
+::: info Note
+Lettering values are stored in the &lt;PRESET_LETTERING&gt; style in the Normal template. Changing these does not affect the values of other objects. Do not delete or rename this style. [See Working with styles for details.](../../Digitizing/properties/Working_with_styles)
+:::
 
 ## Satin lettering
 
@@ -18,7 +20,9 @@ Satin Raised can be applied successfully to some styles of font for a raised emb
 
 ![RaisedSatinLettering2.png](assets/RaisedSatinLettering2.png)
 
-Note: EmbroideryStudio also includes as standard a number of dedicated 3D fonts.
+::: info Note
+EmbroideryStudio also includes as standard a number of dedicated 3D fonts.
+:::
 
 ## Related topics...
 

@@ -13,7 +13,7 @@ Once you have set up one or more EmbroideryConnect devices on your network, you 
 <iframe src="https://www.youtube.com/embed/ylAvyBK4gic" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -21,7 +21,7 @@ Once you have set up one or more EmbroideryConnect devices on your network, you 
 <iframe src="https://www.youtube.com/embed/ivtMkzwxb2g" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

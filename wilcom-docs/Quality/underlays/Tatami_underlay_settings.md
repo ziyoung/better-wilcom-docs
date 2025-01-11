@@ -11,7 +11,7 @@ Tatami underlay is used to stabilize large, filled shapes. It resembles an extre
 
 ![underlays00033.png](assets/underlays00033.png)
 
-- Select the [backstitch](../../glossary/glossary) type you require and, for [Complex Fill](../../glossary/glossary) objects, set the [stitch angle](../../glossary/glossary) of the underlay stitches. Underlay stitch angle should run counter to cover stitching.
+- Select the [backstitch](../../glossary/glossary#backstitch) type you require and, for [Complex Fill](../../glossary/glossary) objects, set the [stitch angle](../../glossary/glossary#stitch-angle) of the underlay stitches. Underlay stitch angle should run counter to cover stitching.
 
 ![underlays00036.png](assets/underlays00036.png)
 
@@ -19,7 +19,9 @@ Tatami underlay is used to stabilize large, filled shapes. It resembles an extre
 
 ![UnderlayEdgeRunDoubleTatami.png](assets/UnderlayEdgeRunDoubleTatami.png)
 
-Tip: Increase the margin as necessary to prevent underlay stitches from extending outside the cover stitches.
+::: tip
+Increase the margin as necessary to prevent underlay stitches from extending outside the cover stitches.
+:::
 
 ## Related topics...
 

@@ -12,4 +12,6 @@ For businesses with multiple computers reading and writing EMB or machine format
 - Install EmbroideryStudio so that the Shell Extension is registered. This allows the server to index additional embroidery file properties.
 - Once the server has finished indexing the folder, then, for every PC using the file server, add the design folder to Design Library. See above.
 
-Note: Fast searching will not work with NAS type devices as they are non-windows based operating systems.
+::: info Note
+Fast searching will not work with NAS type devices as they are non-windows based operating systems.
+:::

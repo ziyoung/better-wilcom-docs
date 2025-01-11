@@ -15,7 +15,9 @@ Use the Reflect tool to duplicate and mirror designs simultaneously. Set any num
 
 ![MirrorMergeReflectPosition.png](assets/MirrorMergeReflectPosition.png)
 
-Tip: Press Shift to disable Auto-Scroll while using Mirror Merge.
+::: tip
+Press Shift to disable Auto-Scroll while using Mirror Merge.
+:::
 
 4. Adjust the number of columns and rows required in the settings toolbar. Tab from field to field to enter values.
 
@@ -25,7 +27,9 @@ Tip: Press Shift to disable Auto-Scroll while using Mirror Merge.
 
 ![MirrorMergeReflectMultiples.png](assets/MirrorMergeReflectMultiples.png)
 
-Note: Color blocks are automatically resequenced to minimize unnecessary color changes.
+::: info Note
+Color blocks are automatically resequenced to minimize unnecessary color changes.
+:::
 
 ## Related topics...
 

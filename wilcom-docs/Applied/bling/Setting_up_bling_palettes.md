@@ -13,7 +13,9 @@ Fields are arranged in tabular form so that parameters for each rhinestone type 
 
 ![BlingPaletteEditor00005.png](assets/BlingPaletteEditor00005.png)
 
-Note: The controls available in the Bling Palette Editor are similar to those available in the Sequin Palette Editor.
+::: info Note
+The controls available in the Bling Palette Editor are similar to those available in the Sequin Palette Editor.
+:::
 
 - Click the More button to add new entries as required.
 - Use the Bling droplist to select rhinestone type and size – e.g. ‘Round ss12’.
@@ -43,7 +45,9 @@ The droplist displays rhinestones available for use in both runs and fills. The 
 
 ![bling00012.png](assets/bling00012.png)
 
-Note: Bling objects exported to a cutter retain color information, and cutting outlines have hairline width.
+::: info Note
+Bling objects exported to a cutter retain color information, and cutting outlines have hairline width.
+:::
 
 ![bling00015.png](assets/bling00015.png)
 
@@ -51,7 +55,9 @@ Note: Bling objects exported to a cutter retain color information, and cutting o
 
 ![BlingDropdown00018.png](assets/BlingDropdown00018.png)
 
-Tip: Click Save to save bling palette to the current template. You might consider setting up a dedicated bling template.
+::: tip
+Click Save to save bling palette to the current template. You might consider setting up a dedicated bling template.
+:::
 
 ![SaveToTemplateMessage.png](assets/SaveToTemplateMessage.png)
 

@@ -22,4 +22,6 @@ The Export Design List option can be used to print design lists for selected fol
 
 ![ExportDesignListSpreadsheet.png](assets/ExportDesignListSpreadsheet.png)
 
-Tip: Designers frequently want to distribute designs for viewing in real colors, in TrueView™ or otherwise, with or without fabric backgrounds. Screen images can be captured in PNG format and send as email attachments.
+::: tip
+Designers frequently want to distribute designs for viewing in real colors, in TrueView™ or otherwise, with or without fabric backgrounds. Screen images can be captured in PNG format and send as email attachments.
+:::

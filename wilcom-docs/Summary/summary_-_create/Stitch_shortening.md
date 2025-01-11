@@ -12,7 +12,7 @@ Apply stitch shortening to sharp corners to decrease density on the inside edge.
 <iframe src="https://www.youtube.com/embed/qGkIuSS5Bk0" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

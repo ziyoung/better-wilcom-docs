@@ -6,9 +6,13 @@ The ES e4.2 software update includes the following general improvements…
 
 EmbroideryStudio e4 now supports 64-bit operating system. You’ll notice a big improvement in speed and performance.
 
-Note: Note that 32 bit systems are no longer supported by ES e4.2\. It is installed in the 64 bit C:\\Program Files\\Wilcom\\EmbroideryStudio_e4.5 folder. You can, however, still run previous versions of ES e4 on the same computer. See also System requirements.
+::: info Note
+Note that 32 bit systems are no longer supported by ES e4.2\. It is installed in the 64 bit C:\\Program Files\\Wilcom\\EmbroideryStudio_e4.5 folder. You can, however, still run previous versions of ES e4 on the same computer. See also System requirements.
+:::
 
-Note: The VIP file format is not currently supported by the new 64-bit operating system.
+::: info Note
+The VIP file format is not currently supported by the new 64-bit operating system.
+:::
 
 ## New Wilcom Home screen
 
@@ -42,7 +46,9 @@ Design thumbnails now reflect display settings at the time of saving. When a des
 
 ![OpenDesignThumbnails.png](assets/OpenDesignThumbnails.png)
 
-Note: Users with older designs have been affected by the load time involved in previewing them in Design Library or Windows Explorer. Thumbnails in some older designs can take many seconds to generate. This problem has been resolved in ES e4.2.
+::: info Note
+Users with older designs have been affected by the load time involved in previewing them in Design Library or Windows Explorer. Thumbnails in some older designs can take many seconds to generate. This problem has been resolved in ES e4.2.
+:::
 
 ## Access to dockers
 
@@ -50,7 +56,9 @@ For clarity and ease-of-use, the Window > Dockers menu has been resequenced to t
 
 ![WindowMenuDockers.png](assets/WindowMenuDockers.png)
 
-Note: The Colorway Editor and Threads buttons are mutually exclusive. One toggles the other.
+::: info Note
+The Colorway Editor and Threads buttons are mutually exclusive. One toggles the other.
+:::
 
 ## Network dongle drivers
 

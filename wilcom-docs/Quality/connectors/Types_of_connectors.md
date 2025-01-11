@@ -4,15 +4,19 @@ The type of connector you use depends on whether you want it to be visible in th
 
 ## Jumps
 
-Jumps move the frame from one part of the design to another without needle penetrations. You can use automatic jumps as [connectors](../../glossary/glossary) between embroidery objects. The connecting thread generally needs to be tied-off and trimmed. The default connector jump length is the same as that set for Auto Jump.
+Jumps move the frame from one part of the design to another without needle penetrations. You can use automatic jumps as [connectors](../../glossary/glossary#connectors) between embroidery objects. The connecting thread generally needs to be tied-off and trimmed. The default connector jump length is the same as that set for Auto Jump.
 
-Tip: You can also digitize jumps manually using the Penetrations function or with Manual stitch.
+::: tip
+You can also digitize jumps manually using the Penetrations function or with Manual stitch.
+:::
 
 ## Runs
 
 Travel runs are typically used to connect segments of complex shapes. They can also connect adjacent objects. Because runs are not trimmed, they may be visible in the final embroidery. If objects are adjacent and connectors will be hidden, they can be used. You can change the stitch length of travel runs to ensure they do not protrude from the cover stitching. You may also adjust the travel run length to reduce the stitch count.
 
-Note: While you can control the properties of run connectors between objects, you generally cannot control connectors within objects. Lettering and motif run objects are the exception.
+::: info Note
+While you can control the properties of run connectors between objects, you generally cannot control connectors within objects. Lettering and motif run objects are the exception.
+:::
 
 ## Tie-ins
 

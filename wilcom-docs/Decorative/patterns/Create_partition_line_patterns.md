@@ -23,7 +23,9 @@ You can skew the grid formed by the partition knots to further vary the needle p
 
 ![patterns00025.png](assets/patterns00025.png)
 
-Tip: Tatami patterns can be combined with curved fills for interesting effects.
+::: tip
+Tatami patterns can be combined with curved fills for interesting effects.
+:::
 
 ## Related topics...
 

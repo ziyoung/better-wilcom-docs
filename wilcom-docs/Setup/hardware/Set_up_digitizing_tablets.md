@@ -40,9 +40,13 @@ Digitizing tablets generally connect to COM1 but can connect to any available se
 
 9. Click Setup to access the serial port settings. These settings must be the same as those set on the digitizing tablet, or EmbroideryStudio will not be able to communicate with it.
 
-Note: If you use Stream mode, you need to set the digitizer to transmit at 20 data packets per second or less. The baud rate for the digitizing tablet and serial port must both be set to 9600 baud.
+::: info Note
+If you use Stream mode, you need to set the digitizer to transmit at 20 data packets per second or less. The baud rate for the digitizing tablet and serial port must both be set to 9600 baud.
+:::
 
-Caution: To avoid loss of data at high speed, it is important to set up the tablet correctly. If it can only transmit at greater than 20 data packets per second, reduce the baud rate of the tablet from 9600 baud to 2400 baud.
+::: warning Caution
+To avoid loss of data at high speed, it is important to set up the tablet correctly. If it can only transmit at greater than 20 data packets per second, reduce the baud rate of the tablet from 9600 baud to 2400 baud.
+:::
 
 10. Click OK then Close.
 

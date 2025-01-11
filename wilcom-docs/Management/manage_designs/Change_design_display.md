@@ -7,4 +7,6 @@ Use the Manage Designs toolbar to control display of the navigation pane as well
 
 ![DesignLibraryView-2.png](assets/DesignLibraryView-2.png)
 
-Tip: The Design Library display can be refreshed with a simple F5 keypress, the same as File Explorer.
+::: tip
+The Design Library display can be refreshed with a simple F5 keypress, the same as File Explorer.
+:::

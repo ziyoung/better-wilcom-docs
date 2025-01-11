@@ -1,6 +1,6 @@
 # Advanced recognition settings
 
-You can fine-tune how EmbroideryStudio converts machine files using advanced recognition options. By default, EmbroideryStudio converts stitches as Tatami, Satin, or Run stitches according to the settings in the Recognition - Advanced Options dialog. You can change these values, or choose not to convert certain stitch types at all. Generally, the [default settings](../../glossary/glossary) provide the best results for the most frequently used fill styles – Tatami and Satin – their [properties](../../glossary/glossary) – stitch length and spacing – and edge effects, such as stitch shortening. Default settings, however, cannot always guarantee the best results as the variety of embroidery designs is virtually unlimited.
+You can fine-tune how EmbroideryStudio converts machine files using advanced recognition options. By default, EmbroideryStudio converts stitches as Tatami, Satin, or Run stitches according to the settings in the Recognition - Advanced Options dialog. You can change these values, or choose not to convert certain stitch types at all. Generally, the [default settings](../../glossary/glossary) provide the best results for the most frequently used fill styles – Tatami and Satin – their [properties](../../glossary/glossary#properties) – stitch length and spacing – and edge effects, such as stitch shortening. Default settings, however, cannot always guarantee the best results as the variety of embroidery designs is virtually unlimited.
 
 ![convert00014.png](assets/convert00014.png)
 
@@ -50,7 +50,7 @@ The Recognition - Advanced Options dialog opens.
 | Spacing rounding       | Enter rounding value for stitch spacings – ‘snaps’ spacing values in Tatami and Satin fills to specified increments. |
 | Stitch length rounding | Enter rounding value for stitch lengths – ‘snaps’ stitch length values in Tatami fills to specified increments.      |
 
-For example, if the Tatami [minimum stitch length](../../glossary/glossary) is 4 mm, and Stitch length rounding is 0.4 mm, stitches from 3.80 to 4.20 mm are ‘snapped’ to 4.0 mm, and recognized as Tatami.
+For example, if the Tatami [minimum stitch length](../../glossary/glossary#minimum-stitch-length) is 4 mm, and Stitch length rounding is 0.4 mm, stitches from 3.80 to 4.20 mm are ‘snapped’ to 4.0 mm, and recognized as Tatami.
 
 ![convert00028.png](assets/convert00028.png)
 
@@ -70,7 +70,9 @@ For example, if the Tatami [minimum stitch length](../../glossary/glossary) is 4
 
 ![convert00034.png](assets/convert00034.png)
 
-Tip: Program splits are reliably recognized when patterns are not overlapping. Split patterns can be complex, so the recognition process can take up to five times longer with this option.
+::: tip
+Program splits are reliably recognized when patterns are not overlapping. Split patterns can be complex, so the recognition process can take up to five times longer with this option.
+:::
 
 ## To adjust segment recognition settings...
 
@@ -81,13 +83,17 @@ Tip: Program splits are reliably recognized when patterns are not overlapping. S
 | Spacing | This value expresses the ratio between stitch spacings in adjacent stitch blocks – e.g. adjacent spacings of 0.6 mm and 1.0 mm gives a ratio of 1.67\. A value of 2.0 in the Spacing field means that these stitch blocks will be recognized as one segment or object. A value of 1.5 means that they will not. The default value is 3.0\. Normal Satin and Tatami stitching ranges in spacing from 0.3 to 0.6 mm, so most continuous sections of stitching of the same type will not be split. To preserve spacing variations for color-blended designs and more artistic designs, you may need to reduce the spacing factor. In manually punched designs which include stitching with irregular spacing, segment breaks can be reduced by increasing the factor. |
 | Height  | This value expresses the ratio between heights of stitch blocks. It is important in recognizing Complex Fill shapes, particularly with holes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-Tip: Generally, the lower these values, the larger the number of segments/objects likely to be identified. Normally you want to obtain design information with a minimum number of identified segments/objects. In practice there is always a compromise between design recognition quality and the minimum number of correctly identified segments/objects.
+::: tip
+Generally, the lower these values, the larger the number of segments/objects likely to be identified. Normally you want to obtain design information with a minimum number of identified segments/objects. In practice there is always a compromise between design recognition quality and the minimum number of correctly identified segments/objects.
+:::
 
 ![convert00037.png](assets/convert00037.png)
 
 - Click OK.
 
-Tip: To revert to the original conversion settings, click Reset.
+::: tip
+To revert to the original conversion settings, click Reset.
+:::
 
 ## Related topics...
 

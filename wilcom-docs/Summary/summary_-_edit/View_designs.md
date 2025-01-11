@@ -7,7 +7,7 @@ EmbroideryStudio provides many viewing modes to make it easier to work with your
 <iframe src="https://www.youtube.com/embed/CBJue-JX-Bc" title="YouTube video player" 
 		 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -15,7 +15,7 @@ EmbroideryStudio provides many viewing modes to make it easier to work with your
 <iframe src="https://www.youtube.com/embed/_hpULuVif38" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

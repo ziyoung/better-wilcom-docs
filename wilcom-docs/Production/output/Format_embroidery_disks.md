@@ -9,7 +9,9 @@ Embroidery disks must be formatted to suit the embroidery machine you intend to 
 
 1. Insert a 3.5" floppy disk of the correct density in your computer’s floppy disk drive.
 
-Note: Use the disk type required by the embroidery machine, not the computer.
+::: info Note
+Use the disk type required by the embroidery machine, not the computer.
+:::
 
 2. Select Embroidery Disk > Format.
 
@@ -33,4 +35,6 @@ The Format Embroidery Disk dialog opens.
 
 8. Click Start. A progress bar appears. You are prompted when formatting is complete.
 
-Note: If you have trouble with formatting a Melco [embroidery disk](../../glossary/glossary), check if your floppy disk drive can read and write single density floppy disks.
+::: info Note
+If you have trouble with formatting a Melco [embroidery disk](../../glossary/glossary#embroidery-disk), check if your floppy disk drive can read and write single density floppy disks.
+:::

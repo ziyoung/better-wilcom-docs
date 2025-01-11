@@ -6,7 +6,9 @@
 
 Some EmbroideryStudio product levels include CorelDRAW® Graphics Suite as standard. This allows you to add and format TrueType lettering in CorelDRAW Graphics. This can then be converted to either embroidery lettering or embroidery objects.
 
-Note: For a detailed description of the CorelDRAW® Graphics Suite interface, access the Help menu in CorelDRAW Graphics mode.
+::: info Note
+For a detailed description of the CorelDRAW® Graphics Suite interface, access the Help menu in CorelDRAW Graphics mode.
+:::
 
 ## To create lettering with CorelDRAW Graphics...
 
@@ -28,7 +30,9 @@ Note: For a detailed description of the CorelDRAW® Graphics Suite interface, ac
 
 ![TTMultilineFontConversion1.png](assets/TTMultilineFontConversion1.png)
 
-Tip: If you are not satisfied with the results of lettering conversion and want to preserve the precise appearance of the original text, try converting to curves first and then to plain embroidery. Right-click and select Convert to Curve. Optionally, use Tag Fill as Turning Satin to tag letters for conversion to turning stitching.
+::: tip
+If you are not satisfied with the results of lettering conversion and want to preserve the precise appearance of the original text, try converting to curves first and then to plain embroidery. Right-click and select Convert to Curve. Optionally, use Tag Fill as Turning Satin to tag letters for conversion to turning stitching.
+:::
 
 ![lettering_create00004.png](assets/lettering_create00004.png)
 

@@ -8,7 +8,9 @@ Tatami stitch density is determined by the distance between each row of stitches
 
 ![stitches00078.png](assets/stitches00078.png)
 
-Tip: When you increase stitch spacing, Auto Underlay should be turned off. If too open, you may also find that [travel runs](../../glossary/glossary) and overlapping segments spoil the effect. The Trapunto effect automatically moves underlying travel runs to the edges of an object so that they can’t be seen.
+::: tip
+When you increase stitch spacing, Auto Underlay should be turned off. If too open, you may also find that [travel runs](../../glossary/glossary#travel-runs) and overlapping segments spoil the effect. The Trapunto effect automatically moves underlying travel runs to the edges of an object so that they can’t be seen.
+:::
 
 ## To set tatami density...
 

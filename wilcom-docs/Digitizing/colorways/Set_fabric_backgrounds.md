@@ -36,7 +36,9 @@ EmbroideryStudio lets you set the colorway background for more realistic preview
 
 ![colorways00059.png](assets/colorways00059.png)
 
-Note: If you change the background in Colorway 1 and save your template, it will always display like this at start up.
+::: info Note
+If you change the background in Colorway 1 and save your template, it will always display like this at start up.
+:::
 
 ## Related topics...
 

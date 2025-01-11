@@ -47,4 +47,6 @@ The table below summarizes the custom assets you will create and need to manage 
 | Products        | EmbroideryStudio lets you choose a garment or product backdrop on which to position your decoration. Use it to display location, size and overall appearance for visualization and approval purposes. It is possible to create custom product backdrops for use in your business. [See Product Visualizer Templates for details.](../product_templates/Product_Visualizer_Templates) |
 | Thread charts   | The thread charts contained in the software represent the many different brands and colors of thread available. You can modify thread charts to reflect the threads you are currently using. You can even create your own. [See Create & modify thread charts for details.](../../Basics/threads/Create_modify_thread_charts)                                                        |
 
-Note: In order to preserve any custom assets, do not uninstall your existing version of EmbroideryStudio. Any new updates can be installed over top of your existing installation. If you want to move your EmbroideryStudio to another PC, you will need to manually transfer any custom assets you have created or received from third parties.
+::: info Note
+In order to preserve any custom assets, do not uninstall your existing version of EmbroideryStudio. Any new updates can be installed over top of your existing installation. If you want to move your EmbroideryStudio to another PC, you will need to manually transfer any custom assets you have created or received from third parties.
+:::

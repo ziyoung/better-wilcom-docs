@@ -2,7 +2,9 @@
 
 If the digitizing tablet format you require is not preset in EmbroideryStudio, you can create a new format, or modify an existing format to match the output of your tablet. Before starting, review the digitizing tablet documentation.
 
-Caution: This functionality is provided for advanced users with knowledge of the data protocols supported by their digitizing tablet. Only use it if your digitizing tablet does not work with any existing formats.
+::: warning Caution
+This functionality is provided for advanced users with knowledge of the data protocols supported by their digitizing tablet. Only use it if your digitizing tablet does not work with any existing formats.
+:::
 
 ## To customize a digitizing tablet format...
 

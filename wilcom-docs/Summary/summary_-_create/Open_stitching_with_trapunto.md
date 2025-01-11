@@ -9,7 +9,9 @@ The Trapunto effect automatically moves underlying travel runs to the edges of a
 
 Accordion Spacing extends the usefulness of Trapunto by providing a simple way to produce variation in a filled pattern and the illusion of depth. Trapunto and Accordion Spacing can also be combined with Liquid and Florentine effects to produce curved color blending.
 
-Note: Trapunto effect overrides whatever tatami backstitch settings currently apply.
+::: info Note
+Trapunto effect overrides whatever tatami backstitch settings currently apply.
+:::
 
 ## Related topics
 

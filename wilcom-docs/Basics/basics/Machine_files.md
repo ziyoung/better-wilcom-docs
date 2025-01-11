@@ -4,7 +4,7 @@ Different embroidery machines understand different languages. Each has its own c
 
 ## Manual objects
 
-When they are read into EmbroideryStudio, machine files do not contain object information such as outlines or stitch types, but present the design as a collection of stitch blocks called ‘[manual objects](../../glossary/glossary)’. Manual objects are created wherever machine functions – e.g. color changes or trims – are detected in the design. They have only general and connector [properties](../../glossary/glossary). Manual objects, in turn, consist of individual stitches, called ‘manual stitches’.
+When they are read into EmbroideryStudio, machine files do not contain object information such as outlines or stitch types, but present the design as a collection of stitch blocks called ‘[manual objects](../../glossary/glossary)’. Manual objects are created wherever machine functions – e.g. color changes or trims – are detected in the design. They have only general and connector [properties](../../glossary/glossary#properties). Manual objects, in turn, consist of individual stitches, called ‘manual stitches’.
 
 ![MachineFileCOList.png](assets/MachineFileCOList.png)
 

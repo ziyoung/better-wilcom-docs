@@ -5,7 +5,7 @@
 | ![ShowReshapeNodes00029.png](assets/ShowReshapeNodes00029.png) | Use Reshape Views > Show Reshape Nodes to toggle reshape-node display when using the Reshape Object tool.           |
 | ![ShowHandles00030.png](assets/ShowHandles00030.png)           | Use Reshape Views > Show Bézier Handles to toggle Bézier control handle display when using the Reshape Object tool. |
 
-When EmbroideryStudio converts a vector graphic, it preserves nodes and control points. CorelDRAW® Graphics Suite uses [Bézier](../../glossary/glossary) curves. In Wilcom Workspace you can work with reshape-nodes or Bézier [control points](../../glossary/glossary).
+When EmbroideryStudio converts a vector graphic, it preserves nodes and control points. CorelDRAW® Graphics Suite uses [Bézier](../../glossary/glossary) curves. In Wilcom Workspace you can work with reshape-nodes or Bézier [control points](../../glossary/glossary#control-points).
 
 ## To reshape objects with Bézier controls...
 
@@ -23,11 +23,15 @@ When EmbroideryStudio converts a vector graphic, it preserves nodes and control 
 
 ![reshape00034.png](assets/reshape00034.png)
 
-Note: Generally, bézier node dragging preserves the shape of the curve more accurately.
+::: info Note
+Generally, bézier node dragging preserves the shape of the curve more accurately.
+:::
 
 4. Release the mouse and/or press Enter to finish. Again depending on system settings, stitches are generated as soon as the reshape-nodes are moved or after Enter is pressed.
 
-Tip: Press Spacebar to toggle between corner and curve reshape-nodes.
+::: tip
+Press Spacebar to toggle between corner and curve reshape-nodes.
+:::
 
 ## Related topics...
 

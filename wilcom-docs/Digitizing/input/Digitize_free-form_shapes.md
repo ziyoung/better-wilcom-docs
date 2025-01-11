@@ -23,7 +23,9 @@ Digitize free-form shapes with Complex Fill or with Complex Turning. The method 
 
 ![CreateFreeShape2.png](assets/CreateFreeShape2.png)
 
-Tip: If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
+::: tip
+If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
+:::
 
 4. Close the shape:
 
@@ -40,7 +42,9 @@ Tip: If you make a mistake, press Backspace to delete the last point. Press Esc 
 
 ![input00128.png](assets/input00128.png)
 
-Tip: If you choose to digitize entry/exit points manually, place them opposite each other on the boundary in order to minimize travel stitching. Then define the stitch angle to be perpendicular to the line between entry and exit points.
+::: tip
+If you choose to digitize entry/exit points manually, place them opposite each other on the boundary in order to minimize travel stitching. Then define the stitch angle to be perpendicular to the line between entry and exit points.
+:::
 
 7. Mark stitch angles:
 
@@ -56,11 +60,15 @@ Tip: If you choose to digitize entry/exit points manually, place them opposite e
 
 ![input00137.png](assets/input00137.png)
 
-Tip: You can adjust and/or add [stitch angles](../../glossary/glossary) using the Reshape Object tool.
+::: tip
+You can adjust and/or add [stitch angles](../../glossary/glossary) using the Reshape Object tool.
+:::
 
 8. Press Enter. Free shapes generally stitch out in several segments, joined by travel runs. However, all segments and boundaries are part of the same object.
 
-Tip: To view stitches better, toggle off Show Bitmaps (press D).
+::: tip
+To view stitches better, toggle off Show Bitmaps (press D).
+:::
 
 ## Related topics...
 

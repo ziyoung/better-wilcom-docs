@@ -20,7 +20,9 @@ Alternatively, you have access to complete EmbroideryStudio capabilities to crea
 
 ![lettering_kiosk00080.png](assets/lettering_kiosk00080.png)
 
-Note: To ensure that text remains within the allowable boundary, it is safest to use the Fixed Line baseline.
+::: info Note
+To ensure that text remains within the allowable boundary, it is safest to use the Fixed Line baseline.
+:::
 
 - Change thread color as desired.
 

@@ -4,7 +4,7 @@
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | ![ColorObjectList.png](assets/ColorObjectList.png) | Use Docker > Color-Object List to toggle the Color-Object List display on and off. Use to view and sequence objects in a design. |
 
-EmbroideryStudio provides many techniques for hiding or showing selected [embroidery objects](../../glossary/glossary) in the design window.
+EmbroideryStudio provides many techniques for hiding or showing selected [embroidery objects](../../glossary/glossary#embroidery-objects) in the design window.
 
 ## To view selected objects...
 
@@ -24,7 +24,7 @@ EmbroideryStudio provides many techniques for hiding or showing selected [embroi
 - To return to the previous view, select View > Previous View or press V.
 - To re-display the entire design, press Esc followed by Shift+S.
 - To redraw the screen, select View > Refresh Screen or press R.
-- Optionally, select the Options icon in the Standard toolbar, or select Setup > Options > View Design tab, to toggle options for selective display of [embroidery objects](../../glossary/glossary):
+- Optionally, select the Options icon in the Standard toolbar, or select Setup > Options > View Design tab, to toggle options for selective display of [embroidery objects](../../glossary/glossary#embroidery-objects):
 
 ![view00053.png](assets/view00053.png)
 

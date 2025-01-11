@@ -1,6 +1,6 @@
 # Measurements
 
-EmbroideryStudio provides a set of grid lines to help accurately align or size [embroidery objects](../../glossary/glossary).
+EmbroideryStudio provides a set of grid lines to help accurately align or size [embroidery objects](../../glossary/glossary#embroidery-objects).
 
 ## Related topics...
 

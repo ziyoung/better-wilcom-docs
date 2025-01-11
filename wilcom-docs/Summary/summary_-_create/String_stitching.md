@@ -13,7 +13,7 @@ String stitch type is ideally suited creating craftstitch fills as well as delic
 <iframe src="https://www.youtube.com/embed/zPDSQd7C_ew" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -21,7 +21,7 @@ String stitch type is ideally suited creating craftstitch fills as well as delic
 <iframe src="https://www.youtube.com/embed/eYHXO4BtP8U" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

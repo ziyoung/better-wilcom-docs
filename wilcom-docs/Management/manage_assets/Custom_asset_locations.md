@@ -2,7 +2,9 @@
 
 Custom data – including custom fabrics, templates, motifs, borders, and fonts – is stored in dedicated folders. In EmbroideryStudio, custom locations divide into two broad categories – program data and user data.
 
-Note: Some data folders will only be created when the software is opened for the first time after restarting your system.
+::: info Note
+Some data folders will only be created when the software is opened for the first time after restarting your system.
+:::
 
 ## Program data
 

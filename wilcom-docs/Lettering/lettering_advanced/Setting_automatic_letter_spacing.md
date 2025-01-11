@@ -30,7 +30,9 @@ The Auto Letter Spacing feature allows you to fine-tune letter spacing according
 
 ![lettering_advanced00094.png](assets/lettering_advanced00094.png)
 
-Tip: The Auto Letter Spacing feature also works with the Team Names feature. Any ‘name frame’ can have a specified letter spacing just as it can assume any other lettering property.
+::: tip
+The Auto Letter Spacing feature also works with the Team Names feature. Any ‘name frame’ can have a specified letter spacing just as it can assume any other lettering property.
+:::
 
 ## Related topics...
 

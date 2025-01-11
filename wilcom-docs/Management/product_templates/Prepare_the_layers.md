@@ -4,7 +4,9 @@ In order for EmbroideryStudio to detect the number of colors used in your garmen
 
 ![MagicWandMask00028.png](assets/MagicWandMask00028.png)
 
-Tip: Some graphics packages refer to ‘objects’ rather than ‘layers’.
+::: tip
+Some graphics packages refer to ‘objects’ rather than ‘layers’.
+:::
 
 ## Resulting layers
 
@@ -24,4 +26,6 @@ The following rules apply to a multi-color shirt. Variations on the same approac
 - Each layer must be saved as a separate grayscale PNG file.
 - Each PNG file needs to have identical dimensions, DPI, etc.
 
-Tip: it is important to first create the layers / masks, objects, etc, and then convert the resulting images to grayscale / desaturated.
+::: tip
+it is important to first create the layers / masks, objects, etc, and then convert the resulting images to grayscale / desaturated.
+:::

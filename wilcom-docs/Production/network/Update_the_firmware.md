@@ -16,7 +16,9 @@ The [Help & Support](http://help.wilcom.com) site will periodically publish firm
 
 ![Attach_EC_device_to_PC00095.png](assets/Attach_EC_device_to_PC00095.png)
 
-Note: Devices configured to ‘1.0.0’ must be re-attached to the EmbroideryHub PC for the update to work properly. For all other updates, there is no need. Settings can be modified across the network.
+::: info Note
+Devices configured to ‘1.0.0’ must be re-attached to the EmbroideryHub PC for the update to work properly. For all other updates, there is no need. Settings can be modified across the network.
+:::
 
 5. Double-click the device icon in the EmbroideryHub main window to access device settings.
 

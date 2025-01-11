@@ -19,13 +19,15 @@ The Convert TrueType Font feature lets you convert any suitable TrueType font in
 
 - Specify whether to convert as Turning Strokes or Complex Fill.
 
-This will depend in part on font type – whether serif or non-serif, whether script or block. If you want stitching to follow letter contours, select Turning Strokes. The Complex Fill option provides a single fixed [stitch angle](../../glossary/glossary).
+This will depend in part on font type – whether serif or non-serif, whether script or block. If you want stitching to follow letter contours, select Turning Strokes. The Complex Fill option provides a single fixed [stitch angle](../../glossary/glossary#stitch-angle).
 
 - With the Turning Strokes option, there are many more settings. Presets are automatically adjusted according to selected font characteristics – e.g. whether serif or sans serif, whether block or script. Try the defaults to start with.
 - Click OK.
 - To check, right-click the Lettering icon to open the Object Properties > Special > Lettering docker. The newly converted font will be selected by default and available for use.
 
-Note: Custom fonts are saved in ESA format to the ‘Fonts’ folder within the Windows ‘ProgramData’ folder. They can be copied and distributed for use by others. If you want to adjust converted characters or add special characters to a custom font, you can do so via the Create Letter function.
+::: info Note
+Custom fonts are saved in ESA format to the ‘Fonts’ folder within the Windows ‘ProgramData’ folder. They can be copied and distributed for use by others. If you want to adjust converted characters or add special characters to a custom font, you can do so via the Create Letter function.
+:::
 
 ## Related topics...
 

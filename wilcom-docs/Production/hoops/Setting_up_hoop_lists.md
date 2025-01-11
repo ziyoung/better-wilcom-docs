@@ -5,7 +5,9 @@
 
 A range of commercial brands is available for a wide variety of design types. Configure the My Hoops list to include only those hoops you currently have available for use. If you are using a hoop that is not in the hoops list, you can define your own and save it for later use.
 
-Note: The Auto Hoop feature only selects hoops from the My Hoops list. Thus you need to set up this list before Auto Hoop is available for use.
+::: info Note
+The Auto Hoop feature only selects hoops from the My Hoops list. Thus you need to set up this list before Auto Hoop is available for use.
+:::
 
 ## To set up a hoop list...
 
@@ -19,7 +21,9 @@ Note: The Auto Hoop feature only selects hoops from the My Hoops list. Thus you 
 
 - Click OK to confirm. Only selected hoops will be available for manual or automatic selection.
 
-Tip: You may be working with hoops which don’t appear in the standard hoop list. Define your own hoops using circle, oval, rectangle, and other shapes.
+::: tip
+You may be working with hoops which don’t appear in the standard hoop list. Define your own hoops using circle, oval, rectangle, and other shapes.
+:::
 
 ## Related topics...
 

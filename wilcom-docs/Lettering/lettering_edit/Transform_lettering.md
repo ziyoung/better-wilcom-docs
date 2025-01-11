@@ -4,7 +4,7 @@
 | -------------------------------------------------------- | -------------------------------------------------------------------- |
 | ![ReshapeObject00033.png](assets/ReshapeObject00033.png) | Use Reshape > Reshape Object to rotate lettering objects on screen.  |
 
-Apart from [scaling](../../glossary/glossary), you can use the Select Object and Reshape Object tools to skew and rotate lettering objects.
+Apart from [scaling](../../glossary/glossary#scaling), you can use the Select Object and Reshape Object tools to skew and rotate lettering objects.
 
 ## To transform lettering...
 

@@ -5,7 +5,9 @@
 
 Different scenarios may lead to variations in the number of characters allowed. The commercial requirement is for 16 characters per line, but the software allows you to change that limit. For example, maximum characters when buying online may be limited to 10, while baby-size caps may be less than 16\. Optionally, the supervisor can limit the number of characters allowed in kiosk mode.
 
-Note: Spaces between words count as characters. However, extra spaces are allowed at the start and end of a line without compromising the character count.
+::: info Note
+Spaces between words count as characters. However, extra spaces are allowed at the start and end of a line without compromising the character count.
+:::
 
 ## To configure the kiosk character count limit...
 

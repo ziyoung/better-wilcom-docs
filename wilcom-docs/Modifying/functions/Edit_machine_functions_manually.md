@@ -7,7 +7,9 @@
 
 You can edit the encoding of machine functions by changing the number or sequence of [empty stitches](../../glossary/glossary) or [empty jumps](../../glossary/glossary) that appear around them. Some machines require a specific number of empty stitches or empty jumps in combination with a function in order to interpret it correctly. You may need to edit functions if they were inserted incorrectly or the machine format has changed.
 
-Note: Both automatic and manually-inserted functions can be removed. Functions added by EmbroideryStudio are automatically updated if an object is modified or the [machine format](../../glossary/glossary) changes. Manually inserted machine functions are not automatically removed or updated. You generally only need to edit manually inserted machine functions. If a function is no longer required, it must be manually cleared from the design.
+::: info Note
+Both automatic and manually-inserted functions can be removed. Functions added by EmbroideryStudio are automatically updated if an object is modified or the [machine format](../../glossary/glossary#machine-format) changes. Manually inserted machine functions are not automatically removed or updated. You generally only need to edit manually inserted machine functions. If a function is no longer required, it must be manually cleared from the design.
+:::
 
 ## To edit machine functions manually...
 

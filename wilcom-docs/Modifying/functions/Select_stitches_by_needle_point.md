@@ -25,7 +25,9 @@ Select individual stitches in Stitch Edit mode.
 - Press Esc.
 - Select Edit > Deselect All.
 
-Tip: While editing stitches, use the Selects On/Off command to select stitches while traveling.
+::: tip
+While editing stitches, use the Selects On/Off command to select stitches while traveling.
+:::
 
 ## Related topics...
 

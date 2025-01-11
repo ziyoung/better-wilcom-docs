@@ -5,7 +5,9 @@
 
 ![ManualBeadsSample.png](assets/ManualBeadsSample.png)The Manual Bead input method allows you individual control over bead placement and fixing stitches. Create decorative bead placements or ‘clusters’ using beads from the palette. To add a bead to the stitching sequence, simply drop it onto the design and secure it with manual stitches.
 
-Note: Manual bead stitching is a difficult digitizing skill to master and you need to plan the stitching sequence carefully in order to minimize unnecessary stitches. Experiment with your machine and stitch length and spacing settings to achieve the desired result.
+::: info Note
+Manual bead stitching is a difficult digitizing skill to master and you need to plan the stitching sequence carefully in order to minimize unnecessary stitches. Experiment with your machine and stitch length and spacing settings to achieve the desired result.
+:::
 
 ## To digitize manual bead drops...
 
@@ -19,7 +21,9 @@ Note: Manual bead stitching is a difficult digitizing skill to master and you ne
 
 ![BeadingManualDroplist.png](assets/BeadingManualDroplist.png)
 
-Tip: Zoom in for more accurate digitizing. Hold down Ctrl+Shift to constrain the cursor to horizontal and vertical directions, or 15° increments.
+::: tip
+Zoom in for more accurate digitizing. Hold down Ctrl+Shift to constrain the cursor to horizontal and vertical directions, or 15° increments.
+:::
 
 5. Select a bead and left-click to begin your manual bead placement. It must start with at least one stitch. How you proceed depends on the layout style you are aiming for. The most common is ‘flat’:
 
@@ -36,13 +40,17 @@ Tip: Zoom in for more accurate digitizing. Hold down Ctrl+Shift to constrain the
 
 - Click-stitch forward as manual run stitching until you reach the next drop point.
 
-Tip: If you make a mistake while digitizing, press Backspace to retrace your steps.
+::: tip
+If you make a mistake while digitizing, press Backspace to retrace your steps.
+:::
 
 7. Continue digitizing manually in the same way – right-click to drop a bead, left-click to digitize fixing stitches. Press Enter to finish.
 
 ![ManualBeadLaydown2.png](assets/ManualBeadLaydown2.png)
 
-Tip: Remember to test your beading drops on the machine at normal speed (low-to-medium) and then at high speed. Differences will show up at high speed.
+::: tip
+Remember to test your beading drops on the machine at normal speed (low-to-medium) and then at high speed. Differences will show up at high speed.
+:::
 
 8. If you have activated multi-bead mode, press the Tab key to switch between available bead shapes while digitizing.
 
@@ -52,7 +60,9 @@ Tip: Remember to test your beading drops on the machine at normal speed (low-to-
 
 ![ManualBeadLaydown4.png](assets/ManualBeadLaydown4.png)
 
-Tip: Typically, you combine manual bead drops with Run stitch. Use Run to ‘map out’ the design and use Manual Bead to digitize individual bead drops or ‘bead clusters’.
+::: tip
+Typically, you combine manual bead drops with Run stitch. Use Run to ‘map out’ the design and use Manual Bead to digitize individual bead drops or ‘bead clusters’.
+:::
 
 ## To digitize sideways fixing stitches...
 

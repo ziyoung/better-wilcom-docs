@@ -8,7 +8,7 @@ In preference to the Manual Sequin tool, some users prefer to flesh out a design
 
 ![summary_-_special00102.png](assets/summary_-_special00102.png)
 
-From the Insert Function dialog, select Drop Sequin. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary) or [empty jump](../../glossary/glossary). See your machine manual for details. When the Drop Sequin function is correctly defined, click OK. The Select Sequin dialog opens showing available sequins.
+From the Insert Function dialog, select Drop Sequin. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary#empty-stitch) or [empty jump](../../glossary/glossary#empty-jump). See your machine manual for details. When the Drop Sequin function is correctly defined, click OK. The Select Sequin dialog opens showing available sequins.
 
 ## Related topics
 

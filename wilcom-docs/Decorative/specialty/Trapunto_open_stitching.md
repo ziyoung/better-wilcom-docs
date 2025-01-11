@@ -21,13 +21,15 @@ Accordion Spacing extends the usefulness of Trapunto by providing a simple way t
 
 3. Press Enter.
 
-4. With the [complex fill](../../glossary/glossary) object selected, click the Trapunto icon.
+4. With the [complex fill](../../glossary/glossary#complex-fill) object selected, click the Trapunto icon.
 
 Travel runs and overlapping rows are removed and consistent row spacing applied.
 
 ![specialty00110.png](assets/specialty00110.png)
 
-Note: Trapunto effect overrides whatever tatami backstitch settings currently apply.
+::: info Note
+Trapunto effect overrides whatever tatami backstitch settings currently apply.
+:::
 
 ## Related topics...
 

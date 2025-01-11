@@ -18,7 +18,9 @@ You can create a new machine format based on a standard machine format, and make
 
 You can create a custom machine format for use with the current design. You cannot change the Name or Comment fields. The custom machine format is automatically named using the original machine format and design name – e.g. Melco-Design1.
 
-Note: If necessary, you can update the standard machine format itself. However, you should only do this if the original values are no longer used.
+::: info Note
+If necessary, you can update the standard machine format itself. However, you should only do this if the original values are no longer used.
+:::
 
 ## Related topics...
 

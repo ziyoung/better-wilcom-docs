@@ -12,7 +12,7 @@ EmbroideryStudio lets you set the background color of the current colorway for m
 <iframe src="https://www.youtube.com/embed/cSBkrn-UWGQ" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

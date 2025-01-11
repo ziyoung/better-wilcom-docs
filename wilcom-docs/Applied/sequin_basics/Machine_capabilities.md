@@ -12,7 +12,9 @@ In summary, the main sequin device configurations include...
 - Machines supporting twin-sequin devices or even double twin-sequin devices with stack feeding – e.g. Dahao.
 - Machines supporting multiple sequins per device – four, six, eight, and possibly more sequins – with or without stack feeding.
 
-Note: An increasing number of machines support multiple decoration types including sequins in combination with chenille, beading, cording, and others.
+::: info Note
+An increasing number of machines support multiple decoration types including sequins in combination with chenille, beading, cording, and others.
+:::
 
 ## Single- vs twin-sequins
 
@@ -26,4 +28,6 @@ Single and twin configurations still represent the most common type used in sequ
 | Twin-sequin device on two needles       | This configuration allows you to incorporate two types of twin-sequin runs and fills. Again, some may allow twin stacking.                    |
 | Double twin-sequin device on one needle | This configuration allows you to incorporate two types of twin-sequin or quad-sequin runs and fills, as well as twin or quad stacking.        |
 
-Note: The kinds of design work you can do with two single-sequin devices and a single twin-sequin device are different. The twin single-sequin setup will allow you to include runs and fills of either sequin, but not both together in the same run or fill.
+::: info Note
+The kinds of design work you can do with two single-sequin devices and a single twin-sequin device are different. The twin single-sequin setup will allow you to include runs and fills of either sequin, but not both together in the same run or fill.
+:::

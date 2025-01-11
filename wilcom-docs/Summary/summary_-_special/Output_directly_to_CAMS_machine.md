@@ -13,7 +13,9 @@ EmbroideryStudio supports direct connection to CAMS automatic rhinestone placeme
 
 ![BlingMachineSetup.png](assets/BlingMachineSetup.png)
 
-Note: Before executing the procedure, it is important that the machine drivers for your CAMS machine be properly installed. They need to be installed and the machine connected before setting up the COM port. Refer to your machine documentation.
+::: info Note
+Before executing the procedure, it is important that the machine drivers for your CAMS machine be properly installed. They need to be installed and the machine connected before setting up the COM port. Refer to your machine documentation.
+:::
 
 ## Related topics
 

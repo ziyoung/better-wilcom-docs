@@ -16,7 +16,9 @@ Vector graphics from third-party applications can be inserted into EmbroideryStu
 
 3. Navigate to the graphics folder. The dialog defaults to ‘All graphic files’ which displays all supported file types – BMP, PNG, EPS, etc. Change the Files of type setting if you want to filter on a specific file type – e.g. EPS.
 
-Note: While ‘All Graphic Files’ includes both vector and bitmap formats, for native CDR and other vector file types, use the CorelDRAW® Graphics Suite import function.
+::: info Note
+While ‘All Graphic Files’ includes both vector and bitmap formats, for native CDR and other vector file types, use the CorelDRAW® Graphics Suite import function.
+:::
 
 4. If you are working with DXF files:
 
@@ -30,7 +32,9 @@ Note: While ‘All Graphic Files’ includes both vector and bitmap formats, for
 
 ![vectors00034.png](assets/vectors00034.png)
 
-Note: DXF files cannot be imported as bitmaps.
+::: info Note
+DXF files cannot be imported as bitmaps.
+:::
 
 6. Select the Flatten checkbox to remove any overlapping areas from the vector graphic.
 
@@ -40,7 +44,9 @@ Note: DXF files cannot be imported as bitmaps.
 
 8. Click Open to insert the vector graphic into the design window.
 
-Tip: You can also paste vectors directly into EmbroideryStudio through the MS Windows® [clipboard](../../glossary/glossary).
+::: tip
+You can also paste vectors directly into EmbroideryStudio through the MS Windows® [clipboard](../../glossary/glossary#clipboard).
+:::
 
 ## Related topics...
 

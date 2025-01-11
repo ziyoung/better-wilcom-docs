@@ -22,7 +22,7 @@ Digitize filled circles and ellipses with a few clicks with the Ellipse tool. Yo
 
 ![input00032.png](assets/input00032.png)
 
-To digitize circles or ellipses, click to mark the center and click again to set the radius, and press Enter. This point becomes the [entry point](../../glossary/glossary). To create an oval, click a third time to mark the second radius point, and press Enter.
+To digitize circles or ellipses, click to mark the center and click again to set the radius, and press Enter. This point becomes the [entry point](../../glossary/glossary#entry-point). To create an oval, click a third time to mark the second radius point, and press Enter.
 
 ![input00033.png](assets/input00033.png)
 

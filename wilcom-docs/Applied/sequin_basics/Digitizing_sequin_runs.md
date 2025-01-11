@@ -26,7 +26,9 @@ Digitize sequin runs as you would motif runs. If you use the manual method, you 
 
 ![DigitizeRunAuto2.png](assets/DigitizeRunAuto2.png)
 
-Tip: You can convert a normal run to sequin run by selecting and clicking the Sequin Run Auto tool.
+::: tip
+You can convert a normal run to sequin run by selecting and clicking the Sequin Run Auto tool.
+:::
 
 - Alternatively, to control the exact placement of your sequin drops, use the Sequin Run Manual tool. Digitize individual sequin drops with left and right mouse clicks.
 
@@ -50,7 +52,9 @@ Tip: You can convert a normal run to sequin run by selecting and clicking the Se
 | Contract to fit | Contracts nominal spacing to evenly spread sequin distribution, resulting in an extra sequin.     |
 | Manual          | Turns any sequin run into a manual run so that the number of sequins won’t change during editing. |
 
-Note: If you change a manual sequin run to exact spacing, all sequin drops are recalculated and manual placements lost.
+::: info Note
+If you change a manual sequin run to exact spacing, all sequin drops are recalculated and manual placements lost.
+:::
 
 - To change fixing stitches, click the button in the Fixing field. The docker expands to show a library of fixing stitch types. See below.
 

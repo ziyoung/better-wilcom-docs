@@ -15,7 +15,9 @@ If it is not essential to fit letters precisely to a certain area, you can type 
 
 - Press Enter to complete.
 
-Note: Baselines determine the shape of lettering objects in a design. You can place lettering on a straight horizontal or vertical line, curve lettering around a circle or arc, or digitize your own baseline.
+::: info Note
+Baselines determine the shape of lettering objects in a design. You can place lettering on a straight horizontal or vertical line, curve lettering around a circle or arc, or digitize your own baseline.
+:::
 
 ## Related topics...
 

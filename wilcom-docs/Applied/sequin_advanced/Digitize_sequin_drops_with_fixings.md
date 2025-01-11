@@ -5,7 +5,9 @@
 
 ![ManualSequins.png](assets/ManualSequins.png)The Manual Sequin input method allows you individual control over sequin placement and fixing stitches. Create decorative outlines and patterns manually using sequins from the selection list. To add a sequin to the stitching sequence, simply drop it onto the design and secure it with manual stitches. Manual sequin stitching is a difficult digitizing skill to master and you need to plan the stitching sequence carefully in order to minimize unnecessary stitches. Experiment with your machine and stitch length and spacing settings to achieve the desired result.
 
-Note: Sequin mode is supported in Schiffli, Tajima, Barudan and ZSK embroidery [machine formats](../../glossary/glossary). Before you can use Sequin mode, you must select a machine format that supports it. Similarly, before you can use Twin-Sequin mode, you must select a suitable machine format.
+::: info Note
+Sequin mode is supported in Schiffli, Tajima, Barudan and ZSK embroidery [machine formats](../../glossary/glossary). Before you can use Sequin mode, you must select a machine format that supports it. Similarly, before you can use Twin-Sequin mode, you must select a suitable machine format.
+:::
 
 ## To digitize sequin drops with fixing stitches...
 
@@ -22,7 +24,9 @@ Note: Sequin mode is supported in Schiffli, Tajima, Barudan and ZSK embroidery [
 - Select the sequin or combination you want to use.
 - Left-click to begin your manual sequin placement. It must start with at least one stitch.
 
-Tip: Zoom in for more accurate digitizing.
+::: tip
+Zoom in for more accurate digitizing.
+:::
 
 - Right-click to drop a sequin. A sequin outline appears.
 
@@ -34,7 +38,9 @@ Three stitches in the shape of a ‘Y’ are generally used. The needle points o
 
 ![ManualSequin2.png](assets/ManualSequin2.png)
 
-Tip: If you make a mistake while digitizing, press Backspace to retrace your steps.
+::: tip
+If you make a mistake while digitizing, press Backspace to retrace your steps.
+:::
 
 - If you have activated twin- or multi-sequin mode, press the Tab key to switch between available sequin shapes while digitizing.
 

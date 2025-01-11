@@ -1,6 +1,6 @@
 # Select objects by color
 
-You can select [embroidery objects](../../glossary/glossary) of the same color with a single command.
+You can select [embroidery objects](../../glossary/glossary#embroidery-objects) of the same color with a single command.
 
 ## To select objects by color...
 

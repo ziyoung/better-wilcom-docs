@@ -10,7 +10,9 @@ This filter operates only on chenille stitch types and has no effect on lockstit
 
 A design checker is provided to identify chenille Shortcut Angle violations. The design checker is activated by hot key Ctrl+K. The stitch cursor will jump to the first stitch which violates the Shortcut Angle. You must correct this problem by stitch editing. Press the hot key combination again for the software to detect any problems further into the design.
 
-Note: Non-EMB embroidery format chenille designs can be shortcut-checked when opened into EmbroideryStudio by clearing the Outlines/Objects checkbox.
+::: info Note
+Non-EMB embroidery format chenille designs can be shortcut-checked when opened into EmbroideryStudio by clearing the Outlines/Objects checkbox.
+:::
 
 ## Related topics
 

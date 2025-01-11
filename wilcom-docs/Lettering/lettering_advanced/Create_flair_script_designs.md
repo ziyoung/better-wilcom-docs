@@ -33,7 +33,9 @@ Flair script is a special font which allows you to add decorative flairs to the 
 
 9. Press Enter.
 
-Tip: Experiment with different flourishes to obtain the look you want.
+::: tip
+Experiment with different flourishes to obtain the look you want.
+:::
 
 ## Related topics...
 

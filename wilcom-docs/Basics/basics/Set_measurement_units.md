@@ -4,7 +4,9 @@ The first time you run EmbroideryStudio, the measurement system will default to 
 
 ![View.png](assets/View.png)
 
-Note: Technically, when you select ‘U.S.’, you will get the imperial measurement system – inches, feet, and yards. Inch rulers are displayed in 1/16, 1/8, ¼, ½, and 1" divisions. The grid size can be set in decimal inches.
+::: info Note
+Technically, when you select ‘U.S.’, you will get the imperial measurement system – inches, feet, and yards. Inch rulers are displayed in 1/16, 1/8, ¼, ½, and 1" divisions. The grid size can be set in decimal inches.
+:::
 
 ![RulerImperial.png](assets/RulerImperial.png)
 
@@ -33,7 +35,9 @@ Alternatively, you can specify units of measurement when typing values into a me
 
 For example, if a US customer orders lettering in inches – say ¾" – and the digitizing is to be done in metric, you can enter ‘3/4in’ or ‘3/4 in’ into the Lettering Height field and it is automatically converted to 19.05mm.
 
-Note: EmbroideryStudio supports both proper and improper fractions – e.g. ‘1 1/3’ as well as ‘4/3’. It does not, however, support mixed units – e.g. 1’3". Nor does it display values as fractions after they are entered, only during.
+::: info Note
+EmbroideryStudio supports both proper and improper fractions – e.g. ‘1 1/3’ as well as ‘4/3’. It does not, however, support mixed units – e.g. 1’3". Nor does it display values as fractions after they are entered, only during.
+:::
 
 ## Supported units
 
@@ -46,7 +50,9 @@ Supported units include:
 - centimeters, cm
 - meters, m
 
-Tip: EmbroideryStudio also allows entering units in text form, both English and the language the software is currently running in.
+::: tip
+EmbroideryStudio also allows entering units in text form, both English and the language the software is currently running in.
+:::
 
 ## Related topics...
 

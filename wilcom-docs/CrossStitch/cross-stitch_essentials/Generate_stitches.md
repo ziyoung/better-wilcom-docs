@@ -11,7 +11,9 @@ What appears on-screen when you digitize is actually a ‘painting’ of the des
 
 ![SaveDesign.png](assets/SaveDesign.png)
 
-Note: You can only save as EMX.
+::: info Note
+You can only save as EMX.
+:::
 
 ## Related topics
 

@@ -16,7 +16,9 @@
 
 - Enter the number of repetitions in the Satin Count field.
 
-Caution: Using a value higher than 10 may cause thread breaks, depending on the design, fabric, or thread tension.
+::: warning Caution
+Using a value higher than 10 may cause thread breaks, depending on the design, fabric, or thread tension.
+:::
 
 - With Satin Raised you can also adjust the number of layers of stitching.
 
@@ -24,7 +26,9 @@ Caution: Using a value higher than 10 may cause thread breaks, depending on the 
 
 - Press Enter or click Apply.
 
-Tip: When you increase satin stitch count, you should also increase the spacing to avoid bunching and thread breaks.
+::: tip
+When you increase satin stitch count, you should also increase the spacing to avoid bunching and thread breaks.
+:::
 
 ## Related topics...
 

@@ -8,7 +8,7 @@ EmbroideryStudio provides a wide selection of underlay types to choose from. Use
 ## To apply automatic underlay...
 
 - Toggle underlays on/off with the Auto Underlay button.
-- Without objects selected, right-click the Auto Underlay icon to change [current settings](../../glossary/glossary).
+- Without objects selected, right-click the Auto Underlay icon to change [current settings](../../glossary/glossary#current-settings).
 - With objects selected, right-click the Auto Underlay icon to change settings for those objects.
 
 ![underlays00003.png](assets/underlays00003.png)

@@ -7,7 +7,7 @@ Mirror Merge tools allow you to duplicate and transform selected embroidery obje
 <iframe src="https://www.youtube.com/embed/bnus8J1z4Ec" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

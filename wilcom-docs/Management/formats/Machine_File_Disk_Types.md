@@ -4,7 +4,9 @@ This section provides details of the file and disk types supported by Embroidery
 
 In conjunction with CorelDRAW® Graphics Suite, EmbroideryStudio reads and writes a wide variety of related and sometimes complementary decoration processes or techniques. [See also Exporting multiple decoration files.](../../Applied/export/Exporting_multiple_decoration_files)
 
-Note: There are many additional Schiffli file formats to suit specific Schiffli machines. EmbroideryStudio supports the most important of these. See the ES Schiffli User Manual Supplement for details.
+::: info Note
+There are many additional Schiffli file formats to suit specific Schiffli machines. EmbroideryStudio supports the most important of these. See the ES Schiffli User Manual Supplement for details.
+:::
 
 ## Related topics...
 

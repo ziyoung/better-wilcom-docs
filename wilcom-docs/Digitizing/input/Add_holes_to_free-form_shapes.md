@@ -19,7 +19,9 @@ While EmbroideryStudio provides dedicated tools for cutting and filling holes in
 
 - When you have digitized all additional holes, press Enter again.
 
-Tip: To remove unwanted holes, select the object and use the Reshape Object tool to delete control points around the hole.
+::: tip
+To remove unwanted holes, select the object and use the Reshape Object tool to delete control points around the hole.
+:::
 
 ## Related topics...
 

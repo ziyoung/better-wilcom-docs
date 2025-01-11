@@ -12,7 +12,9 @@ Enter a name for the new format. Overwrite the default – e.g. ‘Chenille Comb
 
 ![SelectMachineFormatCustom.png](assets/SelectMachineFormatCustom.png)
 
-Note: You can’t remove standard formats but you can remove custom machine formats from your system when they are no longer required.
+::: info Note
+You can’t remove standard formats but you can remove custom machine formats from your system when they are no longer required.
+:::
 
 ## Related topics
 

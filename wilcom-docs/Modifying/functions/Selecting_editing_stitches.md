@@ -2,7 +2,9 @@
 
 The Stitch Edit tool lets you select individual stitches or groups of stitches directly or via the Stitch List.
 
-Caution: When you insert stitches manually, you must maintain them manually. For this reason, only insert stitches if they cannot be added automatically.
+::: warning Caution
+When you insert stitches manually, you must maintain them manually. For this reason, only insert stitches if they cannot be added automatically.
+:::
 
 ## Related topics...
 

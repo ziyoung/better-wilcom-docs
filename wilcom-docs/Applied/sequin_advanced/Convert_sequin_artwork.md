@@ -35,7 +35,9 @@ A sequin run is generated along a curve that passes through the center of each s
 
 ![sequin_advanced00089.png](assets/sequin_advanced00089.png)
 
-Tip: If you are running twin-sequin mode and preset a sequin pattern in Object Properties, this pattern is applied to the converted sequin objects while sequin spacing is preserved as per the artwork.
+::: tip
+If you are running twin-sequin mode and preset a sequin pattern in Object Properties, this pattern is applied to the converted sequin objects while sequin spacing is preserved as per the artwork.
+:::
 
 ![sequin_advanced00092.png](assets/sequin_advanced00092.png)
 

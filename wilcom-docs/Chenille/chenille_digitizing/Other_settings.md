@@ -42,7 +42,9 @@ Optionally, enter a Fill Offset value. Fill Offset sets the gap between the digi
 
 ![chenille_digitizing00085.png](assets/chenille_digitizing00085.png)
 
-Tip: Color changes can be manually inserted between fill and offsets.
+::: tip
+Color changes can be manually inserted between fill and offsets.
+:::
 
 ![ManualColorChange.png](assets/ManualColorChange.png)
 

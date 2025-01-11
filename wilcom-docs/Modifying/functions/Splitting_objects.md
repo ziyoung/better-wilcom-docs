@@ -16,7 +16,9 @@ Use the Split Object command to split most embroidery objects. Run objects may a
 
 ![functions00038.png](assets/functions00038.png)
 
-Tip: You can convert any split [manual objects](../../glossary/glossary) to outline objects with Process Stitches.
+::: tip
+You can convert any split [manual objects](../../glossary/glossary) to outline objects with Process Stitches.
+:::
 
 ## Related topics...
 

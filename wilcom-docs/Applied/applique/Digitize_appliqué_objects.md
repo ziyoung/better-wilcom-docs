@@ -4,13 +4,15 @@
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![AppliqueWithoutHoles.png](assets/AppliqueWithoutHoles.png) | Use Appliqué > Appliqué without Holes to digitize single-boundary appliqué objects with up to four layers of stitching – guide runs, cutting lines, tack stitches, and cover stitches. |
 
-![AppliqueTrueView.png](assets/AppliqueTrueView.png)Use Appliqué to produce the stitching you require for [appliqué](../../glossary/glossary) objects. Up to four layers of stitching – [guide runs](../../glossary/glossary), [cutting lines](../../glossary/glossary), [tack stitches ](../../glossary/glossary)and [cover stitches ](../../glossary/glossary)– can be generated. When you stitch out an appliqué object, the machine stops between layers. Appliqué also allows you to set a [frame-out](../../glossary/glossary) position which shifts the hoop from under the needle, making it easier to place and trim appliqué patches.
+![AppliqueTrueView.png](assets/AppliqueTrueView.png)Use Appliqué to produce the stitching you require for [appliqué](../../glossary/glossary#applique) objects. Up to four layers of stitching – [guide runs](../../glossary/glossary#guide-runs), [cutting lines](../../glossary/glossary#cutting-lines), [tack stitches ](../../glossary/glossary)and [cover stitches ](../../glossary/glossary)– can be generated. When you stitch out an appliqué object, the machine stops between layers. Appliqué also allows you to set a [frame-out](../../glossary/glossary) position which shifts the hoop from under the needle, making it easier to place and trim appliqué patches.
 
 ## To digitize appliqué objects...
 
 1. Click the Appliqué icon and digitize the boundary of the shape. Follow the prompts. If you make a mistake, press Backspace to delete the last reference point.
 
-Tip: If you only need to create a single-boundary appliqué object, you may prefer to use the Appliqué without Holes tool.
+::: tip
+If you only need to create a single-boundary appliqué object, you may prefer to use the Appliqué without Holes tool.
+:::
 
 2. Press Enter to close the shape. You can create another appliqué object at this stage.
 

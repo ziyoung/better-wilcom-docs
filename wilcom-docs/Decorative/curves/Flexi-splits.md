@@ -3,7 +3,7 @@
 | ![FlexiSplit00043.png](assets/FlexiSplit00043.png) | Use Stitch Effects > Flexi Split to create decorative split patterns following stitch angles and scaled according to object width. Right-click for settings. |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-Flexi Split is a decorative effect where one or more lines of a program split pattern are used in the object fill. It is both a patterned and curved fill. The pattern follows the [stitch angle](../../glossary/glossary) and may be scaled to fit the width of the object. It is intended for use with objects with turning stitches or varying column width. You can apply Flexi Split to a wide variety of object and stitch types. Use existing patterns or create your own.
+Flexi Split is a decorative effect where one or more lines of a program split pattern are used in the object fill. It is both a patterned and curved fill. The pattern follows the [stitch angle](../../glossary/glossary#stitch-angle) and may be scaled to fit the width of the object. It is intended for use with objects with turning stitches or varying column width. You can apply Flexi Split to a wide variety of object and stitch types. Use existing patterns or create your own.
 
 ![FlexiSplitSample.png](assets/FlexiSplitSample.png)
 

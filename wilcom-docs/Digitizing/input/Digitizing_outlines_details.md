@@ -33,7 +33,9 @@ EmbroideryStudio provides tools for creating outline stitching of varying thickn
 - For a perfect circular arc, mark three points with a right-click.
 - Where curves connect – either to a straight line or another curve – click to mark the connection point.
 
-Tip: If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
+::: tip
+If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
+:::
 
 - Press Enter to finish.
 - To view stitches better, use the View toolbar to turn on or off backdrops.
@@ -46,7 +48,9 @@ Tip: If you make a mistake, press Backspace to delete the last point. Press Esc 
 
 ![input00056.png](assets/input00056.png)
 
-Tip: Use Auto Scroll to scroll automatically within the design window while digitizing. Hold down the Shift key to temporarily deactivate Auto Scroll. Use the Ctrl+Shift+A key combination to quickly toggle Auto Scroll on/off.
+::: tip
+Use Auto Scroll to scroll automatically within the design window while digitizing. Hold down the Shift key to temporarily deactivate Auto Scroll. Use the Ctrl+Shift+A key combination to quickly toggle Auto Scroll on/off.
+:::
 
 ## Related topics...
 

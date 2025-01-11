@@ -21,7 +21,7 @@ Whether you are digitizing for borer knife or needle, the technique is the same.
 
 ![mixed00030.png](assets/mixed00030.png)
 
-4. Click the Borers icon. A [machine function](../../glossary/glossary) is inserted to indicate the change from stitching to boring.
+4. Click the Borers icon. A [machine function](../../glossary/glossary#machine-function) is inserted to indicate the change from stitching to boring.
 
 5. Using the Run tool, digitize cutting lines. For a round hole, two intersecting lines are sufficient. For an oval hole, digitize a single cutting line.
 
@@ -29,7 +29,9 @@ Diamond shapes represent borer cuts on the fabric. Size indicates depth of cut. 
 
 ![mixed00033.png](assets/mixed00033.png)
 
-Note: Some digitizers prefer to use the Manual tool. Each stitch you digitize becomes a boring hole. Bear in mind though that holes digitized in this way cannot be scaled.
+::: info Note
+Some digitizers prefer to use the Manual tool. Each stitch you digitize becomes a boring hole. Bear in mind though that holes digitized in this way cannot be scaled.
+:::
 
 6. Reduce Run length to 1.0-1.5 mm to place borer penetrations closer together. This ensures a clean cut.
 

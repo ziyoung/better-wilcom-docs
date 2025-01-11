@@ -16,7 +16,9 @@ You can set up multiple named machines for the purposes of runtime analysis with
 
 The class may be based on machine model. However different machines of the same model may be set up for different purposes – e.g. to run at different speeds. If so, you’ll need to set up different classes to suit.
 
-Note: Machine types set up here are independent of machines defined in Connection Manager Setup or Embroidery Machine Connection dialogs.
+::: info Note
+Machine types set up here are independent of machines defined in Connection Manager Setup or Embroidery Machine Connection dialogs.
+:::
 
 4. Create a runtime definition for the machine. Parameters are based on machine specs, controller feedback, and/or empirical observation:
 

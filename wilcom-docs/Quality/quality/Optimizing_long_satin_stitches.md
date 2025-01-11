@@ -8,7 +8,9 @@ If you want to preserve the satin effect – for example, if only a few stitches
 
 ![quality00117.png](assets/quality00117.png)
 
-Note: The maximum frame movement is defined in the software by [format](../../glossary/glossary) values. [See Standard machine formats for details.](../../Setup/machines/Standard_machine_formats)
+::: info Note
+The maximum frame movement is defined in the software by [format](../../glossary/glossary) values. [See Standard machine formats for details.](../../Setup/machines/Standard_machine_formats)
+:::
 
 ## Related topics...
 

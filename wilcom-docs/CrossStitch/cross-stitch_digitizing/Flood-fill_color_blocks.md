@@ -5,7 +5,9 @@
 
 Fill closed areas with stitches using the Flood Fill tool. You can also use the tool to change the color and stitch type of Full Cross outlines. This tool is ideally suited to editing stitch blocks in auto-digitized artwork but can be used with any cross stitch design.
 
-Note: The Flood Fill tool only works with cross stitches. Flood Fill will not work with bitmap images used as backdrops.
+::: info Note
+The Flood Fill tool only works with cross stitches. Flood Fill will not work with bitmap images used as backdrops.
+:::
 
 ## To flood-fill color blocks...
 

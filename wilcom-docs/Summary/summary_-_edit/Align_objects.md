@@ -13,7 +13,9 @@ You can align selected design objects to the left, right, top, bottom or center 
 
 ![summary_-_edit00105.png](assets/summary_-_edit00105.png)
 
-Note: Objects are aligned with the last object selected. When all the objects in the design are selected by using Ctrl+A or a selection marquee they are aligned with the last object in the sequence.
+::: info Note
+Objects are aligned with the last object selected. When all the objects in the design are selected by using Ctrl+A or a selection marquee they are aligned with the last object in the sequence.
+:::
 
 ## Related topics
 

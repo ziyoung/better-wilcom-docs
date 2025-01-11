@@ -6,7 +6,9 @@ Embroidery stitches tend to pull fabric inwards where the needle penetrates. Thi
 
 Adjust overstitching by varying pull compensation in the Object Properties docker. This is handy if you want to stitch a design on fabrics with varying degrees of stretch.
 
-Tip: Applying underlay stitching, and using appropriate [backing](../../glossary/glossary) and [topping](../../glossary/glossary) when stitching out can also reduce the [push-pull](../../glossary/glossary) effect.
+::: tip
+Applying underlay stitching, and using appropriate [backing](../../glossary/glossary#backing) and [topping](../../glossary/glossary#topping) when stitching out can also reduce the [push-pull](../../glossary/glossary#push-pull) effect.
+:::
 
 ## Related topics...
 

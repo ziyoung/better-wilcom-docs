@@ -26,7 +26,9 @@ Basic order details are stored as EMB file properties. Any alphanumeric informat
 | Product colors       | May include product color code or name.                                                                                                                                                                |
 | Color / Size / Qty   | Matrix of product color, size, quantity for the product                                                                                                                                                |
 
-Tip: Companies can and should establish guidelines for staff to enter consistent information. No checking or enforcement is done by EmbroideryStudio.
+::: tip
+Companies can and should establish guidelines for staff to enter consistent information. No checking or enforcement is done by EmbroideryStudio.
+:::
 
 ## Related topics...
 

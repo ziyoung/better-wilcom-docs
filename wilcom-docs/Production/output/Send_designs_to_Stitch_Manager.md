@@ -9,7 +9,9 @@ Once a design is complete, you can stitch it out to any supported embroidery mac
 
 1. Ensure that the target machine is correctly connected to your PC. See your machine documentation for details.
 
-Note: Before you can send designs for stitching, you must also configure the machine in EmbroideryStudio.
+::: info Note
+Before you can send designs for stitching, you must also configure the machine in EmbroideryStudio.
+:::
 
 2. Open a design.
 
@@ -19,9 +21,11 @@ Note: Before you can send designs for stitching, you must also configure the mac
 
 4. From the Machine Identification list, select an embroidery machine. Click Setup to modify machine settings as required.
 
-5. From the Output as Machine format list, select the correct [machine format](../../glossary/glossary). Click Values to modify the machine format settings as required.
+5. From the Output as Machine format list, select the correct [machine format](../../glossary/glossary#machine-format). Click Values to modify the machine format settings as required.
 
-Note: This field is automatically updated if the target machine format is different to the current format. Select the Prompt Changing Machine Format checkbox if you want to be prompted when the Output as Machine Format field updates.
+::: info Note
+This field is automatically updated if the target machine format is different to the current format. Select the Prompt Changing Machine Format checkbox if you want to be prompted when the Output as Machine Format field updates.
+:::
 
 6. Click OK to return to the Send to Stitch Manager dialog.
 
@@ -29,7 +33,9 @@ Note: This field is automatically updated if the target machine format is differ
 
 ![output00013.png](assets/output00013.png)
 
-Tip: To delete a design from the queue, select it and click Cancel.
+::: tip
+To delete a design from the queue, select it and click Cancel.
+:::
 
 ## Related topics...
 

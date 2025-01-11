@@ -23,7 +23,9 @@ You can move or delete individual or groups of selected stitches.
 
 - Enter new coordinates in the X and Y fields and press Enter. The new coordinates will change the location of the stitch end point.
 
-Caution: If an object’s stitches are regenerated for any reason, all stitch editing functions are lost. Where possible, reshape the object rather than move individual stitches.
+::: warning Caution
+If an object’s stitches are regenerated for any reason, all stitch editing functions are lost. Where possible, reshape the object rather than move individual stitches.
+:::
 
 ## Related topics...
 

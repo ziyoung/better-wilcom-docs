@@ -16,4 +16,6 @@ You can add folders both in File Explorer and in the Design Library itself. The 
 
 ![FileExplorerEmbroidery.png](assets/FileExplorerEmbroidery.png)
 
-Tip: Like File Explorer, the Design Library display can be refreshed with a simple F5 keypress.
+::: tip
+Like File Explorer, the Design Library display can be refreshed with a simple F5 keypress.
+:::

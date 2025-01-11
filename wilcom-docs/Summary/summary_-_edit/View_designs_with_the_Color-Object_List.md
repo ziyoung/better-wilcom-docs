@@ -3,7 +3,7 @@
 | ![ColorObjectList.png](assets/ColorObjectList.png) | Use Docker > Color-Object List to toggle the Color-Object List display on and off. Use to view and sequence design objects. |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 
-The Color-Object List provides a sequential list of [embroidery objects](../../glossary/glossary) as digitized, grouped by [color block](../../glossary/glossary). It offers an easy way to selectively view color blocks and objects.
+The Color-Object List provides a sequential list of [embroidery objects](../../glossary/glossary#embroidery-objects) as digitized, grouped by [color block](../../glossary/glossary#color-block). It offers an easy way to selectively view color blocks and objects.
 
 ![summary_-_edit00047.png](assets/summary_-_edit00047.png)
 
@@ -12,7 +12,7 @@ The Color-Object List provides a sequential list of [embroidery objects](../../g
 <iframe src="https://www.youtube.com/embed/lM820ENY6PI" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

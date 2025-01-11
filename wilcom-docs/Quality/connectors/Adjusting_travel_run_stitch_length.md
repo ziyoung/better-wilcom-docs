@@ -17,4 +17,6 @@ Travel runs are usually used to connect segments within filled objects. They are
 
 ![connectors00040.png](assets/connectors00040.png)
 
-Tip: Increase stitch length to reduce the stitch count. Travel Run automatically varies the stitch length on tight curves.
+::: tip
+Increase stitch length to reduce the stitch count. Travel Run automatically varies the stitch length on tight curves.
+:::

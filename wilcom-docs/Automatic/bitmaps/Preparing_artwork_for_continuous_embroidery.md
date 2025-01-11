@@ -26,7 +26,9 @@ The same considerations apply for both types of artwork. However, while with enl
 
 ![TransformToolbar.png](assets/TransformToolbar.png)
 
-Caution: Rotation of bitmap images can reduce definition. For better quality, go back to the source application and adjust artwork there. Or, in the case of scanned artwork, adjust it on the scanner and re-scan.
+::: warning Caution
+Rotation of bitmap images can reduce definition. For better quality, go back to the source application and adjust artwork there. Or, in the case of scanned artwork, adjust it on the scanner and re-scan.
+:::
 
 - Once rotation is fixed, measure the two points again and compare the X value with the Design Repeat value. Again you need to decide what tolerance is acceptable. First you need to calculate the necessary scale factor, which is:
 
@@ -38,7 +40,9 @@ If the image needs to be enlarged by 10%, you will get 110% or a similar value. 
 
 ![PropertyBar.png](assets/PropertyBar.png)
 
-Tip: The Show Repeats function displays repeating designs, including sequins, in both TrueView and stitch view. You can view a design, even while digitizing, with any number of repeats.
+::: tip
+The Show Repeats function displays repeating designs, including sequins, in both TrueView and stitch view. You can view a design, even while digitizing, with any number of repeats.
+:::
 
 ## Related topics...
 

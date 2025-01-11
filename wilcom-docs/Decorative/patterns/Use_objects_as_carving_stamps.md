@@ -7,7 +7,7 @@ The Use Object tab allows you to select object outlines from the design window a
 
 ## To use an object as a carving stamp...
 
-1. Choose an embroidery object or [vector object](../../glossary/glossary) to serve as your stamp.
+1. Choose an embroidery object or [vector object](../../glossary/glossary#vector-object) to serve as your stamp.
 
 ![UseObject1.png](assets/UseObject1.png)
 
@@ -25,11 +25,15 @@ The Use Object tab allows you to select object outlines from the design window a
 
 6. Optionally, click the Add to Library button to add the selection to the library for future reference.
 
-Tip: You can also use lettering, embroidery or TrueType, as an input to stamp creation.
+::: tip
+You can also use lettering, embroidery or TrueType, as an input to stamp creation.
+:::
 
 ![patterns00139.png](assets/patterns00139.png)
 
-Tip: If you want to use a bitmap image, you can convert to vector format in CorelDRAW Graphics using the Bitmaps > Outline Trace command set.
+::: tip
+If you want to use a bitmap image, you can convert to vector format in CorelDRAW Graphics using the Bitmaps > Outline Trace command set.
+:::
 
 ## Related topics...
 

@@ -7,14 +7,16 @@ Before stitchout, some embroidery machines require you to position the hoop prec
 
 ![AutoStartEnd.png](assets/AutoStartEnd.png)
 
-Note: Machines which auto-center designs around design extents will ignore the Auto Start & End setting.
+::: info Note
+Machines which auto-center designs around design extents will ignore the Auto Start & End setting.
+:::
 
 ## Related video
 
 <iframe src="https://www.youtube.com/embed/CRgugihnLSc" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

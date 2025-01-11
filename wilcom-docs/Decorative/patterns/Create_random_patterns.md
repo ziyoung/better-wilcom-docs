@@ -17,4 +17,6 @@ Using a random factor you can eliminate the split line patterns formed by regula
 
 ![patterns00033.png](assets/patterns00033.png)
 
-Tip: A value of around 50% generally gives good results.
+::: tip
+A value of around 50% generally gives good results.
+:::

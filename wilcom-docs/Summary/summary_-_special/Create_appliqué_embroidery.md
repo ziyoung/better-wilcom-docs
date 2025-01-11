@@ -6,7 +6,7 @@
 | ![PartialApplique.png](assets/PartialApplique.png)           | Use Appliqué > Partial Appliqué to create partial cover stitching for overlapping appliqué objects.                                                                                    |
 | ![CombineApplique.png](assets/CombineApplique.png)           | Use Appliqué > Combine Appliqué Components to break apart multiple appliqué objects into component objects and combine and resequence them for efficient stitchout.                    |
 
-Automatically create all the stitching you need for [appliqué](../../glossary/glossary) using the Appliqué tool. When you digitize an object with Appliqué, the [guide run](../../glossary/glossary), tacking and cover stitches are automatically generated using the current Appliqué settings. The Object Properties > Special > Appliqué tab lets you produce the stitching you require for appliqué objects.
+Automatically create all the stitching you need for [appliqué](../../glossary/glossary#applique) using the Appliqué tool. When you digitize an object with Appliqué, the [guide run](../../glossary/glossary), tacking and cover stitches are automatically generated using the current Appliqué settings. The Object Properties > Special > Appliqué tab lets you produce the stitching you require for appliqué objects.
 
 ![summary_-_special00068.png](assets/summary_-_special00068.png)
 

@@ -13,7 +13,9 @@ Design Library provides extended support for Corel CDR files. This includes:
 - Drag-and-drop into Wilcom Workspace.
 - Drag-and-drop into standalone CorelDRAW® Graphics Suite.
 
-Note: For a full description of image file formats supported by CorelDRAW® Graphics Suite, refer to the CorelDRAW® Graphics Suite electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use the online help available from the Help menu.
+::: info Note
+For a full description of image file formats supported by CorelDRAW® Graphics Suite, refer to the CorelDRAW® Graphics Suite electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use the online help available from the Help menu.
+:::
 
 ## Related topics...
 

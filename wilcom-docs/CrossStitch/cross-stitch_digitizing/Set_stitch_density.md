@@ -11,4 +11,6 @@ A common problem with cross stitch designs is that they ‘pull’, especially w
 
 ![cross-stitch_digitizing00013.png](assets/cross-stitch_digitizing00013.png)
 
-Tip: When you move your mouse over the stitch, a tool tip will tell you the type and color of stitch used.
+::: tip
+When you move your mouse over the stitch, a tool tip will tell you the type and color of stitch used.
+:::

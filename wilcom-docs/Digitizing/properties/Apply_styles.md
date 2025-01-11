@@ -4,7 +4,7 @@
 | ---------------------------------------- | --------------------------------------------------------------------------------------- |
 | ![Style1.png](assets/Style1.png)         | Use Styles > Favorite Styles to apply preferred styles to new or selected objects.      |
 
-When you apply a [style](../../glossary/glossary), the settings overwrite [current settings](../../glossary/glossary). Any properties not specified in the style, retain their current settings.
+When you apply a [style](../../glossary/glossary), the settings overwrite [current settings](../../glossary/glossary#current-settings). Any properties not specified in the style, retain their current settings.
 
 ## To apply styles...
 
@@ -20,7 +20,9 @@ When you apply a [style](../../glossary/glossary), the settings overwrite [curre
 
 - Select a style from the droplist and click OK.
 
-Tip: If you are using a digitizing tablet, you can quickly switch between preset styles. Each button on the puck accesses the next preset style with different spacing settings. For example, clicking Button 1 accesses &lt;PRESET_SATIN_1&gt;.
+::: tip
+If you are using a digitizing tablet, you can quickly switch between preset styles. Each button on the puck accesses the next preset style with different spacing settings. For example, clicking Button 1 accesses &lt;PRESET_SATIN_1&gt;.
+:::
 
 ## Related topics...
 

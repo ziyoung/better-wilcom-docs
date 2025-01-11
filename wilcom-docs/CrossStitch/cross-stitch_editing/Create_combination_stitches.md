@@ -25,7 +25,9 @@ Fractional cross stitches – ¼, ½, or ¾ – can be combined to make crosses 
 
 ![CrossCombinationExample.png](assets/CrossCombinationExample.png)
 
-Note: If you do not have Insert selected, the whole stitch will be replaced.
+::: info Note
+If you do not have Insert selected, the whole stitch will be replaced.
+:::
 
 5. Repeat as many times as needed.
 

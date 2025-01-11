@@ -15,7 +15,9 @@ Set up your design grid for easy visualization of cross stitch placement.
 
 3. Select Show Major Lines and set the number of crosses to fit between them.
 
-Tip: If you've set a fabric count of, say, 14 stitches per inch, set the distance between major grid lines to 14 as well. That way you can visualize better each square inch of your design.
+::: tip
+If you've set a fabric count of, say, 14 stitches per inch, set the distance between major grid lines to 14 as well. That way you can visualize better each square inch of your design.
+:::
 
 4. Click Edit to change the color of the major and minor lines.
 

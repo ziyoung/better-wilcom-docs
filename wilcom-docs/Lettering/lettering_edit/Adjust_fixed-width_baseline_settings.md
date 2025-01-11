@@ -7,7 +7,9 @@ A free-line baseline does not have a fixed or pre-determined length – the base
 
 ![lettering_edit00089.png](assets/lettering_edit00089.png)
 
-Tip: Precise control over baseline width is important when combined with Team Names when you want to ensure all names fit within the same area such as a pocket.
+::: tip
+Precise control over baseline width is important when combined with Team Names when you want to ensure all names fit within the same area such as a pocket.
+:::
 
 ## To adjust fixed-width baseline settings...
 

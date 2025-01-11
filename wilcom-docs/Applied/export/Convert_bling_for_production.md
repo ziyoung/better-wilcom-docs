@@ -12,4 +12,6 @@ If your software level supports CorelDRAW Graphics, you can export the vector sh
 
 ![export00063.png](assets/export00063.png)
 
-Note: The Export Multi-Decoration Files capability allows you to output files for multi-decoration designs. The system recognizes whether a component is embroidery, graphic, appliqué, or bling. [See also Exporting multiple decoration files.](Exporting_multiple_decoration_files)
+::: info Note
+The Export Multi-Decoration Files capability allows you to output files for multi-decoration designs. The system recognizes whether a component is embroidery, graphic, appliqué, or bling. [See also Exporting multiple decoration files.](Exporting_multiple_decoration_files)
+:::

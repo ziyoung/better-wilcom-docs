@@ -16,7 +16,9 @@ Stacked sequins can be used with Manual Sequin and Sequin Run digitizing methods
 
 For those machines that support it, fixing stitches are only applied after all sequins have been dropped. In the case of many twin-sequin machines, the first sequin is dropped, fixed in place, and another dropped on top and stitched again.
 
-Note: If you choose a stacked sequin configuration that the sequin device does not support, the machine will simply ignore that particular drop code.
+::: info Note
+If you choose a stacked sequin configuration that the sequin device does not support, the machine will simply ignore that particular drop code.
+:::
 
 ## Related topics...
 

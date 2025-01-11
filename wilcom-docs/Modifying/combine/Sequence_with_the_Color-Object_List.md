@@ -3,7 +3,7 @@
 | ![ColorObjectList.png](assets/ColorObjectList.png) | Use Docker > Color-Object List to resequence objects. |
 | -------------------------------------------------- | ----------------------------------------------------- |
 
-The Color-Object List provides an easy way to select objects in designs and access their [properties](../../glossary/glossary).
+The Color-Object List provides an easy way to select objects in designs and access their [properties](../../glossary/glossary#properties).
 
 ## To sequence with the Color-Object List...
 
@@ -20,7 +20,9 @@ The Color-Object List provides an easy way to select objects in designs and acce
 
 ![ObjectListResequence2.png](assets/ObjectListResequence2.png)
 
-Tip: You can also use the Color-Object List to group, lock, and hide objects.
+::: tip
+You can also use the Color-Object List to group, lock, and hide objects.
+:::
 
 ## Related topics...
 

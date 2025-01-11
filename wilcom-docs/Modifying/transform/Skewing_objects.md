@@ -19,4 +19,6 @@ You can skew objects directly on screen or by setting an exact skew angle.
 
 ![transform00064.png](assets/transform00064.png)
 
-Tip: Alternatively, to skew by an exact amount, enter an exact angle in the Skew field on the Transform toolbar and press Enter.
+::: tip
+Alternatively, to skew by an exact amount, enter an exact angle in the Skew field on the Transform toolbar and press Enter.
+:::

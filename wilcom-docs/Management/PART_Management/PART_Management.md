@@ -20,7 +20,7 @@ The tables in this section display all embroidery fonts that are standard with E
 
 ## Custom fonts
 
-EmbroideryStudio provides options for creating custom embroidery fonts. You can create entire embroidery fonts from converted TrueType fonts. You can digitize letters from [backdrop](../../glossary/glossary) images, convert [vector objects](../../glossary/glossary), or digitize freehand using any of the input methods. You can use [artwork](../../glossary/glossary) from sources such as calligraphy books or TrueType fonts. [See Custom Fonts for details.](../custom_fonts/Custom_Fonts)
+EmbroideryStudio provides options for creating custom embroidery fonts. You can create entire embroidery fonts from converted TrueType fonts. You can digitize letters from [backdrop](../../glossary/glossary#backdrop) images, convert [vector objects](../../glossary/glossary), or digitize freehand using any of the input methods. You can use [artwork](../../glossary/glossary#artwork) from sources such as calligraphy books or TrueType fonts. [See Custom Fonts for details.](../custom_fonts/Custom_Fonts)
 
 ## Machine, file & disk types
 

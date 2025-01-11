@@ -11,7 +11,9 @@ The Show Hoop tool allows you to toggle hoop display on or off. When activated, 
 
 The simplest way to hoop a design is to prompt the system to select a hoop for you. Auto Hoop finds the smallest hoop which can accommodate the entire design. Auto Hoop only selects hoops from the My Hoops list thus only ever suggesting a hoop you have pre-selected as available for use.
 
-Tip: Click the Zoom to Hoop icon, select View > Zoom > Zoom to Hoop or press Alt+0 to view the entire hoop in the design window.
+::: tip
+Click the Zoom to Hoop icon, select View > Zoom > Zoom to Hoop or press Alt+0 to view the entire hoop in the design window.
+:::
 
 ## Related topics
 

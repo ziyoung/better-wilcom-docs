@@ -4,7 +4,7 @@
 | -------------------------------------- | ------------------------------------------------------------------ |
 | ![UnlockAll.png](assets/UnlockAll.png) | Use Arrange > Unlock All to unlock all locked objects in a design. |
 
-Lock objects to prevent them from being moved or modified by accident. For example, locking [backdrop](../../glossary/glossary) images holds them in place as you digitize, transform or reshape the embroidery objects near them.
+Lock objects to prevent them from being moved or modified by accident. For example, locking [backdrop](../../glossary/glossary#backdrop) images holds them in place as you digitize, transform or reshape the embroidery objects near them.
 
 ## To lock or unlock objects...
 
@@ -14,7 +14,9 @@ Lock objects to prevent them from being moved or modified by accident. For examp
 
 - To unlock objects, click the Unlock All icon or press Shift+K.
 
-Tip: The Color-Object List provides an easy way to select objects in designs and access their [properties](../../glossary/glossary). Use it to group, lock, and hide objects.
+::: tip
+The Color-Object List provides an easy way to select objects in designs and access their [properties](../../glossary/glossary#properties). Use it to group, lock, and hide objects.
+:::
 
 ![combine00026.png](assets/combine00026.png)
 

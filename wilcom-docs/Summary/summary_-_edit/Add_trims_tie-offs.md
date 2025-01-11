@@ -8,7 +8,9 @@ You can add trims in your design using the Trim tool. When you add a trim in thi
 
 You can add tie-offs in your design using the Tie-Off tool. This provides a semi-automated technique for adding tie-offs as an alternative to digitizing them with manual stitches. Tie-offs are usually added before a trim at the end of an object. Generally you will follow a tie-off with a trim.
 
-Tip: Make sure that all stitches you trim have been tied in and off, otherwise stitches will not be secured.
+::: tip
+Make sure that all stitches you trim have been tied in and off, otherwise stitches will not be secured.
+:::
 
 ## Related topics
 

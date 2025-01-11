@@ -12,7 +12,7 @@ Fashion trends sometimes favor a more organic look which is very hard to achieve
 <iframe src="https://www.youtube.com/embed/osMZzz1hWB4" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

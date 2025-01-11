@@ -4,7 +4,9 @@ EmbroideryStudio e4 has a new outline/fill digitizing paradigm similar to graphi
 
 ![rn_-_update-000063.png](assets/rn_-_update-000063.png)
 
-Note: Some optional features are shown. Not all tools are in all product models.
+::: info Note
+Some optional features are shown. Not all tools are in all product models.
+:::
 
 ## ![Toolbox00066.png](assets/Toolbox00066.png)New digitizing user interface
 

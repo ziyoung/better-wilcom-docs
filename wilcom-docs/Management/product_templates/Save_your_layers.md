@@ -14,4 +14,6 @@ Naming conventions:
 - Layer2 file name takes the form ‘FileName2.png’ – e.g. ‘Vest2.png’.
 - Layer3 file name takes the form ‘FileName3.png’ – e.g. ‘Vest3.png’.
 
-Note: The first name doesn’t need a number and will be name that identifies the garment in Product Visualizer.
+::: info Note
+The first name doesn’t need a number and will be name that identifies the garment in Product Visualizer.
+:::

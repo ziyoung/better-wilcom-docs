@@ -1,12 +1,14 @@
 # Machine function types
 
-EmbroideryStudio lets you manually insert color changes, thread trims, [jumps](../../glossary/glossary), machine stops, needles in and out, and boring functions, depending on the selected [machine format](../../glossary/glossary).
+EmbroideryStudio lets you manually insert color changes, thread trims, [jumps](../../glossary/glossary), machine stops, needles in and out, and boring functions, depending on the selected [machine format](../../glossary/glossary#machine-format).
 
 ## Color Change functions
 
-Color Change functions tell the machine to use the next thread color in the design. They are automatically inserted when you select a new color from the [color palette](../../glossary/glossary). [See Assign thread colors for details.](../../Basics/threads/Assign_thread_colors)
+Color Change functions tell the machine to use the next thread color in the design. They are automatically inserted when you select a new color from the [color palette](../../glossary/glossary#color-palette). [See Assign thread colors for details.](../../Basics/threads/Assign_thread_colors)
 
-Note: You only need to insert manual color change functions if you cannot recolor using standard methods – for example, when using multiple colors within a single object.
+::: info Note
+You only need to insert manual color change functions if you cannot recolor using standard methods – for example, when using multiple colors within a single object.
+:::
 
 ## Trim functions
 
@@ -14,13 +16,17 @@ Trim functions instruct machines with trimmers to cut connecting threads before 
 
 If you need additional trims, you can insert the functions manually.
 
-Note: If a machine does not have a trimmer, the Trim function is ignored. Depending on the machine format, the Trim function may be a code or a sequence of jumps. [See Trim functions for details.](../../Setup/machines/Trim_functions)
+::: info Note
+If a machine does not have a trimmer, the Trim function is ignored. Depending on the machine format, the Trim function may be a code or a sequence of jumps. [See Trim functions for details.](../../Setup/machines/Trim_functions)
+:::
 
 ## Stop functions
 
 If you want the embroidery machine to stop for any reason during stitching, you need to manually insert a Stop function in the stitching sequence.
 
-Tip: Because a Stop function may be inserted for various reasons, you should record the purpose of the stop on the [production worksheet](../../glossary/glossary) to assist the machine operator.
+::: tip
+Because a Stop function may be inserted for various reasons, you should record the purpose of the stop on the [production worksheet](../../glossary/glossary#production-worksheet) to assist the machine operator.
+:::
 
 ## Jump functions
 
@@ -39,7 +45,9 @@ The Begin/End Jump functions (formerly known as Needle Out/In) instruct the mach
 
 If you need additional Begin/End Jump functions, you can insert them manually.
 
-Note: Remember to insert a End Jump function to instruct the machine to resume normal stitching.
+::: info Note
+Remember to insert a End Jump function to instruct the machine to resume normal stitching.
+:::
 
 ## Borer In/Out functions
 

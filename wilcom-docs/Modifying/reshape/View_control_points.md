@@ -7,7 +7,7 @@
 | ![ShowStitchAngles.png](assets/ShowStitchAngles.png) | Use Reshape Views > Show Stitch Angles to toggle on/off stitch angles for selected objects.                                                             |
 | ![ShowEntryExit.png](assets/ShowEntryExit.png)       | Use Reshape Views > Show Entry/Exit Points to toggle on/off entry/exit points for selected objects – respectively, green diamond and red cross markers. |
 
-The Reshape Object tool is important in EmbroideryStudio. Use it whenever you want to change object shapes. Use it also to edit stitch angles as well as [entry ](../../glossary/glossary)and [exit](../../glossary/glossary) points.
+The Reshape Object tool is important in EmbroideryStudio. Use it whenever you want to change object shapes. Use it also to edit stitch angles as well as [entry ](../../glossary/glossary)and [exit](../../glossary/glossary#exit) points.
 
 ## To view control points...
 
@@ -15,7 +15,9 @@ The Reshape Object tool is important in EmbroideryStudio. Use it whenever you wa
 
 ![reshape00005.png](assets/reshape00005.png)
 
-Tip: Most control points can be added, deleted, or moved. Corner and curve points can be swapped. [Entry/](../../glossary/glossary)[exit](../../glossary/glossary) points, however, cannot be deleted.
+::: tip
+Most control points can be added, deleted, or moved. Corner and curve points can be swapped. [Entry/](../../glossary/glossary)[exit](../../glossary/glossary#exit) points, however, cannot be deleted.
+:::
 
 - Use the Reshape Views toolbar to selectively display control points.
 

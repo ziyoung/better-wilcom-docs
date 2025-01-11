@@ -5,7 +5,9 @@
 
 PC serial COM ports are male connectors, and can be either 9-pin or 25-pin. They are named COM1, COM2, COM3, etc. When you set up a digitizer or machine that is connected via a serial port, you need to enter the serial port settings in EmbroideryStudio.
 
-Note: You must be able to identify the ports on your computer. If in doubt, consult a PC technician.
+::: info Note
+You must be able to identify the ports on your computer. If in doubt, consult a PC technician.
+:::
 
 ## To enter serial port settings...
 
@@ -27,7 +29,9 @@ Note: You must be able to identify the ports on your computer. If in doubt, cons
 
 6. Click OK.
 
-Note: The port settings must match those of the embroidery machine or selected device. The type of handshaking must match the type of cable you are using. Check the communications setup section of the documentation that came with the device.
+::: info Note
+The port settings must match those of the embroidery machine or selected device. The type of handshaking must match the type of cable you are using. Check the communications setup section of the documentation that came with the device.
+:::
 
 ## Related topics...
 

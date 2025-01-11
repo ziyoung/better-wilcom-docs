@@ -9,7 +9,7 @@ Change circle/star objects from circles to ovals using the Reshape Object tool.
 
 ## To reshape star objects...
 
-- Select an object and click Reshape Object. Circle/star objects have two reshape-nodes (for radius and orientation), a center point (to reposition), and an [entry point](../../glossary/glossary).
+- Select an object and click Reshape Object. Circle/star objects have two reshape-nodes (for radius and orientation), a center point (to reposition), and an [entry point](../../glossary/glossary#entry-point).
 
 ![reshape00042.png](assets/reshape00042.png)
 
@@ -17,11 +17,15 @@ Change circle/star objects from circles to ovals using the Reshape Object tool.
 
 ![reshape00045.png](assets/reshape00045.png)
 
-Tip: Change the stitch angle of circle objects by moving the [entry point](../../glossary/glossary).
+::: tip
+Change the stitch angle of circle objects by moving the [entry point](../../glossary/glossary#entry-point).
+:::
 
 - Press Enter.
 
-Tip: To [scale](../../glossary/glossary) a circle without changing it to an oval, select it with the Select Object tool, and use [selection handles](../../glossary/glossary).
+::: tip
+To [scale](../../glossary/glossary) a circle without changing it to an oval, select it with the Select Object tool, and use [selection handles](../../glossary/glossary#selection-handles).
+:::
 
 ## Related topics...
 

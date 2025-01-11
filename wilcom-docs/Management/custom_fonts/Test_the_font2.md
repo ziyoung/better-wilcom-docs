@@ -7,7 +7,9 @@ Again, once you have finished packing the letters, test them by creating some le
 
 ![SaveCustomAlphabet6.png](assets/SaveCustomAlphabet6.png)
 
-Tip: Compare your design with the sample ‘My Script Font.EMB’ included in the Projects > Custom Fonts folder.
+::: tip
+Compare your design with the sample ‘My Script Font.EMB’ included in the Projects > Custom Fonts folder.
+:::
 
 ## Related topics...
 

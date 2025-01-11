@@ -29,7 +29,9 @@ Traditional digitizing methods divide into three main categories – ‘free sha
 
 EmbroideryStudio also provides special time-saving input tools for creating stars and rings. [See Digitize stars & rings for details.](../../Modifying/productivity/Digitize_stars_rings)
 
-Tip: Traditional methods also include ‘manual’ digitizing tools. Use these to add individual stitches, either singly or three stitch layers at a time. [See Digitizing manual stitches for details.](../../Modifying/functions/Digitizing_manual_stitches)
+::: tip
+Traditional methods also include ‘manual’ digitizing tools. Use these to add individual stitches, either singly or three stitch layers at a time. [See Digitizing manual stitches for details.](../../Modifying/functions/Digitizing_manual_stitches)
+:::
 
 ## Digitizing methods
 
@@ -43,7 +45,7 @@ Whenever you select a traditional digitizing tool, instructions in the Prompt Ba
 
 ## Underlays
 
-Embroidery appearance and quality depends a lot on [underlay](../../glossary/glossary) which serves as a foundation for cover stitching. Underlay settings are stored with each object in the same way as other [object properties](../../glossary/glossary). They are regenerated whenever the object is [scaled](../../glossary/glossary) or transformed. When Auto Fabric is turned on, a default underlay is applied, based on fabric settings. When Auto Fabric is turned off, an underlay is still applied but it is based on the digitizing method.
+Embroidery appearance and quality depends a lot on [underlay](../../glossary/glossary#underlay) which serves as a foundation for cover stitching. Underlay settings are stored with each object in the same way as other [object properties](../../glossary/glossary#object-properties). They are regenerated whenever the object is [scaled](../../glossary/glossary) or transformed. When Auto Fabric is turned on, a default underlay is applied, based on fabric settings. When Auto Fabric is turned off, an underlay is still applied but it is based on the digitizing method.
 
 ![input00011.png](assets/input00011.png)
 
@@ -57,7 +59,9 @@ Embroidery appearance and quality depends a lot on [underlay](../../glossary/glo
 - Hold down the Shift key to temporarily deactivate Auto Scroll.
 - Use the Ctrl+Shift+A key combination to quickly toggle Auto Scroll on/off.
 
-Tip: The Show Repeats function displays repeating designs, including sequins, in both TrueView and stitch view. You can view an existing design, even while digitizing, with any number of repeats.
+::: tip
+The Show Repeats function displays repeating designs, including sequins, in both TrueView and stitch view. You can view an existing design, even while digitizing, with any number of repeats.
+:::
 
 ## Switching between fill & outline
 
@@ -66,7 +70,9 @@ You can switch between a fill stitch input method and Digitize Run or Manual by 
 - Press Enter to switch between a fill stitch digitizing method and Manual.
 - Press Spacebar to switch between a fill stitch digitizing method and Digitize Run.
 
-Tip: After digitizing, most object types can be easily inter-converted.
+::: tip
+After digitizing, most object types can be easily inter-converted.
+:::
 
 ## Related topics...
 

@@ -1,6 +1,6 @@
 # Viewing objects & color blocks
 
-EmbroideryStudio provides many techniques for selectively hiding or viewing [embroidery objects](../../glossary/glossary) or [color blocks](../../glossary/glossary).
+EmbroideryStudio provides many techniques for selectively hiding or viewing [embroidery objects](../../glossary/glossary#embroidery-objects) or [color blocks](../../glossary/glossary).
 
 ![view00044.png](assets/view00044.png)
 

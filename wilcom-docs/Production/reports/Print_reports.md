@@ -28,7 +28,9 @@ Create a hard copy of your design report using a printer or plotter. Alternative
 
 8. If you are using a plotter, click Properties, and set pen colors to correspond with the thread colors in the design.
 
-Note: Refer to your plotter manual for information on setting up pen colors.
+::: info Note
+Refer to your plotter manual for information on setting up pen colors.
+:::
 
 9. Click Preview to inspect the report before sending to print.
 

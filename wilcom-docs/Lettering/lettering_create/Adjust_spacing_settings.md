@@ -21,4 +21,6 @@ You can adjust letter, word and line spacings via object properties.
 
 ![lettering_create00057.png](assets/lettering_create00057.png)
 
-Tip: If you want to remove spacing between words, set Word Spacing to 0%.
+::: tip
+If you want to remove spacing between words, set Word Spacing to 0%.
+:::

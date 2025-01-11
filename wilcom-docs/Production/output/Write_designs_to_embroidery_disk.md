@@ -3,7 +3,7 @@
 | ![EmbroideryDisk00044.png](assets/EmbroideryDisk00044.png) | Use Legacy Features > Embroidery Disk to open designs from or save to proprietary embroidery disk formats. |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 
-Save designs to [embroidery disk](../../glossary/glossary) to stitch out on a specific machine. When you save to a new format, the design is converted to encode the [machine functions](../../glossary/glossary) and commands supported by the particular machine.
+Save designs to [embroidery disk](../../glossary/glossary#embroidery-disk) to stitch out on a specific machine. When you save to a new format, the design is converted to encode the [machine functions](../../glossary/glossary) and commands supported by the particular machine.
 
 ## To write designs to embroidery disk...
 
@@ -26,7 +26,9 @@ The Save to Embroidery Disk dialog opens.
 
 Any designs already saved on disk are listed in the panel.
 
-Note: If the disk is not formatted, or its format is not correct, click Format.
+::: info Note
+If the disk is not formatted, or its format is not correct, click Format.
+:::
 
 5. In the Design Name field, enter a name for the design.
 
@@ -42,7 +44,9 @@ Not all [machine formats](../../glossary/glossary) require this information. Thi
 
 Some machines can read different formats. For example, some Tajima machines can read Barudan as well as Tajima.
 
-Tip: To view or modify machine format settings, click Values.
+::: tip
+To view or modify machine format settings, click Values.
+:::
 
 9. From the Design Type list, select the file type to save to embroidery disk. Only one file type is generally available.
 
@@ -52,7 +56,9 @@ This icon appears in the machine control panel during stitch-out.
 
 11. Click Save.
 
-Caution: Wait until the light on the floppy disk drive stops flashing before removing the disk.
+::: warning Caution
+Wait until the light on the floppy disk drive stops flashing before removing the disk.
+:::
 
 ## Related topics...
 

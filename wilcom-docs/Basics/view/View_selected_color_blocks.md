@@ -17,7 +17,7 @@ A color block corresponds to a [color stop](../../glossary/glossary) in the desi
 
 ![view00060.png](assets/view00060.png)
 
-- Selectively hide or ‘unhide’ selected [color blocks](../../glossary/glossary) and [embroidery objects](../../glossary/glossary) using popup menu commands.
+- Selectively hide or ‘unhide’ selected [color blocks](../../glossary/glossary) and [embroidery objects](../../glossary/glossary#embroidery-objects) using popup menu commands.
 
 ![view00063.png](assets/view00063.png)
 

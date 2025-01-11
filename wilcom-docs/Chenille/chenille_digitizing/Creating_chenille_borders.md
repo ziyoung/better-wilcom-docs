@@ -8,7 +8,9 @@
 
 Chenille objects, particularly with moss stitching, need to have a border to contain stitches within the shape and provide edge definition. One or two offset run-arounds provide a clear edge and help to secure chenille fills. The Compound Chenille tool allows up to three (1-3) offset borders to be generated before and after the fill. Typically, a compound object will include moss fill with a chain run border before and after to tie it all together. You can, however, digitize single-line borders manually. For this, you often use the Run method with Chain stitching.
 
-Tip: If your machine supports it, you may also combine chenille with regular tie-off stitching.
+::: tip
+If your machine supports it, you may also combine chenille with regular tie-off stitching.
+:::
 
 ## To digitize a chenille border...
 
@@ -29,11 +31,15 @@ Tip: If your machine supports it, you may also combine chenille with regular tie
 
 ![chenille_digitizing00056.png](assets/chenille_digitizing00056.png)
 
-Tip: Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
+::: tip
+Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
+:::
 
 6. Press Enter to complete.
 
-Tip: Use Backtrack and Repeat to reinforce outlines while specifying the direction of stitching.
+::: tip
+Use Backtrack and Repeat to reinforce outlines while specifying the direction of stitching.
+:::
 
 ## Tips for use
 

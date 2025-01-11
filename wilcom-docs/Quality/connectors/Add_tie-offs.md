@@ -15,7 +15,9 @@ You can add tie-offs in your design using the Tie-Off tool. This provides a semi
 
 The default number of tie-off stitches is two. This means the needle backtracks twice and returns to the insertion point. Adjust this value in the Object Properties > Connectors docker.
 
-Tip: You can also insert [machine functions](../../glossary/glossary) manually using the Insert Machine Function dialog.
+::: tip
+You can also insert [machine functions](../../glossary/glossary) manually using the Insert Machine Function dialog.
+:::
 
 ## Related topics...
 

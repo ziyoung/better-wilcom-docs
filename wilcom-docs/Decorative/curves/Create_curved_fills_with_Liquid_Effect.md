@@ -24,13 +24,17 @@ Liquid Effect works the same ways Florentine Effect except that you enter twin g
 
 5. Digitize the second in the same direction as the first, marking at least three reference points.
 
-Note: The two guidelines must not overlap or intersect the object outline.
+::: info Note
+The two guidelines must not overlap or intersect the object outline.
+:::
 
 6. Press Enter to apply.
 
 ![curves00073.png](assets/curves00073.png)
 
-Tip: Use the Reshape Object tool to modify guidelines.
+::: tip
+Use the Reshape Object tool to modify guidelines.
+:::
 
 ![curves00076.png](assets/curves00076.png)
 

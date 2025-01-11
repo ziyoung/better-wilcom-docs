@@ -7,7 +7,9 @@ You can select sequins before or after digitizing. Similarly, you can preset fix
 
 ![FixingStitchSamples.png](assets/FixingStitchSamples.png)
 
-Note: Sequin Run stitch has potential as a decorative stitch in its own right. For this purpose you can select None in the Sequin Palette. This option is best used with the Sequin Drop Direction set to Any.
+::: info Note
+Sequin Run stitch has potential as a decorative stitch in its own right. For this purpose you can select None in the Sequin Palette. This option is best used with the Sequin Drop Direction set to Any.
+:::
 
 ## Related topics
 

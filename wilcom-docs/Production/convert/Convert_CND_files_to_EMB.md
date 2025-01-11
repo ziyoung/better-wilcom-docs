@@ -6,7 +6,7 @@ When you open Melco CND files, the Melco stitch types used in the design are con
 
 ## To convert a CND file to EMB...
 
-1. Open the file from your hard disk, or read it from tape or [embroidery disk](../../glossary/glossary).
+1. Open the file from your hard disk, or read it from tape or [embroidery disk](../../glossary/glossary#embroidery-disk).
 
 ![OpenCND.png](assets/OpenCND.png)
 
@@ -45,7 +45,9 @@ If the CND design was created with values different to the factory settings, you
 
 The selected design opens in the design window. You can scale the design directly on screen or via the Object Properties docker. You can also rotate, mirror and skew the design.
 
-Tip: Before CND designs are stitched out, an EXP format file is created. The EXP stores the actual stitches and can be stitched directly. This file too can be opened in EmbroideryStudio.
+::: tip
+Before CND designs are stitched out, an EXP format file is created. The EXP stores the actual stitches and can be stitched directly. This file too can be opened in EmbroideryStudio.
+:::
 
 ## Related topics...
 

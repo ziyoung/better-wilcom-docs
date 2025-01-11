@@ -14,7 +14,9 @@ Sometimes you need to edit bitmap images directly in a third-party graphics pack
 
 ![EditImage3.png](assets/EditImage3.png)
 
-Note: If you return to EmbroideryStudio before closing the image in the graphics package, it is overlaid with stripes.
+::: info Note
+If you return to EmbroideryStudio before closing the image in the graphics package, it is overlaid with stripes.
+:::
 
 ![EditImage4.png](assets/EditImage4.png)
 

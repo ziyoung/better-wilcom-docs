@@ -31,7 +31,9 @@ These settings are useful if, for example, you choose an entire design as a cutt
 
 ![RemoveOverlapsTV3.png](assets/RemoveOverlapsTV3.png)
 
-Tip: You can use an entire design as a cutter excluding objects, such as borders or details, less than a certain width.
+::: tip
+You can use an entire design as a cutter excluding objects, such as borders or details, less than a certain width.
+:::
 
 ## Related topics...
 

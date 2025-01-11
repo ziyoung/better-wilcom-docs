@@ -12,7 +12,9 @@ Garments are organized by number of colors and garment type – e.g. 2 colors, C
 
 - Create your own sub-folders as necessary and copy in your prepared image files.
 
-Note: The file name will be the name that identifies the garment in Product Visualizer.
+::: info Note
+The file name will be the name that identifies the garment in Product Visualizer.
+:::
 
 ## Related topics...
 

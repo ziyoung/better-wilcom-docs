@@ -19,7 +19,9 @@ You can align selected objects to the left, right, top, bottom or center of a sp
 
 ![transform00010.png](assets/transform00010.png)
 
-Note: Objects are aligned with the last selected object. When all objects are selected using Ctrl+A or a selection marquee, they are aligned with the last object in the sequence.
+::: info Note
+Objects are aligned with the last selected object. When all objects are selected using Ctrl+A or a selection marquee, they are aligned with the last object in the sequence.
+:::
 
 ## Related topics...
 

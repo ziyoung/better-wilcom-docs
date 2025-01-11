@@ -9,7 +9,9 @@ You can scale objects to the same size as a reference object. Resize the height 
 
 ![summary_-_edit00111.png](assets/summary_-_edit00111.png)
 
-Note: Objects are resized with reference to the last object selected. If all objects are selected by using Ctrl+A or a selection marquee, they are resized with reference to the last object in the sequence.
+::: info Note
+Objects are resized with reference to the last object selected. If all objects are selected by using Ctrl+A or a selection marquee, they are resized with reference to the last object in the sequence.
+:::
 
 ## Related topics
 

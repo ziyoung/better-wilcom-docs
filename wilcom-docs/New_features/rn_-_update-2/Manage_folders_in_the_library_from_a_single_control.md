@@ -7,4 +7,6 @@ The mechanism for adding and removing folders from the Design Library has been i
 
 ![rn_-_update-200008.png](assets/rn_-_update-200008.png)
 
-Note: For businesses with multiple computers reading and writing EMB or machine format designs, there is usually a need to store designs in shared network folders. You may want to set up a company server as a central repository for all design files. Connect any folders on the server to each client PC via Design Library. Design Library relies on Windows indexing to ensure fast searching. [See also Fast searching on shared network drives.](../../Management/manage_designs/Fast_searching_on_shared_network_drives)
+::: info Note
+For businesses with multiple computers reading and writing EMB or machine format designs, there is usually a need to store designs in shared network folders. You may want to set up a company server as a central repository for all design files. Connect any folders on the server to each client PC via Design Library. Design Library relies on Windows indexing to ensure fast searching. [See also Fast searching on shared network drives.](../../Management/manage_designs/Fast_searching_on_shared_network_drives)
+:::

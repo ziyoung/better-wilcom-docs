@@ -9,7 +9,9 @@ In this project we are going to create sample letters using uppercase A, B, C an
 
 ![custom_fonts00084.png](assets/custom_fonts00084.png)
 
-Tip: Use Vector tools to draw guidelines for more accurate digitizing.
+::: tip
+Use Vector tools to draw guidelines for more accurate digitizing.
+:::
 
 ![DigitizeLetters2.png](assets/DigitizeLetters2.png)
 

@@ -9,7 +9,9 @@ Cross stitching is a popular technique for filling large areas with low stitch c
 
 Crosses in different objects align when using the same fabric count. This is because cross stitch fills are generated on an invisible grid, not referenced to the individual object. Fractional crosses are generated at object boundaries in order to avoid gaps forming. Cross Stitch fill uses travel runs under and along the cross stitching.
 
-Note: Cross Stitch fill is a stitch type in its own right but does not replace the ES Cross Stitch application available via the File menu. See also EmbroideryStudio Cross Stitch Supplement.
+::: info Note
+Cross Stitch fill is a stitch type in its own right but does not replace the ES Cross Stitch application available via the File menu. See also EmbroideryStudio Cross Stitch Supplement.
+:::
 
 ## To create a cross stitch fill...
 
@@ -38,7 +40,9 @@ Current Cross Stitch settings are applied. Auto Underlay and Pull Compensation a
 | Stitch style    | Full cross (X), diagonal (\\), or upright (+).                                                                                               |
 | Floss direction | Controls direction of top leg of the cross – forward or backward for diagonal full crosses, horizontal or vertical for upright full crosses. |
 
-Tip: The cross stitch grid is not displayed but you can set the background grid to the cross size to get a better idea. Use Snap to Grid to ensure that your object outlines line up with the cross stitch grid.
+::: tip
+The cross stitch grid is not displayed but you can set the background grid to the cross size to get a better idea. Use Snap to Grid to ensure that your object outlines line up with the cross stitch grid.
+:::
 
 ## Related topics...
 

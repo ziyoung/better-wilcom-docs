@@ -11,7 +11,9 @@ In EmbroideryStudio, you use a single design workspace for both chenille and loc
 
 ![summary_-_special00139.png](assets/summary_-_special00139.png)
 
-Tip: For further information about the Chenille tools, refer to the Chenille Supplement supplied with the Chenille Option. This is available via the Help menu.
+::: tip
+For further information about the Chenille tools, refer to the Chenille Supplement supplied with the Chenille Option. This is available via the Help menu.
+:::
 
 ## Related video
 

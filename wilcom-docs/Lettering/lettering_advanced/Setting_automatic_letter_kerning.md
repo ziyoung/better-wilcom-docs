@@ -4,7 +4,9 @@ The automatic kerning feature improves lettering appearance and legibility by fi
 
 ![lettering_advanced00071.png](assets/lettering_advanced00071.png)
 
-Tip: For more information about kerning, see the Windows Dev Center topic on [Justification, Kerning, and Spacing](https://msdn.microsoft.com/en-us/library/windows/desktop/hh994452%28v=vs.85%29.aspx).
+::: tip
+For more information about kerning, see the Windows Dev Center topic on [Justification, Kerning, and Spacing](https://msdn.microsoft.com/en-us/library/windows/desktop/hh994452%28v=vs.85%29.aspx).
+:::
 
 ## Related topics...
 

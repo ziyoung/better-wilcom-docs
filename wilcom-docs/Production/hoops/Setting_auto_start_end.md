@@ -5,7 +5,9 @@
 
 Before stitchout, some embroidery machines require you to position the hoop precisely in relation to the needle. The Auto Start & End feature is available to connect first and last stitches in a design. This makes it easy to position the needle before stitching, and reduces the chance of the needle hitting the side of the frame.
 
-Note: Machines which auto-center designs around design extents will ignore the Auto Start & End setting.
+::: info Note
+Machines which auto-center designs around design extents will ignore the Auto Start & End setting.
+:::
 
 ## To set automatic start & end points...
 
@@ -30,9 +32,13 @@ Note: Machines which auto-center designs around design extents will ignore the A
 - Select the type and length of the connecting stitches in the Connectors panel.
 - Click OK to confirm. Connectors – travel runs or jumps – are inserted as specified, before first and after last stitches of the design.
 
-Tip: Auto-start & end symbols – a green circle and a red cross – can be activated via the Options > View Design tab. [See Show auto-start & end points for details.](../../Setup/settings/Show_auto-start_end_points)
+::: tip
+Auto-start & end symbols – a green circle and a red cross – can be activated via the Options > View Design tab. [See Show auto-start & end points for details.](../../Setup/settings/Show_auto-start_end_points)
+:::
 
-Caution: Problems may occur when you try to set a common start and end point for team names.
+::: warning Caution
+Problems may occur when you try to set a common start and end point for team names.
+:::
 
 ## Related topics...
 

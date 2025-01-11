@@ -4,7 +4,9 @@ EmbroideryStudio provides various techniques for selecting and changing colorway
 
 ![colorways00002.png](assets/colorways00002.png)
 
-Caution: Due to differences in computer monitors and video cards, onscreen colors should only be used as guides. Always check thread colors against the actual thread chart you intend to use.
+::: warning Caution
+Due to differences in computer monitors and video cards, onscreen colors should only be used as guides. Always check thread colors against the actual thread chart you intend to use.
+:::
 
 ## Related topics...
 

@@ -17,6 +17,8 @@ Various aspects of the Team Names feature have been improved:
 
 ![TeamNamesDesigns.png](assets/TeamNamesDesigns.png)
 
-Note: By default, the Designs tab includes a ‘Custom’ folder which is the default for all user-defined teamname templates. If you merge settings from an older version of the software, other folders may appear.
+::: info Note
+By default, the Designs tab includes a ‘Custom’ folder which is the default for all user-defined teamname templates. If you merge settings from an older version of the software, other folders may appear.
+:::
 
 - Re-purpose designs for use as custom layouts via the File > Save as Teamname Template command.

@@ -18,7 +18,9 @@ Untick the Serial interface function and click OK. You will receive the followin
 
 ![Disable_Serial_Interface_2.png](assets/Disable_Serial_Interface_2.png)
 
-Note: If you turn off the serial interface and subsequently lose WiFi connection to the EC device, the only way to reconfigure it is to perform a ‘hard reset’. [See If you have created a folder structure, double-click the ‘..’ at the top of the list to move up a folder level. for details.](View_manage_designs_on_EmbroideryHub)
+::: info Note
+If you turn off the serial interface and subsequently lose WiFi connection to the EC device, the only way to reconfigure it is to perform a ‘hard reset’. [See If you have created a folder structure, double-click the ‘..’ at the top of the list to move up a folder level. for details.](View_manage_designs_on_EmbroideryHub)
+:::
 
 ## USB drive compatibility mode
 
@@ -28,4 +30,6 @@ There’s an option to run the EC device in ‘USB drive compatibility mode’. 
 - Only do this after the device has been set up and is working.
 - If you reset the device for any reason, make sure ‘disable serial interface’ is unticked.
 
-Note: The option is grayed out if the device does not have firmware version 1.0.1 or greater.
+::: info Note
+The option is grayed out if the device does not have firmware version 1.0.1 or greater.
+:::

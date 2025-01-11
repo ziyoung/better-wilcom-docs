@@ -3,7 +3,7 @@
 | ![Run00008.png](assets/Run00008.png) | Use Outline Stitch Types > Run to place a row of single run stitches along a digitized line. Right-click for settings. |
 | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 
-For run stitch and other outline stitches, [stitch length](../../glossary/glossary) can be adjusted to suit the shape.
+For run stitch and other outline stitches, [stitch length](../../glossary/glossary#stitch-length) can be adjusted to suit the shape.
 
 ## To adjust stitch length...
 
@@ -20,4 +20,4 @@ For run stitch and other outline stitches, [stitch length](../../glossary/glossa
 
 ![stitches00015.png](assets/stitches00015.png)
 
-- In the Min Len field, enter the [minimum stitch length](../../glossary/glossary) to allow. Stitch length will not reduce to less than this value, even if the chord gap is exceeded.
+- In the Min Len field, enter the [minimum stitch length](../../glossary/glossary#minimum-stitch-length) to allow. Stitch length will not reduce to less than this value, even if the chord gap is exceeded.

@@ -21,7 +21,9 @@ Using the Object Properties docker, you can specify letter formatting before add
 
 ![lettering_create00026.png](assets/lettering_create00026.png)
 
-Tip: Check min/max recommendations for each font and stay within them for best results. [See Standard Fonts for details.](../../Management/sample_fonts/Standard_Fonts)
+::: tip
+Check min/max recommendations for each font and stay within them for best results. [See Standard Fonts for details.](../../Management/sample_fonts/Standard_Fonts)
+:::
 
 4. Select a baseline from the droplist. Baselines determine the shape of lettering objects in a design.
 
@@ -35,7 +37,9 @@ Tip: Check min/max recommendations for each font and stay within them for best r
 
 ![CreateLettering2.png](assets/CreateLettering2.png)
 
-Tip: Lettering appearance and quality depends a lot on underlay which serves as a foundation for cover stitching.
+::: tip
+Lettering appearance and quality depends a lot on underlay which serves as a foundation for cover stitching.
+:::
 
 ## Related topics...
 

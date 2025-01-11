@@ -22,7 +22,9 @@ The effect is generally applied to Complex Fill objects. Curved blends can be cr
 
 - Click OK to generate.
 
-Note: To prevent underlay stitching from showing through, Auto Underlay is deselected by default and Trapunto effect applied.
+::: info Note
+To prevent underlay stitching from showing through, Auto Underlay is deselected by default and Trapunto effect applied.
+:::
 
 ## To adjust settings...
 

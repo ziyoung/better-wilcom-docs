@@ -16,7 +16,9 @@ The Optimize Color Changes feature improves the quality and efficiency of the st
 
 ![AutoSequenceDesign2.png](assets/AutoSequenceDesign2.png)
 
-Tip: The Undo command will reverse the effect of any sequencing changes.
+::: tip
+The Undo command will reverse the effect of any sequencing changes.
+:::
 
 ## Related topics...
 

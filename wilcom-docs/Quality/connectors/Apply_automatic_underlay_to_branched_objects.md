@@ -19,7 +19,9 @@
 
 ![connectors00091.png](assets/connectors00091.png)
 
-Note: If component objects are touching or overlapping, the underlay is first stitched out for the whole branched object followed by the cover stitch.
+::: info Note
+If component objects are touching or overlapping, the underlay is first stitched out for the whole branched object followed by the cover stitch.
+:::
 
 ## Related topics...
 

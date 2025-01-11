@@ -12,7 +12,9 @@ The Bling Fill feature provides a means of filling complex shapes with bling arr
 
 ![bling00043.png](assets/bling00043.png)
 
-Tip: You can create offset objects from bling-fill objects. All the same options are available as are available for embroidery objects, plus the ability to create bling fills and runs.
+::: tip
+You can create offset objects from bling-fill objects. All the same options are available as are available for embroidery objects, plus the ability to create bling fills and runs.
+:::
 
 ## To create a bling fill...
 
@@ -56,11 +58,15 @@ Tip: You can create offset objects from bling-fill objects. All the same options
 
 11. Add borders as required. See below
 
-Tip: By default, Automatic Overlap Removal is selected in order to automatically remove unwanted items from overlapping bling objects. Choose another option if you want to manually edit rhinestone overlaps.
+::: tip
+By default, Automatic Overlap Removal is selected in order to automatically remove unwanted items from overlapping bling objects. Choose another option if you want to manually edit rhinestone overlaps.
+:::
 
 ![bling00064.png](assets/bling00064.png)
 
-Note: Bling overlaps are determined by the Overlap Tolerance setting. This defines the minimum allowable distance between stones.
+::: info Note
+Bling overlaps are determined by the Overlap Tolerance setting. This defines the minimum allowable distance between stones.
+:::
 
 ## Bling fill summary
 

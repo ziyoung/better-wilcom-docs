@@ -11,8 +11,12 @@ Custom sequin fixings mean you can:
 - Accommodate specific fixing requirements.
 - Accommodate new capabilities – e.g. offset holes.
 
-Tip: If you have chosen an eccentric sequin shape such as an ‘ellipse’, fixing stitches automatically adapt to fit.
+::: tip
+If you have chosen an eccentric sequin shape such as an ‘ellipse’, fixing stitches automatically adapt to fit.
+:::
 
 ![EccentricSequinFixings.png](assets/EccentricSequinFixings.png)
 
-Tip: Use the Setup > Manage Sequin Fixing command to rename or delete custom sequin fixings from the library.
+::: tip
+Use the Setup > Manage Sequin Fixing command to rename or delete custom sequin fixings from the library.
+:::

@@ -5,7 +5,7 @@
 | ![InstantSmartDesign.png](assets/InstantSmartDesign.png)             | Use Auto-Digitizing > Instant Smart Design to automatically create embroidery from imported artwork instantly. |
 | ![KeepOriginalObjects00035.png](assets/KeepOriginalObjects00035.png) | Use Auto-Digitizing > Keep Graphic Objects to retain original artwork during conversion.                       |
 
-In essence, creating an embroidery design with the Instant Smart Design tool is simply a matter of selecting the image you want to convert, and clicking the tool. EmbroideryStudio automatically determines colors to treat as fills or outlines, or omit altogether. And it chooses the most suitable stitch types to apply with default settings. This is very useful for stitch estimates. The tool handles both [bitmap](../../glossary/glossary) and [vector](../../glossary/glossary) formats.
+In essence, creating an embroidery design with the Instant Smart Design tool is simply a matter of selecting the image you want to convert, and clicking the tool. EmbroideryStudio automatically determines colors to treat as fills or outlines, or omit altogether. And it chooses the most suitable stitch types to apply with default settings. This is very useful for stitch estimates. The tool handles both [bitmap](../../glossary/glossary#bitmap) and [vector](../../glossary/glossary) formats.
 
 ## To auto-digitize ‘instant embroidery’...
 

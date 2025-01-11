@@ -4,7 +4,9 @@ The default capacity of the EC device is 8MB. Most machines accept this size of 
 
 ![network00057.png](assets/network00057.png)
 
-Caution: If you choose floppy memory mode (1.44 Mb), it may not work on newer machines.
+::: warning Caution
+If you choose floppy memory mode (1.44 Mb), it may not work on newer machines.
+:::
 
 You can confirm the change in memory size when the EC device is connected to the PC.
 

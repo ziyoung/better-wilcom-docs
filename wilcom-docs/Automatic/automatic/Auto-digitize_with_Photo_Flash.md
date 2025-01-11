@@ -23,7 +23,9 @@ Use Photo Flash to create embroidery from photographs or other images, color or 
 
 ![automatic00083.png](assets/automatic00083.png)
 
-Note: The coarser the resolution the more spacing between rows.
+::: info Note
+The coarser the resolution the more spacing between rows.
+:::
 
 5. In the Row panel, enter a new angle as required.
 
@@ -36,7 +38,9 @@ Note: The coarser the resolution the more spacing between rows.
 | Light  | Applies the maximum row width value to the lightest part of the image. |
 | Dark   | Applies the maximum row width to the darkest part of the image.        |
 
-Tip: The option you select usually depends on whether the fabric is light or dark. The Dark option produces a negative of the image.
+::: tip
+The option you select usually depends on whether the fabric is light or dark. The Dark option produces a negative of the image.
+:::
 
 ![automatic00089.png](assets/automatic00089.png)
 
@@ -48,7 +52,9 @@ The Skew Angle determines the angle of the stitches.
 
 ![automatic00095.png](assets/automatic00095.png)
 
-Tip: Use TrueView™ for a more accurate representation of the stitching.
+::: tip
+Use TrueView™ for a more accurate representation of the stitching.
+:::
 
 8. Fine-tune Auto Spacing and Auto Split settings as required.
 
@@ -59,7 +65,9 @@ Tip: Use TrueView™ for a more accurate representation of the stitching.
 
 If you have defined a ‘soft crop’ for your bitmap, EmbroideryStudio generates stitches for that area. Otherwise stitches are generated for the entire bitmap.
 
-Note: In CorelDRAW Graphics, the Mode toolbar also includes a Tag as Photo Flash icon which allows you to convert photos to Photo Flash embroidery.
+::: info Note
+In CorelDRAW Graphics, the Mode toolbar also includes a Tag as Photo Flash icon which allows you to convert photos to Photo Flash embroidery.
+:::
 
 ## Related topics...
 

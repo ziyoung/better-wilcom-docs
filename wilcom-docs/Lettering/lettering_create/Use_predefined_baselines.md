@@ -12,7 +12,9 @@ Use Predefined baselines to quickly create three rows of lettering, or two rows 
 
 2. Enter two or three lines of text in the text entry panel. To start a new line of lettering, press Enter.
 
-Tip: If you want to insert a logo or design between the top and bottom lines, leave the middle line of text blank.
+::: tip
+If you want to insert a logo or design between the top and bottom lines, leave the middle line of text blank.
+:::
 
 3. Select the font and adjust other settings you require.
 
@@ -22,7 +24,9 @@ Tip: If you want to insert a logo or design between the top and bottom lines, le
 
 5. Click where you want to place the lettering and drag the cursor downward.
 
-Tip: Hold down the Ctrl key to constrain the line to 15° increments.
+::: tip
+Hold down the Ctrl key to constrain the line to 15° increments.
+:::
 
 6. Click to enter a point on the circumference of the circle.
 

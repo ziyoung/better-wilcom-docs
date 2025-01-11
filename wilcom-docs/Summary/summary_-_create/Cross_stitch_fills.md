@@ -7,7 +7,9 @@ Cross stitching is a popular technique for filling large areas with low stitch c
 
 ![CrossStitchSample.png](assets/CrossStitchSample.png)
 
-Tip: Cross Stitch fill is a stitch type in its own right but does not replace the ES Cross Stitch application available via the Special menu. See also EmbroideryStudio Cross Stitch Supplement.
+::: tip
+Cross Stitch fill is a stitch type in its own right but does not replace the ES Cross Stitch application available via the Special menu. See also EmbroideryStudio Cross Stitch Supplement.
+:::
 
 ## Related topics
 

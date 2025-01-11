@@ -11,7 +11,9 @@ Snap to Guides can be set for guides independently of grid lines. Reference poin
 
 The Show Column C Width Guide option activates a special cursor with the Column C tool. A circle appears at the cursor position corresponding to the width setting in the Object Properties docker. This is useful when digitizing a border based on a background image. When the offset is biased, two circles are shown, one for each side.
 
-Note: To gain the benefit of the width guide, you must accept the current width setting by pressing Enter, rather than digitizing reference points after finishing the centerline.
+::: info Note
+To gain the benefit of the width guide, you must accept the current width setting by pressing Enter, rather than digitizing reference points after finishing the centerline.
+:::
 
 ## Related topics...
 

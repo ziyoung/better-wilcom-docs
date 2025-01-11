@@ -14,7 +14,7 @@ Design Library is installed with sample designs in [EMB](../../glossary/glossary
 <iframe src="https://www.youtube.com/embed/FDZ50HBWeic" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -22,7 +22,7 @@ Design Library is installed with sample designs in [EMB](../../glossary/glossary
 <iframe src="https://www.youtube.com/embed/JTtDXIlOfGM" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

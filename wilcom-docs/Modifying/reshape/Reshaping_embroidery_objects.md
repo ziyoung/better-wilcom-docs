@@ -1,6 +1,6 @@
 # Reshaping embroidery objects
 
-The reference points you mark when digitizing a shape become its ‘[control points](../../glossary/glossary)’. Most control points can be added, deleted, or moved. Corner and curve points can be swapped. Some, such as [entry ](../../glossary/glossary)and [exit](../../glossary/glossary) points, cannot be deleted.
+The reference points you mark when digitizing a shape become its ‘[control points](../../glossary/glossary#control-points)’. Most control points can be added, deleted, or moved. Corner and curve points can be swapped. Some, such as [entry ](../../glossary/glossary)and [exit](../../glossary/glossary#exit) points, cannot be deleted.
 
 ![reshape00002.png](assets/reshape00002.png)
 

@@ -3,7 +3,7 @@
 | ![BitmapPreparation.png](assets/BitmapPreparation.png) | Use Auto-Digitizing > Prepare Bitmap Colors to reduce the number of colors and remove image ‘noise’ in non-outlined images. |
 | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 
-The Auto-Digitizing tools provide everything necessary to automatically digitize shapes in electronic [artwork](../../glossary/glossary) without using manual input methods. Even if your artwork looks ready to stitch when inserted into the software, however, it will need to be image-processed before conversion.
+The Auto-Digitizing tools provide everything necessary to automatically digitize shapes in electronic [artwork](../../glossary/glossary#artwork) without using manual input methods. Even if your artwork looks ready to stitch when inserted into the software, however, it will need to be image-processed before conversion.
 
 ![bitmaps00086.png](assets/bitmaps00086.png)
 

@@ -1,10 +1,12 @@
 # Embroidery Output
 
-Once an embroidery design is complete, you can output for actual stitchout in a variety of ways – sending directly to machine for stitching, or saving to specific machine formats and/or to [embroidery disk](../../glossary/glossary).
+Once an embroidery design is complete, you can output for actual stitchout in a variety of ways – sending directly to machine for stitching, or saving to specific machine formats and/or to [embroidery disk](../../glossary/glossary#embroidery-disk).
 
 ![OutputToDevices.png](assets/OutputToDevices.png)
 
-Tip: From the same design file, you can also output a [production worksheet](../../glossary/glossary) for the embroidery machine operator. [See Design Reports for details.](../reports/Design_Reports)
+::: tip
+From the same design file, you can also output a [production worksheet](../../glossary/glossary#production-worksheet) for the embroidery machine operator. [See Design Reports for details.](../reports/Design_Reports)
+:::
 
 ## Related topics...
 

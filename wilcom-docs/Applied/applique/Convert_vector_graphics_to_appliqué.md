@@ -20,11 +20,15 @@ In CorelDRAW Graphics, the Tag as Appliqué button allows you to tag selected ve
 
 ![TagVectorAsApplique6.png](assets/TagVectorAsApplique6.png)
 
-Note: When present, vector fill properties are maintained in Wilcom Workspace to give the appearance of a fabric patch. Otherwise, fills are rendered in gray.
+::: info Note
+When present, vector fill properties are maintained in Wilcom Workspace to give the appearance of a fabric patch. Otherwise, fills are rendered in gray.
+:::
 
 ![applique00007.png](assets/applique00007.png)
 
-Note: The success of the conversion can be affected by font size as a proportion of cover stitch width. Where the cover stitch is too thick for the resulting object, it may be ignored.
+::: info Note
+The success of the conversion can be affected by font size as a proportion of cover stitch width. Where the cover stitch is too thick for the resulting object, it may be ignored.
+:::
 
 ![ConvertAppliqueLetters.png](assets/ConvertAppliqueLetters.png)
 

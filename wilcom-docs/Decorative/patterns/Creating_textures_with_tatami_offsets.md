@@ -4,7 +4,9 @@ With tatami fills you can create patterns of needle penetrations. With only two 
 
 ![patterns00001.png](assets/patterns00001.png)
 
-Tip: [Auto Split](../../glossary/glossary) can be used to create special textures in satin stitches as an alternative to tatami fill. [See Split satin stitches for details.](../../Quality/quality/Split_satin_stitches)
+::: tip
+[Auto Split](../../glossary/glossary) can be used to create special textures in satin stitches as an alternative to tatami fill. [See Split satin stitches for details.](../../Quality/quality/Split_satin_stitches)
+:::
 
 ## Related topics...
 

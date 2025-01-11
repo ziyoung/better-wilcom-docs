@@ -19,7 +19,9 @@ In ES Cross Stitch you work with stitch blocks or areas rather than design objec
 
 ![cross-stitch_editing00013.png](assets/cross-stitch_editing00013.png)
 
-Tip: Duplicate and rotate blocks of stitches to make patterns.
+::: tip
+Duplicate and rotate blocks of stitches to make patterns.
+:::
 
 ## Related topics
 

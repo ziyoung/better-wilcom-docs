@@ -39,4 +39,6 @@ Use selection tools to select individual objects as well as groups or ranges of 
 - To deselect all, click an empty area of the background or a different object.
 - Alternatively, press Esc or X to deselect all or select Edit > Deselect All.
 
-Tip: EmbroideryStudio also provides a method for you to select individual objects within grouped objects. [See Select objects within groups for details.](../../Modifying/combine/Select_objects_within_groups)
+::: tip
+EmbroideryStudio also provides a method for you to select individual objects within grouped objects. [See Select objects within groups for details.](../../Modifying/combine/Select_objects_within_groups)
+:::

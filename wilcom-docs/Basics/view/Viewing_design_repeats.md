@@ -7,13 +7,17 @@ Many customers make traditional garments such as sarees which employ continuous 
 
 ![RepeatVines.png](assets/RepeatVines.png)
 
-Note: It is important that the artwork you use is properly sized and in the correct horizontal position. Always check the position of your artwork before starting to digitize.
+::: info Note
+It is important that the artwork you use is properly sized and in the correct horizontal position. Always check the position of your artwork before starting to digitize.
+:::
 
 ## To view design repeats...
 
 - Set your units of measurement as required.
 
-Note: Stitch length and density controls remain in mm regardless of measurement system. These controls reflect the machine functions as industrial machines are always in millimeters.
+::: info Note
+Stitch length and density controls remain in mm regardless of measurement system. These controls reflect the machine functions as industrial machines are always in millimeters.
+:::
 
 - The first time you use the feature, right-click the Show Repeats tool or press shortcut W to access the Repeats dialog.
 

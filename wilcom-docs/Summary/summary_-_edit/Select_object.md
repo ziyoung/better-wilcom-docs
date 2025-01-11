@@ -6,7 +6,7 @@
 | ![PolygonSelect.png](assets/PolygonSelect.png)   | Click Select > Polygon Select to select objects with a selection marquee.                       |
 | ![PolylineSelect.png](assets/PolylineSelect.png) | Click Select > Polyline Select to draw a line through the object to select.                     |
 
-EmbroideryStudio provides various ways to select [embroidery objects](../../glossary/glossary). It supports point & click, [selection marquee](../../glossary/glossary) and multiple object selection.
+EmbroideryStudio provides various ways to select [embroidery objects](../../glossary/glossary#embroidery-objects). It supports point & click, [selection marquee](../../glossary/glossary#selection-marquee) and multiple object selection.
 
 - The simplest way to select an object is to point and click with the Select Object tool activated. [Selection handles](../../glossary/glossary) appear around selected objects.
 

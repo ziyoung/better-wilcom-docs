@@ -4,7 +4,7 @@
 | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | ![NewFromSelected.png](assets/NewFromSelected.png) | Use Manage Designs > New From Selected to create new designs based on designs selected in the embroidery library. |
 
-Design files, also known as ‘all-in-one’ or ‘outline’ files, are high-level formats which contain object outlines, [object properties](../../glossary/glossary) and stitch data. When you open a design file in the software, corresponding stitch types, digitizing methods and effects are applied. Design files can be scaled, transformed and reshaped without affecting stitch density or quality. After modification, you can save to any supported file format.
+Design files, also known as ‘all-in-one’ or ‘outline’ files, are high-level formats which contain object outlines, [object properties](../../glossary/glossary#object-properties) and stitch data. When you open a design file in the software, corresponding stitch types, digitizing methods and effects are applied. Design files can be scaled, transformed and reshaped without affecting stitch density or quality. After modification, you can save to any supported file format.
 
 ![summary_-_designs00011.png](assets/summary_-_designs00011.png)
 

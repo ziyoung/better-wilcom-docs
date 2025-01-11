@@ -4,7 +4,7 @@
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | ![RemoveStitchAngles.png](assets/RemoveStitchAngles.png) | Use Stitch Angle Tools > Remove Stitch Angles to remove stitch angles from closed objects with turning stitches. |
 
-Add [stitch angles](../../glossary/glossary) to most [embroidery objects](../../glossary/glossary) interactively using the Stitch Angles tool. Create embroidery objects by adding stitch angles directly to [vector objects](../../glossary/glossary).
+Add [stitch angles](../../glossary/glossary) to most [embroidery objects](../../glossary/glossary#embroidery-objects) interactively using the Stitch Angles tool. Create embroidery objects by adding stitch angles directly to [vector objects](../../glossary/glossary).
 
 ![summary_-_edit00068.png](assets/summary_-_edit00068.png)
 

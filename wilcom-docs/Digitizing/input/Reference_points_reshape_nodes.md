@@ -15,7 +15,7 @@ A few general rules apply:
 
 ![input00018.png](assets/input00018.png)
 
-The reference points you mark when digitizing a shape become its ‘[control points](../../glossary/glossary)’. These vary slightly with the object type. Most points can be added, deleted, or moved. Corner and curve points can be interchanged. Some control points such as [entry ](../../glossary/glossary)and [exit](../../glossary/glossary) points cannot be deleted.
+The reference points you mark when digitizing a shape become its ‘[control points](../../glossary/glossary#control-points)’. These vary slightly with the object type. Most points can be added, deleted, or moved. Corner and curve points can be interchanged. Some control points such as [entry ](../../glossary/glossary)and [exit](../../glossary/glossary#exit) points cannot be deleted.
 
 ## Related topics...
 

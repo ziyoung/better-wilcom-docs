@@ -15,9 +15,13 @@ If you are already familiar with File Explorer, the interface will be quite intu
 - Print selected designs or send them for stitchout to embroidery machine or to folders which machines can access for stitching.
 - Use Design Library to handle quotes, orders, and approvals.
 
-Caution: Included artwork (clipart) and embroidery designs can only be used for personal use – i.e. they cannot be commercially sold in any form. Changing the medium – i.e. clipart to embroidery or embroidery to clipart – does not remove copyright protection.
+::: warning Caution
+Included artwork (clipart) and embroidery designs can only be used for personal use – i.e. they cannot be commercially sold in any form. Changing the medium – i.e. clipart to embroidery or embroidery to clipart – does not remove copyright protection.
+:::
 
-Note: CorelDRAW® needs to be registered before it can be used by EmbroideryStudio. Registration gives you access to the latest CorelDRAW® updates. It also provides CorelDRAW® Standard Membership which gives you access to content – clipart, fonts, stock photos, templates – via Corel CONNECT.
+::: info Note
+CorelDRAW® needs to be registered before it can be used by EmbroideryStudio. Registration gives you access to the latest CorelDRAW® updates. It also provides CorelDRAW® Standard Membership which gives you access to content – clipart, fonts, stock photos, templates – via Corel CONNECT.
+:::
 
 ## Related topics...
 

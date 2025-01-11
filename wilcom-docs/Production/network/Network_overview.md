@@ -6,7 +6,9 @@ In a nutshell, EmbroideryConnect allows users to wirelessly transfer embroidery 
 - EmbroideryStudio user wants to ‘push’ a design to a queue for eventual production.
 - Machine operator wants to ‘pull’ a nominated design to embroidery machine from the design queue.
 
-Note: The EmbroideryConnect device only supports Windows 10.
+::: info Note
+The EmbroideryConnect device only supports Windows 10.
+:::
 
 ## Related topics...
 

@@ -2,7 +2,9 @@
 
 In addition to Column C, both Traditional Digitizing and Graphics Digitizing toolbars provide tools for creating column shapes and borders of varying width.
 
-Note: EmbroideryStudio lets you convert between Complex Fill and Column A or Column B objects. [See Converting designs with CorelDRAW Graphics for details.](../../Automatic/automatic/Converting_designs_with_CorelDRAW_Graphics)
+::: info Note
+EmbroideryStudio lets you convert between Complex Fill and Column A or Column B objects. [See Converting designs with CorelDRAW Graphics for details.](../../Automatic/automatic/Converting_designs_with_CorelDRAW_Graphics)
+:::
 
 ## Related topics...
 

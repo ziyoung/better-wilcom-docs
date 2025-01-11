@@ -17,7 +17,9 @@ Cap provides the following settings:
 
 ![quality00054.png](assets/quality00054.png)
 
-Tip: If Mitre Corners is also selected, the cap angle is usually smaller than the mitre angle.
+::: tip
+If Mitre Corners is also selected, the cap angle is usually smaller than the mitre angle.
+:::
 
 - Overlap: number of overlapping rows to allow where the sections of the cap join.
 
@@ -37,7 +39,9 @@ Mitre provides the following settings:
 
 ![quality00063.png](assets/quality00063.png)
 
-Tip: You can use Mitre Corner and Cap Corner options together. For example, you may want a corner less than 75° to be mitred but less than 45° to be capped.
+::: tip
+You can use Mitre Corner and Cap Corner options together. For example, you may want a corner less than 75° to be mitred but less than 45° to be capped.
+:::
 
 ## Lap corners
 
@@ -67,7 +71,9 @@ When enabled, Split Overlap provides the following settings:
 
 ![SmartCornersLap5.png](assets/SmartCornersLap5.png)
 
-Note: The Lap Corners effect is incompatible with mitre or cap corners. Turning it on will switch off the other two.
+::: info Note
+The Lap Corners effect is incompatible with mitre or cap corners. Turning it on will switch off the other two.
+:::
 
 ## Related topics...
 

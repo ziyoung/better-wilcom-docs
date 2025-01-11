@@ -1,8 +1,10 @@
 # Image preparation techniques
 
-Before converting [artwork](../../glossary/glossary) to [vector graphics](../../glossary/glossary), you frequently need to clean it up. To work effectively, the Convert function requires solid color images as input. You can improve artwork with the [bitmap](../../glossary/glossary) editing tools.
+Before converting [artwork](../../glossary/glossary#artwork) to [vector graphics](../../glossary/glossary), you frequently need to clean it up. To work effectively, the Convert function requires solid color images as input. You can improve artwork with the [bitmap](../../glossary/glossary#bitmap) editing tools.
 
-Note: For a full description of the editing tools in CorelDRAW Graphics, refer to the electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use the online help available from the Help menu.
+::: info Note
+For a full description of the editing tools in CorelDRAW Graphics, refer to the electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use the online help available from the Help menu.
+:::
 
 ## Outlined vs non-outlined images
 
@@ -45,7 +47,7 @@ Outline sharpening means emphasizing outlines bordering distinct color blocks. T
 
 ## Noise filtering
 
-Noise filtering means restoring the solid color blocks of the original [artwork](../../glossary/glossary) in scanned images. This is achieved by merging different shades into one solid color. Noise filtering is important for vectorization because it makes it easier for EmbroideryStudio to identify solid color blocks to become embroidery objects in the resulting design. It also cleans up blurred or mottled areas of color.
+Noise filtering means restoring the solid color blocks of the original [artwork](../../glossary/glossary#artwork) in scanned images. This is achieved by merging different shades into one solid color. Noise filtering is important for vectorization because it makes it easier for EmbroideryStudio to identify solid color blocks to become embroidery objects in the resulting design. It also cleans up blurred or mottled areas of color.
 
 ![bitmaps00030.png](assets/bitmaps00030.png)
 

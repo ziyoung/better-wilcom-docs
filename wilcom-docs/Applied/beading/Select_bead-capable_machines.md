@@ -1,8 +1,10 @@
 # Select bead-capable machines
 
-Before using the Bead tools, you need to choose a suitable [machine format](../../glossary/glossary). Only some machine formats support beading – e.g. Tajima TBF, Dahao and SWF Twin Sequin. Refer to your machine manual for information about support for this type of decoration.
+Before using the Bead tools, you need to choose a suitable [machine format](../../glossary/glossary#machine-format). Only some machine formats support beading – e.g. Tajima TBF, Dahao and SWF Twin Sequin. Refer to your machine manual for information about support for this type of decoration.
 
-Note: For machine formats that have no bead capability, the bead palette will display. However, if you attempt to create a bead object, fixing stitches will be digitized without bead drops.
+::: info Note
+For machine formats that have no bead capability, the bead palette will display. However, if you attempt to create a bead object, fixing stitches will be digitized without bead drops.
+:::
 
 ## To select a bead-capable machine...
 
@@ -16,7 +18,9 @@ Note: For machine formats that have no bead capability, the bead palette will di
 
 ![beading00008.png](assets/beading00008.png)
 
-Note: Different machines require different presets. Typical modifiable values include stitch and jump length, trim functions and color change functions. Use the Machine Format Settings dialog to customize values if outputting to a specific machine format.
+::: info Note
+Different machines require different presets. Typical modifiable values include stitch and jump length, trim functions and color change functions. Use the Machine Format Settings dialog to customize values if outputting to a specific machine format.
+:::
 
 ![beading00011.png](assets/beading00011.png)
 

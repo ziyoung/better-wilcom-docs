@@ -20,7 +20,9 @@ EmbroideryStudio lets you preset options to show or hide design elements such as
 
 ![settings00055.png](assets/settings00055.png)
 
-Note: This Thread Thickness setting only affects the TrueView™ display, not actual thread thickness values.
+::: info Note
+This Thread Thickness setting only affects the TrueView™ display, not actual thread thickness values.
+:::
 
 ## Related topics...
 

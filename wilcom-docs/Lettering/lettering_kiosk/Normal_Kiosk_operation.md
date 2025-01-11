@@ -30,7 +30,9 @@ You can switch layouts and colors as desired and text will be preserved.
 - When you are satisfied with the design, press a Send to Machine button. A separate button is present for each machine configured on the system.
 - Press Start Again to create another design. The current design is automatically saved to the watching folder with a filename equal to text name.
 
-Note: If the operator does not press Start Again but instead selects a new design layout, the new design overrides the current one, preserving any typed text.
+::: info Note
+If the operator does not press Start Again but instead selects a new design layout, the new design overrides the current one, preserving any typed text.
+:::
 
 - To exit kiosk mode altogether, press the lock icon. Normally you are prompted for a supervisor password.
 

@@ -39,7 +39,9 @@ Printed catalogs contain thumbnails plus limited text details. You can prepare c
 | Save as PDF        | Click to save the report as a PDF document. You are prompted to save to the hard drive or network location.                                                                                  |
 | Send PDF via email | Click to send the report – usually an approval sheet – as a PDF attachment to your local email client. The PDF is automatically identified by customer name, order number, and current date. |
 
-Tip: If the catalog requires more than one page, you can select which page to print in the MS Windows® Print Setup dialog.
+::: tip
+If the catalog requires more than one page, you can select which page to print in the MS Windows® Print Setup dialog.
+:::
 
 ## Related topics...
 

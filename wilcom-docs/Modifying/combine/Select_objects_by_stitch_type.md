@@ -1,6 +1,6 @@
 # Select objects by stitch type
 
-You can select [embroidery objects](../../glossary/glossary) of the same stitch type with a single command.
+You can select [embroidery objects](../../glossary/glossary#embroidery-objects) of the same stitch type with a single command.
 
 ## To select objects by stitch type...
 

@@ -8,7 +8,9 @@ If you are digitizing adjoining columns, you can keep or omit the last stitch in
 
 ![summary_-_edit00165.png](assets/summary_-_edit00165.png)
 
-Note: This feature only applies when the [exit point](../../glossary/glossary) is at the end of the column – i.e. the default exit point. Moving the exit point using the Reshape Object tool overrides the Keep Last Stitch / Omit Last Stitch command.
+::: info Note
+This feature only applies when the [exit point](../../glossary/glossary#exit-point) is at the end of the column – i.e. the default exit point. Moving the exit point using the Reshape Object tool overrides the Keep Last Stitch / Omit Last Stitch command.
+:::
 
 ## Related topics
 

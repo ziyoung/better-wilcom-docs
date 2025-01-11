@@ -19,4 +19,6 @@ You can choose to turn off automatic trimming, to always trim connecting stitche
 | Always trim                           | Trims are inserted after the object.                                                                                                                                                                            |
 | Trim if next connector is longer than | Trims are inserted if the next connector exceeds the length you specify.                                                                                                                                        |
 
-Tip: Usually, connectors shorter than 3 mm are not visible on the final embroidery. You may sometimes require a smaller value – e.g. if the thread color contrasts with the [background](../../glossary/glossary) color.
+::: tip
+Usually, connectors shorter than 3 mm are not visible on the final embroidery. You may sometimes require a smaller value – e.g. if the thread color contrasts with the [background](../../glossary/glossary#background) color.
+:::

@@ -15,7 +15,7 @@ Create special lettering effects by reshaping letter outlines with the Reshape O
 
 3. Select reshape nodes by any of the following means:
 
-- Drag a [selection marquee](../../glossary/glossary) around the reshape nodes you require.
+- Drag a [selection marquee](../../glossary/glossary#selection-marquee) around the reshape nodes you require.
 - To select multiple nodes, hold down Ctrl or Shift as you select.
 
 ![lettering_edit00056.png](assets/lettering_edit00056.png)
@@ -24,13 +24,17 @@ Create special lettering effects by reshaping letter outlines with the Reshape O
 
 ![lettering_edit00059.png](assets/lettering_edit00059.png)
 
-Tip: Press Spacebar to toggle between selected corner and curve reshape-nodes.
+::: tip
+Press Spacebar to toggle between selected corner and curve reshape-nodes.
+:::
 
 5. Adjust stitch angles as required and press Enter.
 
 ![lettering_edit00062.png](assets/lettering_edit00062.png)
 
-Tip: Holding down the Ctrl key, click the outline wherever you want to place an additional stitch angle.
+::: tip
+Holding down the Ctrl key, click the outline wherever you want to place an additional stitch angle.
+:::
 
 6. Adjust entry/exit points as required and press Enter.
 
@@ -40,7 +44,9 @@ Tip: Holding down the Ctrl key, click the outline wherever you want to place an 
 
 ![ReshapeLetters0.png](assets/ReshapeLetters0.png)
 
-Note: Custom fonts are saved in ESA format to in the USERLETW folder within the local EmbroideryStudio installation. If you want to adjust converted characters or add special characters to a custom font, you can do so via the Create Letter function.
+::: info Note
+Custom fonts are saved in ESA format to in the USERLETW folder within the local EmbroideryStudio installation. If you want to adjust converted characters or add special characters to a custom font, you can do so via the Create Letter function.
+:::
 
 ## Related topics...
 

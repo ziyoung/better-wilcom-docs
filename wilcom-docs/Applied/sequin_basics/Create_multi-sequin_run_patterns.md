@@ -38,7 +38,9 @@ For stacked sequins, pattern setup depends on machine capabilities. With Dahao f
 
 ![MultiSequinCreate4.png](assets/MultiSequinCreate4.png)
 
-Tip: The digitizer needs to know the machine capabilities by heart. If an unsupported combination is selected – e.g. four sequin stack feeding – the drop code is ignored on the machine.
+::: tip
+The digitizer needs to know the machine capabilities by heart. If an unsupported combination is selected – e.g. four sequin stack feeding – the drop code is ignored on the machine.
+:::
 
 - In the Spacing field, enter a nominal spacing for each sequin. Spacing is measured from the center of one sequin to the center of the next.
 

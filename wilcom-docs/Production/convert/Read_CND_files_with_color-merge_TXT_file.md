@@ -14,7 +14,7 @@ While CND files contain no thread color information themselves, the Auto color m
 
 Any thread color named in the text file must correspond to a color in the selected thread chart. If not, it will default to black.
 
-4. Click OK. The design opens, the stitches appear in the correct thread colors, and the [color palette](../../glossary/glossary) displays the selected thread chart.
+4. Click OK. The design opens, the stitches appear in the correct thread colors, and the [color palette](../../glossary/glossary#color-palette) displays the selected thread chart.
 
 ![convert00067.png](assets/convert00067.png)
 

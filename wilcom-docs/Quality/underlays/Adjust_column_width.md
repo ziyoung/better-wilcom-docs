@@ -5,7 +5,9 @@
 
 The Column Width setting adjusts the width of columnar shapes, allowing you to change the column width at every point by a constant amount in the direction of stitching. The purpose is to ‘fatten’ or ‘thin’ a column, for example, in order to create ‘bold’ lettering. [See also Format lettering.](../../Lettering/lettering_create/Format_lettering)
 
-Tip: Reduce column width if you need to allow the underlay to extend outside the object boundary.
+::: tip
+Reduce column width if you need to allow the underlay to extend outside the object boundary.
+:::
 
 ## To adjust column width...
 

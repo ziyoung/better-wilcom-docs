@@ -13,7 +13,7 @@ The Object Properties > Outlines tab lets you specify values for the full range 
 <iframe src="https://www.youtube.com/embed/tMk3ajMymNI" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -21,7 +21,7 @@ The Object Properties > Outlines tab lets you specify values for the full range 
 <iframe src="https://www.youtube.com/embed/auPiwxVFQW8" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

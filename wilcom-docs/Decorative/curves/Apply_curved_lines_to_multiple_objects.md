@@ -15,7 +15,9 @@ You can apply Florentine Effect or Liquid Effect to multiple objects in a design
 
 2. With the guideline selected, select Object > Use for Florentine Effect. This tags the digitized run as the default curve line.
 
-Tip: With two guidelines selected, the Object > Use for Liquid Effect command becomes available.
+::: tip
+With two guidelines selected, the Object > Use for Liquid Effect command becomes available.
+:::
 
 3. Select an object and click the Florentine Effect icon. Notice that the turning stitches follow the guideline.
 
@@ -27,7 +29,9 @@ Tip: With two guidelines selected, the Object > Use for Liquid Effect command be
 
 5. Press Esc to complete. Optionally, delete the original run object if not required as part of the design.
 
-Tip: Turn on TrueView™ or use the Show Needle Points tool to view the results.
+::: tip
+Turn on TrueView™ or use the Show Needle Points tool to view the results.
+:::
 
 ## Related topics...
 

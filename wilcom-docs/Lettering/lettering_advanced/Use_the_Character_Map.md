@@ -12,11 +12,13 @@ Use the MS Windows® Character Map to provide quick access to common symbols and
 
 3. Double-click a character, or select it and press Select. The character/s appear in the Characters to copy field.
 
-4. Click Copy to copy the character to the [clipboard](../../glossary/glossary).
+4. Click Copy to copy the character to the [clipboard](../../glossary/glossary#clipboard).
 
 5. Paste it into the text entry panel of the Object Properties > Special > Lettering docker. To do this, click inside the text entry panel and press Ctrl+V or right-click to open the popup menu.
 
-Tip: You can also paste characters and symbols into an external graphics program to use as the basis for creating your own custom characters.
+::: tip
+You can also paste characters and symbols into an external graphics program to use as the basis for creating your own custom characters.
+:::
 
 ## Related topics...
 

@@ -1,6 +1,6 @@
 # Add & match image colors
 
-You can manually match colors from an inserted [bitmap](../../glossary/glossary) or vector graphic to thread colors in selected chart/s. Alternatively, simply add raw image colors to the palette for later matching.
+You can manually match colors from an inserted [bitmap](../../glossary/glossary#bitmap) or vector graphic to thread colors in selected chart/s. Alternatively, simply add raw image colors to the palette for later matching.
 
 ## To add and match image colors...
 
@@ -32,7 +32,9 @@ You can manually match colors from an inserted [bitmap](../../glossary/glossary)
 
 ![MatchImageColors3.png](assets/MatchImageColors3.png)
 
-Note: The maximum number of new thread colors which can be added to the color palette from a [bitmap](../../glossary/glossary) is 128.
+::: info Note
+The maximum number of new thread colors which can be added to the color palette from a [bitmap](../../glossary/glossary#bitmap) is 128.
+:::
 
 ## Related topics...
 

@@ -23,7 +23,7 @@ Fields include:
 | EMB grade      | While embroidery files are broadly classified as ‘design’ (oultine) or ‘machine’ (stitch), the software internally tags each as belonging to one of four types – native design (A), imported outlines (B), processed stitches (C), or imported stitches (D). |
 | EMB version    | The version of EmbroideryStudio the file was created in – e.g. ES e4.                                                                                                                                                                                        |
 | Machine format | The current machine format applying to the file. This generally corresponds to the target machine last used to stitch out the design.                                                                                                                        |
-| Objects        | Indicates total number of [objects](../../glossary/glossary) in the design.                                                                                                                                                                                  |
+| Objects        | Indicates total number of [objects](../../glossary/glossary#objects) in the design.                                                                                                                                                                          |
 | Sequin details | Lists any sequins used in the design and their respective numbers.                                                                                                                                                                                           |
 
 ## Related topics...

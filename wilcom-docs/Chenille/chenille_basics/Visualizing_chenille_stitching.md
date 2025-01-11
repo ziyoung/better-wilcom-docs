@@ -20,9 +20,11 @@ The two basic stitch types created by all chenille embroidery machines are ‘mo
 | 3    | Red     | Moss       |
 
 - Use the Stitch List to check machine functions in the design.
-- To travel by machine function, click/right-click the Travel by Function tool. Alternatively, press Ctrl + Page Up or Ctrl + Page Down. The needle point will stop at every [jump](../../glossary/glossary), trim, and color change in the design.
+- To travel by machine function, click/right-click the Travel by Function tool. Alternatively, press Ctrl + Page Up or Ctrl + Page Down. The needle point will stop at every [jump](../../glossary/glossary#jump), trim, and color change in the design.
 
-Note: TrueView does not display chain and moss stitching. However, it can still be useful to give an impression of the design when viewed at a small zoom factor (less than 1:1).
+::: info Note
+TrueView does not display chain and moss stitching. However, it can still be useful to give an impression of the design when viewed at a small zoom factor (less than 1:1).
+:::
 
 ## Tips for use
 

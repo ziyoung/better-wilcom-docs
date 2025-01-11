@@ -17,6 +17,8 @@ Supervisors can lock the kiosk to protect against unauthorized use. They can lat
 
 ![KioskPasswordConfirm.png](assets/KioskPasswordConfirm.png)
 
-Note: You can return to Options dialog at any time to change or remove password protection. If you forget the password, you will need to run the Revert program from the EmbroideryStudio program group to restore factory defaults.
+::: info Note
+You can return to Options dialog at any time to change or remove password protection. If you forget the password, you will need to run the Revert program from the EmbroideryStudio program group to restore factory defaults.
+:::
 
 ![WilcomESTools.png](assets/WilcomESTools.png)

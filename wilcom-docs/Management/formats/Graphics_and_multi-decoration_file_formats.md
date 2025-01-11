@@ -45,4 +45,6 @@ EmbroideryStudio supports the following bitmap image formats:
 | WMF       | Windows Metafile          | l    | l     |
 | WPG       | Corel WordPerfect Graphic | l    | l     |
 
-Note: For a full description of image file formats supported by CorelDRAW® Graphics Suite, refer to the CorelDRAW® Graphics Suite electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use the online help available from the Help menu. [See Digitizing with Bitmaps for details.](../../Automatic/bitmaps/Digitizing_with_Bitmaps)
+::: info Note
+For a full description of image file formats supported by CorelDRAW® Graphics Suite, refer to the CorelDRAW® Graphics Suite electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use the online help available from the Help menu. [See Digitizing with Bitmaps for details.](../../Automatic/bitmaps/Digitizing_with_Bitmaps)
+:::

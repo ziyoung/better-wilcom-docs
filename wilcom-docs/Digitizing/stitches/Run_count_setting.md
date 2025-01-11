@@ -7,4 +7,6 @@ By default, Triple Run repeats each stitch three times. You can change the numbe
 
 ![stitches00019.png](assets/stitches00019.png)
 
-Tip: Use Backtrack and Repeat to reinforce outlines while specifying the direction of the stitching. [See Reinforce outlines for details.](../../Quality/quality/Reinforce_outlines)
+::: tip
+Use Backtrack and Repeat to reinforce outlines while specifying the direction of the stitching. [See Reinforce outlines for details.](../../Quality/quality/Reinforce_outlines)
+:::

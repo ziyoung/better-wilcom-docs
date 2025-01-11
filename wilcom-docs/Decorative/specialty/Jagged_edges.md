@@ -14,7 +14,9 @@ Use Jagged Edge to create rough edges, shading effects, or imitate fur and other
 
 ![specialty00043.png](assets/specialty00043.png)
 
-Tip: For objects filled with tatami, use diagonal backstitch for best results.
+::: tip
+For objects filled with tatami, use diagonal backstitch for best results.
+:::
 
 - Right-click the Jagged Edge icon to access object properties.
 

@@ -16,7 +16,9 @@ It is useful to be able to view the stitching sequence color-by-color, object-by
 
 ![StitchPlayerStitchRange.png](assets/StitchPlayerStitchRange.png)
 
-Tip: While traveling through a design or editing stitches, click the Select Current icon or press Shift+0 to select the object associated with the current cursor position.
+::: tip
+While traveling through a design or editing stitches, click the Select Current icon or press Shift+0 to select the object associated with the current cursor position.
+:::
 
 ## Related topics
 

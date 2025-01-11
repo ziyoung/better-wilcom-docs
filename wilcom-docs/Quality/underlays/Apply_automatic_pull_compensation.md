@@ -8,7 +8,7 @@ Apply automatic pull compensation to objects in your design and adjust as part o
 ## To apply automatic pull compensation...
 
 - Toggle automatic pull compensation on/off via the Pull Compensation button.
-- Without objects selected, right-click the Pull Compensation icon to change [current settings](../../glossary/glossary).
+- Without objects selected, right-click the Pull Compensation icon to change [current settings](../../glossary/glossary#current-settings).
 - With objects selected, right-click the Pull Compensation icon to change settings for those objects.
 
 ![underlays00060.png](assets/underlays00060.png)

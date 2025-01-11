@@ -34,7 +34,7 @@ In preference to the Manual Bead tool, some digitizers flesh out designs using R
 
 ![DropBeads2.png](assets/DropBeads2.png)
 
-8. From the Functions list, select Drop Bead. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary) or [empty jump](../../glossary/glossary). See your machine manual for details.
+8. From the Functions list, select Drop Bead. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary#empty-stitch) or [empty jump](../../glossary/glossary#empty-jump). See your machine manual for details.
 
 ![InsertFunctionDropBead.png](assets/InsertFunctionDropBead.png)
 

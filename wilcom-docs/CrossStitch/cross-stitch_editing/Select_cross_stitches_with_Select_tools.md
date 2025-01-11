@@ -13,4 +13,6 @@ The Select and Polygon Select tools work in a similar way to EmbroideryStudio. T
 
 ![cross-stitch_editing00004.png](assets/cross-stitch_editing00004.png)
 
-Tip: Hold down Ctrl to select multiple areas.
+::: tip
+Hold down Ctrl to select multiple areas.
+:::

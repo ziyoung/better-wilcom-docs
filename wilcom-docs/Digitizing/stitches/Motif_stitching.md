@@ -9,7 +9,9 @@ Motifs are predefined design elements, such as hearts, leaves or border patterns
 
 ![stitches00113.png](assets/stitches00113.png)
 
-Note: Auto Underlay is deactivated with this feature and [stitch angle](../../glossary/glossary) has no effect.
+::: info Note
+Auto Underlay is deactivated with this feature and [stitch angle](../../glossary/glossary#stitch-angle) has no effect.
+:::
 
 ## Related topics...
 

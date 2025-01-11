@@ -20,7 +20,9 @@ When it comes to actual production, borer holes are usually cut in groups for fa
 
 Of course by cutting first and then applying tackdown and cover stitching, you risk registration errors. You need to decide between quality vs productivity. For large production runs, productivity is a high priority and constrained by production cost.
 
-Caution: Depending on production type, you will again need to test the design sequence carefully before starting a production run.
+::: warning Caution
+Depending on production type, you will again need to test the design sequence carefully before starting a production run.
+:::
 
 ## Related topics...
 

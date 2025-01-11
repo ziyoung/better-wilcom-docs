@@ -2,7 +2,9 @@
 
 To include cross stitch in your EMB designs, you need to save and close any cross stitch designs as EMX then open them in EmbroideryStudio.
 
-Tip: You cannot view your cross stitch design in TrueView in the cross stitch program. However you can do so by saving the design and opening it in EmbroideryStudio.
+::: tip
+You cannot view your cross stitch design in TrueView in the cross stitch program. However you can do so by saving the design and opening it in EmbroideryStudio.
+:::
 
 ## To use cross stitch with EmbroideryStudio...
 

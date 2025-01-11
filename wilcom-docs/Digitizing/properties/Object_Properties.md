@@ -1,6 +1,6 @@
 # Object Properties
 
-Every object you create in EmbroideryStudio has a unique set of properties that are stored with it whenever you save the design. These properties define general characteristics such as size and position, as well as embroidery-specific characteristics such as stitch type and [density](../../glossary/glossary). The stitch properties determine how stitches will be regenerated when you reshape, transform or [scale](../../glossary/glossary) the object.
+Every object you create in EmbroideryStudio has a unique set of properties that are stored with it whenever you save the design. These properties define general characteristics such as size and position, as well as embroidery-specific characteristics such as stitch type and [density](../../glossary/glossary#density). The stitch properties determine how stitches will be regenerated when you reshape, transform or [scale](../../glossary/glossary) the object.
 
 ![properties00001.png](assets/properties00001.png)
 

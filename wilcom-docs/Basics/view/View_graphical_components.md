@@ -26,7 +26,9 @@ Apart from embroidery, [EMB ](../../glossary/glossary)designs may include other 
 
 ![view00018.png](assets/view00018.png)
 
-Tip: Depending on view options set in the Options dialog, images display in full color, or dimmed.
+::: tip
+Depending on view options set in the Options dialog, images display in full color, or dimmed.
+:::
 
 ## Related topics...
 

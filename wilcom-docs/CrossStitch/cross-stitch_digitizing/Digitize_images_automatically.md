@@ -42,7 +42,9 @@ The image is digitized. You may need to touch up some areas manually.
 
 ![cross-stitch_digitizing00060.png](assets/cross-stitch_digitizing00060.png)
 
-Note: Auto Stitch Image is disabled if no image is loaded.
+::: info Note
+Auto Stitch Image is disabled if no image is loaded.
+:::
 
 ## Related topics
 

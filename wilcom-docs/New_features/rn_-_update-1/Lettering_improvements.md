@@ -24,7 +24,9 @@ In the Insert Symbol dialog, non-existent characters are now displayed as square
 
 ![FallbackCharacter.png](assets/FallbackCharacter.png)
 
-Tip: If you want to check whether a character exists in a font, copy the fallback character and paste it into an MS Word document. Then try changing fonts until you find one that includes the character.
+::: tip
+If you want to check whether a character exists in a font, copy the fallback character and paste it into an MS Word document. Then try changing fonts until you find one that includes the character.
+:::
 
 ## Lettering Kiosk
 

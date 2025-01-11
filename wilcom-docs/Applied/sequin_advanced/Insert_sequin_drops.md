@@ -45,7 +45,7 @@ In preference to the Manual Sequin tool, some digitizers flesh out designs using
 
 ![sequin_advanced00117.png](assets/sequin_advanced00117.png)
 
-10. From the Functions list, select Drop Sequin. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary) or [empty jump](../../glossary/glossary). See your machine manual for details.
+10. From the Functions list, select Drop Sequin. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary#empty-stitch) or [empty jump](../../glossary/glossary#empty-jump). See your machine manual for details.
 
 ![InsertFunctionDropSequin.png](assets/InsertFunctionDropSequin.png)
 
@@ -61,7 +61,9 @@ In preference to the Manual Sequin tool, some digitizers flesh out designs using
 
 14. To delete a sequin drop, travel to the location and press 4. Alternatively, click the Clear Sequin button.
 
-Tip: If you are using Triple Run, the repeat stitch will tack down your sequin drop. If you are using Single Run, you can use the Backtrack tool to tack down the sequin drops.
+::: tip
+If you are using Triple Run, the repeat stitch will tack down your sequin drop. If you are using Single Run, you can use the Backtrack tool to tack down the sequin drops.
+:::
 
 ## Related topics...
 

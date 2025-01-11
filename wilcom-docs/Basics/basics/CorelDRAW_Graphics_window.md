@@ -8,7 +8,7 @@ CorelDRAW Graphics window includes the entire suite of CorelDRAW® Graphics Suit
 
 ![EmbStudioGraphicsMode.png](assets/EmbStudioGraphicsMode.png)
 
-In addition to the CorelDRAW® Graphics Suite toolset, CorelDRAW Graphics provides capabilities to convert [vectors](../../glossary/glossary) and vector text directly to [embroidery objects](../../glossary/glossary). Imported vector graphics or created text can be converted directly to embroidery designs. You can use CorelDRAW Graphics to insert or paste third-party vector graphics such as clipart for use in embroidery designs. Alternatively, insert, paste or scan [bitmap](../../glossary/glossary) artwork for use as digitizing templates or ‘[backdrops](../../glossary/glossary)’. Here are some of the prominent CorelDRAW Graphics interface elements.
+In addition to the CorelDRAW® Graphics Suite toolset, CorelDRAW Graphics provides capabilities to convert [vectors](../../glossary/glossary) and vector text directly to [embroidery objects](../../glossary/glossary#embroidery-objects). Imported vector graphics or created text can be converted directly to embroidery designs. You can use CorelDRAW Graphics to insert or paste third-party vector graphics such as clipart for use in embroidery designs. Alternatively, insert, paste or scan [bitmap](../../glossary/glossary#bitmap) artwork for use as digitizing templates or ‘[backdrops](../../glossary/glossary)’. Here are some of the prominent CorelDRAW Graphics interface elements.
 
 | Element          | Description                                                                                                                                        |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,7 +24,9 @@ In addition to the CorelDRAW® Graphics Suite toolset, CorelDRAW Graphics provid
 
 For a detailed description of the CorelDRAW® Graphics Suite interface, refer to the electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use the online help available from the Help menu.
 
-Note: CorelDRAW® needs to be registered before it can be used by EmbroideryStudio. Registration provides CorelDRAW® Standard Membership which gives you access to content – clipart, fonts, stock photos, templates – via Corel CONNECT. It also gives you access to the latest CorelDRAW® updates.
+::: info Note
+CorelDRAW® needs to be registered before it can be used by EmbroideryStudio. Registration provides CorelDRAW® Standard Membership which gives you access to content – clipart, fonts, stock photos, templates – via Corel CONNECT. It also gives you access to the latest CorelDRAW® updates.
+:::
 
 ## Related topics...
 

@@ -2,7 +2,9 @@
 
 Measure the distance between two points on screen using the Measure command. View measurements in the Status bar or tooltip.
 
-Tip: For more accurate results, zoom in before you measure. The measurement is always the actual size, and is not affected by the zoom factor.
+::: tip
+For more accurate results, zoom in before you measure. The measurement is always the actual size, and is not affected by the zoom factor.
+:::
 
 ## To measure a distance on screen...
 

@@ -6,4 +6,6 @@ Using File Explorer, you can navigate to the precise location of your Embroidery
 
 Whenever you install updates or upgrades to your existing software, the above folder structure, together with any custom assets, will be preserved. However, if you install your software to another PC, you will need to manually copy the contents of these folders to the new location.
 
-Note: The C:\\ProgramData folder may be hidden on some PCs depending on the permissions of the user who is logged in. [See Showing hidden folders for details.](Showing_hidden_folders)
+::: info Note
+The C:\\ProgramData folder may be hidden on some PCs depending on the permissions of the user who is logged in. [See Showing hidden folders for details.](Showing_hidden_folders)
+:::

@@ -1,13 +1,13 @@
 # Connectors
 
-EmbroideryStudio lets you generate automatic [connectors](../../glossary/glossary) based on settings in the Object Properties > Connectors docker. You can change connector settings for a whole design or selected objects. If you prefer to add tie-offs and trims as you digitize, you can turn off automatic connectors altogether.
+EmbroideryStudio lets you generate automatic [connectors](../../glossary/glossary#connectors) based on settings in the Object Properties > Connectors docker. You can change connector settings for a whole design or selected objects. If you prefer to add tie-offs and trims as you digitize, you can turn off automatic connectors altogether.
 
 ## Related video
 
 <iframe src="https://www.youtube.com/embed/ufk5VIGuABA" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

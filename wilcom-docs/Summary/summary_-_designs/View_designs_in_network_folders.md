@@ -20,7 +20,7 @@ Navigating to design folders with Design Library is similar to browsing with Fil
 <iframe src="https://www.youtube.com/embed/FDZ50HBWeic" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

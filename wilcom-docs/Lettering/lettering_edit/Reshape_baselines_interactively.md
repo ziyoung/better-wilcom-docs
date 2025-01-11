@@ -13,7 +13,9 @@ Baselines can be adjusted with the Reshape Object tool. Depending on baseline ty
 
 ![lettering_edit00073.png](assets/lettering_edit00073.png)
 
-Tip: The large diamond and cross represent start and end points. Toggle them off to access baseline controls.
+::: tip
+The large diamond and cross represent start and end points. Toggle them off to access baseline controls.
+:::
 
 - Change angles of straight baselines by dragging square control points at either end.
 
@@ -25,7 +27,9 @@ Tip: The large diamond and cross represent start and end points. Toggle them off
 
 - Change lettering orientation of arc baselines by dragging the solid square control points at either end.
 
-Tip: Letter positions depend on justification – left, center, right or justified. If the baseline becomes too short, letters may overlap.
+::: tip
+Letter positions depend on justification – left, center, right or justified. If the baseline becomes too short, letters may overlap.
+:::
 
 - Change the radius by dragging the solid square control point in the center of the circle.
 

@@ -12,7 +12,7 @@ Automatically fill large areas with double-spiral stitching that never crosses i
 <iframe src="https://www.youtube.com/embed/VbLn8VujLEI" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

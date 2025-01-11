@@ -5,7 +5,7 @@
 | ![AppliqueWithoutHoles00072.png](assets/AppliqueWithoutHoles00072.png) | Right-click Appliqué > Appliqué without Holes to adjust frame-out settings. |
 | ![ReshapeObject.png](assets/ReshapeObject.png)                         | Use Reshape > Reshape Object to reposition frame-out marker.                |
 
-When stitching out [appliqué](../../glossary/glossary) objects, you can set a [frame-out](../../glossary/glossary) position after the guide run and/or tack stitch. This shifts the hoop out from under the needle, making it easier to place and trim the appliqué. Depending on the machine you are working with – multi-head or single-head – the frame-out command must be specified as a Stop function or Color Change respectively.
+When stitching out [appliqué](../../glossary/glossary#applique) objects, you can set a [frame-out](../../glossary/glossary) position after the guide run and/or tack stitch. This shifts the hoop out from under the needle, making it easier to place and trim the appliqué. Depending on the machine you are working with – multi-head or single-head – the frame-out command must be specified as a Stop function or Color Change respectively.
 
 ## To adjust the frame-out position...
 

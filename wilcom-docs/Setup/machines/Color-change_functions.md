@@ -45,7 +45,9 @@ For needle addressing machines, you need to specify how many needles are on the 
 
 Some machines can group two heads together so you can stitch a design using needles from both heads. For example, if a machine has two heads and nine needles per head, the machine moves the hoop from the first head under the second head, which allows you to stitch 18 colors without a manual change.
 
-Note: If this is the case, enter the combined number of needles on the machine in the No of Needles field.
+::: info Note
+If this is the case, enter the combined number of needles on the machine in the No of Needles field.
+:::
 
 6. Optionally, select the First CC required checkbox.
 

@@ -8,7 +8,9 @@ Use the Digitize Open Shape tool to digitize open shapes with any kind of outlin
 
 ![OpenClosedShapes00036.png](assets/OpenClosedShapes00036.png)
 
-Tip: To create both an outline and a fill, create the fill first, then select and duplicate the object and convert the duplicate to an outline, which is stitched after the fill.
+::: tip
+To create both an outline and a fill, create the fill first, then select and duplicate the object and convert the duplicate to an outline, which is stitched after the fill.
+:::
 
 ## To digitize an open or closed shape...
 
@@ -20,7 +22,9 @@ Tip: To create both an outline and a fill, create the fill first, then select an
 
 ![input00039.png](assets/input00039.png)
 
-Tip: Follow the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point, then continue adding reference points or press Esc to delete all the points so you can start again.
+::: tip
+Follow the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point, then continue adding reference points or press Esc to delete all the points so you can start again.
+:::
 
 - Press Enter to complete a shape. With the Digitize Closed Shape tool, the shape will be closed with the same type of reference point as the last you digitized – i.e. corner or curve. To close with a different type of reference point, mark the last on top of the first and press Enter.
 - If you decide to close an open object, use Edit > Close Curve... commands to close using straight or curved points.
@@ -29,7 +33,9 @@ Tip: Follow the prompts in the Prompt Bar to help you digitize. If you make a mi
 
 - Press Esc to deselect the tool.
 
-Note: By default, objects are joined by the Closest Join method. If deactivated, all newly digitized objects are joined by the As Digitized method. This means you need to specify entry and exit points, following prompts in the Prompt Bar.
+::: info Note
+By default, objects are joined by the Closest Join method. If deactivated, all newly digitized objects are joined by the As Digitized method. This means you need to specify entry and exit points, following prompts in the Prompt Bar.
+:::
 
 ## Related topics...
 

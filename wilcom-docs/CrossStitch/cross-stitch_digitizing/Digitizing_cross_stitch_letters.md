@@ -7,7 +7,9 @@ As with EmbroideryStudio, ES Cross Stitch lets you add lettering to a design by 
 
 ![Lettering00066.png](assets/Lettering00066.png)
 
-Tip: Lettering in ES Cross Stitch may appear thicker than the original TrueType font. This is generally due to ‘ClearType’ font smoothing which is turned on by default in Windows Vista or later. Temporarily turning off ClearType produces better lettering in ES Cross Stitch although this may affect its appearance in other applications.
+::: tip
+Lettering in ES Cross Stitch may appear thicker than the original TrueType font. This is generally due to ‘ClearType’ font smoothing which is turned on by default in Windows Vista or later. Temporarily turning off ClearType produces better lettering in ES Cross Stitch although this may affect its appearance in other applications.
+:::
 
 ## To digitize cross stitch letters...
 
@@ -25,7 +27,9 @@ Tip: Lettering in ES Cross Stitch may appear thicker than the original TrueType 
 
 ![cross-stitch_digitizing00072.png](assets/cross-stitch_digitizing00072.png)
 
-Tip: To edit letters, use the Select tool with the Ctrl key to select, then change the stitch type or color as required.
+::: tip
+To edit letters, use the Select tool with the Ctrl key to select, then change the stitch type or color as required.
+:::
 
 ![cross-stitch_digitizing00075.png](assets/cross-stitch_digitizing00075.png)
 

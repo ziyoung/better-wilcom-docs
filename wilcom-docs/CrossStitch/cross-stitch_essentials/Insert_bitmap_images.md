@@ -14,8 +14,12 @@ You can insert bitmap images of various formats for use as digitizing backdrops.
 
 4. Select the file you want to insert.
 
-Tip: Select the Preview checkbox to preview the selected file.
+::: tip
+Select the Preview checkbox to preview the selected file.
+:::
 
 5. Click Open.
 
-Tip: You can also use Edit > Paste Drawing > As Vector/As Bitmap if the drawing is on the clipboard.
+::: tip
+You can also use Edit > Paste Drawing > As Vector/As Bitmap if the drawing is on the clipboard.
+:::

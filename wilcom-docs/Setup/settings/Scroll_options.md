@@ -22,6 +22,8 @@ The Options > Scroll tab lets you to control mouse pointer and mouse wheel behav
 | Corner: Use this setting for slow scrolling.                                                        |                                                      |
 | Response time                                                                                       | Adjust scrolling speed.                              |
 
-Tip: Hold down the Shift key to temporarily deactivate Auto Scroll. Use the Ctrl+Shift+A key combination to toggle Auto Scroll on/off.
+::: tip
+Hold down the Shift key to temporarily deactivate Auto Scroll. Use the Ctrl+Shift+A key combination to toggle Auto Scroll on/off.
+:::
 
 - Tick Center pointer when zooming to ensure that the pointer stays centered on screen at all times.

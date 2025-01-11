@@ -12,7 +12,9 @@ Where available, the Frame Out option triggers the frame to exit after stitching
 
 ![machines00026.png](assets/machines00026.png)
 
-Note: Remember that these fields show the number of extra codes you want to insert in addition to [default settings](../../glossary/glossary).
+::: info Note
+Remember that these fields show the number of extra codes you want to insert in addition to [default settings](../../glossary/glossary).
+:::
 
 ## Related topics...
 

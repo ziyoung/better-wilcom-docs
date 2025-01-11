@@ -23,7 +23,7 @@ Supervisors can lock the kiosk to protect against unauthorized use. They can lat
 <iframe src="https://www.youtube.com/embed/MCga_492XhM" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -31,7 +31,7 @@ Supervisors can lock the kiosk to protect against unauthorized use. They can lat
 <iframe src="https://www.youtube.com/embed/vfbXK4Umezg" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

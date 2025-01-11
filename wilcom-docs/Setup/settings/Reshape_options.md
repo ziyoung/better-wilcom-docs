@@ -32,7 +32,9 @@ EmbroideryStudio orders object fragments resulting from cutting operations with 
 
 The option you choose will affect all Knife tool cutting operations.
 
-Tip: The Break Apart tool allows you to split branched objects, including objects resulting from cutting operations, into their component parts.
+::: tip
+The Break Apart tool allows you to split branched objects, including objects resulting from cutting operations, into their component parts.
+:::
 
 ## Related topics...
 

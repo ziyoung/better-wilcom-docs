@@ -11,7 +11,9 @@ The Accordion Spacing feature varies stitch spacing between dense and open fill,
 
 - Click the Accordion Spacing icon. The effect is applied to new or selected objects, based on the current Accordion Spacing settings.
 
-Tip: Because of the open stitch, Accordion Spacing is best used without Auto Underlay.
+::: tip
+Because of the open stitch, Accordion Spacing is best used without Auto Underlay.
+:::
 
 - Right-click the Accordion Spacing icon to access object properties.
 
@@ -29,7 +31,9 @@ Tip: Because of the open stitch, Accordion Spacing is best used without Auto Und
 
 ![AccordionSpacingStitchAngles.png](assets/AccordionSpacingStitchAngles.png)
 
-Tip: Apply Trapunto effect to force underlying travel runs to the edges of an object so that they can’t be seen through open stitching. It’s also a good idea to turn off Auto Underlay.
+::: tip
+Apply Trapunto effect to force underlying travel runs to the edges of an object so that they can’t be seen through open stitching. It’s also a good idea to turn off Auto Underlay.
+:::
 
 ## Related topics...
 

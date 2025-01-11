@@ -15,7 +15,7 @@ Report types include:
 
 ## Color films
 
-This report type lets you print color blocks in the design as they appear in the Color-Object List. This allows production staff to see each stitch color in order of stitchout. Separate color films are printed for selected [colorways](../../glossary/glossary) on the last page of the worksheet.
+This report type lets you print color blocks in the design as they appear in the Color-Object List. This allows production staff to see each stitch color in order of stitchout. Separate color films are printed for selected [colorways](../../glossary/glossary#colorways) on the last page of the worksheet.
 
 ![ProductionWorksheetColorFilm.png](assets/ProductionWorksheetColorFilm.png)
 

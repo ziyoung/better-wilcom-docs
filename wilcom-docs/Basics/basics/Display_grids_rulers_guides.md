@@ -5,7 +5,7 @@
 | ![ShowRulersAndGuides.png](assets/ShowRulersAndGuides.png) | Click View > Show Rulers and Guides to show or hide rulers and guides. Right-click for settings. |
 | ![RulerZeroPoint.png](assets/RulerZeroPoint.png)           | Drag the ruler zero point to reset a new ruler zero point.                                       |
 
-Use grid lines to help accurately align or size [embroidery objects](../../glossary/glossary). Default grid spacing is 10mm x 10mm. Invoke rulers to accurately position and scale objects. The unit of measurement – mm or inches – defaults to the regional settings in the MS Windows® Control Panel.
+Use grid lines to help accurately align or size [embroidery objects](../../glossary/glossary#embroidery-objects). Default grid spacing is 10mm x 10mm. Invoke rulers to accurately position and scale objects. The unit of measurement – mm or inches – defaults to the regional settings in the MS Windows® Control Panel.
 
 ## To display grids, rulers and guides...
 

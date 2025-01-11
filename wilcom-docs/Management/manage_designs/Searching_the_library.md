@@ -59,8 +59,8 @@ Certain terms are ‘hard-coded’ in the design file. When conducting searches 
 - Stitches
 - Trims
 - Width
-
-Note: Search criteria with two words needs to be entered without spaces as shown:
+  :::info Note
+  Search criteria with two words needs to be entered without spaces as shown:
 
 | Search criteria | Enter...      |
 | --------------- | ------------- |
@@ -73,4 +73,8 @@ Note: Search criteria with two words needs to be entered without spaces as shown
 | Product type    | Producttype   |
 | Sales rep       | Salesrep      |
 
-Note: When searching on non-reserved terms, you can search for two words separated by spaces and the search will turn up all designs with either word. If you want to find designs with both words, add a + between them – e.g. koi+fish. If you want an exact match, you need to include inverted commas in the search string – e.g “my design”.
+:::
+
+::: info Note
+When searching on non-reserved terms, you can search for two words separated by spaces and the search will turn up all designs with either word. If you want to find designs with both words, add a + between them – e.g. koi+fish. If you want an exact match, you need to include inverted commas in the search string – e.g “my design”.
+:::

@@ -19,7 +19,9 @@ Motif runs can be reshaped like other embroidery object, but special control poi
 
 ![ReshapeMotifs4.png](assets/ReshapeMotifs4.png)
 
-Note: A ‘Regenerate motif run’ checkbox forces the system to regenerate motif runs based on current settings whenever an object is scaled or skewed. When left unchecked, the system will not re-generate and the number of motifs will remain unchanged after the transformation.
+::: info Note
+A ‘Regenerate motif run’ checkbox forces the system to regenerate motif runs based on current settings whenever an object is scaled or skewed. When left unchecked, the system will not re-generate and the number of motifs will remain unchanged after the transformation.
+:::
 
 ![MotifRunSampleScaled.png](assets/MotifRunSampleScaled.png)
 

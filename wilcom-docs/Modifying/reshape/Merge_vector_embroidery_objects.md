@@ -19,7 +19,7 @@ Merge selected objects using the Weld or Combine tools.
 
 ![ShapingWeldTip.png](assets/ShapingWeldTip.png)
 
-- Use Combine to convert embroidery objects into multiple objects sharing the [properties](../../glossary/glossary) – stitch color and type, etc – of the topmost object.
+- Use Combine to convert embroidery objects into multiple objects sharing the [properties](../../glossary/glossary#properties) – stitch color and type, etc – of the topmost object.
 
 ![reshape00123.png](assets/reshape00123.png)
 
@@ -27,6 +27,8 @@ If drawing tools are used as the input method, Combine converts vector objects t
 
 ![reshape00126.png](assets/reshape00126.png)
 
-Tip: Cut objects in half by drawing a line through them and applying Divide. Apply Combine to create closed objects or Weld to fuse two objects.
+::: tip
+Cut objects in half by drawing a line through them and applying Divide. Apply Combine to create closed objects or Weld to fuse two objects.
+:::
 
 ![reshape00129.png](assets/reshape00129.png)

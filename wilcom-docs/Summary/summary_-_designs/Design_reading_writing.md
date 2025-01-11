@@ -7,7 +7,7 @@ You can open native EMB design files in EmbroideryStudio as well as many non-nat
 <iframe src="https://www.youtube.com/embed/HHIlayGeAdg" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

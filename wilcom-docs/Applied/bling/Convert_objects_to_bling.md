@@ -13,6 +13,8 @@ Any closed object can be converted to a bling-fill object. Similarly, any outlin
 
 ![bling00111.png](assets/bling00111.png)
 
-Tip: You can also create objects with the Freehand Embroidery tools which can be converted to bling-fill objects.
+::: tip
+You can also create objects with the Freehand Embroidery tools which can be converted to bling-fill objects.
+:::
 
 ![bling00114.png](assets/bling00114.png)

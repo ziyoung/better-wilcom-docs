@@ -5,7 +5,9 @@
 
 This procedure starts when you click the enabled Add to Library button either on the Use Object tab or Digitize tab in the Carving Stamp docker.
 
-Tip: The Carving Stamp feature can only use vector or embroidery objects as a basis for stamps. If you want to use a bitmap image, you can convert to vector format in CorelDRAW Graphics using the Bitmaps > Outline Trace command set.
+::: tip
+The Carving Stamp feature can only use vector or embroidery objects as a basis for stamps. If you want to use a bitmap image, you can convert to vector format in CorelDRAW Graphics using the Bitmaps > Outline Trace command set.
+:::
 
 ## To add a stamp to a library...
 
@@ -44,7 +46,9 @@ If you chose to create a new library set, use the New Pattern Set dialog to crea
 
 7. Click OK. The newly created stamp is displayed in the stamp list when the Use Pattern tab is selected.
 
-Note: The Rename and Delete buttons are enabled in the Use Patterns tab whenever a custom stamp is selected.
+::: info Note
+The Rename and Delete buttons are enabled in the Use Patterns tab whenever a custom stamp is selected.
+:::
 
 ## Related topics...
 

@@ -7,7 +7,7 @@ EmbroideryStudio provides tools for quickly creating outlines and filled areas b
 <iframe src="https://www.youtube.com/embed/tFPqBZ9O9V0" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

@@ -9,7 +9,6 @@ In EmbroideryStudio, every object is comprised of a set of object properties. Th
 <iframe src="https://www.youtube.com/embed/ufk5VIGuABA" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
 </iframe>
 
 ## Related topics

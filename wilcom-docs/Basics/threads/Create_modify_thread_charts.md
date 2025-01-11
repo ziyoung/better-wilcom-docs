@@ -31,7 +31,9 @@ EmbroideryStudio lets you define your own charts. When you create a thread chart
 
 ![RenameThreadChart.png](assets/RenameThreadChart.png)
 
-Caution: Be careful when deleting thread charts. If you delete the wrong chart you will need to reinstall EmbroideryStudio to restore it.
+::: warning Caution
+Be careful when deleting thread charts. If you delete the wrong chart you will need to reinstall EmbroideryStudio to restore it.
+:::
 
 ## Related topics...
 

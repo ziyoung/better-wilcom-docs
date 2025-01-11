@@ -9,7 +9,9 @@ You can change the color and/or stitch type of selected stitch blocks at any tim
 
 1. Use Auto Select to select the stitch block/s.
 
-Tip: Hold down Ctrl to select multiple blocks.
+::: tip
+Hold down Ctrl to select multiple blocks.
+:::
 
 2. Change color and/or stitch type as required:
 

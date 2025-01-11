@@ -8,7 +8,9 @@ Because chain stitching forms flowing, curved lines, it is mainly used for outli
 
 ![chenille-sample-14.png](assets/chenille-sample-14.png)
 
-Tip: With Chain stitch blocks, there is no need for borders as such. Chain itself provides a good border.
+::: tip
+With Chain stitch blocks, there is no need for borders as such. Chain itself provides a good border.
+:::
 
 ## To digitize a chain-stitch fill...
 
@@ -35,7 +37,9 @@ Since stitch angle has no relevance to chain stitching, Complex Fill is fine for
 
 ![chenille_digitizing00021.png](assets/chenille_digitizing00021.png)
 
-Tip: Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
+::: tip
+Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
+:::
 
 6. Press Enter to complete. The chain-fill object is generated according to current settings.
 

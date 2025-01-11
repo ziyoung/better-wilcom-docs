@@ -29,7 +29,9 @@ EmbroideryStudio lets you set the background color, fabric, or product of each c
 
 ![view00109.png](assets/view00109.png)
 
-Tip: Click Background & Display Colors or Product Visualizer icons to preset any of these options.
+::: tip
+Click Background & Display Colors or Product Visualizer icons to preset any of these options.
+:::
 
 ## Related topics...
 

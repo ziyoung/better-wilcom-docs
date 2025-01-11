@@ -17,7 +17,9 @@ Use Spiral Fill to create open stitching that follows the contours of a shape. I
 
 ![curves00029.png](assets/curves00029.png)
 
-Note: Stitch angle has no effect on the pattern layout.
+::: info Note
+Stitch angle has no effect on the pattern layout.
+:::
 
 - Adjust spiral Stitch settings as desired:
 - Adjust Stitch length for smoother or sharper curves.
@@ -28,11 +30,15 @@ Note: Stitch angle has no effect on the pattern layout.
 
 ![SpiralStitchSpacings.png](assets/SpiralStitchSpacings.png)
 
-Note: If the object already has a hole, this is ignored when spiral is applied. It returns when other stitch types are applied.
+::: info Note
+If the object already has a hole, this is ignored when spiral is applied. It returns when other stitch types are applied.
+:::
 
 ![SpiralFillWthHole.png](assets/SpiralFillWthHole.png)
 
-Tip: The center of the spiral can be reshaped or moved with the Reshape Object tool. Some interesting visual effects can be achieved. You can even move it outside the object outline.
+::: tip
+The center of the spiral can be reshaped or moved with the Reshape Object tool. Some interesting visual effects can be achieved. You can even move it outside the object outline.
+:::
 
 ![SpiralFillSamples00034.png](assets/SpiralFillSamples00034.png)
 

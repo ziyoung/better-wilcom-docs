@@ -31,13 +31,17 @@ Depending on the order in which you mark the reference points, the text will be 
 
 ![lettering_create00080.png](assets/lettering_create00080.png)
 
-Tip: Adjust circle and arc baseline settings for more precise numeric control over radius (X and Y), as well as tilt, justification, and arc angles.
+::: tip
+Adjust circle and arc baseline settings for more precise numeric control over radius (X and Y), as well as tilt, justification, and arc angles.
+:::
 
 - Custom: Digitize Any Shape baselines by marking reference points to form the required line. The number of reference points and length of baseline are practically unlimited.
 
 ![AnyShape.png](assets/AnyShape.png)
 
-Tip: If the baseline has tight curves, or sharp corners, letters may overlap. For best results, only mark curve points and digitize lines which have shallow, gentle curves.
+::: tip
+If the baseline has tight curves, or sharp corners, letters may overlap. For best results, only mark curve points and digitize lines which have shallow, gentle curves.
+:::
 
 - Predefined: This technique is typically used for creating logos.
 

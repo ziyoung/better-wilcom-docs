@@ -4,7 +4,9 @@ The concept behind the EmbroideryConnect network is described by the following d
 
 ![EC_Network.png](assets/EC_Network.png)
 
-Note: Anyone on the same EmbroideryConnect network who has EmbroideryStudio running can send a design to an EC device or design queue on an EmbroideryHub. However, there can only be one EmbroideryHub running on the same network.
+::: info Note
+Anyone on the same EmbroideryConnect network who has EmbroideryStudio running can send a design to an EC device or design queue on an EmbroideryHub. However, there can only be one EmbroideryHub running on the same network.
+:::
 
 ## End-user benefits
 

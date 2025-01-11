@@ -15,4 +15,6 @@ If you are using two or more PCs to create your designs and a dedicated PC to se
 
 Design files may be saved anywhere on your network. These are sent to the EmbroideryHub where they are converted to machine files and sent to the EmbroideryConnect network.
 
-Tip: Visit the Wilcom Support Center at [www.wilcom.com.au/support](http://www.wilcom.com.au/support) for a current list of compatible machines.
+::: tip
+Visit the Wilcom Support Center at [www.wilcom.com.au/support](http://www.wilcom.com.au/support) for a current list of compatible machines.
+:::

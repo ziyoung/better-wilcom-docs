@@ -18,7 +18,9 @@ You can always change code, name, chart, thickness or thread colors. For example
 
 - Edit thread details as required.
 
-Note: When a color is changed, all objects using that color update immediately, whether selected or not. All other objects in the design are unchanged.
+::: info Note
+When a color is changed, all objects using that color update immediately, whether selected or not. All other objects in the design are unchanged.
+:::
 
 ## Related topics...
 

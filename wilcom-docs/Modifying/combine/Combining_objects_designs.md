@@ -1,6 +1,6 @@
 # Combining objects & designs
 
-Objects can be combined to create composite designs. They can be inserted from disk, copied and pasted via the MS Windows® [clipboard](../../glossary/glossary) for, or duplicated within the same design.
+Objects can be combined to create composite designs. They can be inserted from disk, copied and pasted via the MS Windows® [clipboard](../../glossary/glossary#clipboard) for, or duplicated within the same design.
 
 ![Duplicates.png](assets/Duplicates.png)
 

@@ -47,7 +47,9 @@ Motifs are commonly used in decorative outlines or open fills. However, you can 
 - Alternatively, press Enter to accept default position and settings.
 - Press Esc to finish.
 
-Tip: You can create motifs from patterns made in ES Cross Stitch and use them to create a cross stitch sampler. See Cross Stitch Supplement for details.
+::: tip
+You can create motifs from patterns made in ES Cross Stitch and use them to create a cross stitch sampler. See Cross Stitch Supplement for details.
+:::
 
 ![CrossStitchMotif.png](assets/CrossStitchMotif.png)
 

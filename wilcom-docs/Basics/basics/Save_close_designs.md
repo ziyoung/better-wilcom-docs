@@ -9,7 +9,9 @@ The Save Design option allows you to save a design to the latest native EMB ‘a
 
 Native EMB files contain a complete set of design information in a single ‘all-in-one’ file – object outlines and properties, actual stitches and machine functions, thread colors, a picture icon, summary information, and more. Even the original design bitmap image can be included in EMB format. Only native EMB files provide 100% perfect scaling and transformation. EmbroideryStudio lets you save designs in various native EMB formats. This can be important if your suppliers or clients use previous versions of Wilcom software.
 
-Caution: If a design feature is not available in the selected file type, it will be converted. For example, Flexi Split stitching may be changed to plain tatami. If the design contains a bitmap using a color depth unsupported by the selected file type, it will be removed from the resulting file.
+::: warning Caution
+If a design feature is not available in the selected file type, it will be converted. For example, Flexi Split stitching may be changed to plain tatami. If the design contains a bitmap using a color depth unsupported by the selected file type, it will be removed from the resulting file.
+:::
 
 ## Closing designs
 

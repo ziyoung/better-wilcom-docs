@@ -1,10 +1,12 @@
 # Reassigning colors to machine files
 
-When you open a machine file or CND file, a design without color code assignment automatically uses the default [color palette](../../glossary/glossary). You can, however, map thread colors to every Color Stop code in the file. This means that before opening the file you can color-code designs which do not contain [needle addressing](../../glossary/glossary) information.
+When you open a machine file or CND file, a design without color code assignment automatically uses the default [color palette](../../glossary/glossary#color-palette). You can, however, map thread colors to every Color Stop code in the file. This means that before opening the file you can color-code designs which do not contain [needle addressing](../../glossary/glossary#needle-addressing) information.
 
 ![convert00040.png](assets/convert00040.png)
 
-Note: In order to assign colors correctly, you need to consult a [production worksheet](../../glossary/glossary) for the necessary color sequence information.
+::: info Note
+In order to assign colors correctly, you need to consult a [production worksheet](../../glossary/glossary#production-worksheet) for the necessary color sequence information.
+:::
 
 ## To reassign colors to a machine file...
 
@@ -28,7 +30,9 @@ The Define Stop Sequence dialog opens. Initially the Building stop sequence pane
 
 5. Click Assign Color. The color and the description are entered at the current Stop in the Building stop sequence grid.
 
-Note: The selection moves to the next color in the thread chart. Two consecutive same colors are not allowed and Assign Color is disabled.
+::: info Note
+The selection moves to the next color in the thread chart. Two consecutive same colors are not allowed and Assign Color is disabled.
+:::
 
 6. Click Assign Stop to enter an explicit Stop code.
 
@@ -36,7 +40,9 @@ Stop is entered in the Description field.
 
 ![convert00051.png](assets/convert00051.png)
 
-Note: A Stop Sequence Warning message displays if a redundant color function is assigned. Press Delete to delete a selected entry in the stop sequence. Click Reset to delete all the entries.
+::: info Note
+A Stop Sequence Warning message displays if a redundant color function is assigned. Press Delete to delete a selected entry in the stop sequence. Click Reset to delete all the entries.
+:::
 
 ![convert00054.png](assets/convert00054.png)
 
@@ -52,7 +58,9 @@ Note: A Stop Sequence Warning message displays if a redundant color function is 
 
 9. Click OK. The design will have the desired colors and the correct number of Color Changes.
 
-Note: You can convert color changes to an explicit Stop Code. You can also remove Color Stops by assigning the same color number to consecutive color blocks.
+::: info Note
+You can convert color changes to an explicit Stop Code. You can also remove Color Stops by assigning the same color number to consecutive color blocks.
+:::
 
 ## Related topics...
 

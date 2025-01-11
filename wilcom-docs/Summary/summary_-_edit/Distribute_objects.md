@@ -8,7 +8,9 @@ You can automatically distribute selected objects with even spacing between them
 
 ![summary_-_edit00108.png](assets/summary_-_edit00108.png)
 
-Note: The tools all become enabled when three or more objects are selected.
+::: info Note
+The tools all become enabled when three or more objects are selected.
+:::
 
 ## Related topics
 

@@ -13,7 +13,9 @@ Add decorative borders such as rectangles, ovals, and shields to designs or sele
 
 ![AddBorders.png](assets/AddBorders.png)
 
-Tip: By selecting individual objects, you can add borders to these rather than the entire design.
+::: tip
+By selecting individual objects, you can add borders to these rather than the entire design.
+:::
 
 2. Select a border and adjust Border Width as required. The default is 3.00 mm.
 
@@ -21,4 +23,6 @@ Tip: By selecting individual objects, you can add borders to these rather than t
 
 4. Edit borders in the normal way – change thread color, adjust border size, etc.
 
-Tip: By default, borders scale proportionally. To resize proportionally around a central anchor point, hold down Shift as you drag. To scale freely in vertical and horizontal planes, hold down Ctrl as you drag.
+::: tip
+By default, borders scale proportionally. To resize proportionally around a central anchor point, hold down Shift as you drag. To scale freely in vertical and horizontal planes, hold down Ctrl as you drag.
+:::

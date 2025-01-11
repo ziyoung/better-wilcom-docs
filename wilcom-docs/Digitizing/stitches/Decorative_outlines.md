@@ -24,7 +24,9 @@ While simple [run stitching](../../glossary/glossary) is typically used to add b
 
 ![stitches00107.png](assets/stitches00107.png)
 
-Note: For Triple stitching, you can also adjust Stitch Thickness.
+::: info Note
+For Triple stitching, you can also adjust Stitch Thickness.
+:::
 
 ## Related topics...
 

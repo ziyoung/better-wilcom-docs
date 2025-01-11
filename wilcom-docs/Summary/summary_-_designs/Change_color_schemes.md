@@ -4,7 +4,7 @@
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | ![ColorWheel.png](assets/ColorWheel.png)           | Use Color > Color Wheel to access Color Wheel to test combinations of related colors.             |
 
-The color tools allow you to quickly re-color entire designs. Their main purpose is to create new ‘[colorways](../../glossary/glossary)’ quickly and easily in order to ‘spice up’ old designs or place them on a different fabric.
+The color tools allow you to quickly re-color entire designs. Their main purpose is to create new ‘[colorways](../../glossary/glossary#colorways)’ quickly and easily in order to ‘spice up’ old designs or place them on a different fabric.
 
 ![ColorWheelSchemes.png](assets/ColorWheelSchemes.png)
 
@@ -13,7 +13,7 @@ The color tools allow you to quickly re-color entire designs. Their main purpose
 <iframe src="https://www.youtube.com/embed/FBLn06kpwZ4" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

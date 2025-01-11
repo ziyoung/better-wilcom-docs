@@ -8,7 +8,9 @@ You can apply Program Split to a wide variety of objects. You can adjust these e
 
 ![ProgramSplits.png](assets/ProgramSplits.png)
 
-Note: Digitize the [stitch angle](../../glossary/glossary) carefully when creating objects with program splits. If rows are parallel with pattern lines, they will rarely intersect and the pattern may not be visible. A 45° stitch angle is suitable for most patterns.
+::: info Note
+Digitize the [stitch angle](../../glossary/glossary#stitch-angle) carefully when creating objects with program splits. If rows are parallel with pattern lines, they will rarely intersect and the pattern may not be visible. A 45° stitch angle is suitable for most patterns.
+:::
 
 ## To apply program splits...
 
@@ -22,7 +24,9 @@ Note: Digitize the [stitch angle](../../glossary/glossary) carefully when creati
 
 ![ProgSplitSettings.png](assets/ProgSplitSettings.png)
 
-Tip: Tatami patterns can be combined with curved fills for interesting effects.
+::: tip
+Tatami patterns can be combined with curved fills for interesting effects.
+:::
 
 ## Related topics...
 

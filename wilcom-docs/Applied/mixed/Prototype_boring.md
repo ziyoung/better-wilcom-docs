@@ -12,4 +12,6 @@ Of critical importance are the following considerations:
 | Borer cut    | How big should the cut be and how many penetrations are necessary?                                                  |
 | Cover stitch | How wide and how dense does the covering need to be?                                                                |
 
-Note: This topic provides advice on how to approach boring with EmbroideryStudio. Without stitch testing however, we only can provide the theory.
+::: info Note
+This topic provides advice on how to approach boring with EmbroideryStudio. Without stitch testing however, we only can provide the theory.
+:::

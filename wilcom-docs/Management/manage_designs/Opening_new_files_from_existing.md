@@ -9,7 +9,9 @@ Instead of opening the original designs, you can use New from Selected. The only
 
 The New from Selected command can also be used to open graphics files, including Corel CDR. With CDR, a new file is opened in EmbroideryStudio before switching to CorelDRAW Graphics.
 
-Tip: If you want to open one design into another, an Import Embroidery function is available in Wilcom Workspace. Combine designs or design elements into a single design layout.
+::: tip
+If you want to open one design into another, an Import Embroidery function is available in Wilcom Workspace. Combine designs or design elements into a single design layout.
+:::
 
 ## Related topics...
 

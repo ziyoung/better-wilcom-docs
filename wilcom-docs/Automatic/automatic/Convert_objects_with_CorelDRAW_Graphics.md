@@ -22,7 +22,7 @@ The Convert function is located on the Mode toolbar. Behavior depends on the ope
 
 ![automatic00012.png](assets/automatic00012.png)
 
-- In Wilcom Workspace, selected [embroidery objects](../../glossary/glossary) are converted to vector objects and displayed in CorelDRAW Graphics.
+- In Wilcom Workspace, selected [embroidery objects](../../glossary/glossary#embroidery-objects) are converted to vector objects and displayed in CorelDRAW Graphics.
 - If you want to keep a copy of the original vector objects, click the Keep Graphic Objects toggle in CorelDRAW Graphics.
 - Use the Match to Embroidery Palette tool to toggle on/off thread color matching.
 - When turned on, converted vector objects are assigned the nearest matching thread color in the current color palette.
@@ -31,7 +31,9 @@ The Convert function is located on the Mode toolbar. Behavior depends on the ope
 
 ![automatic00015.png](assets/automatic00015.png)
 
-Tip: Vectors can also be converted to [appliqué](../../glossary/glossary) as well as to lettering. [See also Creating lettering with CorelDRAW Graphics.](../../Lettering/lettering_create/Creating_lettering_with_CorelDRAW_Graphics)
+::: tip
+Vectors can also be converted to [appliqué](../../glossary/glossary#applique) as well as to lettering. [See also Creating lettering with CorelDRAW Graphics.](../../Lettering/lettering_create/Creating_lettering_with_CorelDRAW_Graphics)
+:::
 
 ![automatic00018.png](assets/automatic00018.png)
 

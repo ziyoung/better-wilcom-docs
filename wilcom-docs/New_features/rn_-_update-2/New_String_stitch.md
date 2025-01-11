@@ -8,4 +8,6 @@ New String stitch type is ideally suited to creating craftstitch fills as well a
 
 ![PaghadiStitchSample.png](assets/PaghadiStitchSample.png)
 
-Note: String stitch is included as a separate Element within ES Designing and ES Digitizing products.
+::: info Note
+String stitch is included as a separate Element within ES Designing and ES Digitizing products.
+:::

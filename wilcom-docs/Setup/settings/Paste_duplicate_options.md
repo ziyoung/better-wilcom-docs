@@ -22,7 +22,9 @@ Paste settings include:
 
 Duplicate position settings apply only to normal Ctrl+Shift+D operations. Cloning by right-click and drag will override these settings temporarily. Ctrl+D operations will assume the ‘quick clone’ value.
 
-Note: Paste and duplicate options control the physical position of the object in the design, not its position in the stitching sequence.
+::: info Note
+Paste and duplicate options control the physical position of the object in the design, not its position in the stitching sequence.
+:::
 
 ## Related topics...
 

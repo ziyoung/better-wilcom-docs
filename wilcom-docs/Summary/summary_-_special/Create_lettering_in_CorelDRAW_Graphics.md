@@ -10,7 +10,7 @@ Some EmbroideryStudio product levels include CorelDRAW® Graphics Suite as stand
 <iframe src="https://www.youtube.com/embed/5Sqab5N2y8o" frameborder="0" 
 		 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

@@ -31,7 +31,9 @@ Spiral is typically used for rings and borders, it is also suitable for other cl
 
 Spiral Contour can only be used with closed shapes with two outlines such as rings. If a shape is not properly closed, it will be filled with Standard Contour instead.
 
-Tip: To fill a solid shape with Spiral Contour, create a closed object with a very small hole at the center. For example, to create a circle filled with Spiral Contour, digitize a thick ring with a very small inner boundary.
+::: tip
+To fill a solid shape with Spiral Contour, create a closed object with a very small hole at the center. For example, to create a circle filled with Spiral Contour, digitize a thick ring with a very small inner boundary.
+:::
 
 ## Even density contour
 
@@ -42,7 +44,9 @@ Even Density is ideally suited to shapes of variable width. Contour stitching fo
 
 ![curves00005.png](assets/curves00005.png)
 
-Caution: EmbroideryStudio may not generate even-density contour stitching in certain shapes. Stitching will revert to standard contour stitching.
+::: warning Caution
+EmbroideryStudio may not generate even-density contour stitching in certain shapes. Stitching will revert to standard contour stitching.
+:::
 
 ## Backstitch
 
@@ -59,6 +63,8 @@ The term ‘backstitch’ refers to every second row of stitches in the fill. Th
 
 If spacing is small, Borderline backstitch will not be applied. This prevents damage to the fabric from too many small stitches.
 
-Tip: When you digitize shapes with pointed ends – e.g. leaves, diamonds, stars – cut the ends to prevent the stitches from bunching.
+::: tip
+When you digitize shapes with pointed ends – e.g. leaves, diamonds, stars – cut the ends to prevent the stitches from bunching.
+:::
 
 ![curves00010.png](assets/curves00010.png)

@@ -4,9 +4,11 @@ When you open an embroidery design in EmbroideryStudio, toggles on the View tool
 
 ![view00002.png](assets/view00002.png)
 
-Use these toggles, singly or in combination, to focus on design details. For example, view design outlines, stitches, needle points, or even machine functions such as trims and tie-offs. You can also turn on [connectors](../../glossary/glossary) in stitch view. How you use the view options will depend largely on whether you are editing a design or checking for production readiness.
+Use these toggles, singly or in combination, to focus on design details. For example, view design outlines, stitches, needle points, or even machine functions such as trims and tie-offs. You can also turn on [connectors](../../glossary/glossary#connectors) in stitch view. How you use the view options will depend largely on whether you are editing a design or checking for production readiness.
 
-Note: Design thumbnails reflect display settings at the time of saving. When a design is saved, the design thumbnail is generated using all visible objects as well as the current design background. If you have bitmap or vector display turned on, these too appear in the thumbnail. [See also Save & close designs.](../basics/Save_close_designs)
+::: info Note
+Design thumbnails reflect display settings at the time of saving. When a design is saved, the design thumbnail is generated using all visible objects as well as the current design background. If you have bitmap or vector display turned on, these too appear in the thumbnail. [See also Save & close designs.](../basics/Save_close_designs)
+:::
 
 ## Shortcut keys
 
@@ -20,7 +22,9 @@ Available shortcut keys include:
 | ![ShowConnectors.png](assets/ShowConnectors.png)     | Show Connectors    | Toggle connecting stitches to help position entry and exit points. | V+C        |
 | ![ShowFunctions.png](assets/ShowFunctions.png)       | Show Functions     | Toggle display of machine functions such as trims and tie-offs.    | V+F        |
 
-Tip: Depending on the design background, you can change display colors for selected objects, unsewn stitches, etc.
+::: tip
+Depending on the design background, you can change display colors for selected objects, unsewn stitches, etc.
+:::
 
 ## Related topics...
 

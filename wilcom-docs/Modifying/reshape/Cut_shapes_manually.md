@@ -26,11 +26,15 @@ The Knife tool has two modes of operation:
 
 4. Manually adjust object overlaps using the Reshape Object tool.
 
-Note: By default EmbroideryStudio orders fragments into a closest-join sequence that preserves the source object’s [entry ](../../glossary/glossary)and [exit](../../glossary/glossary) points. The Options > Reshape dialog offers other ways of managing cut fragments.
+::: info Note
+By default EmbroideryStudio orders fragments into a closest-join sequence that preserves the source object’s [entry ](../../glossary/glossary)and [exit](../../glossary/glossary#exit) points. The Options > Reshape dialog offers other ways of managing cut fragments.
+:::
 
 ![reshape00079.png](assets/reshape00079.png)
 
-Note: When you select a lettering object to cut, the object is highlighted with a thick magenta outline. [See Converting TrueType fonts to embroidery for details.](../../Lettering/lettering_custom/Converting_TrueType_fonts_to_embroidery)
+::: info Note
+When you select a lettering object to cut, the object is highlighted with a thick magenta outline. [See Converting TrueType fonts to embroidery for details.](../../Lettering/lettering_custom/Converting_TrueType_fonts_to_embroidery)
+:::
 
 ![CutLetter.png](assets/CutLetter.png)
 

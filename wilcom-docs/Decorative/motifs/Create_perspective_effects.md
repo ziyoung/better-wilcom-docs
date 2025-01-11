@@ -25,4 +25,6 @@ Use Perspective with 3D Warp to create a perspective effect by exaggerating rela
 
 ![motifs00120.png](assets/motifs00120.png)
 
-Note: The guide frame must not cross the outer boundary of the shape, and cannot be inside the shape.
+::: info Note
+The guide frame must not cross the outer boundary of the shape, and cannot be inside the shape.
+:::

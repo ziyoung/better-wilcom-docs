@@ -10,7 +10,7 @@ Data is extracted from the design file and, apart from title and bobbin length c
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Filename                     | File name of the selected design. This will often be a number or alphanumeric format for easy cataloging.                                                                  |
 | Title                        | Defaults to filename. Add a more descriptive name for easy searching. This name appears on the approval sheet or worksheet.                                                |
-| Auto fabric                  | Predefined [fabric settings](../../glossary/glossary) used in current design.                                                                                              |
+| Auto fabric                  | Predefined [fabric settings](../../glossary/glossary#fabric-settings) used in current design.                                                                              |
 | Required stabilizer          | Indicates recommended stabilizer(s) for selected fabric type.                                                                                                              |
 | Design area                  | Total area covered by design – used for estimating hoop sizes, fabric requirements, 3D foam, or whether design will fit target location.                                   |
 | Total thread                 | Indicates total meterage of top thread required to stitch out the design.                                                                                                  |

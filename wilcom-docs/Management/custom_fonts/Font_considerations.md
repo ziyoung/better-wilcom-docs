@@ -1,6 +1,6 @@
 # Font considerations
 
-You can use [artwork](../../glossary/glossary) to create font letters in the same way as you do other objects. Before digitizing, however, establish whether the letter shapes are suitable for embroidery, and determine reference height and baseline for the font.
+You can use [artwork](../../glossary/glossary#artwork) to create font letters in the same way as you do other objects. Before digitizing, however, establish whether the letter shapes are suitable for embroidery, and determine reference height and baseline for the font.
 
 ## Letter shapes
 
@@ -14,9 +14,11 @@ Reference height is the maximum height of capital letters. Although there may be
 
 ![abc5.png](assets/abc5.png)
 
-Place letters along a standard baseline to help digitize at a standard height. Draw in the baseline if you are digitizing from [artwork](../../glossary/glossary), or use a grid line as your guide. Descenders in letters such as y or g generally fall below the baseline.
+Place letters along a standard baseline to help digitize at a standard height. Draw in the baseline if you are digitizing from [artwork](../../glossary/glossary#artwork), or use a grid line as your guide. Descenders in letters such as y or g generally fall below the baseline.
 
-Tip: Use E or H as reference letters to determine the height and baseline for the font. These letters work well because they sit on the baseline and do not extend above the standard cap-height.
+::: tip
+Use E or H as reference letters to determine the height and baseline for the font. These letters work well because they sit on the baseline and do not extend above the standard cap-height.
+:::
 
 ## Letter spacing and width
 
@@ -26,11 +28,13 @@ Letter width varies with letter shape and spacing. When you digitize letters, yo
 
 Default spacing affects ‘kerning’ or spacing across all letters. This is set when packing the font. It is not advisable to add spacing around individual letters when digitizing reference points.
 
-Tip: Certain digitizing rules apply when creating script fonts, mainly to ensure that the tail of each letter joins seamlessly with the next letter.
+::: tip
+Certain digitizing rules apply when creating script fonts, mainly to ensure that the tail of each letter joins seamlessly with the next letter.
+:::
 
 ## Letter sequencing
 
-Letter stitching sequence is based on the join type used when saving the font. If you use Closest Join or Bottom Join, EmbroideryStudio applies automatic [branching](../../glossary/glossary). This determines where each stroke starts and ends, adding travel runs as necessary.
+Letter stitching sequence is based on the join type used when saving the font. If you use Closest Join or Bottom Join, EmbroideryStudio applies automatic [branching](../../glossary/glossary#branching). This determines where each stroke starts and ends, adding travel runs as necessary.
 
 However, it is good practice to digitize strokes in the direction they are most likely to be stitched in. It is also important to specify the stroke order as this is maintained when sequencing is calculated.
 

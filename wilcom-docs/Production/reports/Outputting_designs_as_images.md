@@ -32,7 +32,9 @@ Designers frequently want to distribute their designs for viewing in real colors
 
 ![CaptureDesignBitmap3.png](assets/CaptureDesignBitmap3.png)
 
-Note: Bitmap resolution defaults to current screen resolution. Properly calibrated, this figure should be approximately 96 DPI.
+::: info Note
+Bitmap resolution defaults to current screen resolution. Properly calibrated, this figure should be approximately 96 DPI.
+:::
 
 ## Related topics...
 

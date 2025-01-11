@@ -7,7 +7,7 @@ Use the Overview Window to view a thumbnail of the design. Use it to pan and zoo
 
 ![OverviewWindow1.png](assets/OverviewWindow1.png)
 
-- To zoom in or out, click the Zoom button at the bottom of the window and drag a [selection marquee](../../glossary/glossary) around the area to zoom.
+- To zoom in or out, click the Zoom button at the bottom of the window and drag a [selection marquee](../../glossary/glossary#selection-marquee) around the area to zoom.
 
 ![OverviewWindow2.png](assets/OverviewWindow2.png)
 

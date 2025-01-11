@@ -1,10 +1,12 @@
 # Preparing artwork for scanning
 
-If you have existing [artwork](../../glossary/glossary), you can scan it in CorelDRAW Graphics with a [WIA](../../glossary/glossary)\-compatible (Windows Image Acquisition) scanner using the scanning function. It is important to scan your artwork properly if you intend to use one of the automatic digitizing techniques – the scanned image quality will affect the quality of the final embroidered design.
+If you have existing [artwork](../../glossary/glossary#artwork), you can scan it in CorelDRAW Graphics with a [WIA](../../glossary/glossary)\-compatible (Windows Image Acquisition) scanner using the scanning function. It is important to scan your artwork properly if you intend to use one of the automatic digitizing techniques – the scanned image quality will affect the quality of the final embroidered design.
 
 With embroidery design, less is more. You don’t need every detail in an image to create a design. You use the ‘structure’ of the image rather than the fine details of texture and color. To simplify artwork, you can cover it with tracing paper and draw only the essential shapes and lines which will be filled with stitches. When scanning, take away the original artwork and put white paper behind the tracing paper. Shiny surfaces, such as glossy photographs, may not scan well. Cover them with tracing paper. If the artwork has very light colors, highlight outlines with a fine black felt-tip pen.
 
-Note: For a full description of how to scan images into CorelDRAW® Graphics Suite, refer to the electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use the online help available from the Help menu.
+::: info Note
+For a full description of how to scan images into CorelDRAW® Graphics Suite, refer to the electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use the online help available from the Help menu.
+:::
 
 ## Scanning resolution
 

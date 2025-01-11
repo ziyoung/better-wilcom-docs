@@ -12,7 +12,9 @@ EmbroideryStudio supports the following design file (condensed) formats:
 | JAN       | Janome Embroidery Software file  | l    |       |
 | PCH       | Gunold APS design format         | l    |       |
 
-Note: See below for conversion details when reading these files into [EMB](../../glossary/glossary) format or writing to CND format. See [Melco CND format](Melco_CND_format) and [Gunold PCH format](Gunold_PCH_format).
+::: info Note
+See below for conversion details when reading these files into [EMB](../../glossary/glossary) format or writing to CND format. See [Melco CND format](Melco_CND_format) and [Gunold PCH format](Gunold_PCH_format).
+:::
 
 ## Design template formats
 

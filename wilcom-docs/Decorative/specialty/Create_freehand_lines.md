@@ -6,7 +6,9 @@
 
 ![OpenFreehandEmbroidery.png](assets/OpenFreehandEmbroidery.png)Accessed from the Graphics Digitizing toolbar, the freehand feature is deployed in two forms: ‘Open Shape’ and ‘Closed Shape’. As with other digitizing tools, freehand tools can be used in conjunction with all stitch types. With these tools, however, you draw objects directly onscreen. It is thus possible to produce artistic effects similar to free-motion machine embroidery or ‘thread painting’.
 
-Tip: The Embroidery tools can be operated with a mouse or WACOM pen.
+::: tip
+The Embroidery tools can be operated with a mouse or WACOM pen.
+:::
 
 ## To create freehand lines...
 

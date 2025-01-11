@@ -16,7 +16,9 @@ The main modes you’ll be accessing are:
 | CorelDRAW Graphics | This mode allows you to create and edit vector objects using the CorelDRAW® Graphics Suite toolset.                       |
 | Design Library     | This mode allows you to manage designs and job orders.                                                                     |
 
-Caution: You need to calibrate your monitor so that designs at 1:1 scale appear at real size. Do this when you first install EmbroideryStudio or whenever you change your monitor. [See Calibrating the monitor for details.](../../Setup/hardware/Calibrating_the_monitor)
+::: warning Caution
+You need to calibrate your monitor so that designs at 1:1 scale appear at real size. Do this when you first install EmbroideryStudio or whenever you change your monitor. [See Calibrating the monitor for details.](../../Setup/hardware/Calibrating_the_monitor)
+:::
 
 ## Related topics...
 

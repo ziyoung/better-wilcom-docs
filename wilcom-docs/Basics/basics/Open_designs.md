@@ -24,9 +24,11 @@ EmbroideryStudio opens a comprehensive range of both ‘[outline](../../glossary
 - To select a range, hold down Shift then select first and last.
 - To select multiple items, hold down Ctrl and click.
 
-Tip: For more information about a selected file, right-click and select Properties from the popup menu.
+::: tip
+For more information about a selected file, right-click and select Properties from the popup menu.
+:::
 
-- For file types other than [EMB](../../glossary/glossary) or ESD, click Options and adjust [recognition](../../glossary/glossary) options as preferred.
+- For file types other than [EMB](../../glossary/glossary) or ESD, click Options and adjust [recognition](../../glossary/glossary#recognition) options as preferred.
 - Click Open.
 - Optionally, select Design > Auto Fabric to apply preferred fabric settings.
 
@@ -38,7 +40,9 @@ Tip: For more information about a selected file, right-click and select Properti
 
 - If the Backup Copy option is active, a backup copy of the current design file is automatically created in its previously saved form. Access the backup folder via the File > Open Backup Design command.
 
-Tip: You can also open designs from proprietary [embroidery disks](../../glossary/glossary), or read them from paper tape.
+::: tip
+You can also open designs from proprietary [embroidery disks](../../glossary/glossary), or read them from paper tape.
+:::
 
 ## Related topics...
 

@@ -80,7 +80,9 @@ Connection takes about 60 seconds depending on network traffic.
 
 ![Attach_EC_device_to_machine.png](assets/Attach_EC_device_to_machine.png)
 
-Tip: The EC device comes with 3M mounting strips to attach it to the machine.
+::: tip
+The EC device comes with 3M mounting strips to attach it to the machine.
+:::
 
 12. Again, ensure all lights return to ‘Ready’ mode. You can now send designs to this device from EmbroideryStudio.
 
@@ -88,4 +90,6 @@ Tip: The EC device comes with 3M mounting strips to attach it to the machine.
 
 ![EH_main_screen_device_list.png](assets/EH_main_screen_device_list.png)
 
-Note: The EmbroideryHub needs to remain active at all times in order to manage the design flow to all connected EmbroideryConnect devices.
+::: info Note
+The EmbroideryHub needs to remain active at all times in order to manage the design flow to all connected EmbroideryConnect devices.
+:::

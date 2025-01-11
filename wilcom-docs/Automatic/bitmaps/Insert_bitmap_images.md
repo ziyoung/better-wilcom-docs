@@ -6,7 +6,9 @@
 
 [Bitmap](../../glossary/glossary) images of various formats can be imported or pasted into EmbroideryStudio for use as digitizing backdrops.
 
-Tip: If you are editing images in a third-party graphics application, you can copy and paste into EmbroideryStudio via the Windows clipboard.
+::: tip
+If you are editing images in a third-party graphics application, you can copy and paste into EmbroideryStudio via the Windows clipboard.
+:::
 
 ## To import a bitmap image...
 
@@ -18,7 +20,9 @@ Tip: If you are editing images in a third-party graphics application, you can co
 
 3. Filter the Files of Type list as required – e.g. ‘BMP’.
 
-Note: While ‘All graphic files’ includes both vector and bitmap formats, for native CDR and other vector file types, use the CorelDRAW® Graphics Suite import function.
+::: info Note
+While ‘All graphic files’ includes both vector and bitmap formats, for native CDR and other vector file types, use the CorelDRAW® Graphics Suite import function.
+:::
 
 4. Select a file and click Open.
 
@@ -26,7 +30,9 @@ Note: While ‘All graphic files’ includes both vector and bitmap formats, for
 
 ![bitmaps00044.png](assets/bitmaps00044.png)
 
-Tip: Use Auto Trace To Vectors to create [vector](../../glossary/glossary) outlines from [bitmap](../../glossary/glossary) images. You can then convert these to embroidery objects using a variety of input methods. Auto Trace To Vectors can find holes in shapes – both inside and outside boundaries are detected.
+::: tip
+Use Auto Trace To Vectors to create [vector](../../glossary/glossary) outlines from [bitmap](../../glossary/glossary#bitmap) images. You can then convert these to embroidery objects using a variety of input methods. Auto Trace To Vectors can find holes in shapes – both inside and outside boundaries are detected.
+:::
 
 ## Related topics...
 

@@ -13,7 +13,7 @@ The styles you select as ‘favorites’ are each assigned a tool icon on the to
 <iframe src="https://www.youtube.com/embed/WvgldwMdCUw" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -21,7 +21,7 @@ The styles you select as ‘favorites’ are each assigned a tool icon on the to
 <iframe src="https://www.youtube.com/embed/QhlJbJIQKrw" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

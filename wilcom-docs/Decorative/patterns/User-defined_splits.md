@@ -5,7 +5,7 @@
 | ![UserDefinedSplit.png](assets/UserDefinedSplit.png) | Use Stitch Effects > User-Defined Split to create your own split line effects. Right-click to adjust settings.            |
 | ![ReshapeObject.png](assets/ReshapeObject.png)       | Use Reshape > Reshape Object to reshape selected objects, edit stitch angles, and adjust entry/exit points.               |
 
-The User-Defined Split function lets you add detail to filled objects by digitizing lines of needle penetrations called ‘split lines’. Split lines are stored as [object properties](../../glossary/glossary). They are preserved when stitches are regenerated even if you apply a different stitch type.
+The User-Defined Split function lets you add detail to filled objects by digitizing lines of needle penetrations called ‘split lines’. Split lines are stored as [object properties](../../glossary/glossary#object-properties). They are preserved when stitches are regenerated even if you apply a different stitch type.
 
 ![UserDefinedSplitSample2.png](assets/UserDefinedSplitSample2.png)
 
@@ -15,7 +15,7 @@ The User-Defined Split function lets you add detail to filled objects by digitiz
 
 2. Click the User-Defined Split icon.
 
-3. Digitize the object boundaries, entry and [exit points](../../glossary/glossary) and [stitch angle](../../glossary/glossary) as you normally would, following the prompts in the Prompt Line.
+3. Digitize the object boundaries, entry and [exit points](../../glossary/glossary) and [stitch angle](../../glossary/glossary#stitch-angle) as you normally would, following the prompts in the Prompt Line.
 
 ![UserDefinedSplit1.png](assets/UserDefinedSplit1.png)
 

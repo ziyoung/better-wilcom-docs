@@ -20,7 +20,9 @@ Use the Column B tool to digitize shapes where one side is different to the othe
 
 ![input00114.png](assets/input00114.png)
 
-Tip: If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
+::: tip
+If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
+:::
 
 4. Press Enter.
 
@@ -30,13 +32,15 @@ An elastic line attaches to the pointer, ready for you to digitize the second si
 
 ![InputBDigitizing.png](assets/InputBDigitizing.png)
 
-Tip: Stitch angles vary from tightly turning fills to parallel fills, depending on the ends of the shape – the more ‘pointy’, the tighter the stitch angles.
+::: tip
+Stitch angles vary from tightly turning fills to parallel fills, depending on the ends of the shape – the more ‘pointy’, the tighter the stitch angles.
+:::
 
 ![input00119.png](assets/input00119.png)
 
 6. When you have finished digitizing the shape, either:
 
-- Press Enter to keep the last stitch and place the [exit point](../../glossary/glossary) at the last point you digitized, or
+- Press Enter to keep the last stitch and place the [exit point](../../glossary/glossary#exit-point) at the last point you digitized, or
 - Press Spacebar to omit the last stitch and place the exit point on the opposite side of the column.
 
 ## Related topics...

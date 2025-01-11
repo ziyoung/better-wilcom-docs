@@ -16,7 +16,9 @@ Device features are summarized below:
 | Device state indicator   | The device displays basic status information. See below for details.                                                        |
 | Power from USB           | No separate power supply needed – power is drawn from USB port.                                                             |
 
-Tip: The EC device comes with 3M mounting strips to attach it to the target machine.
+::: tip
+The EC device comes with 3M mounting strips to attach it to the target machine.
+:::
 
 ## EC device states
 

@@ -32,7 +32,9 @@ Typical configurations include:
 | 2 x Double twin (Dahao)          | ABCD / ABCD   |
 | 1 x Multi-sequin (6, 8, 12, etc) | ABCDEF...     |
 
-Note: Typically the machine operator will use Needle 1 to position the starting point. Thus single devices are usually mounted on the last needle. In terms of software configuration, it makes no difference.
+::: info Note
+Typically the machine operator will use Needle 1 to position the starting point. Thus single devices are usually mounted on the last needle. In terms of software configuration, it makes no difference.
+:::
 
 5. Select predefined or custom sequin shapes from the droplist.
 
@@ -56,7 +58,9 @@ Note: Typically the machine operator will use Needle 1 to position the starting 
 
 ![SequinManualDroplist.png](assets/SequinManualDroplist.png)
 
-Tip: The digitizer needs to know the machine capabilities by heart. If an unsupported combination is selected – e.g. four sequin stack feeding – the drop code is ignored on the machine.
+::: tip
+The digitizer needs to know the machine capabilities by heart. If an unsupported combination is selected – e.g. four sequin stack feeding – the drop code is ignored on the machine.
+:::
 
 ## Related topics...
 

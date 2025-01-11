@@ -18,7 +18,9 @@ Digitize columns and borders of fixed width with the Column C tool.
 
 ![input00062.png](assets/input00062.png)
 
-Tip: The Show Column C width guide setting in the Options dialog activates a special cursor. This is useful when digitizing a border based on a background image.
+::: tip
+The Show Column C width guide setting in the Options dialog activates a special cursor. This is useful when digitizing a border based on a background image.
+:::
 
 4. To close the shape, enter the last point on top of the first.
 

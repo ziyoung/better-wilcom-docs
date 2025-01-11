@@ -1,6 +1,6 @@
 # Assign favorites
 
-You can assign up to ten favorite [styles](../../glossary/glossary) to tool icons on the Styles toolbar. To apply the style, you then simply select the tool.
+You can assign up to ten favorite [styles](../../glossary/glossary#styles) to tool icons on the Styles toolbar. To apply the style, you then simply select the tool.
 
 ## To assign a favorite style...
 

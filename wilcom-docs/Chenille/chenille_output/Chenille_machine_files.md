@@ -4,7 +4,9 @@ Different embroidery machines understand different languages. Each has its own c
 
 ![ChenilleMachineFile.png](assets/ChenilleMachineFile.png)
 
-Tip: There is no chenille-specific machine file format as such. However, if a design was created as a chenille design, you will need to select the associated machine format when you open the file in order to display it correctly.
+::: tip
+There is no chenille-specific machine file format as such. However, if a design was created as a chenille design, you will need to select the associated machine format when you open the file in order to display it correctly.
+:::
 
 ## Related topics
 

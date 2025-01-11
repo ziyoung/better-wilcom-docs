@@ -9,7 +9,9 @@ Both vector and embroidery objects contain reshape-nodes on their outlines. On s
 
 1. Select the object (or objects) to smooth.
 
-Note: You can only smooth objects that have been ungrouped and selected. However, you can select multiple objects.
+::: info Note
+You can only smooth objects that have been ungrouped and selected. However, you can select multiple objects.
+:::
 
 2. Optionally, click Reshape Object to view reshape-nodes around the outline.
 

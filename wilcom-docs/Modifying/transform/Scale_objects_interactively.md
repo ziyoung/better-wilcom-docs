@@ -1,6 +1,6 @@
 # Scale objects interactively
 
-You can change height and width of an object, or scale it proportionally using [selection handles](../../glossary/glossary). Scale objects individually, or select multiple objects and scale them together. Use the tooltips as a guide.
+You can change height and width of an object, or scale it proportionally using [selection handles](../../glossary/glossary#selection-handles). Scale objects individually, or select multiple objects and scale them together. Use the tooltips as a guide.
 
 ## To scale objects interactively...
 
@@ -10,7 +10,9 @@ You can change height and width of an object, or scale it proportionally using [
 
 - To scale height and width proportionally, use a corner handle.
 
-Tip: By default, objects scale proportionally. To scale freely in vertical and horizontal planes, hold down Ctrl as you drag.
+::: tip
+By default, objects scale proportionally. To scale freely in vertical and horizontal planes, hold down Ctrl as you drag.
+:::
 
 - To change the height or width, use the center handles.
 

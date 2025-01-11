@@ -1,6 +1,6 @@
 # Modify styles
 
-The Setup > Manage Styles function allows you to modify [styles](../../glossary/glossary), including the factory presets in the NORMAL [template](../../glossary/glossary). You can merge settings from one style to another. You can rename a style without affecting its settings. You can also remove any unwanted styles from a template.
+The Setup > Manage Styles function allows you to modify [styles](../../glossary/glossary#styles), including the factory presets in the NORMAL [template](../../glossary/glossary). You can merge settings from one style to another. You can rename a style without affecting its settings. You can also remove any unwanted styles from a template.
 
 ![properties00055.png](assets/properties00055.png)
 
@@ -14,4 +14,6 @@ Select a style from the list and modify using the available buttons:
 | Merge        | Copy settings from one style to another via the Merge With Style dialog. When you merge, settings from the second style overwrite the first.                |
 | Favorites    | You can assign up to ten favorite styles to tool icons on the Styles toolbar. [See Assign favorites for details.](Assign_favorites)                         |
 
-Tip: At some stage, you may want to revert to the original style settings in the NORMAL template. [See Revert to the NORMAL template for details.](Revert_to_the_NORMAL_template)
+::: tip
+At some stage, you may want to revert to the original style settings in the NORMAL template. [See Revert to the NORMAL template for details.](Revert_to_the_NORMAL_template)
+:::

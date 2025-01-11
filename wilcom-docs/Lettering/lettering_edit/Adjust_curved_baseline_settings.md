@@ -30,7 +30,9 @@ Adjust baseline settings for more precise numeric control over radius (X and Y),
 
 ![lettering_edit00110.png](assets/lettering_edit00110.png)
 
-Note: The Tilt field is activated when Radius X and Radius Y values are different.
+::: info Note
+The Tilt field is activated when Radius X and Radius Y values are different.
+:::
 
 - Justification Angle: angle of the vertical axis through the lettering object relative to the horizontal axis.
 
@@ -40,7 +42,9 @@ Note: The Tilt field is activated when Radius X and Radius Y values are differen
 
 ![lettering_edit00116.png](assets/lettering_edit00116.png)
 
-Tip: Precise control over baseline width is important when combined with Team Names when you want to ensure all names fit within the same area such as a pocket. A fixed width on arch baselines can be set by adjusting Arch Angle value in the Baseline panel.
+::: tip
+Precise control over baseline width is important when combined with Team Names when you want to ensure all names fit within the same area such as a pocket. A fixed width on arch baselines can be set by adjusting Arch Angle value in the Baseline panel.
+:::
 
 5. Select a baseline position.
 

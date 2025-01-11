@@ -15,7 +15,9 @@ Both sequins and fixing stitches appear in their selected colors and can be turn
 
 When traveling through a sequin design, ‘undropped’ sequins appear in the ‘unsewn’ color defined in the Background & Display Colors dialog.
 
-Tip: The Show Repeats function displays repeating designs, including sequins, in both TrueView and stitch view. You can view a design, even while digitizing, with any number of repeats.
+::: tip
+The Show Repeats function displays repeating designs, including sequins, in both TrueView and stitch view. You can view a design, even while digitizing, with any number of repeats.
+:::
 
 ## Related topics...
 

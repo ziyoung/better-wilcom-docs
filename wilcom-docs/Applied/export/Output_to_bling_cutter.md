@@ -27,7 +27,9 @@ The Send to Bling Cutter function sends vectors for any bling in a multi-decorat
 
 ![SendToBlingCutterPreview.png](assets/SendToBlingCutterPreview.png)
 
-Note: In multi-bling designs, each color is separated into different templates for flood-filling.
+::: info Note
+In multi-bling designs, each color is separated into different templates for flood-filling.
+:::
 
 ![BlingMultiPrintPreview.png](assets/BlingMultiPrintPreview.png)
 
@@ -35,7 +37,9 @@ Note: In multi-bling designs, each color is separated into different templates f
 
 The bling cutting/engraving information is sent to machine in the required format. The machine cuts the desired template/s. The cutting data consists solely of vectors which describe the location, size, and shape of the bling in the template. There are no connecting lines or data that do not relate directly to bling placement.
 
-Tip: A bling production summary shows stone colors, sizes, and quantities as well as a summary on the first page.
+::: tip
+A bling production summary shows stone colors, sizes, and quantities as well as a summary on the first page.
+:::
 
 ## Related topics...
 

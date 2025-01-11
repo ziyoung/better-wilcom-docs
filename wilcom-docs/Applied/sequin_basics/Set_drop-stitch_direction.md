@@ -19,7 +19,9 @@ There is an option to ensure that the initial fixing stitch before the sequin dr
 
 ![SequinDropDirection1.png](assets/SequinDropDirection1.png)
 
-Caution: With the Any option, direction is not important. This option generates the least number of fixing stitches but may not be suitable for your sequin device. Check your machine documentation.
+::: warning Caution
+With the Any option, direction is not important. This option generates the least number of fixing stitches but may not be suitable for your sequin device. Check your machine documentation.
+:::
 
 3. Enter a Max Angle to specify an angular range within which drop-stitch will fall.
 

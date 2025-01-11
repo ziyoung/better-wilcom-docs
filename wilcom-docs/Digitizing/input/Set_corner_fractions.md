@@ -17,7 +17,9 @@ With sharp curves, spacing which provides adequate coverage on the outside edge 
 
 ![input00088.png](assets/input00088.png)
 
-Tip: Round Sharp Corners is also available for Column C objects to give you the option of sharp or round points.
+::: tip
+Round Sharp Corners is also available for Column C objects to give you the option of sharp or round points.
+:::
 
 ## Related topics...
 

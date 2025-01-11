@@ -18,7 +18,7 @@ Thread charts are lists of predefined thread colors. They may be based on commer
 <iframe src="https://www.youtube.com/embed/YZ0NBwygIPg" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -26,7 +26,7 @@ Thread charts are lists of predefined thread colors. They may be based on commer
 <iframe src="https://www.youtube.com/embed/vVimtUEVxtw" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

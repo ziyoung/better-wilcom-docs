@@ -4,7 +4,7 @@
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | ![AppliqueWithoutHoles00059.png](assets/AppliqueWithoutHoles00059.png) | Right-click Appliqué > Appliqué without Holes to adjust cover stitch settings. |
 
-The cover stitch is generally the satin border around the [appliqué](../../glossary/glossary) shape. However, you don’t have to include it. Optionally, you can change the cover stitch type to zigzag, E stitch or raised satin. You can also adjust width and offset relative to other appliqué components.
+The cover stitch is generally the satin border around the [appliqué](../../glossary/glossary#applique) shape. However, you don’t have to include it. Optionally, you can change the cover stitch type to zigzag, E stitch or raised satin. You can also adjust width and offset relative to other appliqué components.
 
 ## To adjust cover stitch settings...
 

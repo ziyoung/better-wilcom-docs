@@ -6,7 +6,9 @@ The Convert TrueType Font feature lets you convert any TrueType font installed o
 
 The process is fully automatic. Lettering shapes are ‘cut’ into [Column A](../../glossary/glossary) or [Column B](../../glossary/glossary) embroidery objects. Overlaps and stroke order are detected and [stitch angles](../../glossary/glossary) defined. The result is similar to manually digitized fonts although the quality may not be quite as good. The quality greatly depends on the original shapes, narrower serif type fonts producing better results than blocked fonts.
 
-Tip: The simplest option for creating custom embroidery fonts is to use the built-in Convert TrueType Font feature. This lets you convert any TrueType font installed on your system to an embroidery font. [See Custom Fonts for details.](../../Management/custom_fonts/Custom_Fonts)
+::: tip
+The simplest option for creating custom embroidery fonts is to use the built-in Convert TrueType Font feature. This lets you convert any TrueType font installed on your system to an embroidery font. [See Custom Fonts for details.](../../Management/custom_fonts/Custom_Fonts)
+:::
 
 ## Related topics...
 

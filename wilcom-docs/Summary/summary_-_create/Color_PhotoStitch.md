@@ -19,7 +19,7 @@ Use Color Matching Method to assign image colors to the color palette for manual
 <iframe src="https://www.youtube.com/embed/q-IwO2ySkqI" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

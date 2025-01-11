@@ -17,7 +17,9 @@ Motif runs can be digitized as open or closed objects with graphical or traditio
 
 ![motifs00025.png](assets/motifs00025.png)
 
-Tip: Select a motif with no object selected and click Apply to make the selection current. Use it with the Use Motif tool.
+::: tip
+Select a motif with no object selected and click Apply to make the selection current. Use it with the Use Motif tool.
+:::
 
 - Select a digitizing tool such as Digitize Open Shape or Digitize Closed Shape to create a string of motifs along a digitized line:
 - To use default size and orientation, press Enter.

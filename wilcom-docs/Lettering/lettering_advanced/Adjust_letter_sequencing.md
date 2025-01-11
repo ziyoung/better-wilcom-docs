@@ -29,8 +29,12 @@ You can specify the sequence in which letters are stitched to minimize registrat
 
 ![lettering_advanced00056.png](assets/lettering_advanced00056.png)
 
-Note: You can combine both In-line and Line-by-line sequencing options.
+::: info Note
+You can combine both In-line and Line-by-line sequencing options.
+:::
 
 4. Click OK to return to the Special tab.
 
-Tip: Travel through your design to check the stitching sequence. [See Travel through designs for details.](../../Basics/view/Travel_through_designs)
+::: tip
+Travel through your design to check the stitching sequence. [See Travel through designs for details.](../../Basics/view/Travel_through_designs)
+:::

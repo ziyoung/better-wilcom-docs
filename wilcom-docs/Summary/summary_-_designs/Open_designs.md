@@ -8,7 +8,9 @@ EmbroideryStudio opens a comprehensive range of both ‘[outline](../../glossary
 
 ![OpenDesignFileTypes.png](assets/OpenDesignFileTypes.png)
 
-Tip: You can also open designs from proprietary [embroidery disks](../../glossary/glossary), or read them from paper tape.
+::: tip
+You can also open designs from proprietary [embroidery disks](../../glossary/glossary), or read them from paper tape.
+:::
 
 ## Related topics
 

@@ -23,7 +23,9 @@ Double Zigzag too can be slanted to create even more loft.
 
 ![underlays00054.png](assets/underlays00054.png)
 
-Caution: When using very small angles for slanted underlays, they can extend outside object boundaries.
+::: warning Caution
+When using very small angles for slanted underlays, they can extend outside object boundaries.
+:::
 
 ## Related topics...
 

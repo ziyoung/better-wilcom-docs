@@ -44,4 +44,6 @@ The table shows the machine types supported by EmbroideryStudio. Make sure you f
 | Toyota                                          | Use this format for main types of Toyota machines.                                                                                                                                                                                                                                                                                         | 10O                                                                                                           |
 | Zangs                                           | Use this format for Zangs and Marco brand machines and pre-1988 ZSK machines without trimmers.                                                                                                                                                                                                                                             | DSZ, T04, TAP                                                                                                 |
 
-Note: If not already a member of the WSC, you will need to register as a licensed user of Wilcom software. See [www.wilcom.com/support](http://www.wilcom.com/support) for details.
+::: info Note
+If not already a member of the WSC, you will need to register as a licensed user of Wilcom software. See [www.wilcom.com/support](http://www.wilcom.com/support) for details.
+:::

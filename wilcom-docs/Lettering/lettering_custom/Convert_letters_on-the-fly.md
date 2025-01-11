@@ -5,7 +5,9 @@
 
 You can convert individual TrueType letters ‘on-the-fly’ and add them directly to a design through the Object Properties docker.
 
-Tip: If your product level allows it, you can add and format TrueType lettering in CorelDRAW Graphics. This can then be converted to either embroidery lettering or embroidery objects.
+::: tip
+If your product level allows it, you can add and format TrueType lettering in CorelDRAW Graphics. This can then be converted to either embroidery lettering or embroidery objects.
+:::
 
 ## To convert TrueType letters on-the-fly...
 

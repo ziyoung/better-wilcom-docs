@@ -8,14 +8,18 @@ You can select stitch colors from the Color Palette before digitizing, or apply 
 
 ![ColorToolbar.png](assets/ColorToolbar.png)
 
-Tip: The color palette can be dragged and floated anywhere within the Design Window.
+::: tip
+The color palette can be dragged and floated anywhere within the Design Window.
+:::
 
 - To change colors, select a stitch block by dragging a marquee around it. Then select a new color.
 - If you are creating a cross stitch fill or border, select a cross stitch type from the Stitch toolbar.
 
 ![cross-stitch_digitizing00007.png](assets/cross-stitch_digitizing00007.png)
 
-Tip: The stitch palette can be dragged and floated anywhere within the Design Window.
+::: tip
+The stitch palette can be dragged and floated anywhere within the Design Window.
+:::
 
 - If you are creating a cross stitch outline, click the Single Line or Full Cross icon. If you are using Full Cross, the currently selected cross stitch type applies.
 

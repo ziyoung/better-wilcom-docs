@@ -4,7 +4,7 @@
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | ![RemoveStitchAngles.png](assets/RemoveStitchAngles.png) | Use Graphics Digitizing > Remove Stitch Angles to remove stitch angles from closed objects with turning stitches. |
 
-Add [stitch angles](../../glossary/glossary) to most [embroidery objects](../../glossary/glossary) interactively using the Stitch Angles tool. Create embroidery objects by adding stitch angles directly to [vector objects](../../glossary/glossary).
+Add [stitch angles](../../glossary/glossary) to most [embroidery objects](../../glossary/glossary#embroidery-objects) interactively using the Stitch Angles tool. Create embroidery objects by adding stitch angles directly to [vector objects](../../glossary/glossary).
 
 ![quality00019.png](assets/quality00019.png)
 
@@ -22,4 +22,6 @@ Add [stitch angles](../../glossary/glossary) to most [embroidery objects](../../
 
 ![quality00025.png](assets/quality00025.png)
 
-Note: To remove all except the default stitch angle, select the object and click Remove Stitch Angles.
+::: info Note
+To remove all except the default stitch angle, select the object and click Remove Stitch Angles.
+:::

@@ -20,7 +20,9 @@ All images placed in the design window, whether by scanning, pasting or insertin
 
 6. Enter a file name and click Export.
 
-Note: This file is not referenced by the EMB file. Any further changes to it are not reflected in the embedded image.
+::: info Note
+This file is not referenced by the EMB file. Any further changes to it are not reflected in the embedded image.
+:::
 
 ## Related topics...
 

@@ -8,7 +8,9 @@ The Export Multi-Decoration Files capability allows you to output files for mult
 - Direct input to supported machines, as this is the most efficient method, or
 - A file format which can be used directly by the machine’s supporting software.
 
-Note: If the printer, appliqué, or bling machine is directly supported, this procedure is not required. For example, cutting appliqués or outputting bling templates have their own procedures.
+::: info Note
+If the printer, appliqué, or bling machine is directly supported, this procedure is not required. For example, cutting appliqués or outputting bling templates have their own procedures.
+:::
 
 ## To export design components...
 
@@ -30,7 +32,9 @@ When Multiple Files is selected, different bling types – i.e. by size, color, 
 
 ![export00009.png](assets/export00009.png)
 
-Tip: Depending on your cutting machine, you may choose to export cutting outlines only. Preset in the Bling Palette Editor. Bling objects exported this way retain color information, and cutting outlines have hairline width.
+::: tip
+Depending on your cutting machine, you may choose to export cutting outlines only. Preset in the Bling Palette Editor. Bling objects exported this way retain color information, and cutting outlines have hairline width.
+:::
 
 ![export00012.png](assets/export00012.png)
 

@@ -23,7 +23,9 @@ Stitch Player is an important tool in EmbroideryStudio. It lets you simulate the
 
 - Use Auto Scroll when running Stitch Player at high zoom factors.
 
-Tip: Depending on your background, you can change display colors for unsewn stitches, selected objects, object outline, grid and guides.
+::: tip
+Depending on your background, you can change display colors for unsewn stitches, selected objects, object outline, grid and guides.
+:::
 
 ## Related topics...
 

@@ -23,7 +23,9 @@ EmbroideryStudio provides a method for selecting individual objects within objec
 - Add/remove a single object/color within a group (Alt+Ctrl+Click).
 - Select a range of objects/colors within a group (Alt+Shift+Click).
 
-Note: Once an object (or more) is selected, all properties, stitching and otherwise, can be changed ‘inside’ the group without the need to ungroup/regroup.
+::: info Note
+Once an object (or more) is selected, all properties, stitching and otherwise, can be changed ‘inside’ the group without the need to ungroup/regroup.
+:::
 
 ## Related topics...
 

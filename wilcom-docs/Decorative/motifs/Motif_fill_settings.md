@@ -32,6 +32,6 @@ You can set the exact size of motifs in a fill. You can also scale Motif 1 and M
 
 ## Motif rotation
 
-The rotation angle defines the orientation of the entire motif fill pattern. It overrides the [stitch angle](../../glossary/glossary) you set when digitizing the shape with Complex Fill. Enter a rotation angle in the Object Properties docker.
+The rotation angle defines the orientation of the entire motif fill pattern. It overrides the [stitch angle](../../glossary/glossary#stitch-angle) you set when digitizing the shape with Complex Fill. Enter a rotation angle in the Object Properties docker.
 
 ![motifs00073.png](assets/motifs00073.png)

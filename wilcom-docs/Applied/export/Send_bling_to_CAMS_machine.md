@@ -6,7 +6,9 @@
 
 EmbroideryStudio supports direct connection to CAMS automatic rhinestone placement machines. A general procedure is outlined below.
 
-Note: Before executing the procedure, it is important that the machine drivers for your CAMS machine be properly installed. They need to be installed and the machine connected before setting up the COM port. Refer to your machine documentation.
+::: info Note
+Before executing the procedure, it is important that the machine drivers for your CAMS machine be properly installed. They need to be installed and the machine connected before setting up the COM port. Refer to your machine documentation.
+:::
 
 ## To select bling machine...
 
@@ -54,7 +56,9 @@ The model will default to the machine selected via the Setup > Bling Machine Set
 
 7. Prepare the machine to receive data and click the Send button.
 
-Caution: If you try to send something before the machine is ‘Ready’, it may fail to read the next design.
+::: warning Caution
+If you try to send something before the machine is ‘Ready’, it may fail to read the next design.
+:::
 
 ## To export to bling placement file...
 

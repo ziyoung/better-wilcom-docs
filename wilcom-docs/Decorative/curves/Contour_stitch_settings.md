@@ -4,7 +4,7 @@
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![ContourFill00014.png](assets/ContourFill00014.png)       | Use Stitch Types > Fills > Contour to create fills which follow object contours, creating a curved, light-and-shade effect. Right-click for settings.       |
 
-Adjust [stitch length](../../glossary/glossary), spacing and offset fraction for Contour fills.
+Adjust [stitch length](../../glossary/glossary#stitch-length), spacing and offset fraction for Contour fills.
 
 ## To adjust contour stitch settings...
 

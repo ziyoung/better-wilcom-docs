@@ -2,7 +2,7 @@
 
 ![Branching0.png](assets/Branching0.png)Connectors link objects in a design. They can be run stitches or jumps. Travel runs are also used to connect segments within filled objects.
 
-You can use automatic settings to generate [connectors](../../glossary/glossary), trims and tie-offs, or add them manually. You can change connector settings for a whole design or selected objects. If you prefer to add tie-offs and trims as you digitize, you can turn off automatic connectors altogether. For Schiffli work, for example, you are advised to add connectors manually rather than rely on automatic settings.
+You can use automatic settings to generate [connectors](../../glossary/glossary#connectors), trims and tie-offs, or add them manually. You can change connector settings for a whole design or selected objects. If you prefer to add tie-offs and trims as you digitize, you can turn off automatic connectors altogether. For Schiffli work, for example, you are advised to add connectors manually rather than rely on automatic settings.
 
 EmbroideryStudio also allows you to create ‘branched objects’. Like-objects are thereby resequenced, connectors minimized, components grouped, and stitches regenerated. Underlay can be applied to all.
 

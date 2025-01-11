@@ -30,7 +30,9 @@ The Open Embroidery Disk dialog opens.
 
 6. From the Designs of Type list, select a design type. Any designs saved on disk are listed in the panel. If no designs are listed, make sure that the correct drive and disk format are selected.
 
-Note: If the Options button is available, you can set [recognition](../../glossary/glossary) options for the design.
+::: info Note
+If the Options button is available, you can set [recognition](../../glossary/glossary#recognition) options for the design.
+:::
 
 7. Click Open.
 

@@ -19,7 +19,9 @@ With EmbroideryStudio you can cut holes in selected closed objects with a single
 
 ![productivity00014.png](assets/productivity00014.png)
 
-Note: To remove all internal boundaries from a closed object, select it and click Remove Holes.
+::: info Note
+To remove all internal boundaries from a closed object, select it and click Remove Holes.
+:::
 
 ## Related topics...
 

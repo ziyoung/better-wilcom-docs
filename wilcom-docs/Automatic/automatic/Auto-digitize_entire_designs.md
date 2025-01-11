@@ -4,7 +4,7 @@
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | ![KeepOriginalObjects00043.png](assets/KeepOriginalObjects00043.png) | Use Auto-Digitizing > Keep Graphic Objects to retain original artwork during conversion.        |
 
-For more control over object conversion, use the Smart Design method. This can recognize shapes in artwork and allow you to preset suitable stitch types for conversion. Smart Design determines stitching sequence based on closest join. [Artwork](../../glossary/glossary) is effectively ‘batch processed’ to create the many embroidery objects that make up a design. The tool handles both [bitmap](../../glossary/glossary) and [vector](../../glossary/glossary) formats.
+For more control over object conversion, use the Smart Design method. This can recognize shapes in artwork and allow you to preset suitable stitch types for conversion. Smart Design determines stitching sequence based on closest join. [Artwork](../../glossary/glossary) is effectively ‘batch processed’ to create the many embroidery objects that make up a design. The tool handles both [bitmap](../../glossary/glossary#bitmap) and [vector](../../glossary/glossary) formats.
 
 ## To auto-digitize entire designs...
 

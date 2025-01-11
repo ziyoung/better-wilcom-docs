@@ -17,7 +17,9 @@ Only fill stitches are removed. Single line borders remain.
 
 ![cross-stitch_editing00023.png](assets/cross-stitch_editing00023.png)
 
-Tip: You can also erase cross stitches by selecting them and pressing the Delete key.
+::: tip
+You can also erase cross stitches by selecting them and pressing the Delete key.
+:::
 
 4. Click Single Line on the Stitch toolbar.
 
@@ -25,4 +27,6 @@ Tip: You can also erase cross stitches by selecting them and pressing the Delete
 
 ![cross-stitch_editing00026.png](assets/cross-stitch_editing00026.png)
 
-Note: A single line border is removed in one click.
+::: info Note
+A single line border is removed in one click.
+:::

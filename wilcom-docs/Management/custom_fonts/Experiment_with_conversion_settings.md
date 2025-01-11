@@ -25,7 +25,7 @@ The process of converting TrueType fonts to embroidery begins by converting indi
 
 6. Specify whether to convert as Turning Strokes or Complex Fill.
 
-This will depend in part on font type – whether serif or non-serif, whether script or block. If you want stitching to follow letter contours, select Turning Strokes. The Complex Fill option provides a single fixed [stitch angle](../../glossary/glossary).
+This will depend in part on font type – whether serif or non-serif, whether script or block. If you want stitching to follow letter contours, select Turning Strokes. The Complex Fill option provides a single fixed [stitch angle](../../glossary/glossary#stitch-angle).
 
 ![TurningFixedSample1.png](assets/TurningFixedSample1.png)
 

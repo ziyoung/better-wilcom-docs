@@ -15,12 +15,14 @@ It is useful to be able to view the stitching sequence color-by-color, object-by
 
 - To travel by color, click/right-click Travel by Color. This is useful if you need to locate a specific color change in order to insert an object or delete it from the stitching sequence.
 - To travel by object, click/right-click Travel by Object. Alternatively, press Tab or Shift+Tab.
-- To travel by machine function, click/right-click the Travel by Function tool. Alternatively, press Ctrl+Page Up or Ctrl+Page Down. The needle point will stop at every [jump](../../glossary/glossary), trim, and color change in the design.
+- To travel by machine function, click/right-click the Travel by Function tool. Alternatively, press Ctrl+Page Up or Ctrl+Page Down. The needle point will stop at every [jump](../../glossary/glossary#jump), trim, and color change in the design.
 - It is sometimes easier to use Travel by Trim to travel by trim functions alone – e.g. when checking for unnecessary trims. Alternatively, press Ctrl + Left Arrow or Ctrl + Right Arrow. Turn on Show Connectors and Show Functions to view while traveling.
 
 ![TravelByTrim.png](assets/TravelByTrim.png)
 
-Tip: While traveling through a design or editing stitches, click the Select Current icon or press Shift+0 to select the object associated with the current cursor position.
+::: tip
+While traveling through a design or editing stitches, click the Select Current icon or press Shift+0 to select the object associated with the current cursor position.
+:::
 
 ## Related topics...
 

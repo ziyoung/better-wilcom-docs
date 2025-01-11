@@ -39,7 +39,9 @@ Typically, you will create a virtual embroidery print of an entire design and th
 
 - Split out the embroidery production and graphics print files and select the formats to export – e.g. DST and PNG.
 
-Note: If you choose PNG, it will default to the CorelDRAW default setting of 300 DPI. This can be changed via the CorelDRAW Options dialog.
+::: info Note
+If you choose PNG, it will default to the CorelDRAW default setting of 300 DPI. This can be changed via the CorelDRAW Options dialog.
+:::
 
 ![OptionsDocument.png](assets/OptionsDocument.png)
 

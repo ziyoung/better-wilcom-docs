@@ -6,7 +6,9 @@
 
 When you create a new design, it contains a single default [colorway](../../glossary/glossary) called ‘Colorway 1’. You can add a virtually unlimited number of colorways to the design using the same or different thread sets. Preview designs in different colors on different fabrics. Colorways are saved with the design in [EMB](../../glossary/glossary) format. They can also be saved to an EMT template file for use in future designs. They cannot, however, be saved with machine files.
 
-Tip: Other settings are included as part of the colorway definition – [background](../../glossary/glossary) color, fabric, or product, as well as display colors for borer symbols, unsewn stitches, selected objects, object outlines and the grid.
+::: tip
+Other settings are included as part of the colorway definition – [background](../../glossary/glossary#background) color, fabric, or product, as well as display colors for borer symbols, unsewn stitches, selected objects, object outlines and the grid.
+:::
 
 ## To add a colorway...
 
@@ -26,7 +28,9 @@ Tip: Other settings are included as part of the colorway definition – [backgro
 
 ![AddColorway2.png](assets/AddColorway2.png)
 
-Note: As dark-colored threads cover light-colored fabrics better than vice versa, different densities may be required when changing from one colorway to another. Colorways do not automatically compensate for different densities. These must be adjusted manually.
+::: info Note
+As dark-colored threads cover light-colored fabrics better than vice versa, different densities may be required when changing from one colorway to another. Colorways do not automatically compensate for different densities. These must be adjusted manually.
+:::
 
 - Use the internal toolbar to edit:
 
@@ -35,9 +39,13 @@ Note: As dark-colored threads cover light-colored fabrics better than vice versa
 | ![DeleteColorway.png](assets/DeleteColorway.png)     | Remove a colorway from the design.                                                                                                                   |
 | ![ChangeBackground.png](assets/ChangeBackground.png) | Change the colorway background fabric and/or color.                                                                                                  |
 
-Tip: If you change the [background](../../glossary/glossary) in Colorway 1 and save it to your template, it will display like this at start up.
+::: tip
+If you change the [background](../../glossary/glossary#background) in Colorway 1 and save it to your template, it will display like this at start up.
+:::
 
-Tip: You can also match thread colors from imported graphics – [vector](../../glossary/glossary) or [bitmap](../../glossary/glossary).
+::: tip
+You can also match thread colors from imported graphics – [vector](../../glossary/glossary) or [bitmap](../../glossary/glossary#bitmap).
+:::
 
 ## Related topics...
 

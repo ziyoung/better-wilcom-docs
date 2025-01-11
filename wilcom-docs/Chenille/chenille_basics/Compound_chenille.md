@@ -7,7 +7,9 @@ Chenille objects generally include a border to contain chenille fill stitching a
 
 ![chenille_basics00015.png](assets/chenille_basics00015.png)
 
-Note: Compound Chenille objects will only work with two basic stitch patterns – Square and Coil, single or double. Moss stitch is generally applied. Chain has little applicability to these fill patterns.
+::: info Note
+Compound Chenille objects will only work with two basic stitch patterns – Square and Coil, single or double. Moss stitch is generally applied. Chain has little applicability to these fill patterns.
+:::
 
 ## Related topics
 

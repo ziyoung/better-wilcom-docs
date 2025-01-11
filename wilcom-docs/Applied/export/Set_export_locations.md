@@ -21,7 +21,9 @@ In some production environments, each file is placed in a specific location wher
 
 Once set, your settings are remembered for each successive session.
 
-Tip: Preset locations can be overridden for one-off exports – e.g. to USB stick – by means of the Export to option.
+::: tip
+Preset locations can be overridden for one-off exports – e.g. to USB stick – by means of the Export to option.
+:::
 
 ![export00023.png](assets/export00023.png)
 

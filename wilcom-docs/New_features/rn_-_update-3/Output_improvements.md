@@ -8,7 +8,9 @@ The setup process for EmbroideryConnect has been simplified to improve the setup
 
 ![ConnectionSettingsWiFiUSBStick.png](assets/ConnectionSettingsWiFiUSBStick.png)
 
-Note: The dialog now includes a Reset button. This allows you to clear all items on the EmbroideryConnect WiFi USB Stick.
+::: info Note
+The dialog now includes a Reset button. This allows you to clear all items on the EmbroideryConnect WiFi USB Stick.
+:::
 
 ## Unwanted removal of small stitches
 

@@ -19,4 +19,6 @@ These options include:
 | Show Home Screen on startup | When activated, the Home Screen always displays when the software starts up. [See Home screen for details.](../../Basics/basics/Home_screen)                                                                                                                                              |
 | Check for updates           | When activated, the software will check at every startup whether updates are available. It will also check whenever you access the My Wilcom page from the Home Screen. When deactivated, you will need to run the Help > Check for Updates command.                                      |
 
-Tip: Use the measure tooltip in combination with the crosshair cursor on for more accurate measurements.
+::: tip
+Use the measure tooltip in combination with the crosshair cursor on for more accurate measurements.
+:::

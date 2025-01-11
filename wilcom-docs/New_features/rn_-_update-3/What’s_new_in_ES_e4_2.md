@@ -10,4 +10,6 @@ The release of EmbroideryStudio e4 is minor in terms of version number but major
 - [System performance improvements](System_performance_improvements)
 - [Output improvements](Output_improvements)
 
-Note: This update is intended for installation with any released version (already installed) of ES e4\. It contains all improvements up to this release plus any previous updates.
+::: info Note
+This update is intended for installation with any released version (already installed) of ES e4\. It contains all improvements up to this release plus any previous updates.
+:::

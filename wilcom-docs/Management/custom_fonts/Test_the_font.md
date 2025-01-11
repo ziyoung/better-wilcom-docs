@@ -7,7 +7,9 @@ Once you have finished packing it, test your custom font by creating embroidery 
 
 ![TestFont.png](assets/TestFont.png)
 
-Tip: Compare your design with the sample ‘My Font.EMB’ included in the Projects > Custom Fonts folder.
+::: tip
+Compare your design with the sample ‘My Font.EMB’ included in the Projects > Custom Fonts folder.
+:::
 
 ## Related topics...
 

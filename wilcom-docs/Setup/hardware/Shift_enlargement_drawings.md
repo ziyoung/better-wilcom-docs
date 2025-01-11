@@ -8,7 +8,9 @@ If the drawing is bigger than the digitizing tablet, you can move it across the 
 
 Position the points so that they will be on the active part of the digitizing tablet both before and after the move.
 
-Tip: If you are shifting the drawing up or down, draw the additional reference points horizontally. If you are shifting left or right, draw them vertically.
+::: tip
+If you are shifting the drawing up or down, draw the additional reference points horizontally. If you are shifting left or right, draw them vertically.
+:::
 
 2. Select Setup > Tablet Setup.
 

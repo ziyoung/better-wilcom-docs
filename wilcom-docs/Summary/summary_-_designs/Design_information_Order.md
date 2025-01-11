@@ -9,7 +9,7 @@ Order information is saved directly with the design file. This allows embroidery
 <iframe src="https://www.youtube.com/embed/S72SqNZ86qg" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

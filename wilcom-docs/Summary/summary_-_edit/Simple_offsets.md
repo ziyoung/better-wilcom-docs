@@ -12,7 +12,7 @@ When available, the Simple Offsets feature allows you to quickly create outline 
 <iframe src="https://www.youtube.com/embed/tFPqBZ9O9V0" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -20,7 +20,7 @@ When available, the Simple Offsets feature allows you to quickly create outline 
 <iframe src="https://www.youtube.com/embed/WDr7mekerI0" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

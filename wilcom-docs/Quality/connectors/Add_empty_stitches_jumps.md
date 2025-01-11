@@ -4,7 +4,7 @@
 | ---------------------------------------------------- | --------------------------------------------------------------- |
 | ![InsertEmptyJump.png](assets/InsertEmptyJump.png)   | Click Function > Insert Empty Jump to insert an empty jump.     |
 
-Empty stitch is a tight (zero length) lockstitch used together with, or as an alternative to, tie-in and tie-off stitches. Use empty stitches instead of tie-ins or tie-offs for objects filled with light density stitching where standard tie-ins and tie-offs may be visible. Also, use empty stitches or empty jumps when required by the selected [machine format](../../glossary/glossary).
+Empty stitch is a tight (zero length) lockstitch used together with, or as an alternative to, tie-in and tie-off stitches. Use empty stitches instead of tie-ins or tie-offs for objects filled with light density stitching where standard tie-ins and tie-offs may be visible. Also, use empty stitches or empty jumps when required by the selected [machine format](../../glossary/glossary#machine-format).
 
 ## To add empty stitches and jumps...
 
@@ -16,7 +16,9 @@ Empty stitch is a tight (zero length) lockstitch used together with, or as an al
 
 ![AddEmptyFunctions.png](assets/AddEmptyFunctions.png)
 
-Tip: You can also insert [machine functions](../../glossary/glossary) manually using the Insert Machine Function dialog.
+::: tip
+You can also insert [machine functions](../../glossary/glossary) manually using the Insert Machine Function dialog.
+:::
 
 ## Related topics...
 

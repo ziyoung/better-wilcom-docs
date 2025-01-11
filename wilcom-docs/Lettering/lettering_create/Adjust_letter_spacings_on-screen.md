@@ -17,7 +17,9 @@ Spacing between letters is calculated automatically as a percentage of letter he
 
 - Release the mouse button to complete and press Esc.
 
-Tip: When the justification setting is Full, letters are evenly distributed along the baseline. To change the spacing for fully justified lettering, simply change the length of the baseline.
+::: tip
+When the justification setting is Full, letters are evenly distributed along the baseline. To change the spacing for fully justified lettering, simply change the length of the baseline.
+:::
 
 - Drag the line spacing control point up or down to change line spacing.
 
@@ -32,7 +34,9 @@ Tip: When the justification setting is Full, letters are evenly distributed alon
 
 ![LetterSpacing7.png](assets/LetterSpacing7.png)
 
-Tip: Alternatively, to move multiple letters, right-click the diamond control point of the first letter and drag. All letters to the end of the line move as one.
+::: tip
+Alternatively, to move multiple letters, right-click the diamond control point of the first letter and drag. All letters to the end of the line move as one.
+:::
 
 - Release the mouse button to complete and press Esc.
 

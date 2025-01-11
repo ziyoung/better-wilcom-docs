@@ -2,7 +2,9 @@
 
 When you create a new letter, you need to select a font for it, give it a name, specify its height, and indicate whether to preserve any [machine functions](../../glossary/glossary). You also need to indicate its spacing settings by digitizing reference points on-screen.
 
-Caution: Do not use the tilde (\~) symbol when naming letters. This is a special character for entering letters with multiple-character names.
+::: warning Caution
+Do not use the tilde (\~) symbol when naming letters. This is a special character for entering letters with multiple-character names.
+:::
 
 ## To save custom letters...
 
@@ -20,7 +22,9 @@ Caution: Do not use the tilde (\~) symbol when naming letters. This is a special
 
 For example, if you digitized the letter H, enter ‘H’ in the Letter field.
 
-Tip: You can create names with multiple characters to identify special letters – e.g. ‘Star’ for a star symbol, or ‘e-acute’ for é.
+::: tip
+You can create names with multiple characters to identify special letters – e.g. ‘Star’ for a star symbol, or ‘e-acute’ for é.
+:::
 
 5. In the Reference Height field, enter a height for the letter.
 
@@ -38,7 +42,9 @@ The distance between reference points determines the letter width, including any
 
 ![lettering_custom00048.png](assets/lettering_custom00048.png)
 
-Note: The reference points you digitize also determine where the letter sits on the baseline.
+::: info Note
+The reference points you digitize also determine where the letter sits on the baseline.
+:::
 
 9. If you selected Digitize Reference Height in the Create Letter dialog, you are prompted to digitize a third reference point to mark letter height.
 

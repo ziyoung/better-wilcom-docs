@@ -7,14 +7,16 @@ Converting an open design to machine file format is as simple as choosing File >
 
 ![ExportMachineFile00103.png](assets/ExportMachineFile00103.png)
 
-Tip: For older machines, you can also save designs to proprietary [embroidery disk](../../glossary/glossary).
+::: tip
+For older machines, you can also save designs to proprietary [embroidery disk](../../glossary/glossary#embroidery-disk).
+:::
 
 ## Related video
 
 <iframe src="https://www.youtube.com/embed/D00qxjDb5lQ" frameborder="0" 
 		 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

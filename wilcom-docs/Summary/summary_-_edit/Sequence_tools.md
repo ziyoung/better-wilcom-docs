@@ -7,7 +7,7 @@ The Sequence toolbar provides a convenient means for sequencing selected objects
 <iframe src="https://www.youtube.com/embed/jYIKxOcM_yQ" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

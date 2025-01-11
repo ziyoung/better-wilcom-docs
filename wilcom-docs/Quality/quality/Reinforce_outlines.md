@@ -25,7 +25,9 @@ The object is duplicated and placed over the original. It is positioned after th
 - Use Stitch Player.
 - Travel through the stitches.
 
-Note: If you use Repeat for open shapes, a connecting stitch is inserted from the end to the start of the next object which will require trimming.
+::: info Note
+If you use Repeat for open shapes, a connecting stitch is inserted from the end to the start of the next object which will require trimming.
+:::
 
 ## Related topics...
 

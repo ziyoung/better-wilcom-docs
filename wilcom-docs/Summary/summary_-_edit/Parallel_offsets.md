@@ -12,7 +12,7 @@ The Open Offsets tool allows you to generate parallel offsets from any open shap
 <iframe src="https://www.youtube.com/embed/j7hc48DltSs" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

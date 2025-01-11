@@ -2,7 +2,9 @@
 
 You can scale and reshape images once they are loaded into ES Cross Stitch. This is useful for sizing artwork precisely to the grid.
 
-Tip: If an image needs to be significantly resized or rotated, it’s best to do so during scanning or in a graphics application.
+::: tip
+If an image needs to be significantly resized or rotated, it’s best to do so during scanning or in a graphics application.
+:::
 
 ## To scale and transform bitmap images...
 

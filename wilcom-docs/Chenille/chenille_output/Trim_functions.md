@@ -6,7 +6,9 @@ Trim functions in chenille are basically the same as lockstitch. The difference 
 
 Machines without an automatic trimmer may not know how to interpret trim commands, and may even shift the design when a trim code is encountered. For these machines you need to deselect the Output trims checkbox so that trim functions are ignored when the design is stitched.
 
-Note: If you deselect the Output Trims checkbox, the trim functions are not removed from the design but simply ignored for the selected machine format.
+::: info Note
+If you deselect the Output Trims checkbox, the trim functions are not removed from the design but simply ignored for the selected machine format.
+:::
 
 ## Related topics
 

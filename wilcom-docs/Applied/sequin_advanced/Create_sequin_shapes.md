@@ -25,7 +25,9 @@ The software allows you to define your own sequin shapes with their own hole pos
 
 ![CustomSequins2.png](assets/CustomSequins2.png)
 
-Tip: Use the Setup > Manage Sequin Shape command to rename or delete custom sequin shapes from the library.
+::: tip
+Use the Setup > Manage Sequin Shape command to rename or delete custom sequin shapes from the library.
+:::
 
 ![ModifySequinShape.png](assets/ModifySequinShape.png)
 

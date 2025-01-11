@@ -1,8 +1,10 @@
 # Creating appliqué embroidery
 
-Use the Appliqué tools to generate all the stitching you require for [appliqué](../../glossary/glossary) objects.
+Use the Appliqué tools to generate all the stitching you require for [appliqué](../../glossary/glossary#applique) objects.
 
-Tip: If you want to pre-set appliqué settings, right-click the Appliqué icon with no objects selected. When property values are changed, settings will apply to all newly created appliqué objects in the current session. [See Working with object properties for details.](../../Digitizing/properties/Working_with_object_properties)
+::: tip
+If you want to pre-set appliqué settings, right-click the Appliqué icon with no objects selected. When property values are changed, settings will apply to all newly created appliqué objects in the current session. [See Working with object properties for details.](../../Digitizing/properties/Working_with_object_properties)
+:::
 
 ## Related topics...
 

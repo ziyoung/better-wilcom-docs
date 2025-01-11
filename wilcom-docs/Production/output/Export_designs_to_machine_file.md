@@ -7,9 +7,11 @@ Converting an open design to machine file format is as simple as choosing File >
 
 ![ExportMachineFile00016.png](assets/ExportMachineFile00016.png)
 
-For older machines, you can also save designs to proprietary [embroidery disk](../../glossary/glossary). [See Using embroidery disks for details.](Using_embroidery_disks)
+For older machines, you can also save designs to proprietary [embroidery disk](../../glossary/glossary#embroidery-disk). [See Using embroidery disks for details.](Using_embroidery_disks)
 
-Caution: If a design feature is not available in the file type you select, it will be converted – e.g. Flexi Split stitching may be changed to plain Tatami.
+::: warning Caution
+If a design feature is not available in the file type you select, it will be converted – e.g. Flexi Split stitching may be changed to plain Tatami.
+:::
 
 ## Related topics...
 

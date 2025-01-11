@@ -3,7 +3,7 @@
 | ![InsertFunction.png](assets/InsertFunction.png) | Click Function > Insert Function to insert machine function at current stitch cursor position. |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 
-You can insert machine functions manually by means of the Insert Function dialog. Depending on your machine’s requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary) or [empty jump](../../glossary/glossary). For some machines you will also need to add empty stitches or empty jumps on either side of some functions. See your machine manual for details. The Insert Function dialog lets you insert machine functions in your design manually.
+You can insert machine functions manually by means of the Insert Function dialog. Depending on your machine’s requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary#empty-stitch) or [empty jump](../../glossary/glossary#empty-jump). For some machines you will also need to add empty stitches or empty jumps on either side of some functions. See your machine manual for details. The Insert Function dialog lets you insert machine functions in your design manually.
 
 ![InsertFunction00191.png](assets/InsertFunction00191.png)
 

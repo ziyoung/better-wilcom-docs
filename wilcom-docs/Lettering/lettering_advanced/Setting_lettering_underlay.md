@@ -28,7 +28,9 @@ Most lettering used in designs is 15 mm high or less. The columns at such sizes 
 
 ![lettering_advanced00100.png](assets/lettering_advanced00100.png)
 
-Note: With most embroidery objects, underlay is stitched segment-by-segment before cover stitches are sewn. Lettering underlay, however, defaults to a single By Shape > Edge Run underlay, except ‘As Digitized’ lettering. This has the effect of calculating an underlay for the entire shape rather than each segment comprising it. This in turn reduces bunching, travel runs, and overall stitch count.
+::: info Note
+With most embroidery objects, underlay is stitched segment-by-segment before cover stitches are sewn. Lettering underlay, however, defaults to a single By Shape > Edge Run underlay, except ‘As Digitized’ lettering. This has the effect of calculating an underlay for the entire shape rather than each segment comprising it. This in turn reduces bunching, travel runs, and overall stitch count.
+:::
 
 5. Enter the required length values for each underlay type.
 
@@ -38,7 +40,9 @@ Note: With most embroidery objects, underlay is stitched segment-by-segment befo
 
 7. Press Enter or click Apply.
 
-Tip: Run Stitch Player to see how the underlay will stitch out.
+::: tip
+Run Stitch Player to see how the underlay will stitch out.
+:::
 
 ## Related topics...
 

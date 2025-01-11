@@ -22,7 +22,9 @@ Digitize closed objects with Motif Fill or apply it to existing objects. Pretty 
 
 ![TwoPartMotifSamples.png](assets/TwoPartMotifSamples.png)
 
-Tip: As an alternative, you can generate layers of colored motifs by duplicating an object and selecting a different color and/or motif.
+::: tip
+As an alternative, you can generate layers of colored motifs by duplicating an object and selecting a different color and/or motif.
+:::
 
 ![DoubleLayeredMotifFillSamples.png](assets/DoubleLayeredMotifFillSamples.png)
 

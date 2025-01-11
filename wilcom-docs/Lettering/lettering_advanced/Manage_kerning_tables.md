@@ -5,7 +5,9 @@
 
 A kerning table is an array of kerning values for every possible pair of letters in the font. The Kerning Table command accesses a dialog used to manage kerning tables. You can copy tables from one font – embroidery or TrueType – to another or remove its kerning table altogether.
 
-Note: TrueType kerning tables cannot be replaced, added to, or modified in any way. You can, however, convert a TrueType font to an embroidery font and add or modify a kerning table as required.
+::: info Note
+TrueType kerning tables cannot be replaced, added to, or modified in any way. You can, however, convert a TrueType font to an embroidery font and add or modify a kerning table as required.
+:::
 
 ## To manage kerning tables...
 

@@ -5,7 +5,7 @@
 | ![DigitizeColumn.png](assets/DigitizeColumn.png) | Use Graphics Digitizing > Digitize Column to create columns of varying width and stitch angle. Right-click for settings.                                       |
 | ![InputB.png](assets/InputB.png)                 | Use Traditional Digitizing > Column B to create asymmetrical columns of turning stitches, where opposite sides are different shapes. Right-click for settings. |
 
-Use the Column A or Digitize Column tools to digitize columns of varying width and [stitch angle](../../glossary/glossary). Use the Column B tool to digitize shapes where one side is different to the other, especially where one side requires more points than the other. Stitches turn evenly throughout the entire shape.
+Use the Column A or Digitize Column tools to digitize columns of varying width and [stitch angle](../../glossary/glossary#stitch-angle). Use the Column B tool to digitize shapes where one side is different to the other, especially where one side requires more points than the other. Stitches turn evenly throughout the entire shape.
 
 ![summary_-_create00025.png](assets/summary_-_create00025.png)
 
@@ -14,7 +14,7 @@ Use the Column A or Digitize Column tools to digitize columns of varying width a
 <iframe src="https://www.youtube.com/embed/m5Li83Xe24k" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

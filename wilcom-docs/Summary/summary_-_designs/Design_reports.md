@@ -25,7 +25,7 @@ The Print Options dialog lets you set production worksheets options to show the 
 <iframe src="https://www.youtube.com/embed/7yLV6Ei30VM" title="YouTube video player" 
 		 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Video recomendado

@@ -9,7 +9,9 @@ With trims, stitches need to be tied off so the thread can be trimmed without un
 
 Method 2 is generally more visually pleasing on smaller objects and satin columns. With this method, however, stitches sew on top of each other with the consequent risk of thread breakage. On larger areas, the safer alternative is Method 1\. Method 3 provides an alternative method for hiding tie-offs along existing stitch lines.
 
-Tip: For narrow shapes or columns – e.g. small lettering – use only one tie-off stitch. You may also decrease the stitch length.
+::: tip
+For narrow shapes or columns – e.g. small lettering – use only one tie-off stitch. You may also decrease the stitch length.
+:::
 
 ## To adjust tie-off settings...
 

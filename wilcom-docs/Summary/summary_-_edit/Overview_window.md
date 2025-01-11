@@ -7,7 +7,9 @@ Use the Overview Window to view a thumbnail of the design. Use it to pan and zoo
 
 ![OverviewWindow1.png](assets/OverviewWindow1.png)
 
-Tip: Use Auto Scroll to scroll the design automatically while you are digitizing. This can be more convenient than using panning or the scroll bars.
+::: tip
+Use Auto Scroll to scroll the design automatically while you are digitizing. This can be more convenient than using panning or the scroll bars.
+:::
 
 ## Related topics
 

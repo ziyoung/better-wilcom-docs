@@ -12,7 +12,9 @@ The Sequence toolbar provides a convenient means for sequencing selected objects
 
 ![combine00063.png](assets/combine00063.png)
 
-Tip: [Entry ](../../glossary/glossary)and [exit](../../glossary/glossary) points should also be checked when you are resequencing objects in a design.
+::: tip
+[Entry ](../../glossary/glossary)and [exit](../../glossary/glossary#exit) points should also be checked when you are resequencing objects in a design.
+:::
 
 ## Related topics...
 

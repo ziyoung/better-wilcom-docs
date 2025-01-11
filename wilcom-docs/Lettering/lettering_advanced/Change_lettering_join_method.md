@@ -37,4 +37,6 @@ This setting is only available if the As Digitized join type is selected. Use it
 
 5. Click OK to return to the Special tab.
 
-Note: For recommended stitch and join methods, see [Standard Fonts](../../Management/sample_fonts/Standard_Fonts).
+::: info Note
+For recommended stitch and join methods, see [Standard Fonts](../../Management/sample_fonts/Standard_Fonts).
+:::

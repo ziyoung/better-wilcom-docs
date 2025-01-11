@@ -1,6 +1,6 @@
 # Digitizing with Artwork
 
-![e4_Sample08.png](assets/e4_Sample08.png)There are two broad categories of artwork file, both of which can be imported into EmbroideryStudio for use as digitizing backdrops – [vector](../../glossary/glossary) and [bitmap](../../glossary/glossary). To create good quality embroidery, you need to choose or create suitable artwork of either format.
+![e4_Sample08.png](assets/e4_Sample08.png)There are two broad categories of artwork file, both of which can be imported into EmbroideryStudio for use as digitizing backdrops – [vector](../../glossary/glossary) and [bitmap](../../glossary/glossary#bitmap). To create good quality embroidery, you need to choose or create suitable artwork of either format.
 
 ## Digitizing with bitmaps
 

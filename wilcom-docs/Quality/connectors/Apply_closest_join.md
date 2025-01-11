@@ -11,7 +11,9 @@ When you are digitizing closed objects, the Closest Join method automatically ca
 - Color-Object List popup menu
 - Shortcut key (J)
 
-Note: The Apply Closest Join command is only enabled when two or more embroidery objects are selected.
+::: info Note
+The Apply Closest Join command is only enabled when two or more embroidery objects are selected.
+:::
 
 ## To apply closest join...
 
@@ -33,13 +35,17 @@ Selected embroidery objects are regenerated and Closest Join applied.
 
 ![connectors00063.png](assets/connectors00063.png)
 
-Caution: Any non-sequential embroidery objects in the selection will cause a message to be displayed:
+::: warning Caution
+Any non-sequential embroidery objects in the selection will cause a message to be displayed:
 
 ![connectors00066.png](assets/connectors00066.png)
+:::
 
-Tip: Apply Closest Join also to generated offset objects.
+::: tip
+Apply Closest Join also to generated offset objects.
 
 ![OffsetObjectsCJ.png](assets/OffsetObjectsCJ.png)
+:::
 
 ## Related topics...
 

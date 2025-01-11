@@ -40,7 +40,9 @@ For example, consider a design with the following bling types:
 | Flower SS16 with color Crystal     | Design1_SS16_Crystal_Flower.PLT |
 | SS04 with color Aquamarine         | Design1_SS04_Aquamarine.PLT     |
 
-Tip: The print preview shows which rhinestones are in which file.
+::: tip
+The print preview shows which rhinestones are in which file.
+:::
 
 ## Related topics...
 

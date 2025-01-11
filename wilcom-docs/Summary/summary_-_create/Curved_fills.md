@@ -4,7 +4,7 @@
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | ![LiquidEffect.png](assets/LiquidEffect.png)         | Use Stitch Effects > Liquid Effect to create curved stitch effects with two guidelines. |
 
-To apply the effect to new [complex fill](../../glossary/glossary) objects, select Florentine Effect before starting. The effect can also be applied to [Column A/B](../../glossary/glossary) objects. Liquid Effect is similar to Florentine Effect except that you enter twin guidelines for stitches to follow. The change between guidelines is distributed evenly to produce smooth stitching. Unlike Florentine Effect, Liquid Effect guidelines are digitized outside the object, rather than over. Adjust settings with the Object Properties > Effects > Curves tab.
+To apply the effect to new [complex fill](../../glossary/glossary#complex-fill) objects, select Florentine Effect before starting. The effect can also be applied to [Column A/B](../../glossary/glossary) objects. Liquid Effect is similar to Florentine Effect except that you enter twin guidelines for stitches to follow. The change between guidelines is distributed evenly to produce smooth stitching. Unlike Florentine Effect, Liquid Effect guidelines are digitized outside the object, rather than over. Adjust settings with the Object Properties > Effects > Curves tab.
 
 ![LiquidEffectSample.png](assets/LiquidEffectSample.png)
 
@@ -17,7 +17,7 @@ To apply the effect to new [complex fill](../../glossary/glossary) objects, sele
 <iframe src="https://www.youtube.com/embed/0rlX2MmSbpY" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -25,7 +25,7 @@ To apply the effect to new [complex fill](../../glossary/glossary) objects, sele
 <iframe src="https://www.youtube.com/embed/pFEJMT9Silc" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

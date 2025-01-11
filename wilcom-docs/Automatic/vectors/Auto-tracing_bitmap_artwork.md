@@ -3,9 +3,11 @@
 | ![AutoTrace.png](assets/AutoTrace.png) | Use Auto-Digitizing > Auto Trace To Vectors to convert artwork to vector objects for conversion to embroidery objects. |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 
-Use Auto Trace To Vectors to create [vector](../../glossary/glossary) outlines from [bitmap](../../glossary/glossary) images. You can then convert these to embroidery objects using a variety of input methods. Auto Trace To Vectors can find holes in shapes – both inside and outside boundaries are detected.
+Use Auto Trace To Vectors to create [vector](../../glossary/glossary) outlines from [bitmap](../../glossary/glossary#bitmap) images. You can then convert these to embroidery objects using a variety of input methods. Auto Trace To Vectors can find holes in shapes – both inside and outside boundaries are detected.
 
-Tip: Once digitized in EmbroideryStudio, embroidery designs can be output as vectors. These can be opened in CorelDRAW Graphics. [See also Exporting embroidery as vectors.](../../Applied/export/Exporting_embroidery_as_vectors)
+::: tip
+Once digitized in EmbroideryStudio, embroidery designs can be output as vectors. These can be opened in CorelDRAW Graphics. [See also Exporting embroidery as vectors.](../../Applied/export/Exporting_embroidery_as_vectors)
+:::
 
 ## To auto-trace bitmap artwork...
 
@@ -19,7 +21,9 @@ Tip: Once digitized in EmbroideryStudio, embroidery designs can be output as vec
 
 ![vectors00049.png](assets/vectors00049.png)
 
-Note: If the bitmap needs preliminary color reduction, clicking Auto Trace To Vectors takes you directly to the Prepare Bitmap Colors dialog.
+::: info Note
+If the bitmap needs preliminary color reduction, clicking Auto Trace To Vectors takes you directly to the Prepare Bitmap Colors dialog.
+:::
 
 4. Select the shape/s you want to convert to embroidery and convert using any of the available techniques.
 

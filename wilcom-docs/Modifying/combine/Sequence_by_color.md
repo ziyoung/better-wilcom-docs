@@ -14,4 +14,6 @@ The Sequence by Color feature lets you resequence all objects in a design by col
 
 - Select a color and click Move Up or Move Down to change its position in the sequence.
 
-Note: If you need to sequence separate color blocks, use the Color-Object List.
+::: info Note
+If you need to sequence separate color blocks, use the Color-Object List.
+:::

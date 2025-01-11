@@ -20,4 +20,6 @@ From EmbroideryHub, you can view and manage designs sent both to particular mach
 
 ![network00087.png](assets/network00087.png)
 
-Tip: If you have created a folder structure, double-click the ‘..’ at the top of the list to move up a folder level.
+::: tip
+If you have created a folder structure, double-click the ‘..’ at the top of the list to move up a folder level.
+:::

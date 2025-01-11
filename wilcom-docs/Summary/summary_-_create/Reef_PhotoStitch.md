@@ -12,7 +12,7 @@ Reef PhotoStitch expands on the Photo Flash auto-digitizing method to convert a 
 <iframe src="https://www.youtube.com/embed/kIrwjYuaj_c" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -20,7 +20,7 @@ Reef PhotoStitch expands on the Photo Flash auto-digitizing method to convert a 
 <iframe src="https://www.youtube.com/embed/QCeDOsxuag0" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -28,7 +28,7 @@ Reef PhotoStitch expands on the Photo Flash auto-digitizing method to convert a 
 <iframe src="https://www.youtube.com/embed/FfkXudzg6s8" title="YouTube video player" 
 		 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

@@ -9,4 +9,6 @@ With the ES e4.1 release, the Embroidery Clipart feature has been reinstated, al
 
 Use Design Library to manage design elements in your clipart folders. Use Design Properties to assign names and keywords to each design element you save. Keywords play an important part in organizing a growing clipart library. Finding a suitable element can take time but keywords narrow the selection. Any number of keywords can be assigned to the same clipart element. [See also Viewing & managing design information.](../../Management/manage_designs/Viewing_managing_design_information)
 
-Note: The current Embroidery Clipart implementation allows you to access your old clipart designs. Simply browse to the ‘C:\\WilcomClipArt\\Designs’ folder. You can even add this folder to Design Library. Note, however, that keywords entered into the old database are not included in the clipart files and are not searchable in the new docker.
+::: info Note
+The current Embroidery Clipart implementation allows you to access your old clipart designs. Simply browse to the ‘C:\\WilcomClipArt\\Designs’ folder. You can even add this folder to Design Library. Note, however, that keywords entered into the old database are not included in the clipart files and are not searchable in the new docker.
+:::

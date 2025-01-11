@@ -13,4 +13,6 @@ The Appearance tab of the Carving Stamp docker provides settings which can help 
 
 - Checking the Raised Stamp checkbox cause any splits within the combined closed boundaries of a carving stamp to be removed.
 
-Note: Clicking the Clear All Stamps button will cause all existing stamps to be removed from selected objects.
+::: info Note
+Clicking the Clear All Stamps button will cause all existing stamps to be removed from selected objects.
+:::

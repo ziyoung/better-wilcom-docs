@@ -13,7 +13,9 @@ Add special characters and symbols to your lettering designs.
 
 ![lettering_advanced00001.png](assets/lettering_advanced00001.png)
 
-Tip: If you already know the keyboard shortcut for a symbol, you can add it by entering the combination on screen or in the docker.
+::: tip
+If you already know the keyboard shortcut for a symbol, you can add it by entering the combination on screen or in the docker.
+:::
 
 2. Click Insert Symbol.
 

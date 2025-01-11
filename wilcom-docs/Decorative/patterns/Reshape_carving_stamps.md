@@ -32,6 +32,6 @@ Carving stamps can be moved, rotated, scaled, reshaped, and deleted individually
 ![patterns00179.png](assets/patterns00179.png)
 
 - Drag the rotation handle to rotate the stamp.
-- Click the stamp outline to display [control points](../../glossary/glossary). Use these to reshape the stamp.
+- Click the stamp outline to display [control points](../../glossary/glossary#control-points). Use these to reshape the stamp.
 
 ![ReshapeCarvingStamp4.png](assets/ReshapeCarvingStamp4.png)

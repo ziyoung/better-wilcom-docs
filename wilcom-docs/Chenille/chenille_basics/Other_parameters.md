@@ -20,4 +20,6 @@ Jump(M) functions cause frame movements without needle penetrations. The use of 
 
 Avoid corners with an angle smaller than 60° as this can cause a machine fault or loop stitching may be changed to chain. EmbroideryStudio automatically adds an extra stitch to avoid sharp corners within objects, including manual stitch objects. If you round off sharp corners in runs and complex fills, you can avoid both sharp angles and small stitches. However, sometimes an extra stitch causes chain stitches to swell, giving a poor finish.
 
-Tip: Use Smart Corners to achieve smooth, even placement of stitches, and eliminate gaps in your design. Smart Corners can be used with Square stitch and Coil for Column C objects. [See Controlling corner stitching for details.](../../Quality/quality/Controlling_corner_stitching)
+::: tip
+Use Smart Corners to achieve smooth, even placement of stitches, and eliminate gaps in your design. Smart Corners can be used with Square stitch and Coil for Column C objects. [See Controlling corner stitching for details.](../../Quality/quality/Controlling_corner_stitching)
+:::

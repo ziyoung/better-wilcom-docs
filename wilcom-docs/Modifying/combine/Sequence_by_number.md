@@ -17,6 +17,8 @@ You can resequence objects numerically in the Color-Object List. Use it to move 
 
 4. Enter the number of the object before which you want to position your selected object.
 
-Note: If you prefer to position the selected object after a selected number – e.g. to make it the last object in the list – select After Position.
+::: info Note
+If you prefer to position the selected object after a selected number – e.g. to make it the last object in the list – select After Position.
+:::
 
 5. Click OK. The selected object will be placed in the new position and all other objects resequenced accordingly.

@@ -39,11 +39,15 @@ The Use Pattern tab lets you select and apply predefined stamp patterns. You can
 
 11. Press Esc to exit the feature.
 
-Note: The Rename and Delete buttons are enabled whenever a custom stamp is selected. When the Rename button is clicked, the Rename Split Pattern dialog opens.
+::: info Note
+The Rename and Delete buttons are enabled whenever a custom stamp is selected. When the Rename button is clicked, the Rename Split Pattern dialog opens.
+:::
 
 ![RenameSplitPattern.png](assets/RenameSplitPattern.png)
 
-Tip: Use the Softened Stamp and Raised Stamp options on the Appearance tab to soften or accentuate the effect.
+::: tip
+Use the Softened Stamp and Raised Stamp options on the Appearance tab to soften or accentuate the effect.
+:::
 
 ## Related topics...
 

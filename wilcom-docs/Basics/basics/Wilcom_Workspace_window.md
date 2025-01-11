@@ -3,7 +3,7 @@
 | ![SwitchToWilcom.png](assets/SwitchToWilcom.png) | Use Mode > Wilcom Workspace to digitize and edit embroidery designs. Display embroidery as well as artwork. View designs realistically in 3D simulation. |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-When you open EmbroideryStudio, it appears by default in Wilcom Workspace window with a new, blank design displayed. This mode allows you to create and edit [embroidery objects](../../glossary/glossary) using the embroidery [digitizing](../../glossary/glossary) toolset. The screen image below shows the more prominent toolbars in EmbroideryStudio. Depending on your product level, you will have access to some or all of these options.
+When you open EmbroideryStudio, it appears by default in Wilcom Workspace window with a new, blank design displayed. This mode allows you to create and edit [embroidery objects](../../glossary/glossary#embroidery-objects) using the embroidery [digitizing](../../glossary/glossary#digitizing) toolset. The screen image below shows the more prominent toolbars in EmbroideryStudio. Depending on your product level, you will have access to some or all of these options.
 
 ![EmbStudioDecorationMode.png](assets/EmbStudioDecorationMode.png)
 

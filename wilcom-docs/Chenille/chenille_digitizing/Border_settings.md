@@ -23,7 +23,9 @@ As mentioned, Compound Chenille allows for up to three (1-3) offset borders, bef
 - Repeat the operation for ‘after fill’ borders as required. Again:
 - Set border stitch type: the first, and possibly only border, is usually stitched with Chain. This helps ‘tie-off’ the chenille object.
 
-Tip: In practice, multiple borders tend to be stitched before rather than after the fill. From a stitch quality point of view, borders ‘after fill’ should be reserved for tie-off stitching. In the final stitch-out, you will see the number of borders but you won’t be able to tell which were stitched ‘before’ or ‘after’ the fill.
+::: tip
+In practice, multiple borders tend to be stitched before rather than after the fill. From a stitch quality point of view, borders ‘after fill’ should be reserved for tie-off stitching. In the final stitch-out, you will see the number of borders but you won’t be able to tell which were stitched ‘before’ or ‘after’ the fill.
+:::
 
 ## Related topics
 

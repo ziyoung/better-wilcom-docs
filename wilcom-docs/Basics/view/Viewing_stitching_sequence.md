@@ -1,8 +1,10 @@
 # Viewing stitching sequence
 
-When checking embroidery designs, you will want to understand the stitching sequence in order to ensure efficient stitchout on the machine. ‘Travel’ through designs by [color block](../../glossary/glossary), [embroidery object](../../glossary/glossary), or even stitch-by-stitch. Alternatively, simulate the stitchout on screen.
+When checking embroidery designs, you will want to understand the stitching sequence in order to ensure efficient stitchout on the machine. ‘Travel’ through designs by [color block](../../glossary/glossary#color-block), [embroidery object](../../glossary/glossary), or even stitch-by-stitch. Alternatively, simulate the stitchout on screen.
 
-Tip: Depending on your design background, you can change display colors for unsewn stitches. [See Change display colors for details.](Change_display_colors)
+::: tip
+Depending on your design background, you can change display colors for unsewn stitches. [See Change display colors for details.](Change_display_colors)
+:::
 
 ## Related topics...
 

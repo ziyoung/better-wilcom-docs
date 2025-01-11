@@ -9,7 +9,7 @@ EmbroideryStudio provides high resolution digital print TrueView for ‘virtual 
 <iframe src="https://www.youtube.com/embed/SX1YtaXBt78" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -17,7 +17,7 @@ EmbroideryStudio provides high resolution digital print TrueView for ‘virtual 
 <iframe src="https://www.youtube.com/embed/GUoG_8MiTZ0" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

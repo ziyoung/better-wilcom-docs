@@ -12,4 +12,6 @@ Indicative settings:
 - Change the resolution to 96 DPI or higher. Packaged product images are set to 96 DPI for standard screen resolution. However, new monitors are capable of higher resolutions such as 160 DPI.
 - Ideally, the original file size (total number of pixels) should be maintained so the image does not lose data (quality).
 
-Note: Simply increasing the DPI to 96 will not add resolution to a low-res image. It will only duplicate existing pixels.
+::: info Note
+Simply increasing the DPI to 96 will not add resolution to a low-res image. It will only duplicate existing pixels.
+:::

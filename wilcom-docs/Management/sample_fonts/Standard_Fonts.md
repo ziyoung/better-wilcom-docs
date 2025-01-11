@@ -41,7 +41,9 @@ For best results when stitching, do not exceed the recommended maximum or minimu
 
 You can create special characters in each font by holding down the Alt key on your keyboard and typing 0 (zero), its code, using the numbers on the keypad. For example, to type ê with the code 234, type Alt+0234. The accented letter will appear when you release the Alt key. [See also Adding special characters.](../../Lettering/lettering_advanced/Adding_special_characters)
 
-Note: Not all characters are available in all fonts.
+::: info Note
+Not all characters are available in all fonts.
+:::
 
 ## Join method
 

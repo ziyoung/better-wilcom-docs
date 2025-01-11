@@ -13,7 +13,7 @@ Contour is a curved fill stitch type which can be applied to Column A/B or Circl
 <iframe src="https://www.youtube.com/embed/xJq1F5pHwAI" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

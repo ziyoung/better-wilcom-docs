@@ -1,6 +1,6 @@
 # Appliqué Embroidery
 
-Automatically create all the stitching you need for [appliqué](../../glossary/glossary) using the Appliqué tools. Up to four layers of stitching – [guide runs](../../glossary/glossary), [cutting lines](../../glossary/glossary), [tack stitches ](../../glossary/glossary)and [cover stitches ](../../glossary/glossary)– can be generated for any appliqué object.
+Automatically create all the stitching you need for [appliqué](../../glossary/glossary#applique) using the Appliqué tools. Up to four layers of stitching – [guide runs](../../glossary/glossary#guide-runs), [cutting lines](../../glossary/glossary#cutting-lines), [tack stitches ](../../glossary/glossary)and [cover stitches ](../../glossary/glossary)– can be generated for any appliqué object.
 
 ![applique00001.png](assets/applique00001.png)
 

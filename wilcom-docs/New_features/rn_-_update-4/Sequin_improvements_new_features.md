@@ -48,7 +48,9 @@ The main sequin device configurations include...
 - Machines supporting twin-sequin devices or even double twin-sequin devices with stack feeding – e.g. Dahao.
 - Machines supporting multiple sequins per device – four, six, eight, and possibly more sequins – with or without stack feeding.
 
-Note: An increasing number of machines support multiple decoration types including sequins in combination with chenille, beading, cording, and others.
+::: info Note
+An increasing number of machines support multiple decoration types including sequins in combination with chenille, beading, cording, and others.
+:::
 
 ## Machine formats
 

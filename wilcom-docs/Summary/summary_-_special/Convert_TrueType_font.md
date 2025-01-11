@@ -15,7 +15,7 @@ The Conversion Settings dialog is used to convert any TrueType font installed on
 <iframe src="https://www.youtube.com/embed/69NbBKbWFQ8" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

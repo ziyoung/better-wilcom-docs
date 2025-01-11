@@ -17,11 +17,13 @@ Trim selected objects using the Intersect, Exclude, Front-Back or Back-Front too
 
 ![reshape00137.png](assets/reshape00137.png)
 
-- Use Exclude to trim overlapping objects and preserve their individual [properties](../../glossary/glossary). The result is similar to Combine except that object properties are not merged.
+- Use Exclude to trim overlapping objects and preserve their individual [properties](../../glossary/glossary#properties). The result is similar to Combine except that object properties are not merged.
 
 ![reshape00140.png](assets/reshape00140.png)
 
-Tip: Use Exclude to cut holes in Complex Fill objects.
+::: tip
+Use Exclude to cut holes in Complex Fill objects.
+:::
 
 - Use Front-Back to trim overlapping objects so that only non-overlapped areas of the topmost object remain.
 
@@ -31,7 +33,9 @@ Tip: Use Exclude to cut holes in Complex Fill objects.
 
 ![reshape00146.png](assets/reshape00146.png)
 
-Tip: Use the Remove Overlaps feature to maintain shapes but remove the underlying layer of stitching.
+::: tip
+Use the Remove Overlaps feature to maintain shapes but remove the underlying layer of stitching.
+:::
 
 ## Related topics...
 

@@ -1,8 +1,10 @@
 # Scale objects numerically
 
-You can scale artwork, selected objects or a whole design by means of [object properties](../../glossary/glossary). With [design files](../../glossary/glossary) ([EMB](../../glossary/glossary)), this allows stitches to be regenerated while preserving the original stitch density. An exact size may not be achieved due to [pull compensation](../../glossary/glossary) being added to stitches after scaling operations.
+You can scale artwork, selected objects or a whole design by means of [object properties](../../glossary/glossary#object-properties). With [design files](../../glossary/glossary) ([EMB](../../glossary/glossary)), this allows stitches to be regenerated while preserving the original stitch density. An exact size may not be achieved due to [pull compensation](../../glossary/glossary#pull-compensation) being added to stitches after scaling operations.
 
-Caution: If you scale a machine file by more than ±10%, however, changes to stitch density will affect the design quality.
+::: warning Caution
+If you scale a machine file by more than ±10%, however, changes to stitch density will affect the design quality.
+:::
 
 ## To scale objects numerically...
 
@@ -15,13 +17,17 @@ Caution: If you scale a machine file by more than ±10%, however, changes to sti
 
 ![PropertyBar00026.png](assets/PropertyBar00026.png)
 
-Tip: Toggle Lock Aspect Ratio to preserve aspect ratio.
+::: tip
+Toggle Lock Aspect Ratio to preserve aspect ratio.
+:::
 
 3. Press Enter to apply.
 
 ![transform00029.png](assets/transform00029.png)
 
-Note: After scaling, the new object size is reset to 100%.
+::: info Note
+After scaling, the new object size is reset to 100%.
+:::
 
 ## Related topics...
 

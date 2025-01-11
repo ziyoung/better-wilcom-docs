@@ -23,7 +23,9 @@ Known commercially as ‘evenweave’, these fabrics are suited to traditional c
 | Stitches per inch | The fewer stitches per inch, the bigger the resulting design.                                                                                                                                         |
 | Stitches per mm   | Because a cross stitch is bigger than a millimeter, you can adjust the mm and stitch settings in relation to each other. The higher the mm value, or smaller the stitch value, the bigger the design. |
 
-Tip: By clicking Update, you get an immediate conversion of any values you have entered. For example, change the stitches per inch value, click Update, and the corresponding stitches per mm value will be updated.
+::: tip
+By clicking Update, you get an immediate conversion of any values you have entered. For example, change the stitches per inch value, click Update, and the corresponding stitches per mm value will be updated.
+:::
 
 ![cross-stitch_essentials00010.png](assets/cross-stitch_essentials00010.png)
 
@@ -31,4 +33,6 @@ Tip: By clicking Update, you get an immediate conversion of any values you have 
 
 ![cross-stitch_essentials00013.png](assets/cross-stitch_essentials00013.png)
 
-Tip: If you create a design where every square has a stitch, remember to baste and stabilize the fabric.
+::: tip
+If you create a design where every square has a stitch, remember to baste and stabilize the fabric.
+:::

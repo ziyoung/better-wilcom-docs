@@ -3,7 +3,7 @@
 | ![HardwareSetup.png](assets/HardwareSetup.png) | Use Legacy Features > Hardware Setup to set up a machine connection with name, port, and protocol. |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 
-To set up a machine you need to define a name, the port it is attached to, and the protocol it uses. For every machine, you need to select the [machine format](../../glossary/glossary) it supports.
+To set up a machine you need to define a name, the port it is attached to, and the protocol it uses. For every machine, you need to select the [machine format](../../glossary/glossary#machine-format) it supports.
 
 ## To set up machines...
 
@@ -44,7 +44,9 @@ To do this, select compatible machine types in the Available list, and click > t
 
 ![hardware00029.png](assets/hardware00029.png)
 
-Note: Machine format values can be added or changed if required.
+::: info Note
+Machine format values can be added or changed if required.
+:::
 
 11. Click OK to return to the Hardware Setup dialog.
 
@@ -52,7 +54,9 @@ Note: Machine format values can be added or changed if required.
 
 ![HardwareSetup00032.png](assets/HardwareSetup00032.png)
 
-Note: Once machine setup is complete, you can stitch out a design via Stitch Manager without changing the original design format.
+::: info Note
+Once machine setup is complete, you can stitch out a design via Stitch Manager without changing the original design format.
+:::
 
 ## Related topics...
 

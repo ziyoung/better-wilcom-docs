@@ -17,13 +17,17 @@ Templates are special files used to store styles, [default properties](../../glo
 
 4. Optionally, choose a background to match the selected auto fabric.
 
-5. Choose a target machine from the droplist. You normally decide which [machine format](../../glossary/glossary) to use before you start. However, formats can be changed at any time.
+5. Choose a target machine from the droplist. You normally decide which [machine format](../../glossary/glossary#machine-format) to use before you start. However, formats can be changed at any time.
 
-Tip: You can customize or add formats to suit the target machine.
+::: tip
+You can customize or add formats to suit the target machine.
+:::
 
-6. Click OK to accept. A blank design opens in the design window based on the selected template. Settings will apply to all newly created [embroidery objects](../../glossary/glossary). Any selected fabric is displayed in the Status Bar.
+6. Click OK to accept. A blank design opens in the design window based on the selected template. Settings will apply to all newly created [embroidery objects](../../glossary/glossary#embroidery-objects). Any selected fabric is displayed in the Status Bar.
 
-Tip: The New from Template option is activated by default. Turn it off if you prefer work without predefined fabric settings.
+::: tip
+The New from Template option is activated by default. Turn it off if you prefer work without predefined fabric settings.
+:::
 
 ## Related topics...
 

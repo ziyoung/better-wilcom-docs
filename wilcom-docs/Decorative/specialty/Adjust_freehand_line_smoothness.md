@@ -20,11 +20,11 @@ The Freehand tools have a special cursor. Adjust settings via the Freehand Smoot
 | ![GuideInnerCircleRadius.png](assets/GuideInnerCircleRadius.png) | Use to set the size of the inner circle in millimeters.                                                                           |
 | ![NumberOfGuideCircles.png](assets/NumberOfGuideCircles.png)     | Use to set the number of circles in the cursor. If the inner circle radius is 2mm, each additional guide circle is offset by 2mm. |
 
-- Adjust freehand line ‘smoothness’ by means of the slider bar. This controls the number of [control points](../../glossary/glossary) generated. Alternatively, adjust smoothing by means of the percentage value.
+- Adjust freehand line ‘smoothness’ by means of the slider bar. This controls the number of [control points](../../glossary/glossary#control-points) generated. Alternatively, adjust smoothing by means of the percentage value.
 
 ![specialty00017.png](assets/specialty00017.png)
 
-- View and edit Freehand [control points](../../glossary/glossary) in Reshape mode.
+- View and edit Freehand [control points](../../glossary/glossary#control-points) in Reshape mode.
 
 ![specialty00020.png](assets/specialty00020.png)
 
@@ -35,7 +35,9 @@ The Freehand tools have a special cursor. Adjust settings via the Freehand Smoot
 - Alternatively, press the Backspace key. The last point digitized is removed.
 - Release the mouse to finish the outline at the last point digitized. Or press Esc to cancel input of the object.
 
-Note: Objects created using the Freehand tools can be reshaped in the same way as objects created via conventional methods.
+::: info Note
+Objects created using the Freehand tools can be reshaped in the same way as objects created via conventional methods.
+:::
 
 ## Related topics...
 

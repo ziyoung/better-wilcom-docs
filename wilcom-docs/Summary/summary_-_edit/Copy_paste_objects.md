@@ -5,7 +5,7 @@
 | ![Copy.png](assets/Copy.png)   | Click Standard > Copy to copy selected objects to the clipboard.  |
 | ![Paste.png](assets/Paste.png) | Click Standard > Paste to paste copied objects to a design.       |
 
-You can copy objects to create multiple, identical objects, or to insert objects from other designs. Cut-and-paste action changes the [stitching sequence](../../glossary/glossary) in the design.
+You can copy objects to create multiple, identical objects, or to insert objects from other designs. Cut-and-paste action changes the [stitching sequence](../../glossary/glossary#stitching-sequence) in the design.
 
 ![summary_-_edit00064.png](assets/summary_-_edit00064.png)
 

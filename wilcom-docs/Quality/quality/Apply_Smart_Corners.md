@@ -15,7 +15,9 @@ Use the Smart Corners feature to reduce the number of stitches and risk of bunch
 
 - Click again to turn off the effect.
 
-Note: You can also combine Smart Corners in [Column C](../../glossary/glossary) objects with sharp corner rounding.
+::: info Note
+You can also combine Smart Corners in [Column C](../../glossary/glossary) objects with sharp corner rounding.
+:::
 
 ## Related topics...
 

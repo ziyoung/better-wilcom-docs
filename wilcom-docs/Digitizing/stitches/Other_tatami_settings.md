@@ -8,7 +8,9 @@ With tatami fills you can specify how each row is offset in order to create patt
 
 ![stitches00093.png](assets/stitches00093.png)
 
-Tip: Using a Random factor you can eliminate the split line patterns formed by regular needle penetrations and distribute stitches randomly inside a shape.
+::: tip
+Using a Random factor you can eliminate the split line patterns formed by regular needle penetrations and distribute stitches randomly inside a shape.
+:::
 
 ## Backstitch
 

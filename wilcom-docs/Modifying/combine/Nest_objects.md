@@ -1,6 +1,6 @@
 # Nest objects
 
-EmbroideryStudio lets you ‘nest’ one object inside another at an exact point of the [stitching sequence](../../glossary/glossary). This feature is useful with motifs and other designs where long [connectors](../../glossary/glossary) may be generated. It also helps reduce overall numbers of objects, minimizing trims and tie-offs.
+EmbroideryStudio lets you ‘nest’ one object inside another at an exact point of the [stitching sequence](../../glossary/glossary#stitching-sequence). This feature is useful with motifs and other designs where long [connectors](../../glossary/glossary#connectors) may be generated. It also helps reduce overall numbers of objects, minimizing trims and tie-offs.
 
 ![NestedObject1.png](assets/NestedObject1.png)
 

@@ -7,7 +7,7 @@ Before you work with design objects, you need to select them. You can select all
 <iframe src="https://www.youtube.com/embed/oCEPmh3QDDI" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

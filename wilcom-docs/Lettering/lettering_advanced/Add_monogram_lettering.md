@@ -16,7 +16,9 @@ In addition to the dedicated Monogramming feature, EmbroideryStudio allows you t
 
 ![InsertSymbolOctagonMonogram.png](assets/InsertSymbolOctagonMonogram.png)
 
-Tip: When you select a character, a keystroke appears in the Selection field. This indicates the key combination required to type the character directly on-screen.
+::: tip
+When you select a character, a keystroke appears in the Selection field. This indicates the key combination required to type the character directly on-screen.
+:::
 
 4. Select a left-facing letter. Octagon Monogram, for example, has three sets of each letter, one for the left side, one for the middle and one for the right side. When selecting letters, you need to ensure letter orientation is correct.
 
@@ -34,7 +36,9 @@ Tip: When you select a character, a keystroke appears in the Selection field. Th
 
 ![MonogramSamples1.png](assets/MonogramSamples1.png)
 
-Tip: If you want the letters in your monogram to be different colors, select and recolor one-by-one.
+::: tip
+If you want the letters in your monogram to be different colors, select and recolor one-by-one.
+:::
 
 ![MonogramAlphabets3.png](assets/MonogramAlphabets3.png)
 

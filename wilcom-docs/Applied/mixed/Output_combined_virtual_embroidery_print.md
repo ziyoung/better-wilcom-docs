@@ -26,7 +26,9 @@ To produce a combined embroidery decoration plus graphics, use the following pro
 
 - Select a bitmap resolution – e.g. 300 DPI – from the Mode toolbar. You can override presets by keying in a higher resolution as required – e.g. 1200 DPI. Width and height settings update automatically.
 
-Tip: This setting determines the detail at which the TrueView™ image will be rendered. Maximum DPI for printers can vary between 600 and 2880 DPI. For general purposes such as printing on T shirts, good results can be obtained within a range of 200 to 400 DPI. Higher resolutions may be necessary for other substrates or media.
+::: tip
+This setting determines the detail at which the TrueView™ image will be rendered. Maximum DPI for printers can vary between 600 and 2880 DPI. For general purposes such as printing on T shirts, good results can be obtained within a range of 200 to 400 DPI. Higher resolutions may be necessary for other substrates or media.
+:::
 
 - Select File > Export > PNG to export a high resolution file for printing or similar.
 

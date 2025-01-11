@@ -12,7 +12,7 @@ From sunsets to wood grains, Color Blending creates interesting color blends. Us
 <iframe src="https://www.youtube.com/embed/f_HV1Hg37e0" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -20,7 +20,7 @@ From sunsets to wood grains, Color Blending creates interesting color blends. Us
 <iframe src="https://www.youtube.com/embed/pFEJMT9Silc" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

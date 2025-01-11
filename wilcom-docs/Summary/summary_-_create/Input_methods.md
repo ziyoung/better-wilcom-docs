@@ -7,7 +7,7 @@ EmbroideryStudio provides an outline/fill digitizing paradigm similar to CorelDR
 <iframe src="https://www.youtube.com/embed/NAq0OakWnRU" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -15,7 +15,7 @@ EmbroideryStudio provides an outline/fill digitizing paradigm similar to CorelDR
 <iframe src="https://www.youtube.com/embed/r0oGUefa_-I" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -23,7 +23,7 @@ EmbroideryStudio provides an outline/fill digitizing paradigm similar to CorelDR
 <iframe src="https://www.youtube.com/embed/AFnOJrW505g" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

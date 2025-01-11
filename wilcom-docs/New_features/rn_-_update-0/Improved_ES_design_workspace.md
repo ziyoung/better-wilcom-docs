@@ -28,7 +28,9 @@ The user interface now includes:
 
 All frequently used tools are available in a single click – not hidden in flyout toolbars.
 
-Note: Some optional features are shown. Not all tools are in all product models.
+::: info Note
+Some optional features are shown. Not all tools are in all product models.
+:::
 
 ## Improved flyout toolbars
 

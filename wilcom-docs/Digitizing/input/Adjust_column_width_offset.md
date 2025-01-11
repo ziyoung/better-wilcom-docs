@@ -23,7 +23,9 @@ By default, stitches are positioned around the center of an [Column C](../../glo
 
 ![input00081.png](assets/input00081.png)
 
-Tip: You can also change the width of Column C objects by adjusting control points with the Reshape tool.
+::: tip
+You can also change the width of Column C objects by adjusting control points with the Reshape tool.
+:::
 
 ## Related topics...
 

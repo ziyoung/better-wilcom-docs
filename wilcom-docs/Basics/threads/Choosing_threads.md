@@ -11,7 +11,9 @@ The [color palette ](../../glossary/glossary)contains a selection of colors tail
 
 In EmbroideryStudio you can search for threads in one or several charts and assign them manually or automatically.
 
-Note: Due to the differences in computer monitors and computer video cards, the approximate colors displayed should be used only as guides. Threads should always be matched to the appropriate physical color card.
+::: info Note
+Due to the differences in computer monitors and computer video cards, the approximate colors displayed should be used only as guides. Threads should always be matched to the appropriate physical color card.
+:::
 
 ## Related topics...
 

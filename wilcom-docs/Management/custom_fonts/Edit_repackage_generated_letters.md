@@ -20,7 +20,9 @@ Set up grid spacing in the Options dialog via Setup > Options > Grid & Guides. T
 
 ![custom_fonts00054.png](assets/custom_fonts00054.png)
 
-Tip: You only need to generate those characters that you want to edit and repackage. You can do this over time.
+::: tip
+You only need to generate those characters that you want to edit and repackage. You can do this over time.
+:::
 
 3. Note the lettering height. Normally this will default to 10mm but set it to whatever height you prefer to work with.
 

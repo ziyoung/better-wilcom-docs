@@ -4,9 +4,11 @@
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | ![InsertFunction.png](assets/InsertFunction.png)   | Click Function > Insert Function to insert machine function at current stitch cursor position.                                          |
 
-You can insert machine functions manually by means of the Insert Function dialog. Depending on your machine’s requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary) or [empty jump](../../glossary/glossary). For some machines you will also need to add empty stitches or empty jumps on either side of some functions. See your machine manual for details.
+You can insert machine functions manually by means of the Insert Function dialog. Depending on your machine’s requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary#empty-stitch) or [empty jump](../../glossary/glossary#empty-jump). For some machines you will also need to add empty stitches or empty jumps on either side of some functions. See your machine manual for details.
 
-Caution: When you insert machine functions manually, you must maintain them manually. For this reason, only insert manual functions if they cannot be added automatically.
+::: warning Caution
+When you insert machine functions manually, you must maintain them manually. For this reason, only insert manual functions if they cannot be added automatically.
+:::
 
 ## To insert machine functions manually...
 
@@ -20,11 +22,13 @@ Alternatively, click the Insert Function icon or select Function > Insert Functi
 
 ![InsertFunction00045.png](assets/InsertFunction00045.png)
 
-- From the Available Functions list, select the function you want to insert. Available functions and their options depend on the current [machine format](../../glossary/glossary).
+- From the Available Functions list, select the function you want to insert. Available functions and their options depend on the current [machine format](../../glossary/glossary#machine-format).
 
-Tip: It is faster to digitize individual jumps – Jump(M) – by right-clicking with the Manual input method selected. If you want the whole object to consist of jumps, deselect the Penetrations icon.
+::: tip
+It is faster to digitize individual jumps – Jump(M) – by right-clicking with the Manual input method selected. If you want the whole object to consist of jumps, deselect the Penetrations icon.
+:::
 
-- If available, choose an insertion method. With some functions you can choose whether to insert on the current stitch or on an [empty stitch](../../glossary/glossary).
+- If available, choose an insertion method. With some functions you can choose whether to insert on the current stitch or on an [empty stitch](../../glossary/glossary#empty-stitch).
 - To insert additional empty stitches or empty jumps, select one or other in the Component field.
 
 Depending on your machine, you may need to insert additional empty stitches or [empty jumps](../../glossary/glossary) before or after the selected function. For example, before a particular Stop function, you may need to insert a number of empty jumps. See your machine manual for details.

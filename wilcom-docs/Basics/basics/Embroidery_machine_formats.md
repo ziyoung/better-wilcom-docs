@@ -10,7 +10,9 @@ Different embroidery machines speak different languages. They have their own con
 
 - Select the required machine format from the list.
 
-Note: You can change the machine format itself if machine values do not correspond precisely to your particular machine. Or you can create a new format based on a selected one.
+::: info Note
+You can change the machine format itself if machine values do not correspond precisely to your particular machine. Or you can create a new format based on a selected one.
+:::
 
 ## Related topics...
 

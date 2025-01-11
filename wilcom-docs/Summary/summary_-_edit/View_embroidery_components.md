@@ -12,7 +12,9 @@ When you open an embroidery design in EmbroideryStudio, toggles on the View tool
 
 ![summary_-_edit00034.png](assets/summary_-_edit00034.png)
 
-Tip: Depending on the design background, change display colors for selected objects, unsewn stitches, etc.
+::: tip
+Depending on the design background, change display colors for selected objects, unsewn stitches, etc.
+:::
 
 ## Related topics
 

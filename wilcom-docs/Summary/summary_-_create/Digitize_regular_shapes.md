@@ -32,7 +32,6 @@ EmbroideryStudio provides special time-saving input tools for creating stars and
 <iframe src="https://www.youtube.com/embed/FeAn3Ene_Rs" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
 </iframe>
 
 ## Related topics

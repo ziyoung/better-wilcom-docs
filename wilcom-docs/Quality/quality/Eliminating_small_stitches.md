@@ -11,7 +11,7 @@ Small stitches can damage fabric and cause thread or needle breakage. Before you
 - Choose your preferred option:
 - When set to ‘Always’, the filter will be automatically applied in the background whenever objects are edited or digitized.
 - When set to ‘On Output’, the filter is only applied when printing or outputting files.
-- Enter the [minimum stitch length](../../glossary/glossary) you want to preserve.
+- Enter the [minimum stitch length](../../glossary/glossary#minimum-stitch-length) you want to preserve.
 - Click OK to confirm.
 - Check the Status Bar for the new stitch count.
 

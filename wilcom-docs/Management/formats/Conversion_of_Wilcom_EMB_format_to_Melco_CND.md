@@ -2,7 +2,9 @@
 
 You can save files to Melco CND format from EmbroideryStudio. Designs originally created in EmbroideryStudio generally give the best results. Other file types may not have all the data necessary for successful conversion. This table details how EmbroideryStudio stitch types and effects are converted to CND format.
 
-Tip: When you convert to CND, many EmbroideryStudio effects will be lost. If it is important to preserve the effects, save in Melco EXP machine format instead. Alternatively, turn off all effects before saving to CND format. [See also Best EmbroideryStudio input methods for Melco CND output.](Best_EmbroideryStudio_input_methods_for_Melco_CND_output)
+::: tip
+When you convert to CND, many EmbroideryStudio effects will be lost. If it is important to preserve the effects, save in Melco EXP machine format instead. Alternatively, turn off all effects before saving to CND format. [See also Best EmbroideryStudio input methods for Melco CND output.](Best_EmbroideryStudio_input_methods_for_Melco_CND_output)
+:::
 
 | EMB                                        | Melco CND                     | Notes                                                                                                                                                                                         |
 | ------------------------------------------ | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

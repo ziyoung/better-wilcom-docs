@@ -3,7 +3,7 @@
 | ![ObjectProperties00007.png](assets/ObjectProperties00007.png) | Use Docker > Object Properties to preset properties or adjust properties of selected objects. |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 
-You can change an object’s properties at any time without affecting those of any other object not currently selected. Some properties can be modified on screen – for example, you can change size by [scaling](../../glossary/glossary) an object with [selection handles](../../glossary/glossary). Other properties, such as stitch spacing or length, are modified via the Object Properties docker.
+You can change an object’s properties at any time without affecting those of any other object not currently selected. Some properties can be modified on screen – for example, you can change size by [scaling](../../glossary/glossary#scaling) an object with [selection handles](../../glossary/glossary#selection-handles). Other properties, such as stitch spacing or length, are modified via the Object Properties docker.
 
 ## To change object properties...
 

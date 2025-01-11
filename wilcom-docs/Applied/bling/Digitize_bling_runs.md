@@ -48,7 +48,9 @@ Available controls are summarized below.
 
 ![bling00032.png](assets/bling00032.png)
 
-Tip: The Backtrack/Repeat tool is enabled for bling-run objects.
+::: tip
+The Backtrack/Repeat tool is enabled for bling-run objects.
+:::
 
 ## Related topics...
 

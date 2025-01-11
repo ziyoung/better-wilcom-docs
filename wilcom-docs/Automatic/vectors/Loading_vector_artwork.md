@@ -4,7 +4,9 @@
 
 ![vectors00027.png](assets/vectors00027.png)
 
-Tip: CorelDRAW® Graphics Suite is bundled as standard with some product models. CorelDRAW® and its sister product, Corel PHOTO-PAINT® can also be run as standalone applications. CorelDRAW® Graphics Suite features ‘best-of-breed’ bitmap-to-vector tracing, enhanced illustration capabilities, photo-editing together with a library of professional clipart images. CorelDRAW® needs to be registered before it can be used by EmbroideryStudio.
+::: tip
+CorelDRAW® Graphics Suite is bundled as standard with some product models. CorelDRAW® and its sister product, Corel PHOTO-PAINT® can also be run as standalone applications. CorelDRAW® Graphics Suite features ‘best-of-breed’ bitmap-to-vector tracing, enhanced illustration capabilities, photo-editing together with a library of professional clipart images. CorelDRAW® needs to be registered before it can be used by EmbroideryStudio.
+:::
 
 ## Related topics...
 

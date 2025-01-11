@@ -19,7 +19,9 @@ EmbroideryStudio lets you change the color of individual letters.
 
 ![RecolorLetters0.png](assets/RecolorLetters0.png)
 
-Tip: You can also insert a color change between two letters by keying a caret (^) symbol. Subsequent letters default to the next color in the [palette](../../glossary/glossary).
+::: tip
+You can also insert a color change between two letters by keying a caret (^) symbol. Subsequent letters default to the next color in the [palette](../../glossary/glossary).
+:::
 
 ## Related topics...
 

@@ -18,9 +18,13 @@
 
 ![input00152.png](assets/input00152.png)
 
-Note: The ‘nominal angle’ in a Complex Turning object only takes effect if multiple stitch angles are irreconcilable – it then reverts to parallel stitching in the direction of the nominal angle. The nominal angle also affects certain underlay styles.
+::: info Note
+The ‘nominal angle’ in a Complex Turning object only takes effect if multiple stitch angles are irreconcilable – it then reverts to parallel stitching in the direction of the nominal angle. The nominal angle also affects certain underlay styles.
+:::
 
-Tip: You can adjust stitch angles of free-form objects interactively using the Stitch Angles tool.
+::: tip
+You can adjust stitch angles of free-form objects interactively using the Stitch Angles tool.
+:::
 
 ## Related topics...
 

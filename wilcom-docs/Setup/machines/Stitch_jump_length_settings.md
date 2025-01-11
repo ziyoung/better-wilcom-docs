@@ -1,6 +1,6 @@
 # Stitch & jump length settings
 
-With most machines you can set maximum frame movement, [minimum stitch length](../../glossary/glossary) to recognize, and automatic jump length.
+With most machines you can set maximum frame movement, [minimum stitch length](../../glossary/glossary#minimum-stitch-length) to recognize, and automatic jump length.
 
 ## To set stitch and jump length...
 

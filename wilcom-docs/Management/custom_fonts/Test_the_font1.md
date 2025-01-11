@@ -11,7 +11,9 @@ Notice that the lettering object preserves the ‘as digitized’ color changes 
 
 ![custom_fonts00110.png](assets/custom_fonts00110.png)
 
-Tip: Compare your design with the sample ‘My Special Font.EMB’ included in the Projects > Custom Fonts folder.
+::: tip
+Compare your design with the sample ‘My Special Font.EMB’ included in the Projects > Custom Fonts folder.
+:::
 
 ## Related topics...
 

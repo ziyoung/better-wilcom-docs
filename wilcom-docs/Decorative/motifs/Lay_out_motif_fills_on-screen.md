@@ -22,7 +22,7 @@ Generally you define a layout before digitizing. If it is important to align mot
 3. Adjust the guide motifs to achieve the effect you require:
 
 - Move motifs by selecting the middle guide motif and dragging it to a new position.
-- Scale motifs by selecting a guide motif and resizing it using the [selection handles](../../glossary/glossary).
+- Scale motifs by selecting a guide motif and resizing it using the [selection handles](../../glossary/glossary#selection-handles).
 
 ![motifs00084.png](assets/motifs00084.png)
 
@@ -40,11 +40,15 @@ Generally you define a layout before digitizing. If it is important to align mot
 
 ![motifs00093.png](assets/motifs00093.png)
 
-Note: Motif Fill does not have a column offset since motifs are connected along each row. Instead you can rotate the layout to achieve a similar effect.
+::: info Note
+Motif Fill does not have a column offset since motifs are connected along each row. Instead you can rotate the layout to achieve a similar effect.
+:::
 
 4. Press Esc to finish. The size and layout settings you select become current settings.
 
-Tip: To revert to the original factory settings, run the Revert utility. Alternatively, enter the values manually in the Object Properties > Fills > Motif Fill and click Save.
+::: tip
+To revert to the original factory settings, run the Revert utility. Alternatively, enter the values manually in the Object Properties > Fills > Motif Fill and click Save.
+:::
 
 ## Related topics...
 

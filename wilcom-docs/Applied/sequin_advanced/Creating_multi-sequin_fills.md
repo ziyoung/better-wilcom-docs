@@ -7,7 +7,9 @@ If you have a twin- or multi-sequin capable machine, you can use the Pattern con
 
 ![MultiSequinFillPatterns.png](assets/MultiSequinFillPatterns.png)
 
-Tip: Twin-sequin mode also allows you to convert vector objects to twin-sequin outlines. [See also Convert sequin artwork.](Convert_sequin_artwork)
+::: tip
+Twin-sequin mode also allows you to convert vector objects to twin-sequin outlines. [See also Convert sequin artwork.](Convert_sequin_artwork)
+:::
 
 ## To create multi-sequin fill patterns...
 
@@ -27,7 +29,9 @@ Tip: Twin-sequin mode also allows you to convert vector objects to twin-sequin o
 
 ![MultiSequinFillPattern-4.png](assets/MultiSequinFillPattern-4.png)
 
-Note: If you choose a stacked sequin configuration that the sequin device does not support, the machine will simply ignore that particular drop code.
+::: info Note
+If you choose a stacked sequin configuration that the sequin device does not support, the machine will simply ignore that particular drop code.
+:::
 
 - Optionally, make a selected object’s properties current, including multi-sequin patterns, and apply them to existing objects.
 

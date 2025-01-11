@@ -13,7 +13,7 @@ Open EmbroideryStudio using the desktop icon or the MS Windows® Start menu. The
 The main modes you’ll be accessing are:
 
 - Home: With this mode you can return to the Home screen to access new designs, or access tutorials and other product information.
-- Wilcom Workspace: This mode allows you to create and edit [embroidery objects](../../glossary/glossary) using an embroidery digitizing toolset.
+- Wilcom Workspace: This mode allows you to create and edit [embroidery objects](../../glossary/glossary#embroidery-objects) using an embroidery digitizing toolset.
 - CorelDRAW Graphics: This mode allows you to create and edit [vector objects](../../glossary/glossary) using the CorelDRAW® Graphics Suite toolset.
 - Design Library: This mode allows you to manage designs and order jobs.
 
@@ -24,7 +24,7 @@ Warning: You need to calibrate your monitor so that designs at 1:1 scale appear 
 <iframe src="https://www.youtube.com/embed/q1zVNto4nVw" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -32,7 +32,7 @@ Warning: You need to calibrate your monitor so that designs at 1:1 scale appear 
 <iframe src="https://www.youtube.com/embed/Yr2UTwcKr8Y" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -40,7 +40,7 @@ Warning: You need to calibrate your monitor so that designs at 1:1 scale appear 
 <iframe src="https://www.youtube.com/embed/AFnOJrW505g" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

@@ -2,7 +2,9 @@
 
 To send a multi-decoration design to production, you generally print the digital art design before stitching the embroidery. To do this, you first need to hide the embroidery because you don’t want it printing on the digital art printer.
 
-Note: EmbroideryStudio includes as standard the entire suite of CorelDRAW® Graphics Suite drawing tools which offer many techniques for drafting outlines and shapes on screen. Refer to the electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use online help available from the Help menu.
+::: info Note
+EmbroideryStudio includes as standard the entire suite of CorelDRAW® Graphics Suite drawing tools which offer many techniques for drafting outlines and shapes on screen. Refer to the electronic User Guide available via the MS Windows® Start > Programs group. Alternatively, use online help available from the Help menu.
+:::
 
 ## To print a design in CorelDRAW Graphics...
 
@@ -20,7 +22,9 @@ The design is printed with or without embroidery objects showing depending on wh
 
 ![FinalDesign.png](assets/FinalDesign.png)
 
-Tip: Make sure you align the needle with a manually digitized start and end point to ensure that stitching aligns with the digitally printed part of the design.
+::: tip
+Make sure you align the needle with a manually digitized start and end point to ensure that stitching aligns with the digitally printed part of the design.
+:::
 
 ## Related topics...
 

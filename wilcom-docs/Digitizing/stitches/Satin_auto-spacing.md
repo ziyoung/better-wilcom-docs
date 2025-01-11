@@ -25,7 +25,7 @@ Adjust Auto Spacing to specify how rapidly spacing changes and by how much. You 
 | Setting | Function                                                                                                                                                                                                              |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Length  | These values define the increments by which spacing is adjusted. The smaller the distance between each length, the more rapidly stitching changes from open to dense. Each length must be greater than the preceding. |
-| Spacing | These values define the spacing corresponding to each [stitch length](../../glossary/glossary). See below.                                                                                                            |
+| Spacing | These values define the spacing corresponding to each [stitch length](../../glossary/glossary#stitch-length). See below.                                                                                              |
 
 ![stitches00049.png](assets/stitches00049.png)
 
@@ -40,7 +40,9 @@ The offset determines the amount by which stitch settings will be adjusted for d
 | C         | Finer than normal (approx. denier 80)        | \-0.03  |
 | D         | Very fine (approx. denier 100)               | \-0.06  |
 
-Note: You assign the thread type in the Add Thread dialog. Stitch spacing of the assigned thread type is automatically adjusted according to the values set there.
+::: info Note
+You assign the thread type in the Add Thread dialog. Stitch spacing of the assigned thread type is automatically adjusted according to the values set there.
+:::
 
 5. Click OK.
 

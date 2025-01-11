@@ -4,7 +4,9 @@ EmbroideryStudio enables the creation of multi-sequin designs for supported mach
 
 ![QuadSequinRunSample.png](assets/QuadSequinRunSample.png)
 
-Tip: Twin-sequin mode also allows you to convert vector artwork to twin-sequin outlines. [See also Convert sequin artwork.](../sequin_advanced/Convert_sequin_artwork)
+::: tip
+Twin-sequin mode also allows you to convert vector artwork to twin-sequin outlines. [See also Convert sequin artwork.](../sequin_advanced/Convert_sequin_artwork)
+:::
 
 ## Related topics...
 

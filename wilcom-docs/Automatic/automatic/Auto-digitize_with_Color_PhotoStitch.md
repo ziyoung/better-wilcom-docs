@@ -21,7 +21,9 @@ Use Color PhotoStitch to create embroidery from photographs and other images. Wh
 
 ![ColorPhotoStitch100105.png](assets/ColorPhotoStitch100105.png)
 
-Note: Support is provided for transparent backgrounds in 24 bit and 32 bit images.
+::: info Note
+Support is provided for transparent backgrounds in 24 bit and 32 bit images.
+:::
 
 4. Set the number of thread colors. There will be a point a diminishing returns where more colors do not always result in greater design clarity or stitchability. Usually 7 to 10 colors produce the best results.
 

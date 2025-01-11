@@ -28,7 +28,7 @@ If both offsets are set to ‘0’, grid lines are perfectly vertical and horizo
 
 ## Stitch settings
 
-Specify stitch length, [minimum stitch length](../../glossary/glossary) and spacing settings for program split objects, in the same way as for other fill stitch types. You can eliminate unwanted patterns and distribute stitches evenly within a shape using a random factor.
+Specify stitch length, [minimum stitch length](../../glossary/glossary#minimum-stitch-length) and spacing settings for program split objects, in the same way as for other fill stitch types. You can eliminate unwanted patterns and distribute stitches evenly within a shape using a random factor.
 
 ![patterns00063.png](assets/patterns00063.png)
 

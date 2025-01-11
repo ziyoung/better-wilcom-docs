@@ -15,7 +15,9 @@ When you start EmbroideryStudio, a new file – Design1 – is automatically cre
 
 The CHENILLE template defaults the system to chenille values. The machine format will switch to the default chenille machine.
 
-Note: Auto fabric is not applicable to chenille embroidery. Presets for pull compensation, underlay, backing, density, etc, have no relevance to chenille work.
+::: info Note
+Auto fabric is not applicable to chenille embroidery. Presets for pull compensation, underlay, backing, density, etc, have no relevance to chenille work.
+:::
 
 - Select your preferred machine format from the droplist if different to the default.
 
@@ -23,7 +25,9 @@ Finished designs can be sent direct to most chenille machines, or saved to your 
 
 - If you choose a different machine, you can save it to the CHENILLE template via this dialog.
 
-Tip: You can change machine format at any time on a design-by-design basis via the Design menu.
+::: tip
+You can change machine format at any time on a design-by-design basis via the Design menu.
+:::
 
 ## Related topics
 

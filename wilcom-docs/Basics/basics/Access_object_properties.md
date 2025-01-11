@@ -3,7 +3,7 @@
 | ![ObjectProperties00028.png](assets/ObjectProperties00028.png) | Use Docker > Object Properties to set properties of selected objects. |
 | -------------------------------------------------------------- | --------------------------------------------------------------------- |
 
-The most important [docker](../../glossary/glossary) is Object Properties. Use it together with the Property Bar to access the properties of selected [embroidery objects](../../glossary/glossary).
+The most important [docker](../../glossary/glossary#docker) is Object Properties. Use it together with the Property Bar to access the properties of selected [embroidery objects](../../glossary/glossary#embroidery-objects).
 
 ## To access object properties...
 
@@ -22,7 +22,9 @@ The most important [docker](../../glossary/glossary) is Object Properties. Use i
 
 ![PropertyBar.png](assets/PropertyBar.png)
 
-Tip: You can specify units of measurement when entering values into a measurement control.
+::: tip
+You can specify units of measurement when entering values into a measurement control.
+:::
 
 ## Related topics...
 

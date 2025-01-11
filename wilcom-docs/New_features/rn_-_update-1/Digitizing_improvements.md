@@ -11,7 +11,9 @@ Currently flexi-split effect is used mainly with satin stitch. It could always b
 
 ![FlexiSplitWithHoles-2.png](assets/FlexiSplitWithHoles-2.png)
 
-Note: Flexi-split is applied to each ‘segment’ of a complex fill as shown above.
+::: info Note
+Flexi-split is applied to each ‘segment’ of a complex fill as shown above.
+:::
 
 ## Stitch angles
 

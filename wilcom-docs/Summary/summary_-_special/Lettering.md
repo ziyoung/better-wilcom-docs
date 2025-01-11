@@ -9,7 +9,7 @@ The Lettering toolbar contains a complete set of tools for the creation of lette
 <iframe src="https://www.youtube.com/embed/ntNNpkf1LfM" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -17,7 +17,7 @@ The Lettering toolbar contains a complete set of tools for the creation of lette
 <iframe src="https://www.youtube.com/embed/mX_gktu44vU" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related video
@@ -25,7 +25,7 @@ The Lettering toolbar contains a complete set of tools for the creation of lette
 <iframe src="https://www.youtube.com/embed/MPW0jdWvmUs" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

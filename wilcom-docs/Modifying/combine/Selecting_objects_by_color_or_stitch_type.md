@@ -1,6 +1,6 @@
 # Selecting objects by color or stitch type
 
-You can select [embroidery objects](../../glossary/glossary) of the same color or stitch type with a single command.
+You can select [embroidery objects](../../glossary/glossary#embroidery-objects) of the same color or stitch type with a single command.
 
 ## Related topics...
 

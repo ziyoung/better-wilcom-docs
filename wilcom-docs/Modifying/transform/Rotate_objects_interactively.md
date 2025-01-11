@@ -1,6 +1,6 @@
 # Rotate objects interactively
 
-When you select an object, [selection handles](../../glossary/glossary) display at its extremities. When you click the object again, the handles change to rotation handles. Use the tooltips as a guide.
+When you select an object, [selection handles](../../glossary/glossary#selection-handles) display at its extremities. When you click the object again, the handles change to rotation handles. Use the tooltips as a guide.
 
 ## To rotate objects interactively...
 

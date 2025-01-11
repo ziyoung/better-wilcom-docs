@@ -1,6 +1,6 @@
 # Create design templates
 
-You create [templates](../../glossary/glossary) from designs containing the required objects and property settings. Simply save the design, or elements of it, as a template. Templates look the same as design files, but use the file extension EMT.
+You create [templates](../../glossary/glossary#templates) from designs containing the required objects and property settings. Simply save the design, or elements of it, as a template. Templates look the same as design files, but use the file extension EMT.
 
 ## To create a design template...
 
@@ -20,7 +20,9 @@ EmbroideryStudio automatically opens the C:\\Program Files\\Wilcom\\EmbroiderySt
 
 6. Enter a name and click Save. The template is ready for use.
 
-Tip: The File menu provides separate commands for saving monogram and team name templates. See related topics below.
+::: tip
+The File menu provides separate commands for saving monogram and team name templates. See related topics below.
+:::
 
 ## Related topics...
 

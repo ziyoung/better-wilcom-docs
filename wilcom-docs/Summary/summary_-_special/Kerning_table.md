@@ -9,7 +9,7 @@ A kerning table is an array of kerning values for every possible pair of letters
 <iframe src="https://www.youtube.com/embed/R_0M5cImKUU" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

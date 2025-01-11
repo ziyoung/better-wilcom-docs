@@ -4,4 +4,6 @@ If you turn off the serial interface and subsequently lose WiFi connection to th
 
 ![Reset_EC_device.png](assets/Reset_EC_device.png)
 
-Tip: If this doesn’t solve the problem, go to the [Help & Support](http://help.wilcom.com) site and check for updates.
+::: tip
+If this doesn’t solve the problem, go to the [Help & Support](http://help.wilcom.com) site and check for updates.
+:::

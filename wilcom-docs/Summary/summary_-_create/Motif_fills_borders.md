@@ -14,7 +14,7 @@ Motifs are predefined design elements, such as hearts, leaves or border patterns
 <iframe src="https://www.youtube.com/embed/0DexMieX0WQ?si=hgIxX_unCobbSpXV" 
 		 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Video recomendado

@@ -20,7 +20,9 @@ If all you want to do is output the embroidery portion of a design as a high res
 
 ![EmbrodieryOnlyVirtualDecorationPNGFile.png](assets/EmbrodieryOnlyVirtualDecorationPNGFile.png)
 
-Note: For the purposes of virtual decoration, sequins and bling can be included in the output.
+::: info Note
+For the purposes of virtual decoration, sequins and bling can be included in the output.
+:::
 
 ## Related topics...
 

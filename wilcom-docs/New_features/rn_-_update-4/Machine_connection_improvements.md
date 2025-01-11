@@ -19,7 +19,9 @@ A problem has been reported when loading U03 designs to new K-Series Barudan mac
 
 ![DesignInformationBlankOrderDate.png](assets/DesignInformationBlankOrderDate.png)
 
-Note: This is only an issue with Barudan’s newest K-Series machines, which fully read all the extra data in the U03 file. Older Bardan models ignore the empty field.
+::: info Note
+This is only an issue with Barudan’s newest K-Series machines, which fully read all the extra data in the U03 file. Older Bardan models ignore the empty field.
+:::
 
 ## Related topics
 
@@ -61,7 +63,9 @@ A problem has been reported following the EmbroideryHub ES e4.5.1 R2 firmware up
 
 The EC 1.1.0 firmware update (and all subsequent update files) is larger than the maximum device storage size of 32MB. This results in an error when trying to start the update process. This problem has been resolved with the current update.
 
-Note: There is a new firmware update for the EC device. It is highly recommended to update your EC device firmware.
+::: info Note
+There is a new firmware update for the EC device. It is highly recommended to update your EC device firmware.
+:::
 
 ## Related topics
 

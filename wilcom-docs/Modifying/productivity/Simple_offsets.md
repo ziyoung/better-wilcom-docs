@@ -24,4 +24,6 @@ When available, the Simple Offsets feature allows you to quickly create outline 
 
 3. Click OK to apply settings. The design outline is stitched in the current palette color using current properties. Change settings as required.
 
-Tip: ![KanjiWithOutlines.png](assets/KanjiWithOutlines.png)You can use Simple Offsets to create outlines around entire designs, including lettering.
+::: tip
+![KanjiWithOutlines.png](assets/KanjiWithOutlines.png)You can use Simple Offsets to create outlines around entire designs, including lettering.
+:::

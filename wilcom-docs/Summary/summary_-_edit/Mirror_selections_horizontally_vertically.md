@@ -14,7 +14,7 @@ Use the Mirror Merge Horizontal and Vertical tools to duplicate and mirror selec
 <iframe src="https://www.youtube.com/embed/bnus8J1z4Ec" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
+
 </iframe>
 
 ## Related topics

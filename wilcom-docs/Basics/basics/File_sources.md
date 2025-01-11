@@ -1,6 +1,6 @@
 # File sources
 
-While embroidery files are broadly classified as ‘[design](../../glossary/glossary)’ (outline) or ‘machine’ (stitch), EmbroideryStudio internally tags files as belonging to one of four types – native design (A), imported outlines (B), processed stitches (C), or imported stitches (D).
+While embroidery files are broadly classified as ‘[design](../../glossary/glossary#design)’ (outline) or ‘machine’ (stitch), EmbroideryStudio internally tags files as belonging to one of four types – native design (A), imported outlines (B), processed stitches (C), or imported stitches (D).
 
 | Grade | Description                                                                                                                                                                                            |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -11,7 +11,9 @@ While embroidery files are broadly classified as ‘[design](../../glossary/glos
 
 Native EMB designs as well as ART and JAN files are all ‘Grade A’ embroidery formats read and written by EmbroideryStudio. They are called ‘Grade A’ because they contain a complete set of design information in a single file – object outlines, properties, stitches, thread colors, thumbnail image, and comments. There are three other grades of embroidery file. It goes without saying that only Grade A files provide 100% perfect scaling and transformation.
 
-Note: For information about the source of a design file, refer to the Design Information docker.
+::: info Note
+For information about the source of a design file, refer to the Design Information docker.
+:::
 
 ## Related topics...
 

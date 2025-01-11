@@ -24,7 +24,9 @@ Warning messages include:
 
 - Design Integrity Alert: This appears if the software detects a problem with the design file. If you see an alert, you should use Undo to return the design to an error-free state. Save the design. Then save a separate instance of the design up to the point the alert is generated. Send both designs to Wilcom Support for analysis.
 
-Note: Turning off this message also turns off design integrity checking.
+::: info Note
+Turning off this message also turns off design integrity checking.
+:::
 
 ## Related topics...
 

@@ -3,7 +3,7 @@
 | ![ObjectProperties00065.png](assets/ObjectProperties00065.png) | Use Docker > Object Properties to preset properties or adjust properties of selected objects. |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 
-You can easily save [current settings](../../glossary/glossary) to the current [template](../../glossary/glossary).
+You can easily save [current settings](../../glossary/glossary#current-settings) to the current [template](../../glossary/glossary).
 
 ## To save current properties to a template...
 
@@ -16,7 +16,9 @@ You can easily save [current settings](../../glossary/glossary) to the current [
 - Make any further adjustments as required.
 - Click Save. Current settings are saved to the template as the new defaults.
 
-Tip: To save more than one set of property settings to the template, save them as styles.
+::: tip
+To save more than one set of property settings to the template, save them as styles.
+:::
 
 ## Related topics...
 

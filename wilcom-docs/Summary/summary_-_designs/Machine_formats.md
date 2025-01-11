@@ -2,7 +2,9 @@
 
 Machine functions are instructions that tell your embroidery machine how to stitch a design. They tell the machine when to stop, change colors, trim a thread, jump, or put the needle in or out. The following dialogs all apply to the use of machine formats and functions in EmbroideryStudio.
 
-Tip: Once a design is complete, you can stitch it out to any supported embroidery machine without changing design format. If a selected machine does not support a particular function included in the design, it is simply ignored.
+::: tip
+Once a design is complete, you can stitch it out to any supported embroidery machine without changing design format. If a selected machine does not support a particular function included in the design, it is simply ignored.
+:::
 
 ## Select machine format
 

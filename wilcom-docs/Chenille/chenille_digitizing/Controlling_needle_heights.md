@@ -7,7 +7,9 @@ Needle height controls the height of the loop formed by the chenille machine whe
 
 If you intend to use loops of varying height, you can insert Needle Height functions and set their positions during digitizing. Even though stitch length affects loop height, it is easier and more accurate to adjust needle height. For safety, apply needle height values to each Moss block, even of the same height.
 
-Note: When you apply an explicit needle height to Compound Chenille objects, it only affects the fill, usually moss. It does not affect the values associated with included borders.
+::: info Note
+When you apply an explicit needle height to Compound Chenille objects, it only affects the fill, usually moss. It does not affect the values associated with included borders.
+:::
 
 ## To adjust needle heights...
 
@@ -19,7 +21,9 @@ Note: When you apply an explicit needle height to Compound Chenille objects, it 
 - Select a needle height value from the list and click OK. When stitching out, the chenille machine will automatically change needle height according to your selection.
 - In the Stitch List, check that the setting has been applied.
 
-Tip: With some machines, needle height can optionally be adjusted on the machine. In practice, it is more common to adjust there rather than in the design. If so, clear the checkbox in the Machine Format Values dialog if you want to select needle heights manually on the machine.
+::: tip
+With some machines, needle height can optionally be adjusted on the machine. In practice, it is more common to adjust there rather than in the design. If so, clear the checkbox in the Machine Format Values dialog if you want to select needle heights manually on the machine.
+:::
 
 ## Related topics
 

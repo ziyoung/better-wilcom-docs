@@ -20,7 +20,9 @@ The selected fabric is displayed in the Status bar. If you choose to apply an au
 
 ![TurningAutoFabricOn.png](assets/TurningAutoFabricOn.png)
 
-Note: Changing the current Auto Fabric will affect all [colorways ](../../glossary/glossary)in the design. However, the converse is not the case. While colorways allow you to select different fabric swatches for different colorways, these have no bearing on Auto Fabric settings. However, the background Fabric option is ‘aware’ of Auto Fabric selection. Consequently, the Browse button takes you to an assortment of swatches relevant to your current fabric selection.
+::: info Note
+Changing the current Auto Fabric will affect all [colorways ](../../glossary/glossary)in the design. However, the converse is not the case. While colorways allow you to select different fabric swatches for different colorways, these have no bearing on Auto Fabric settings. However, the background Fabric option is ‘aware’ of Auto Fabric selection. Consequently, the Browse button takes you to an assortment of swatches relevant to your current fabric selection.
+:::
 
 ## Related topics...
 

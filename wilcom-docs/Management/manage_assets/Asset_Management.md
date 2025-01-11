@@ -10,7 +10,9 @@ It’s a good idea to familiarize yourself with the locations and file names of 
 - Also, you may want to share assets with other EmbroideryStudio users, or install third-party assets such as custom fonts.
 - Finally, if you want to install your software to a new computer, you will need to manually copy the contents of your asset folders to the new locations.
 
-Tip: If you are installing your existing setup to a new PC, it’s a good idea to create a single ZIP file of all your custom data and pre-install it to the new computer before installing EmbroideryStudio.
+::: tip
+If you are installing your existing setup to a new PC, it’s a good idea to create a single ZIP file of all your custom data and pre-install it to the new computer before installing EmbroideryStudio.
+:::
 
 ## Related topics...
 

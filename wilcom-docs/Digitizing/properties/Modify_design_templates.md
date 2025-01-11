@@ -1,6 +1,6 @@
 # Modify design templates
 
-You can modify [templates](../../glossary/glossary) in the same way as a normal design. Changes apply only to future uses of the template. Existing designs based on the template are not affected.
+You can modify [templates](../../glossary/glossary#templates) in the same way as a normal design. Changes apply only to future uses of the template. Existing designs based on the template are not affected.
 
 ## To modify design templates...
 
@@ -12,7 +12,7 @@ You can modify [templates](../../glossary/glossary) in the same way as a normal 
 
 4. Select the template you want to modify and click Open.
 
-5. Modify property settings, [styles](../../glossary/glossary) and other settings as required.
+5. Modify property settings, [styles](../../glossary/glossary#styles) and other settings as required.
 
 6. Select File > Save As. The Save As dialog opens.
 
@@ -20,4 +20,6 @@ You can modify [templates](../../glossary/glossary) in the same way as a normal 
 
 8. Enter a name and click Save. The modified template is ready for use.
 
-Note: Delete templates in the same way as you would any other MS Windows® file, using File Explorer.
+::: info Note
+Delete templates in the same way as you would any other MS Windows® file, using File Explorer.
+:::

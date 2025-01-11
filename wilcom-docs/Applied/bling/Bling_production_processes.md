@@ -22,7 +22,9 @@ Hot-fix templates can be produced in two ways:
 
 Direct-to-garment bling production is supported by many machines. Automatic rhinestone transfer machines are designed for high speed, high volume production. They enable users to fix any type of rhinestones, studs, and so forth directly to any type of fabric.
 
-Tip: If you have neither CAMS automatic rhinestone placement machine nor a direct-connect cutting machine, you can use the Convert Bling for Production command to convert bling objects to vector shapes. These can be then output to vector file for use by third-party applications. [See Outputting bling for details.](Outputting_bling)
+::: tip
+If you have neither CAMS automatic rhinestone placement machine nor a direct-connect cutting machine, you can use the Convert Bling for Production command to convert bling objects to vector shapes. These can be then output to vector file for use by third-party applications. [See Outputting bling for details.](Outputting_bling)
+:::
 
 ## Cutting data
 

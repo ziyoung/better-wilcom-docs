@@ -29,7 +29,9 @@ Change object shapes with the Reshape Object tool.
 
 ![reshape00022.png](assets/reshape00022.png)
 
-Tip: Use the arrow keys to ‘nudge’ selected nodes.
+::: tip
+Use the arrow keys to ‘nudge’ selected nodes.
+:::
 
 - Press Delete to remove unwanted nodes.
 
@@ -38,7 +40,9 @@ Tip: Use the arrow keys to ‘nudge’ selected nodes.
 - Press Spacebar to toggle between corner and curve nodes.
 - Press Esc to cancel changes. Press Esc again to exit Reshape mode.
 
-Note: You can also adjust [stitch angles](../../glossary/glossary) as well as change entry and [exit points](../../glossary/glossary).
+::: info Note
+You can also adjust [stitch angles](../../glossary/glossary) as well as change entry and [exit points](../../glossary/glossary).
+:::
 
 ## Related topics...
 

@@ -4,7 +4,9 @@ Use the Design tab to include background or product with the colorway.
 
 ![reports00034.png](assets/reports00034.png)
 
-Tip: Select Crop to Design to crop the empty space around the design.
+::: tip
+Select Crop to Design to crop the empty space around the design.
+:::
 
 The Design tab allows you to toggle on/off the same options available on the View toolbar. Print designs in TrueView™ or stitch only, with needle points, connectors, etc, or without. Include background fabric or color as preferred.
 
@@ -46,7 +48,9 @@ To display bling components, select Bling in the Design tab. The bling productio
 
 ![ProductionWorksheetBling.png](assets/ProductionWorksheetBling.png)
 
-Note: When bling is output as multiple files, each color is separated into different templates for flood-filling with selected rhinestones.
+::: info Note
+When bling is output as multiple files, each color is separated into different templates for flood-filling with selected rhinestones.
+:::
 
 ## Related topics...
 

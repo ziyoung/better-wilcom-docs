@@ -11,8 +11,12 @@ Auto Select is specific to ES Cross Stitch. It allows you to select a single col
 
 2. Click a block of stitches. Only adjoining stitches of that color are selected.
 
-Tip: Hold down Ctrl to select multiple blocks.
+::: tip
+Hold down Ctrl to select multiple blocks.
+:::
 
 ![cross-stitch_editing00007.png](assets/cross-stitch_editing00007.png)
 
-Tip: You can change the color of the selection completely, by selecting a color from the palette.
+::: tip
+You can change the color of the selection completely, by selecting a color from the palette.
+:::
