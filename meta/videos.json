@@ -1,0 +1,548 @@
+[
+  {
+    "text": "Applied Decoration",
+    "items": [
+      {
+        "text": "Mixed Decoration",
+        "items": [
+          {
+            "text": "Boring",
+            "link": "/wilcom-videos/Applied/mixed/Boring"
+          }
+        ]
+      },
+      {
+        "text": "Bead Embroidery",
+        "link": "/wilcom-videos/Applied/beading/Bead_Embroidery"
+      }
+    ]
+  },
+  {
+    "text": "Chenille Embroidery",
+    "link": "/wilcom-videos/Chenille/PART_Chenille/PART_Chenille",
+    "items": [
+      {
+        "text": "Chenille Digitizing",
+        "link": "/wilcom-videos/Chenille/chenille_digitizing/Chenille_Digitizing"
+      },
+      {
+        "text": "Chenille Output",
+        "link": "/wilcom-videos/Chenille/chenille_output/Chenille_Output"
+      }
+    ]
+  },
+  {
+    "text": "Software Summary",
+    "items": [
+      {
+        "text": "Design Handling",
+        "items": [
+          {
+            "text": "Operating modes",
+            "link": "/wilcom-videos/Summary/summary_-_designs/Operating_modes"
+          },
+          {
+            "text": "Design management",
+            "link": "/wilcom-videos/Summary/summary_-_designs/Design_management",
+            "items": [
+              {
+                "text": "View designs in network folders",
+                "link": "/wilcom-videos/Summary/summary_-_designs/View_designs_in_network_folders"
+              }
+            ]
+          },
+          {
+            "text": "Embroidery clipart",
+            "link": "/wilcom-videos/Summary/summary_-_designs/Embroidery_clipart"
+          },
+          {
+            "text": "Design information",
+            "items": [
+              {
+                "text": "Design information > Order",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Design_information_Order"
+              }
+            ]
+          },
+          {
+            "text": "Auto fabrics",
+            "link": "/wilcom-videos/Summary/summary_-_designs/Auto_fabrics"
+          },
+          {
+            "text": "Color palette",
+            "items": [
+              {
+                "text": "Split color blocks",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Split_color_blocks"
+              },
+              {
+                "text": "Change color schemes",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Change_color_schemes"
+              },
+              {
+                "text": "Assign thread colors",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Assign_thread_colors"
+              }
+            ]
+          },
+          {
+            "text": "Colorways & threads",
+            "link": "/wilcom-videos/Summary/summary_-_designs/Colorways_threads",
+            "items": [
+              {
+                "text": "Backgrounds & display colors",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Backgrounds_display_colors"
+              },
+              {
+                "text": "Visualize products",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Visualize_products"
+              }
+            ]
+          },
+          {
+            "text": "Design reading & writing",
+            "link": "/wilcom-videos/Summary/summary_-_designs/Design_reading_writing",
+            "items": [
+              {
+                "text": "Export machine files",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Export_machine_files"
+              }
+            ]
+          },
+          {
+            "text": "Design output",
+            "link": "/wilcom-videos/Summary/summary_-_designs/Design_output",
+            "items": [
+              {
+                "text": "Send designs to EmbroideryConnect",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Send_designs_to_EmbroideryConnect"
+              },
+              {
+                "text": "Capture virtual decoration bitmap",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Capture_virtual_decoration_bitmap"
+              }
+            ]
+          },
+          {
+            "text": "Design reports",
+            "link": "/wilcom-videos/Summary/summary_-_designs/Design_reports"
+          },
+          {
+            "text": "Hoops",
+            "items": [
+              {
+                "text": "Auto start & end points",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Auto_start_end_points"
+              }
+            ]
+          },
+          {
+            "text": "System preferences",
+            "items": [
+              {
+                "text": "Edit options",
+                "link": "/wilcom-videos/Summary/summary_-_designs/Edit_options"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Design Creation",
+        "items": [
+          {
+            "text": "Graphics handling",
+            "link": "/wilcom-videos/Summary/summary_-_create/Graphics_handling",
+            "items": [
+              {
+                "text": "Import graphics",
+                "link": "/wilcom-videos/Summary/summary_-_create/Import_graphics"
+              },
+              {
+                "text": "Prepare artwork",
+                "link": "/wilcom-videos/Summary/summary_-_create/Prepare_artwork"
+              }
+            ]
+          },
+          {
+            "text": "Input methods",
+            "link": "/wilcom-videos/Summary/summary_-_create/Input_methods",
+            "items": [
+              {
+                "text": "Digitize columns of turning stitches",
+                "link": "/wilcom-videos/Summary/summary_-_create/Digitize_columns_of_turning_stitches"
+              },
+              {
+                "text": "Digitize open & closed shapes",
+                "link": "/wilcom-videos/Summary/summary_-_create/Digitize_open_closed_shapes"
+              },
+              {
+                "text": "Digitize free shapes",
+                "link": "/wilcom-videos/Summary/summary_-_create/Digitize_free_shapes"
+              },
+              {
+                "text": "Digitize regular shapes",
+                "link": "/wilcom-videos/Summary/summary_-_create/Digitize_regular_shapes"
+              },
+              {
+                "text": "Create freehand shapes",
+                "link": "/wilcom-videos/Summary/summary_-_create/Create_freehand_shapes"
+              }
+            ]
+          },
+          {
+            "text": "Stitch types",
+            "link": "/wilcom-videos/Summary/summary_-_create/Stitch_types",
+            "items": [
+              {
+                "text": "Simple runs",
+                "link": "/wilcom-videos/Summary/summary_-_create/Simple_runs"
+              },
+              {
+                "text": "Satin stitching",
+                "link": "/wilcom-videos/Summary/summary_-_create/Satin_stitching"
+              },
+              {
+                "text": "Tatami stitching",
+                "link": "/wilcom-videos/Summary/summary_-_create/Tatami_stitching"
+              },
+              {
+                "text": "String stitching",
+                "link": "/wilcom-videos/Summary/summary_-_create/String_stitching"
+              },
+              {
+                "text": "Contoured fills",
+                "link": "/wilcom-videos/Summary/summary_-_create/Contoured_fills"
+              },
+              {
+                "text": "Spiral fills",
+                "link": "/wilcom-videos/Summary/summary_-_create/Spiral_fills"
+              },
+              {
+                "text": "Maze fills",
+                "link": "/wilcom-videos/Summary/summary_-_create/Maze_fills"
+              }
+            ]
+          },
+          {
+            "text": "Motifs",
+            "link": "/wilcom-videos/Summary/summary_-_create/Motifs",
+            "items": [
+              {
+                "text": "Motif fills & borders",
+                "link": "/wilcom-videos/Summary/summary_-_create/Motif_fills_borders"
+              },
+              {
+                "text": "Graded motif columns",
+                "link": "/wilcom-videos/Summary/summary_-_create/Graded_motif_columns"
+              },
+              {
+                "text": "Create motifs",
+                "link": "/wilcom-videos/Summary/summary_-_create/Create_motifs"
+              }
+            ]
+          },
+          {
+            "text": "Stitch effects",
+            "items": [
+              {
+                "text": "Stitch shortening",
+                "link": "/wilcom-videos/Summary/summary_-_create/Stitch_shortening"
+              },
+              {
+                "text": "User-defined splits",
+                "link": "/wilcom-videos/Summary/summary_-_create/User-defined_splits"
+              },
+              {
+                "text": "Color blends",
+                "link": "/wilcom-videos/Summary/summary_-_create/Color_blends"
+              },
+              {
+                "text": "Curved fills",
+                "link": "/wilcom-videos/Summary/summary_-_create/Curved_fills"
+              },
+              {
+                "text": "Hand Stitch",
+                "link": "/wilcom-videos/Summary/summary_-_create/Hand_Stitch"
+              }
+            ]
+          },
+          {
+            "text": "Carving stamps",
+            "link": "/wilcom-videos/Summary/summary_-_create/Carving_stamps"
+          },
+          {
+            "text": "Automatic digitizing",
+            "items": [
+              {
+                "text": "Convert vector & embroidery objects",
+                "link": "/wilcom-videos/Summary/summary_-_create/Convert_vector_embroidery_objects"
+              },
+              {
+                "text": "Smart Design",
+                "link": "/wilcom-videos/Summary/summary_-_create/Smart_Design"
+              },
+              {
+                "text": "Reef PhotoStitch",
+                "link": "/wilcom-videos/Summary/summary_-_create/Reef_PhotoStitch"
+              },
+              {
+                "text": "Color PhotoStitch",
+                "link": "/wilcom-videos/Summary/summary_-_create/Color_PhotoStitch"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Design Editing",
+        "items": [
+          {
+            "text": "Object Properties",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Object_Properties"
+          },
+          {
+            "text": "Styles",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Styles",
+            "items": [
+              {
+                "text": "Apply styles",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Apply_styles"
+              }
+            ]
+          },
+          {
+            "text": "View designs",
+            "link": "/wilcom-videos/Summary/summary_-_edit/View_designs",
+            "items": [
+              {
+                "text": "View designs with the Color-Object List",
+                "link": "/wilcom-videos/Summary/summary_-_edit/View_designs_with_the_Color-Object_List"
+              }
+            ]
+          },
+          {
+            "text": "Selection tools",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Selection_tools"
+          },
+          {
+            "text": "Editing tools",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Editing_tools",
+            "items": [
+              {
+                "text": "Reshape tools",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Reshape_tools"
+              }
+            ]
+          },
+          {
+            "text": "Sequence tools",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Sequence_tools"
+          },
+          {
+            "text": "Transformation tools",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Transformation_tools"
+          },
+          {
+            "text": "Arrange tools",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Arrange_tools"
+          },
+          {
+            "text": "Mirror-merge tools",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Mirror-merge_tools",
+            "items": [
+              {
+                "text": "Mirror selections horizontally & vertically",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Mirror_selections_horizontally_vertically"
+              },
+              {
+                "text": "Create multiple reflections",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Create_multiple_reflections"
+              }
+            ]
+          },
+          {
+            "text": "Generated outlines & fills",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Generated_outlines_fills",
+            "items": [
+              {
+                "text": "Simple offsets",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Simple_offsets"
+              },
+              {
+                "text": "Outlines & offsets",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Outlines_offsets"
+              },
+              {
+                "text": "Parallel offsets",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Parallel_offsets"
+              }
+            ]
+          },
+          {
+            "text": "Connectors",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Connectors",
+            "items": [
+              {
+                "text": "Object properties > Connectors",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Object_properties_Connectors"
+              },
+              {
+                "text": "Apply closest join",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Apply_closest_join"
+              },
+              {
+                "text": "Apply automatic branching",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Apply_automatic_branching"
+              }
+            ]
+          },
+          {
+            "text": "Machine functions",
+            "items": [
+              {
+                "text": "Digitize boring holes",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Digitize_boring_holes"
+              }
+            ]
+          },
+          {
+            "text": "Finalize designs",
+            "link": "/wilcom-videos/Summary/summary_-_edit/Finalize_designs",
+            "items": [
+              {
+                "text": "Simulate design stitchouts",
+                "link": "/wilcom-videos/Summary/summary_-_edit/Simulate_design_stitchouts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Speciality Features",
+        "items": [
+          {
+            "text": "Lettering",
+            "link": "/wilcom-videos/Summary/summary_-_special/Lettering",
+            "items": [
+              {
+                "text": "Create lettering in CorelDRAW Graphics",
+                "link": "/wilcom-videos/Summary/summary_-_special/Create_lettering_in_CorelDRAW_Graphics"
+              },
+              {
+                "text": "Add embroidery lettering",
+                "link": "/wilcom-videos/Summary/summary_-_special/Add_embroidery_lettering"
+              },
+              {
+                "text": "Baseline settings",
+                "link": "/wilcom-videos/Summary/summary_-_special/Baseline_settings"
+              },
+              {
+                "text": "Convert TrueType font",
+                "link": "/wilcom-videos/Summary/summary_-_special/Convert_TrueType_font"
+              },
+              {
+                "text": "Create alphabets",
+                "link": "/wilcom-videos/Summary/summary_-_special/Create_alphabets"
+              },
+              {
+                "text": "Kerning table",
+                "link": "/wilcom-videos/Summary/summary_-_special/Kerning_table"
+              },
+              {
+                "text": "Create user-refined letters",
+                "link": "/wilcom-videos/Summary/summary_-_special/Create_user-refined_letters"
+              }
+            ]
+          },
+          {
+            "text": "Teamname lettering",
+            "link": "/wilcom-videos/Summary/summary_-_special/Teamname_lettering",
+            "items": [
+              {
+                "text": "Team names",
+                "link": "/wilcom-videos/Summary/summary_-_special/Team_names"
+              },
+              {
+                "text": "Teamname matrix",
+                "link": "/wilcom-videos/Summary/summary_-_special/Teamname_matrix"
+              }
+            ]
+          },
+          {
+            "text": "Monogramming",
+            "link": "/wilcom-videos/Summary/summary_-_special/Monogramming"
+          },
+          {
+            "text": "Lettering kiosk",
+            "link": "/wilcom-videos/Summary/summary_-_special/Lettering_kiosk"
+          },
+          {
+            "text": "Appliqué",
+            "link": "/wilcom-videos/Summary/summary_-_special/Appliqué",
+            "items": [
+              {
+                "text": "Create appliqué embroidery",
+                "link": "/wilcom-videos/Summary/summary_-_special/Create_appliqué_embroidery"
+              },
+              {
+                "text": "Convert vector graphics to appliqué",
+                "link": "/wilcom-videos/Summary/summary_-_special/Convert_vector_graphics_to_appliqué"
+              }
+            ]
+          },
+          {
+            "text": "Cording",
+            "link": "/wilcom-videos/Summary/summary_-_special/Cording"
+          },
+          {
+            "text": "Sequins",
+            "link": "/wilcom-videos/Summary/summary_-_special/Sequins",
+            "items": [
+              {
+                "text": "Digitize sequin runs",
+                "link": "/wilcom-videos/Summary/summary_-_special/Digitize_sequin_runs"
+              },
+              {
+                "text": "Digitize sequin fills",
+                "link": "/wilcom-videos/Summary/summary_-_special/Digitize_sequin_fills"
+              },
+              {
+                "text": "Sequin patterns",
+                "link": "/wilcom-videos/Summary/summary_-_special/Sequin_patterns"
+              },
+              {
+                "text": "Flip sequins",
+                "link": "/wilcom-videos/Summary/summary_-_special/Flip_sequins"
+              }
+            ]
+          },
+          {
+            "text": "Beading",
+            "link": "/wilcom-videos/Summary/summary_-_special/Beading",
+            "items": [
+              {
+                "text": "Digitize bead runs",
+                "link": "/wilcom-videos/Summary/summary_-_special/Digitize_bead_runs"
+              }
+            ]
+          },
+          {
+            "text": "Bling",
+            "link": "/wilcom-videos/Summary/summary_-_special/Bling"
+          },
+          {
+            "text": "Chenille",
+            "link": "/wilcom-videos/Summary/summary_-_special/Chenille",
+            "items": [
+              {
+                "text": "Compound chenille",
+                "link": "/wilcom-videos/Summary/summary_-_special/Compound_chenille"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

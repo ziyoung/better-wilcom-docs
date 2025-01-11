@@ -1,0 +1,35 @@
+# Wilcom INP format
+
+Wilcom INP is the native file format of Wilcom Computer Embroidery Design software. Wilcom INP designs can be directly converted to [EMB](../../glossary/glossary) files although EmbroideryStudio interprets some of the stitch types differently. This table details how Wilcom INP features are converted to EMB format.
+
+| Wilcom INP                                        | EMB                                         | Notes                                                                                                               |
+| ------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Auto Spacing                                      | Auto Spacing                                | Values are different. Can be changed before stitching.                                                              |
+| Backtrack/Repeat section/marked                   | Separate objects are added.                 | Functions are supported correctly.                                                                                  |
+| Backup Lock                                       | Satin tie off                               |                                                                                                                     |
+| Borderline Tatami                                 | Borderline Tatami                           |                                                                                                                     |
+| Borer In/Out                                      | Borer In/Out                                |                                                                                                                     |
+| CED Block lettering                               | Block2 font                                 | Font can be changed after conversion.                                                                               |
+| CED Block, Jump out                               | Block2 font                                 | Manual edits and trimming                                                                                           |
+| Circle                                            | Circle                                      |                                                                                                                     |
+| ES Cross Stitch                                   | Paths imported as Run objects only          | Change the stitch type to Motif Run to generate cross stitch.                                                       |
+| Delete Stitch                                     | Manual only, ignored for other stitch types | Can be edited                                                                                                       |
+| Family of Curves Split                            | Satin, single curve as split line           | Noticeably different from Satin. You can copy imported curve to get multiple curves. Alternating number is ignored. |
+| Geflecht                                          | Standard Tatami                             | Can be edited                                                                                                       |
+| Matching Tatami                                   | Non-matching Tatami                         | Complex Fill will have matching Tatami.                                                                             |
+| Motifs                                            | Patches                                     | Normal objects                                                                                                      |
+| Needle In/Out                                     | End/Begin Jump                              |                                                                                                                     |
+| Other Multihead Machine Functions                 | Stop (with info label)                      | For example, Insert Appliqué is converted to Stop.                                                                  |
+| Program Stitch                                    | Manual stitch                               |                                                                                                                     |
+| Ring                                              | Ring                                        |                                                                                                                     |
+| Scattered Tatami                                  | Tatami with random factor applied           | Will look slightly different                                                                                        |
+| Schiffli Functions                                | Stepp/Blatt only, others are ignored        |                                                                                                                     |
+| Slow/Fast                                         | Slow/Fast                                   |                                                                                                                     |
+| Split Alternate                                   | Tatami                                      |                                                                                                                     |
+| Split Stitch                                      | Standard Tatami                             | Looks different but can be edited                                                                                   |
+| Tajima style Lock                                 | Tajima tie off                              | OK most of the time                                                                                                 |
+| Tourenblat                                        | E Stitch                                    | Looks different, so that it is easy to locate and edit                                                              |
+| Trim/Tie In/Tie Off                               | Connector properties                        |                                                                                                                     |
+| Turn fill (spacing measured along shape boundary) | Turning fill (generally fewer stitches)     | Will look different but can be re-digitized in smaller sections                                                     |
+| Underlays – slant                                 | Zigzag underlay                             | Can be added manually                                                                                               |
+| Underlays, 3 or 4 layers                          | Two underlays only                          | Can be edited                                                                                                       |
