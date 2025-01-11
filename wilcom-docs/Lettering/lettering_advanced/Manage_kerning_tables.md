@@ -9,17 +9,17 @@ Note: TrueType kerning tables cannot be replaced, added to, or modified in any w
 
 ## To manage kerning tables...
 
-1Open the Object Properties > Special > Lettering docker.
+1. Open the Object Properties > Special > Lettering docker.
 
-2Select a font from the droplist.
+2. Select a font from the droplist.
 
 ![lettering_advanced00079.png](assets/lettering_advanced00079.png)
 
-3Scroll down and click the Kerning Table button. The Kerning Table dialog opens with the current (target) embroidery font displayed. The droplist displays all fonts that contain kerning tables.
+3. Scroll down and click the Kerning Table button. The Kerning Table dialog opens with the current (target) embroidery font displayed. The droplist displays all fonts that contain kerning tables.
 
 ![KerningTable.png](assets/KerningTable.png)
 
-4Choose a suitable font or TrueType font from the list and click Copy Source to Table to load its kerning table to the current embroidery font.
+4. Choose a suitable font or TrueType font from the list and click Copy Source to Table to load its kerning table to the current embroidery font.
 
 The Zero Table command is enabled if the current (target) font already has a kerning table.
 

@@ -4,24 +4,24 @@ With some machine formats you can specify how to format and interpret trim funct
 
 ## To set trim functions...
 
-1Open a design.
+1. Open a design.
 
-2Access the Machine Format Settings > Standard dialog. Only fields relevant to the selected machine format will appear.
+2. Access the Machine Format Settings > Standard dialog. Only fields relevant to the selected machine format will appear.
 
 ![machines00004.png](assets/machines00004.png)
 
-3In the Trim panel, select the Output Trims checkbox to include trim functions when outputting to the selected machine.
+3. In the Trim panel, select the Output Trims checkbox to include trim functions when outputting to the selected machine.
 
 If you deselect the checkbox, trim functions are not removed from the design but simply ignored during output.
 
-4Specify the trim format to use:
+4. Specify the trim format to use:
 
 | Option    | Function                                                                                     |
 | --------- | -------------------------------------------------------------------------------------------- |
 | Jumps     | Use for machines that interpret multiple jumps as trims. Enter the required number of jumps. |
 | Trim code | For machines that interpret explicit trim commands.                                          |
 
-5Click Save then Close.
+5. Click Save then Close.
 
 ## Related topics...
 

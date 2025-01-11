@@ -7,25 +7,25 @@ Once a design is complete, you can stitch it out to any supported embroidery mac
 
 ## To send a design to Stitch Manager...
 
-1Ensure that the target machine is correctly connected to your PC. See your machine documentation for details.
+1. Ensure that the target machine is correctly connected to your PC. See your machine documentation for details.
 
 Note: Before you can send designs for stitching, you must also configure the machine in EmbroideryStudio.
 
-2Open a design.
+2. Open a design.
 
-3Click the Send to Stitch Manager icon. The dialog opens.
+3. Click the Send to Stitch Manager icon. The dialog opens.
 
 ![output00010.png](assets/output00010.png)
 
-4From the Machine Identification list, select an embroidery machine. Click Setup to modify machine settings as required.
+4. From the Machine Identification list, select an embroidery machine. Click Setup to modify machine settings as required.
 
-5From the Output as Machine format list, select the correct [machine format](../../glossary/glossary). Click Values to modify the machine format settings as required.
+5. From the Output as Machine format list, select the correct [machine format](../../glossary/glossary). Click Values to modify the machine format settings as required.
 
 Note: This field is automatically updated if the target machine format is different to the current format. Select the Prompt Changing Machine Format checkbox if you want to be prompted when the Output as Machine Format field updates.
 
-6Click OK to return to the Send to Stitch Manager dialog.
+6. Click OK to return to the Send to Stitch Manager dialog.
 
-7Click OK. The Stitch Manager dialog opens listing the files to be stitched out.
+7. Click OK. The Stitch Manager dialog opens listing the files to be stitched out.
 
 ![output00013.png](assets/output00013.png)
 

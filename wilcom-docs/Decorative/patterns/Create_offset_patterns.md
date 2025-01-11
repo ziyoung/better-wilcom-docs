@@ -11,13 +11,13 @@ Tip: By adjusting offsets, you can also improve the quality of turning tatami wh
 
 ## To create offset patterns...
 
-1Right-click the Tatami icon to access object properties.
+1. Right-click the Tatami icon to access object properties.
 
 ![patterns00003.png](assets/patterns00003.png)
 
-2Select the Offset Fraction option. To control needle penetrations you set offset fractions for both forward and backward rows.
+2. Select the Offset Fraction option. To control needle penetrations you set offset fractions for both forward and backward rows.
 
-3In A and B fields, experiment with offset fraction values. Offsets are defined as fractions of stitch length – e.g. 0.3 = 30%.
+3. In A and B fields, experiment with offset fraction values. Offsets are defined as fractions of stitch length – e.g. 0.3 = 30%.
 
 ![patterns00006.png](assets/patterns00006.png)
 

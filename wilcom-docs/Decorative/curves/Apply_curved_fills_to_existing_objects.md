@@ -9,17 +9,17 @@ Apply Florentine Effect to existing [complex fill](../../glossary/glossary) obje
 
 ## To apply a curved fill to an existing object...
 
-1Select an object and select a curve fill method.
+1. Select an object and select a curve fill method.
 
-2With the object still selected, click the Reshape Object icon. A default guideline with three corner control points appears.
+2. With the object still selected, click the Reshape Object icon. A default guideline with three corner control points appears.
 
 ![curves00090.png](assets/curves00090.png)
 
-3Reshape guidelines in the normal way by moving, adding, changing or deleting reference points.
+3. Reshape guidelines in the normal way by moving, adding, changing or deleting reference points.
 
-4Press Enter. EmbroideryStudio regenerates stitches along the new curve.
+4. Press Enter. EmbroideryStudio regenerates stitches along the new curve.
 
-5Turn on TrueView™ or click the Show Needle Points icon to view the results.
+5. Turn on TrueView™ or click the Show Needle Points icon to view the results.
 
 ## Related topics...
 

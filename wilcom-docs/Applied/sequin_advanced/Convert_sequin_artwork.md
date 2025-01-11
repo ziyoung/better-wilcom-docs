@@ -9,27 +9,27 @@ Frequently, artwork for sequin designs is independently created by a specialist 
 
 ## To convert sequin artwork...
 
-1Select a machine format that supports sequin mode via the Select Machine Format dialog.
+1. Select a machine format that supports sequin mode via the Select Machine Format dialog.
 
-2Insert the sequin artwork into the design.
+2. Insert the sequin artwork into the design.
 
 Properly designed artwork will contain vector objects centered on the exact locations required for sequins in the design.
 
-3Select the sequin shape you want to use from the droplist in the Sequin Palette.
+3. Select the sequin shape you want to use from the droplist in the Sequin Palette.
 
 ![SequinDropdownSingle.png](assets/SequinDropdownSingle.png)
 
-4Select the Vectors to Sequins icon.
+4. Select the Vectors to Sequins icon.
 
-5Click the sequin graphic which will start the sequin run.
+5. Click the sequin graphic which will start the sequin run.
 
 ![ConvertSequinArtwork1.png](assets/ConvertSequinArtwork1.png)
 
-6Digitize a line connecting all sequins to be included in the sequin run.
+6. Digitize a line connecting all sequins to be included in the sequin run.
 
 The line only needs to touch the sequin object somewhere within its boundary. Left-click for corner points, right-click for curve points.
 
-7Press Enter.
+7. Press Enter.
 
 A sequin run is generated along a curve that passes through the center of each sequin graphic with sequin objects positioned at these centers. Current properties are applied and the object is set to ‘manual’ by default. The generated curve contains a reshape node at each sequin position.
 

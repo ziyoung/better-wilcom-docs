@@ -1,10 +1,9 @@
 # Create sequin shapes
 
-| ![Ellipse.png](assets/Ellipse.png)             | Use Graphics Digitizing &gt; Ellipse to digitize ellipse or circle vector outlines.                                                                    |
-| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Ellipse.png](assets/Ellipse.png)             | Use Graphics Digitizing &gt; Ellipse to digitize ellipse or circle vector outlines.                                                                                |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![BasicShapes.png](assets/BasicShapes.png)     | Use Graphics Digitizing &gt; Basic Shapes to digitize basic shapes. Press &lt;Ctrl&gt; to maintain aspect ratio. Press &lt;Shift&gt; to center at the first point. |
-| ![VectorOutline.png](assets/VectorOutline.png) | Use Outline Stitch Types &gt; Vector Outline to create vector outlines with no stitch properties applying.                                             |
-
+| ![VectorOutline.png](assets/VectorOutline.png) | Use Outline Stitch Types &gt; Vector Outline to create vector outlines with no stitch properties applying.                                                         |
 
 The software allows you to define your own sequin shapes with their own hole position.
 

@@ -7,11 +7,11 @@ New or revised object outlines can be [recognized ](../../glossary/glossary)afte
 
 ## To recognize object outlines...
 
-1Click the Stitch Edit icon and select the individual stitches you want to process.
+1. Click the Stitch Edit icon and select the individual stitches you want to process.
 
 ![ConvertStitchToObject1.png](assets/ConvertStitchToObject1.png)
 
-2Select Stitch > Recognize Objects/Outlines. The selected stitches are converted to objects.
+2. Select Stitch > Recognize Objects/Outlines. The selected stitches are converted to objects.
 
 ![ConvertStitchToObject2.png](assets/ConvertStitchToObject2.png)
 

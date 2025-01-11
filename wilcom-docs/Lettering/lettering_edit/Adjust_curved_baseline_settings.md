@@ -9,17 +9,17 @@ Adjust baseline settings for more precise numeric control over radius (X and Y),
 
 ## To adjust curved baseline settings...
 
-1Double-click a selected lettering object/s to access object properties.
+1. Double-click a selected lettering object/s to access object properties.
 
 ![lettering_edit00101.png](assets/lettering_edit00101.png)
 
-2Click Settings. The Baseline Settings dialog opens. Options depend on baseline type.
+2. Click Settings. The Baseline Settings dialog opens. Options depend on baseline type.
 
 ![lettering_edit00104.png](assets/lettering_edit00104.png)
 
-3Select a circle or arc baseline type from the list. The Tilt, Radius X, Radius Y, Justification Angle and Arc Angle fields are activated.
+3. Select a circle or arc baseline type from the list. The Tilt, Radius X, Radius Y, Justification Angle and Arc Angle fields are activated.
 
-4Adjust these values as required:
+4. Adjust these values as required:
 
 - Radius X: default radius of the baseline arc (X-axis).
 - Radius Y: default radius of the baseline arc (Y-axis).
@@ -42,7 +42,7 @@ Note: The Tilt field is activated when Radius X and Radius Y values are differen
 
 Tip: Precise control over baseline width is important when combined with Team Names when you want to ensure all names fit within the same area such as a pocket. A fixed width on arch baselines can be set by adjusting Arch Angle value in the Baseline panel.
 
-5Select a baseline position.
+5. Select a baseline position.
 
 ![lettering_edit00119.png](assets/lettering_edit00119.png)
 
@@ -52,13 +52,13 @@ When digitizing lettering for a badge, for example:
 - For lettering below, select a counterclockwise circle or arc with baseline above.
 - For horizontal lettering through the middle of the badge, select a fixed line with baseline centered.
 
-6For fixed-line baselines, select an ‘auto-frame’ style.
+6. For fixed-line baselines, select an ‘auto-frame’ style.
 
-7Specify the letter, word and line spacing as required.
+7. Specify the letter, word and line spacing as required.
 
-8Select a letter orientation.
+8. Select a letter orientation.
 
-9Click OK to return to Object Properties > Special > Lettering docker.
+9. Click OK to return to Object Properties > Special > Lettering docker.
 
 ## Related topics...
 

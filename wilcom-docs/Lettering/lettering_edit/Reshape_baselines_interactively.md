@@ -9,7 +9,7 @@ Baselines can be adjusted with the Reshape Object tool. Depending on baseline ty
 
 ## To reshape a baseline interactively...
 
-1Select the lettering object and click Reshape Object.
+1. Select the lettering object and click Reshape Object.
 
 ![lettering_edit00073.png](assets/lettering_edit00073.png)
 

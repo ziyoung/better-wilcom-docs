@@ -6,7 +6,7 @@ You can fine-tune how EmbroideryStudio converts machine files using advanced rec
 
 ## To adjust advanced recognition settings...
 
-1Access the Open Options dialog and click Advanced.
+1. Access the Open Options dialog and click Advanced.
 
 The Recognition - Advanced Options dialog opens.
 

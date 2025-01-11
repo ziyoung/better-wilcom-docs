@@ -7,19 +7,19 @@ You can create free-form filled shapes using the Cross Stitch Fill tool. Fill st
 
 ## To digitize a cross stitch fill...
 
-1Click the Cross Stitch Fill icon.
+1. Click the Cross Stitch Fill icon.
 
-2Select a color from the palette and cross stitch type from the Stitch toolbar. [See Set stitch color & type for details.](Set_stitch_color_type)
+2. Select a color from the palette and cross stitch type from the Stitch toolbar. [See Set stitch color & type for details.](Set_stitch_color_type)
 
-3Mark reference points on your design. Left-click for sharp corners and right-click for round corners.
+3. Mark reference points on your design. Left-click for sharp corners and right-click for round corners.
 
 ![cross-stitch_digitizing00016.png](assets/cross-stitch_digitizing00016.png)
 
-4Press Enter. Depending on the stitch type selected, you will be prompted to set cross stitch orientation via the Select Fill Style dialog.
+4. Press Enter. Depending on the stitch type selected, you will be prompted to set cross stitch orientation via the Select Fill Style dialog.
 
 ![SelectFillStyle.png](assets/SelectFillStyle.png)
 
-5To set cross stitch orientation, click the quadrant to be filled.
+5. To set cross stitch orientation, click the quadrant to be filled.
 
 - To create three-quarter cross stitches, click the corner where you want the quarter stitch to be.
 
@@ -41,7 +41,7 @@ You can create free-form filled shapes using the Cross Stitch Fill tool. Fill st
 
 ![cross-stitch_digitizing00031.png](assets/cross-stitch_digitizing00031.png)
 
-6Click OK. The shape is filled with the selected stitch type.
+6. Click OK. The shape is filled with the selected stitch type.
 
 ![cross-stitch_digitizing00034.png](assets/cross-stitch_digitizing00034.png)
 

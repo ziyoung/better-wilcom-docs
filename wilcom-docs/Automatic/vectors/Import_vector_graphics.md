@@ -11,21 +11,21 @@ Note: CorelDRAW® needs to be registered before it can be used by EmbroideryStud
 
 ## To import a vector graphic...
 
-1Switch to CorelDRAW Graphics and click Import on the Standard toolbar.
+1. Switch to CorelDRAW Graphics and click Import on the Standard toolbar.
 
 ![vectors00041.png](assets/vectors00041.png)
 
-2Select a folder and select a file type from the Files of Type list – e.g. EPS.
+2. Select a folder and select a file type from the Files of Type list – e.g. EPS.
 
 ![GraphicsFilesDropdown.png](assets/GraphicsFilesDropdown.png)
 
-3Select a file and click Import. The Import EPS dialog opens. You are prompted to import text as pure text or as vector curves.
+3. Select a file and click Import. The Import EPS dialog opens. You are prompted to import text as pure text or as vector curves.
 
 ![ImportEPS.png](assets/ImportEPS.png)
 
-4Position the cursor in the design window and press Enter.
+4. Position the cursor in the design window and press Enter.
 
-5Choose a digitizing technique:
+5. Choose a digitizing technique:
 
 - Convert [vectors](../../glossary/glossary) to embroidery: [See Convert objects with CorelDRAW Graphics for details.](../automatic/Convert_objects_with_CorelDRAW_Graphics)
 - Switch to Wilcom Workspace and use the artwork as a digitizing backdrop: [See Digitizing methods for details.](../../Digitizing/input/Digitizing_methods)

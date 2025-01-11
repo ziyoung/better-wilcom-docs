@@ -16,27 +16,27 @@ Most lettering used in designs is 15 mm high or less. The columns at such sizes 
 
 ## To set lettering underlay...
 
-1Select a lettering object.
+1. Select a lettering object.
 
-2Right-click the Auto Underlay icon to access object properties.
+2. Right-click the Auto Underlay icon to access object properties.
 
 ![lettering_advanced00097.png](assets/lettering_advanced00097.png)
 
-3Select the First Underlay checkbox and select Center Run or Edge Run as the first underlay type. If you select Edge Run, a further By Shape option becomes available. When activated, underlay is applied to the lettering object as a whole.
+3. Select the First Underlay checkbox and select Center Run or Edge Run as the first underlay type. If you select Edge Run, a further By Shape option becomes available. When activated, underlay is applied to the lettering object as a whole.
 
-4Select the By Segment or By Shape option as required.
+4. Select the By Segment or By Shape option as required.
 
 ![lettering_advanced00100.png](assets/lettering_advanced00100.png)
 
 Note: With most embroidery objects, underlay is stitched segment-by-segment before cover stitches are sewn. Lettering underlay, however, defaults to a single By Shape > Edge Run underlay, except ‘As Digitized’ lettering. This has the effect of calculating an underlay for the entire shape rather than each segment comprising it. This in turn reduces bunching, travel runs, and overall stitch count.
 
-5Enter the required length values for each underlay type.
+5. Enter the required length values for each underlay type.
 
-6If you are using zigzag underlay, adjust stitch angles to create a ‘cross-hatch’ effect. This may provide more support than single zigzag.
+6. If you are using zigzag underlay, adjust stitch angles to create a ‘cross-hatch’ effect. This may provide more support than single zigzag.
 
 ![lettering_advanced00103.png](assets/lettering_advanced00103.png)
 
-7Press Enter or click Apply.
+7. Press Enter or click Apply.
 
 Tip: Run Stitch Player to see how the underlay will stitch out.
 

@@ -8,9 +8,9 @@ Use Backtrack and Repeat to reinforce outlines. Backtrack stitches in reverse di
 
 ## To reinforce outlines...
 
-1Select the outline (or outlines) to reinforce.
+1. Select the outline (or outlines) to reinforce.
 
-2Click the Backtrack or Repeat icon as required:
+2. Click the Backtrack or Repeat icon as required:
 
 - Backtrack for open shapes
 - Repeat for closed shapes.
@@ -19,7 +19,7 @@ The object is duplicated and placed over the original. It is positioned after th
 
 ![quality00005.png](assets/quality00005.png)
 
-3Check that the object has been duplicated by using one of the following methods:
+3. Check that the object has been duplicated by using one of the following methods:
 
 - Check the stitch count in the Status Bar.
 - Use Stitch Player.

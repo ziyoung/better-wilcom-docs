@@ -14,19 +14,19 @@ If a column is too wide, stitches may be loose and not cover the fabric properly
 
 ## To apply satin stitch with auto-spacing...
 
-1Select the digitizing method you want to use – e.g. [Column C](../../glossary/glossary).
+1. Select the digitizing method you want to use – e.g. [Column C](../../glossary/glossary).
 
-2Select Satin and create an [embroidery object](../../glossary/glossary). Alternatively, select an existing embroidery object and click Satin.
+2. Select Satin and create an [embroidery object](../../glossary/glossary). Alternatively, select an existing embroidery object and click Satin.
 
 ![SatinSpacingSelected.png](assets/SatinSpacingSelected.png)
 
-3Right-click the Satin icon to access object properties.
+3. Right-click the Satin icon to access object properties.
 
 ![stitches00031.png](assets/stitches00031.png)
 
-4Tick Auto Spacing if not already checked.
+4. Tick Auto Spacing if not already checked.
 
-5Adjust Stitch Density for more or less open fills.
+5. Adjust Stitch Density for more or less open fills.
 
 ![stitches00034.png](assets/stitches00034.png)
 
@@ -35,9 +35,9 @@ Density is given as a percentage of preset values:
 - To decrease, increase the percentage – e.g. to 110-115%.
 - To increase, decrease the percentage – e.g. to 90-85%.
 
-75% generally produces high quality embroidery. An increased stitch count means the design will take longer and be more expensive to stitch.
+7. 5% generally produces high quality embroidery. An increased stitch count means the design will take longer and be more expensive to stitch.
 
-6Press Enter or click Apply.
+8. Press Enter or click Apply.
 
 Note: For even more precise results, you can adjust Auto Spacing settings.
 

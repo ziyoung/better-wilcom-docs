@@ -6,13 +6,13 @@ Like sequin fills, bling fills can also include a border, with or without a marg
 
 ## To add a border or changing border properties...
 
-1Select the bling-fill object and tick the Border checkbox.
+1. Select the bling-fill object and tick the Border checkbox.
 
 ![BlingFillBorder2.png](assets/BlingFillBorder2.png)
 
-2Use pattern settings to create simple or variegated bling borders.
+2. Use pattern settings to create simple or variegated bling borders.
 
-3Select the bling margin as required.
+3. Select the bling margin as required.
 
 A border margin is created by adding an ‘offset’ to each individual bling item in the border. Smaller border margins result in a larger number of rhinestones in the fill as shown.
 

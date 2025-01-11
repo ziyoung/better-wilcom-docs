@@ -7,11 +7,11 @@ Digitize columns and borders of fixed width with the Column C tool.
 
 ## To create columns and borders...
 
-1Insert some artwork to use as a digitizing backdrop.
+1. Insert some artwork to use as a digitizing backdrop.
 
-2Select a color and stitch type – e.g. Satin.
+2. Select a color and stitch type – e.g. Satin.
 
-3Select Column C and mark corner or curve points around the outline of the shape.
+3. Select Column C and mark corner or curve points around the outline of the shape.
 
 - Click to enter corner points.
 - Right-click to enter curve points.
@@ -20,11 +20,11 @@ Digitize columns and borders of fixed width with the Column C tool.
 
 Tip: The Show Column C width guide setting in the Options dialog activates a special cursor. This is useful when digitizing a border based on a background image.
 
-4To close the shape, enter the last point on top of the first.
+4. To close the shape, enter the last point on top of the first.
 
-5Press Enter.
+5. Press Enter.
 
-6Specify column width:
+6. Specify column width:
 
 - To use the default width – as set in the Object Properties > Special > Column C docker – press Enter.
 - To specify a width, mark two additional points. By default, stitches are positioned around the center of the digitized line.
@@ -35,7 +35,7 @@ Tip: The Show Column C width guide setting in the Options dialog activates a spe
 
 ![input00068.png](assets/input00068.png)
 
-7Press Enter to finish.
+7. Press Enter to finish.
 
 ## Related topics...
 

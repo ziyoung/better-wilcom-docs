@@ -7,9 +7,9 @@ You can rotate blocks of cross stitches in a clockwise or counter-clockwise dire
 
 ## To rotate blocks of cross stitches...
 
-1Select the stitch block to rotate.
+1. Select the stitch block to rotate.
 
-2Click the Rotate Selection icon.
+2. Click the Rotate Selection icon.
 
 ![cross-stitch_editing00032.png](assets/cross-stitch_editing00032.png)
 

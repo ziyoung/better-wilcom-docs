@@ -7,15 +7,15 @@ You can reposition individual letters in a lettering object using the Reshape Ob
 
 ## To reposition letters...
 
-1Select the lettering object and click Reshape Object.
+1. Select the lettering object and click Reshape Object.
 
-2Click the diamond control point.
+2. Click the diamond control point.
 
 To select multiple letters, hold down Ctrl or Shift as you select.
 
 ![RepositionLetters1.png](assets/RepositionLetters1.png)
 
-3Click-and-drag the letter/s to the new position:
+3. Click-and-drag the letter/s to the new position:
 
 - To move horizontally, drag along the baseline.
 - To move vertically, hold down Shift as you drag.
@@ -23,7 +23,7 @@ To select multiple letters, hold down Ctrl or Shift as you select.
 
 ![RepositionLetters2.png](assets/RepositionLetters2.png)
 
-4Release the mouse to complete and press Esc.
+4. Release the mouse to complete and press Esc.
 
 ![RepositionLetters0.png](assets/RepositionLetters0.png)
 

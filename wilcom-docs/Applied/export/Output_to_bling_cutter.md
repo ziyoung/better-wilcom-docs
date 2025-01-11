@@ -9,21 +9,21 @@ The Send to Bling Cutter function sends vectors for any bling in a multi-decorat
 
 ## To output to a bling cutter...
 
-1Open or create a multi-decoration design. A cutting or engraving machine must be connected to the PC and configured to receive data.
+1. Open or create a multi-decoration design. A cutting or engraving machine must be connected to the PC and configured to receive data.
 
 ![Mixed-Decoration-Design.png](assets/Mixed-Decoration-Design.png)
 
-2Click the Send to Bling Cutter icon or select File > Send to Bling Cutter. The Send to Bling Cutter dialog opens.
+2. Click the Send to Bling Cutter icon or select File > Send to Bling Cutter. The Send to Bling Cutter dialog opens.
 
 ![SendToBlingCutter00054.png](assets/SendToBlingCutter00054.png)
 
-3Select your bling cutter from the droplist or select a suitable printer.
+3. Select your bling cutter from the droplist or select a suitable printer.
 
-4Select the Print to file option if you want to print the design to file.
+4. Select the Print to file option if you want to print the design to file.
 
-5Click Properties and check your output settings.
+5. Click Properties and check your output settings.
 
-6For a realistic view click the Preview button.
+6. For a realistic view click the Preview button.
 
 ![SendToBlingCutterPreview.png](assets/SendToBlingCutterPreview.png)
 
@@ -31,7 +31,7 @@ Note: In multi-bling designs, each color is separated into different templates f
 
 ![BlingMultiPrintPreview.png](assets/BlingMultiPrintPreview.png)
 
-7Click OK to send the bling templates to bling cutter or to file.
+7. Click OK to send the bling templates to bling cutter or to file.
 
 The bling cutting/engraving information is sent to machine in the required format. The machine cuts the desired template/s. The cutting data consists solely of vectors which describe the location, size, and shape of the bling in the template. There are no connecting lines or data that do not relate directly to bling placement.
 

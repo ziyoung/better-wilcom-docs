@@ -7,11 +7,11 @@ Save your design early and often. Use the EMX extension for saving cross stitch 
 
 ## To save cross stitch designs...
 
-1Select File > Save. If this is the first time you have saved the design, the Save As dialog opens. The file is saved as an EMX file.
+1. Select File > Save. If this is the first time you have saved the design, the Save As dialog opens. The file is saved as an EMX file.
 
 ![SaveDesign00043.png](assets/SaveDesign00043.png)
 
-2Type a new name for the design and click Save.
+2. Type a new name for the design and click Save.
 
 ## Related topics
 

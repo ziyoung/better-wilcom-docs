@@ -7,13 +7,13 @@ Travel runs are usually used to connect segments within filled objects. They are
 
 ## To adjust travel run stitch length...
 
-1Click the Object Properties icon.
+1. Click the Object Properties icon.
 
-2Select the Special tab and Travel Run from the list.
+2. Select the Special tab and Travel Run from the list.
 
 ![connectors00037.png](assets/connectors00037.png)
 
-3Enter a value in the Length field as required.
+3. Enter a value in the Length field as required.
 
 ![connectors00040.png](assets/connectors00040.png)
 

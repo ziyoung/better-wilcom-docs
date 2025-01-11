@@ -14,17 +14,17 @@ The Knife tool has two modes of operation:
 
 ## To cut shapes manually...
 
-1Select one or more suitable objects for cutting.
+1. Select one or more suitable objects for cutting.
 
 ![KnifeDetail2.png](assets/KnifeDetail2.png)
 
-2Click the Knife tool. The cursor changes to a knife icon.
+2. Click the Knife tool. The cursor changes to a knife icon.
 
-3Digitize a cutting line – left-click for corner points, right-click for curve points – and press Enter.
+3. Digitize a cutting line – left-click for corner points, right-click for curve points – and press Enter.
 
 ![reshape00076.png](assets/reshape00076.png)
 
-4Manually adjust object overlaps using the Reshape Object tool.
+4. Manually adjust object overlaps using the Reshape Object tool.
 
 Note: By default EmbroideryStudio orders fragments into a closest-join sequence that preserves the source object’s [entry ](../../glossary/glossary)and [exit](../../glossary/glossary) points. The Options > Reshape dialog offers other ways of managing cut fragments.
 

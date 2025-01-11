@@ -8,23 +8,23 @@ A [color block](../../glossary/glossary) corresponds to a color [stop](../../glo
 
 ## To split a color block...
 
-1Open the design and select a colorway.
+1. Open the design and select a colorway.
 
-2Open the Colorway Editor.
+2. Open the Colorway Editor.
 
 ![SplitColorBlocks1.png](assets/SplitColorBlocks1.png)
 
-3Create a new colorway or select one to edit.
+3. Create a new colorway or select one to edit.
 
-4Select the object/s you want to split. The Split Palette Color button is activated.
+4. Select the object/s you want to split. The Split Palette Color button is activated.
 
 ![SplitColorBlocks2.png](assets/SplitColorBlocks2.png)
 
-5Click the Split Palette Color icon. A new color slot of the same color is added to the color palette. Selected objects are assigned to the new palette position.
+5. Click the Split Palette Color icon. A new color slot of the same color is added to the color palette. Selected objects are assigned to the new palette position.
 
 ![SplitColorBlocks3.png](assets/SplitColorBlocks3.png)
 
-6Assign a new color to the slot. The colors of other colorways remain unaffected. By default, the new color slot is placed at the end of the palette. This, however, does not affect the stitching sequence.
+6. Assign a new color to the slot. The colors of other colorways remain unaffected. By default, the new color slot is placed at the end of the palette. This, however, does not affect the stitching sequence.
 
 ![colorways00043.png](assets/colorways00043.png)
 

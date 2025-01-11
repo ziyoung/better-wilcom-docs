@@ -8,15 +8,15 @@ You can convert complex fill and other closed objects to chenille using Compound
 
 ## To convert lockstitch to chenille...
 
-1Open a new design using the Chenille template and select a machine format to suit.
+1. Open a new design using the Chenille template and select a machine format to suit.
 
-2Select the complex fill or other closed object.
+2. Select the complex fill or other closed object.
 
-3Select a chenille stitch type – usually Moss.
+3. Select a chenille stitch type – usually Moss.
 
-4Select a chenille fill pattern – Square, Double Square or Island Coil. Once you have selected a pattern, the Compound Chenille icon becomes active.
+4. Select a chenille fill pattern – Square, Double Square or Island Coil. Once you have selected a pattern, the Compound Chenille icon becomes active.
 
-5Click the icon. Offset borders and a chenille fill are generated according to current settings.
+5. Click the icon. Offset borders and a chenille fill are generated according to current settings.
 
 ![CompoundChenilleObjects.png](assets/CompoundChenilleObjects.png)
 
@@ -24,7 +24,7 @@ Compound Chenille can be applied to many closed objects, including standard shap
 
 ![ChenilleShapesCovert.png](assets/ChenilleShapesCovert.png)
 
-6With the object selected, open the Object Properties > Compound Chenille tab to adjust settings.
+6. With the object selected, open the Object Properties > Compound Chenille tab to adjust settings.
 
 ## Related topics
 

@@ -2,7 +2,7 @@
 
 | ![ComplexFill.png](assets/ComplexFill.png)                     | Use Traditional Digitizing > Complex Fill to digitize filled shapes with a single stitch angle. Right-click for settings. |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![ClosedObject.png](assets/ClosedObject.png)                   | Use Graphics Digitizing > Digitize Closed Shape to digitize closed shapes. Press &lt;Ctrl&gt; to create a square.               |
+| ![ClosedObject.png](assets/ClosedObject.png)                   | Use Graphics Digitizing > Digitize Closed Shape to digitize closed shapes. Press &lt;Ctrl&gt; to create a square.         |
 | ![FlorentineEffect00061.png](assets/FlorentineEffect00061.png) | Use Stitch Effects > Florentine Effect to create custom curved stitching.                                                 |
 | ![ReshapeObject00062.png](assets/ReshapeObject00062.png)       | Use Reshape > Reshape Object to adjust control points of the guideline.                                                   |
 

@@ -7,21 +7,21 @@ Connection Manager allows you to connect to most later model machines. These mac
 
 ## To set up machine connections...
 
-1Select Setup > Connection Manager Setup.
+1. Select Setup > Connection Manager Setup.
 
 ![ConnectionManagerSetup.png](assets/ConnectionManagerSetup.png)
 
-2Click Create to set up a connection. The Connection Settings dialog opens.
+2. Click Create to set up a connection. The Connection Settings dialog opens.
 
 ![lettering_kiosk00032.png](assets/lettering_kiosk00032.png)
 
-3Make sure the connection type is set to ‘Machine Folder’. Watching folders should already have been set up for each machine on the network.
+3. Make sure the connection type is set to ‘Machine Folder’. Watching folders should already have been set up for each machine on the network.
 
-4Enter a unique machine name – e.g. ‘Brother PR600 Mach 1’.
+4. Enter a unique machine name – e.g. ‘Brother PR600 Mach 1’.
 
-5Choose a colored icon from the droplist to identify the machine in kiosk mode.
+5. Choose a colored icon from the droplist to identify the machine in kiosk mode.
 
-6Select the file type required by the machine. Each machine type uses a different file format:
+6. Select the file type required by the machine. Each machine type uses a different file format:
 
 | Machine | Format |
 | ------- | ------ |
@@ -29,15 +29,15 @@ Connection Manager allows you to connect to most later model machines. These mac
 | SWF     | DST    |
 | Barudan | U??    |
 
-7If the file type requires it – e.g. PES – click the Options button to preset file options such as version type.
+7. If the file type requires it – e.g. PES – click the Options button to preset file options such as version type.
 
-8Enter or browse to a folder location on the network or PC which has been set up for the specific machine. When you output a design, Connection Manager saves it to this folder in the specified file format.
+8. Enter or browse to a folder location on the network or PC which has been set up for the specific machine. When you output a design, Connection Manager saves it to this folder in the specified file format.
 
-9If the machine is intended for cap designs, tick the Rotate design by 180° option.
+9. If the machine is intended for cap designs, tick the Rotate design by 180° option.
 
-10Click OK when complete.
+10. Click OK when complete.
 
-11Repeat as many times as you have machines to connect. Connections can be edited or removed at any time.
+11. Repeat as many times as you have machines to connect. Connections can be edited or removed at any time.
 
 ![ConnectionManagerSetupComplete.png](assets/ConnectionManagerSetupComplete.png)
 

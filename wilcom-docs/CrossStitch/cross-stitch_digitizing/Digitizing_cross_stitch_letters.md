@@ -11,17 +11,17 @@ Tip: Lettering in ES Cross Stitch may appear thicker than the original TrueType 
 
 ## To digitize cross stitch letters...
 
-1Right-click Lettering. The Font dialog opens.
+1. Right-click Lettering. The Font dialog opens.
 
 ![CrossFont.png](assets/CrossFont.png)
 
-2Select a font type, style and size and click OK.
+2. Select a font type, style and size and click OK.
 
 ![cross-stitch_digitizing00069.png](assets/cross-stitch_digitizing00069.png)
 
-3Select a fill or outline stitch type from the Stitch toolbar.
+3. Select a fill or outline stitch type from the Stitch toolbar.
 
-4Click a start point in the Design Window, type the letters and press Enter.
+4. Click a start point in the Design Window, type the letters and press Enter.
 
 ![cross-stitch_digitizing00072.png](assets/cross-stitch_digitizing00072.png)
 

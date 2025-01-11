@@ -16,14 +16,14 @@ The General tab includes the following layout settings:
 
 Terms and conditions text is stored in an internal defaults file. The only way to update the text and save it for later use it to do the following:
 
-1Open a new design sheet and digitize a simple object.
+1. Open a new design sheet and digitize a simple object.
 
-2Open Print Preview and click Options.
+2. Open Print Preview and click Options.
 
-3Select the Approval Sheet report type.
+3. Select the Approval Sheet report type.
 
-4Key in your own Terms & Conditions and close print preview.
+4. Key in your own Terms & Conditions and close print preview.
 
-5Close the software – don’t save the temporary design.
+5. Close the software – don’t save the temporary design.
 
 After restart, each time the approval sheet is used, it will contain the updated Terms & Conditions.

@@ -7,9 +7,9 @@ Auto Select is specific to ES Cross Stitch. It allows you to select a single col
 
 ## To select cross stitches with Auto Select...
 
-1Click the Auto Select icon.
+1. Click the Auto Select icon.
 
-2Click a block of stitches. Only adjoining stitches of that color are selected.
+2. Click a block of stitches. Only adjoining stitches of that color are selected.
 
 Tip: Hold down Ctrl to select multiple blocks.
 

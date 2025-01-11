@@ -11,21 +11,21 @@ Tip: Precise control over baseline width is important when combined with Team Na
 
 ## To adjust fixed-width baseline settings...
 
-1Double-click a selected lettering object/s to access object properties.
+1. Double-click a selected lettering object/s to access object properties.
 
 ![lettering_edit00090.png](assets/lettering_edit00090.png)
 
-2Click Settings. The Baseline Settings dialog opens. Options depend on baseline type.
+2. Click Settings. The Baseline Settings dialog opens. Options depend on baseline type.
 
 ![BaselineSettingsFixedLine.png](assets/BaselineSettingsFixedLine.png)
 
-3Select a horizontal, vertical, or arc baseline from the list.
+3. Select a horizontal, vertical, or arc baseline from the list.
 
-4Adjust the Length value as required.
+4. Adjust the Length value as required.
 
 Fixed-line baselines allow control over line length as well as options for handling text which does not fit the baseline. This is particularly useful for multiple ‘team’ names. Free-line baselines only allow you to adjust the Line Angle value.
 
-5For fixed-line baselines, select an ‘auto-frame’ style:
+5. For fixed-line baselines, select an ‘auto-frame’ style:
 
 - Spacing: Letter size and width stays the same and letters are spaced evenly along the baseline. Letters may overlap if the text is too wide.
 
@@ -47,11 +47,11 @@ Fixed-line baselines allow control over line length as well as options for handl
 
 ![AutoFrameOption5.png](assets/AutoFrameOption5.png)
 
-6Adjust the Line Angle as required. Enter the exact angle of baseline to the horizontal axis.
+6. Adjust the Line Angle as required. Enter the exact angle of baseline to the horizontal axis.
 
 ![lettering_edit00095.png](assets/lettering_edit00095.png)
 
-7Select a baseline position.
+7. Select a baseline position.
 
 ![lettering_edit00096.png](assets/lettering_edit00096.png)
 
@@ -61,11 +61,11 @@ When creating lettering for a badge, for example:
 - For lettering below the badge, select a baseline above.
 - For horizontal lettering through the middle of the badge, select a centered baseline.
 
-8Specify the letter, word and line spacing as required.
+8. Specify the letter, word and line spacing as required.
 
-9Select a letter orientation.
+9. Select a letter orientation.
 
-10Click OK to return to Object Properties > Special.
+10. Click OK to return to Object Properties > Special.
 
 ## Related topics...
 

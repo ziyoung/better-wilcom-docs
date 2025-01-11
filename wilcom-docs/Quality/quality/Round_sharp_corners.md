@@ -7,12 +7,12 @@ A Round Sharp Corners option is available for [Column C](../../glossary/glossary
 
 ## To round sharp corners...
 
-1Double-click a Column C object or right-click the tool to access object properties.
+1. Double-click a Column C object or right-click the tool to access object properties.
 
 ![quality00076.png](assets/quality00076.png)
 
-2Select the Round Sharp Corners checkbox.
+2. Select the Round Sharp Corners checkbox.
 
-3Press Enter or click Apply.
+3. Press Enter or click Apply.
 
 ![quality00079.png](assets/quality00079.png)

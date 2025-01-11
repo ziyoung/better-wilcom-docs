@@ -7,11 +7,11 @@ You can create jump [connectors](../../glossary/glossary) manually in a design b
 
 ## To add a jump with penetrations off...
 
-1Select an input method – e.g. Run.
+1. Select an input method – e.g. Run.
 
-2Deselect Penetrations.
+2. Deselect Penetrations.
 
-3Digitize the connector in the usual way for the selected input method.
+3. Digitize the connector in the usual way for the selected input method.
 
 The jumps are saved together as an embroidery object.
 

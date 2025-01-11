@@ -7,13 +7,13 @@ You can insert stitches in an object to fill gaps. Inserted stitches are conside
 
 ## To insert stitches...
 
-1Click the Stitch Edit icon and zoom into the area you want to edit.
+1. Click the Stitch Edit icon and zoom into the area you want to edit.
 
-2Select a needlepoint.
+2. Select a needlepoint.
 
 ![functions00023.png](assets/functions00023.png)
 
-3Move the mouse pointer where you want to insert the new stitch, and right-click.
+3. Move the mouse pointer where you want to insert the new stitch, and right-click.
 
 Note: Inserting stitches is different from creating stitches using the Manual input method. With this tool you create a separate object, with its own properties and [connectors](../../glossary/glossary).
 

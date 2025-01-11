@@ -7,7 +7,7 @@ Fractional cross stitches – ¼, ½, or ¾ – can be combined to make crosses 
 
 ## To create combination stitches...
 
-1Select a stitch type.
+1. Select a stitch type.
 
 | ![ThreeQuarterCross.png](assets/ThreeQuarterCross.png) | Select 3/4 for three quarter crosses.                     |
 | ------------------------------------------------------ | --------------------------------------------------------- |
@@ -17,17 +17,17 @@ Fractional cross stitches – ¼, ½, or ¾ – can be combined to make crosses 
 | ![VerticalCross.png](assets/VerticalCross.png)         | Select Elongated Vertical Cross for vertical crosses.     |
 | ![HorizontalCross.png](assets/HorizontalCross.png)     | Select Elongated Horizontal Cross for horizontal crosses. |
 
-2Select a color from the color palette.
+2. Select a color from the color palette.
 
-3Click the Pencil icon.
+3. Click the Pencil icon.
 
-4Click where you want the stitch to be inserted.
+4. Click where you want the stitch to be inserted.
 
 ![CrossCombinationExample.png](assets/CrossCombinationExample.png)
 
 Note: If you do not have Insert selected, the whole stitch will be replaced.
 
-5Repeat as many times as needed.
+5. Repeat as many times as needed.
 
 ![cross-stitch_editing00043.png](assets/cross-stitch_editing00043.png)
 

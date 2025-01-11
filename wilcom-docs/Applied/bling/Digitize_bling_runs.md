@@ -11,19 +11,19 @@ Use the Bling Run Auto method to create a string of rhinestones along a digitize
 
 ## To digitize a bling run...
 
-1Set up the bling palette if you haven’t already done so.
+1. Set up the bling palette if you haven’t already done so.
 
-2Optionally, toggle on Show Bling Work Area to visualize the design within the work area of the selected machine model.
+2. Optionally, toggle on Show Bling Work Area to visualize the design within the work area of the selected machine model.
 
-3Click the Bling Run Auto icon.
+3. Click the Bling Run Auto icon.
 
-4Digitize the line as you would for a normal run object – left-click for corner points, right-click for curve points.
+4. Digitize the line as you would for a normal run object – left-click for corner points, right-click for curve points.
 
 ![bling00025.png](assets/bling00025.png)
 
-5Press Enter to finish. Rhinestones are automatically generated. Spacings can be individually adjusted.
+5. Press Enter to finish. Rhinestones are automatically generated. Spacings can be individually adjusted.
 
-6Double-click the object to view properties. The Object Properties docker opens at the Bling Run tab.
+6. Double-click the object to view properties. The Object Properties docker opens at the Bling Run tab.
 
 ![bling00028.png](assets/bling00028.png)
 
@@ -40,11 +40,11 @@ Available controls are summarized below.
 | Orientation    | Place rhinestones either relative to object baseline or absolute (fixed ‘north’) orientation.                                                                                           |
 | Statistics     | Summary information: type, SS (stone size), color, shape, count (for the selected object). If multiple objects are selected, bling information for all selected objects is displayed.   |
 
-7Use pattern settings as for sequin runs to create simple or variegated bling runs.
+7. Use pattern settings as for sequin runs to create simple or variegated bling runs.
 
 ![bling00031.png](assets/bling00031.png)
 
-8Set bling orientation to baseline or fixed angle.
+8. Set bling orientation to baseline or fixed angle.
 
 ![bling00032.png](assets/bling00032.png)
 

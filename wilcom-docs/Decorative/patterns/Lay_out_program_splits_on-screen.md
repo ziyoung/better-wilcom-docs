@@ -10,17 +10,17 @@ You lay out program splits on-screen in a similar way to [Motif Fills](../../glo
 
 ## To lay out program splits on-screen...
 
-1Right-click the Program Split icon to access object properties.
+1. Right-click the Program Split icon to access object properties.
 
 ![patterns00082.png](assets/patterns00082.png)
 
-2Select a pattern from the droplist. Alternatively, click the arrow button to access the pattern library.
+2. Select a pattern from the droplist. Alternatively, click the arrow button to access the pattern library.
 
-3Click Layout. Three blue guide patterns allow you to change the layout.
+3. Click Layout. Three blue guide patterns allow you to change the layout.
 
 ![patterns00085.png](assets/patterns00085.png)
 
-4Adjust the guide patterns to achieve the desired effect:
+4. Adjust the guide patterns to achieve the desired effect:
 
 - Move patterns by selecting the middle guide pattern and dragging.
 - Scale patterns by selecting a guide pattern and dragging selection handles.
@@ -41,7 +41,7 @@ You lay out program splits on-screen in a similar way to [Motif Fills](../../glo
 
 ![patterns00097.png](assets/patterns00097.png)
 
-5Press Enter to apply.
+5. Press Enter to apply.
 
 ## Related topics...
 

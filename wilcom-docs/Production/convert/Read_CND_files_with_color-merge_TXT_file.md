@@ -4,17 +4,17 @@ While CND files contain no thread color information themselves, the Auto color m
 
 ## To read CND files with color-merge TXT file...
 
-1Select File > Open. The Open dialog opens.
+1. Select File > Open. The Open dialog opens.
 
-2Select a CND design and click Options. The Condensed File Input Settings dialog opens.
+2. Select a CND design and click Options. The Condensed File Input Settings dialog opens.
 
 ![CondensedFileInputSettings00064.png](assets/CondensedFileInputSettings00064.png)
 
-3Select From file in the Auto color merge panel, and select a corresponding thread chart from the Auto color merge droplist.
+3. Select From file in the Auto color merge panel, and select a corresponding thread chart from the Auto color merge droplist.
 
 Any thread color named in the text file must correspond to a color in the selected thread chart. If not, it will default to black.
 
-4Click OK. The design opens, the stitches appear in the correct thread colors, and the [color palette](../../glossary/glossary) displays the selected thread chart.
+4. Click OK. The design opens, the stitches appear in the correct thread colors, and the [color palette](../../glossary/glossary) displays the selected thread chart.
 
 ![convert00067.png](assets/convert00067.png)
 

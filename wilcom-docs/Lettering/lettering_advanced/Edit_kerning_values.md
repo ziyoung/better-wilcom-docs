@@ -7,23 +7,23 @@ You have created a lettering object which has Auto Kerning toggled on. Use this 
 
 ## To edit kerning values...
 
-1Select a lettering object with automatic kerning and click the Reshape icon.
+1. Select a lettering object with automatic kerning and click the Reshape icon.
 
 ![EditKerningValues1.png](assets/EditKerningValues1.png)
 
-2Click the diamond control point in the center of the letter.
+2. Click the diamond control point in the center of the letter.
 
-3Drag selected letter/s along the baseline or use arrow keys to adjust the spacing. Alternatively, to move multiple letters, right-click the diamond control point of the first letter and drag. All letters to the end of the line move as one.
+3. Drag selected letter/s along the baseline or use arrow keys to adjust the spacing. Alternatively, to move multiple letters, right-click the diamond control point of the first letter and drag. All letters to the end of the line move as one.
 
-4Repeat as many times as necessary to fine-tune all letter spacings in the object.
+4. Repeat as many times as necessary to fine-tune all letter spacings in the object.
 
-5Select one or more blocks of contiguous letters by Ctrl\-clicking their diamond control points or dragging a selection box around them.
+5. Select one or more blocks of contiguous letters by Ctrl\-clicking their diamond control points or dragging a selection box around them.
 
 ![EditKerningValues2.png](assets/EditKerningValues2.png)
 
-6Select Object > Update Kerning Settings. The operation will affect letter spacing of all new lettering objects.
+6. Select Object > Update Kerning Settings. The operation will affect letter spacing of all new lettering objects.
 
-7Click OK.
+7. Click OK.
 
 A new kerning value is generated for each contiguous pair of letters, and written to the associated kerning table.
 

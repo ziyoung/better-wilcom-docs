@@ -9,9 +9,9 @@ Normally beads are stitched last, after motifs and other embroidery are complete
 
 ## To digitize a bead run...
 
-1Select a bead-capable machine from the Select Machine Format dialog.
+1. Select a bead-capable machine from the Select Machine Format dialog.
 
-2Define your palette and select bead shapes you want to use from the droplist, in this case a twin-bead setup.
+2. Define your palette and select bead shapes you want to use from the droplist, in this case a twin-bead setup.
 
 ![BeadingDropdownTwinBlank00030.png](assets/BeadingDropdownTwinBlank00030.png)
 

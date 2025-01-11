@@ -4,13 +4,13 @@ Before you can use the Sequin tools, you need to choose a suitable machine forma
 
 ## To select a sequin-capable machine...
 
-1Select Design > Select Machine Format.
+1. Select Design > Select Machine Format.
 
 ![SelectMachineFormatBarudanSequin.png](assets/SelectMachineFormatBarudanSequin.png)
 
-2From the Available Machine Formats list, select a sequin-capable machine format – e.g. Schiffli, Tajima, Barudan, SWF, ZSK, etc.
+2. From the Available Machine Formats list, select a sequin-capable machine format – e.g. Schiffli, Tajima, Barudan, SWF, ZSK, etc.
 
-3Click OK. Default sequins appear in the sequin palette. It is ready to be configured. If you have selected a twin-sequin-capable machine, sequins are displayed in pairs.
+3. Click OK. Default sequins appear in the sequin palette. It is ready to be configured. If you have selected a twin-sequin-capable machine, sequins are displayed in pairs.
 
 ![sequin_basics00006.png](assets/sequin_basics00006.png)
 

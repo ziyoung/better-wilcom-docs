@@ -6,17 +6,17 @@ Note: EmbroideryStudio includes as standard the entire suite of CorelDRAW® Grap
 
 ## To print a design in CorelDRAW Graphics...
 
-1Switch to CorelDRAW Graphics.
+1. Switch to CorelDRAW Graphics.
 
-2Toggle off Show Embroidery to hide any embroidery objects.
+2. Toggle off Show Embroidery to hide any embroidery objects.
 
-3Click the Print icon on the Standard toolbar. The Print dialog opens.
+3. Click the Print icon on the Standard toolbar. The Print dialog opens.
 
-4Adjust print settings as required and click Print Preview button to preview. Otherwise click Print button to print.
+4. Adjust print settings as required and click Print Preview button to preview. Otherwise click Print button to print.
 
 The design is printed with or without embroidery objects showing depending on whether the Show Embroidery button is toggled on or off.
 
-5To sew embroidery over top of the printed design, switch to Wilcom Workspace and toggle off Show Graphics.
+5. To sew embroidery over top of the printed design, switch to Wilcom Workspace and toggle off Show Graphics.
 
 ![FinalDesign.png](assets/FinalDesign.png)
 

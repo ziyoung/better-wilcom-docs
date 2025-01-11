@@ -7,9 +7,9 @@ You can open designs of other formats from specially formatted 1.44 Mb DS/HD (Do
 
 ## To read designs from embroidery disk...
 
-1Insert the embroidery disk in your computer’s floppy disk drive.
+1. Insert the embroidery disk in your computer’s floppy disk drive.
 
-2Select Embroidery Disk > Open.
+2. Select Embroidery Disk > Open.
 
 ![LegacyFeaturesEmbroideryDisk.png](assets/LegacyFeaturesEmbroideryDisk.png)
 
@@ -17,22 +17,22 @@ The Open Embroidery Disk dialog opens.
 
 ![OpenEmbroideryDisk.png](assets/OpenEmbroideryDisk.png)
 
-3From the Look In list, select the floppy disk drive.
+3. From the Look In list, select the floppy disk drive.
 
-4Select the disk format. Either:
+4. Select the disk format. Either:
 
 - Select the format from the Diskette Format list.
 - Select the Auto Detect checkbox and let EmbroideryStudio automatically determine the format. This generally takes longer.
 
-5Click OK. The Open From Embroidery Disk dialog opens.
+5. Click OK. The Open From Embroidery Disk dialog opens.
 
 ![OpenFromEmbroideryDisk.png](assets/OpenFromEmbroideryDisk.png)
 
-6From the Designs of Type list, select a design type. Any designs saved on disk are listed in the panel. If no designs are listed, make sure that the correct drive and disk format are selected.
+6. From the Designs of Type list, select a design type. Any designs saved on disk are listed in the panel. If no designs are listed, make sure that the correct drive and disk format are selected.
 
 Note: If the Options button is available, you can set [recognition](../../glossary/glossary) options for the design.
 
-7Click Open.
+7. Click Open.
 
 ## Related topics...
 

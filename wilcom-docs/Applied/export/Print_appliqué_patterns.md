@@ -4,21 +4,21 @@ Print appliqué patterns for use in cutting out fabric pieces. Each piece is num
 
 ## To print an appliqué pattern...
 
-1Create or open an appliqué design.
+1. Create or open an appliqué design.
 
 ![PartialAppliqueSample3.png](assets/PartialAppliqueSample3.png)
 
-2Select File > Print Preview and click the Options icon.
+2. Select File > Print Preview and click the Options icon.
 
 ![PrintOptionsAppliquePatterns.png](assets/PrintOptionsAppliquePatterns.png)
 
-3Select Appliqué Patterns report type.
+3. Select Appliqué Patterns report type.
 
-4Set General options and click OK. Each appliqué pattern is numbered according to the stitching sequence. Stitch count and colors are displayed.
+4. Set General options and click OK. Each appliqué pattern is numbered according to the stitching sequence. Stitch count and colors are displayed.
 
 ![ProductionWorksheetAppliqueReport.png](assets/ProductionWorksheetAppliqueReport.png)
 
-5Click Print Now to output appliqué shapes to printer.
+5. Click Print Now to output appliqué shapes to printer.
 
 ## Related topics...
 

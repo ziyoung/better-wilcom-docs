@@ -9,21 +9,21 @@ You can create free-form outlines and borders using the Cross Stitch Run tool. T
 
 ## To digitize cross stitch outlines...
 
-1Click the Cross Stitch Fill or Cross Stitch Run icon.
+1. Click the Cross Stitch Fill or Cross Stitch Run icon.
 
-2Select a color from the color palette.
+2. Select a color from the color palette.
 
-3Click the Single Line or Full Cross icon. If you are using Full Cross, the currently selected cross stitch type applies.
+3. Click the Single Line or Full Cross icon. If you are using Full Cross, the currently selected cross stitch type applies.
 
 ![StitchToolbar.png](assets/StitchToolbar.png)
 
 Tip: The stitch palette can be dragged and floated anywhere within the Design Window.
 
-4Mark reference points on your design. Left-click for sharp corners and right-click for round corners.
+4. Mark reference points on your design. Left-click for sharp corners and right-click for round corners.
 
 ![cross-stitch_digitizing00039.png](assets/cross-stitch_digitizing00039.png)
 
-5Press Enter. The shape is filled or outlined depending on the stitch type selected. If you are using Full Cross, the currently selected cross stitch type applies.
+5. Press Enter. The shape is filled or outlined depending on the stitch type selected. If you are using Full Cross, the currently selected cross stitch type applies.
 
 Note: Depending on the stitch type you select, you can also set the stitch direction.
 

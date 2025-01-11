@@ -9,25 +9,25 @@ Tip: If you don’t know the origin of a design you are editing, you can insert 
 
 ## To insert designs...
 
-1Open the source design.
+1. Open the source design.
 
-2Optionally, travel to the position in the [stitching sequence](../../glossary/glossary) where you want to insert the design. Otherwise, the inserted design will be placed at the end of the stitching sequence.
+2. Optionally, travel to the position in the [stitching sequence](../../glossary/glossary) where you want to insert the design. Otherwise, the inserted design will be placed at the end of the stitching sequence.
 
 ![combine00001.png](assets/combine00001.png)
 
-3Select Standard > Import Embroidery. File type defaults to the native ‘all-in-one’ EMB format but any supported embroidery file can be used.
+3. Select Standard > Import Embroidery. File type defaults to the native ‘all-in-one’ EMB format but any supported embroidery file can be used.
 
 ![ImportEmbroidery00002.png](assets/ImportEmbroidery00002.png)
 
-4Select the design file to insert, and click Open. The design is inserted at the current needle position. By default, colors are added to the palette.
+4. Select the design file to insert, and click Open. The design is inserted at the current needle position. By default, colors are added to the palette.
 
 ![combine00003.png](assets/combine00003.png)
 
-5Scale and position the inserted design as required. To ensure that all the objects in the inserted design stay together, group it first.
+5. Scale and position the inserted design as required. To ensure that all the objects in the inserted design stay together, group it first.
 
 ![ImportEmbroidery4.png](assets/ImportEmbroidery4.png)
 
-6Sequence colors for efficient stitchout.
+6. Sequence colors for efficient stitchout.
 
 Note: The Options > General tab provides another setting – ‘Match to palette’ – which matches inserted design colors to the current palette.
 

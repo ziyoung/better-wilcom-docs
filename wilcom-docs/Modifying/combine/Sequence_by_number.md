@@ -7,16 +7,16 @@ You can resequence objects numerically in the Color-Object List. Use it to move 
 
 ## To sequence objects by number...
 
-1Click the Color-Object List icon.
+1. Click the Color-Object List icon.
 
-2Right-click an object in the list.
+2. Right-click an object in the list.
 
-3Select Sequence > By Number from the popup menu. The Sequence by Number dialog opens.
+3. Select Sequence > By Number from the popup menu. The Sequence by Number dialog opens.
 
 ![combine00074.png](assets/combine00074.png)
 
-4Enter the number of the object before which you want to position your selected object.
+4. Enter the number of the object before which you want to position your selected object.
 
 Note: If you prefer to position the selected object after a selected number – e.g. to make it the last object in the list – select After Position.
 
-5Click OK. The selected object will be placed in the new position and all other objects resequenced accordingly.
+5. Click OK. The selected object will be placed in the new position and all other objects resequenced accordingly.

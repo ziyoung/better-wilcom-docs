@@ -9,13 +9,13 @@ Note: The Flood Fill tool only works with cross stitches. Flood Fill will not wo
 
 ## To flood-fill color blocks...
 
-1Select a color from the color palette.
+1. Select a color from the color palette.
 
-2Select a Fill stitch type.
+2. Select a Fill stitch type.
 
-3Click the Flood Fill icon.
+3. Click the Flood Fill icon.
 
-4Click within a closed area. The stitch block is converted to the selected stitch type and color.
+4. Click within a closed area. The stitch block is converted to the selected stitch type and color.
 
 ![cross-stitch_digitizing00063.png](assets/cross-stitch_digitizing00063.png)
 

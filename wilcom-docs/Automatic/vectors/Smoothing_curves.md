@@ -7,18 +7,18 @@ Both vector and embroidery objects contain reshape-nodes on their outlines. On s
 
 ## To smooth curves...
 
-1Select the object (or objects) to smooth.
+1. Select the object (or objects) to smooth.
 
 Note: You can only smooth objects that have been ungrouped and selected. However, you can select multiple objects.
 
-2Optionally, click Reshape Object to view reshape-nodes around the outline.
+2. Optionally, click Reshape Object to view reshape-nodes around the outline.
 
 ![vectors00055.png](assets/vectors00055.png)
 
-3Select Edit > Smooth Curves.
+3. Select Edit > Smooth Curves.
 
 ![SmoothCurves.png](assets/SmoothCurves.png)
 
-4Adjust the Precision field. This value controls how closely the smoothed outline follows the original. The larger the precision value, the fewer the reshape-nodes.
+4. Adjust the Precision field. This value controls how closely the smoothed outline follows the original. The larger the precision value, the fewer the reshape-nodes.
 
-5Click OK.
+5. Click OK.

@@ -8,11 +8,11 @@
 
 ## To digitize columns of varying width...
 
-1Click the Column A or Digitize Column icon.
+1. Click the Column A or Digitize Column icon.
 
-2Select a color and stitch type – e.g. Satin.
+2. Select a color and stitch type – e.g. Satin.
 
-3Digitize the column by marking points on alternate sides of the column.
+3. Digitize the column by marking points on alternate sides of the column.
 
 - Click to enter corner points.
 - Right-click to enter curve points.
@@ -23,7 +23,7 @@ The control points in a pair do not have to be the same type. For example, one c
 
 Tip: If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
 
-4When you have finished digitizing, either:
+4. When you have finished digitizing, either:
 
 - Press Enter to keep the last stitch and place the [exit point](../../glossary/glossary) at the last point you digitized, or
 - Press Spacebar to omit the last stitch and place the exit point on the opposite side of the column.

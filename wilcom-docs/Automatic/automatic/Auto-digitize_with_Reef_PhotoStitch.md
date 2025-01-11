@@ -10,15 +10,15 @@ Reef PhotoStitch expands on the Photo Flash auto-digitizing method to convert ph
 
 ## To create embroidery with Reef PhotoStitch...
 
-1Insert the bitmap image in your design and scale it to the required size.
+1. Insert the bitmap image in your design and scale it to the required size.
 
-2Crop the image as desired using the Crop Bitmap tools.
+2. Crop the image as desired using the Crop Bitmap tools.
 
-3With the image selected, click Reef PhotoStitch.
+3. With the image selected, click Reef PhotoStitch.
 
 ![ReefPhotoStitch00100.png](assets/ReefPhotoStitch00100.png)
 
-4Adjust the grayscale image settings as preferred:
+4. Adjust the grayscale image settings as preferred:
 
 - Click Auto Adjust to allow the software to optimize image settings for automatic digitizing.
 - Use Brightness and Contrast settings to further differentiate stitched and unstitched areas.
@@ -26,16 +26,16 @@ Reef PhotoStitch expands on the Photo Flash auto-digitizing method to convert ph
 - Click Invert Colors to create an image negative.
 - Click Reset to return the adjusted bitmap to the default grayscale image.
 
-5Use the zoom buttons to examine the image preview in detail. Alternatively, holding down the Ctrl key, zoom in and out with the mouse wheel.
+5. Use the zoom buttons to examine the image preview in detail. Alternatively, holding down the Ctrl key, zoom in and out with the mouse wheel.
 
 ![ReefPhotoStitchPreview.png](assets/ReefPhotoStitchPreview.png)
 
-6Adjust reef stitch settings as preferred:
+6. Adjust reef stitch settings as preferred:
 
 - Adjust Density to create more dense or more open stitching, similar to Loop Spacing in stipple stitching. The highest density value may result in thread breaks.
 - Select the thread color you wish to apply to the end result.
 
-7Use Preview to generate temporary stitching without closing the dialog. Move the dialog as necessary in order to preview the result in the design window. Further adjust settings until you obtain the look you want and click OK to confirm.
+7. Use Preview to generate temporary stitching without closing the dialog. Move the dialog as necessary in order to preview the result in the design window. Further adjust settings until you obtain the look you want and click OK to confirm.
 
 ![ReefPhotoStitch3.png](assets/ReefPhotoStitch3.png)
 

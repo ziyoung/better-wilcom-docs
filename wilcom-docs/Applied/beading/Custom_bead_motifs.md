@@ -10,31 +10,31 @@ Another technique for deploying custom bead fixings is to save them as motifs an
 
 ## To create and save a motif...
 
-1Create your custom bead and fixing stitch or edit an existing one.
+1. Create your custom bead and fixing stitch or edit an existing one.
 
 ![CreateBead1.png](assets/CreateBead1.png)
 
-2Duplicate and align the motif as you want it to appear in a motif run. Use Alignment tools for precise arrangement.
+2. Duplicate and align the motif as you want it to appear in a motif run. Use Alignment tools for precise arrangement.
 
 ![CreateBead2.png](assets/CreateBead2.png)
 
-3Once you have determined the layout, select objects and apply Closest Join. Use the middle motif to determine reference points.
+3. Once you have determined the layout, select objects and apply Closest Join. Use the middle motif to determine reference points.
 
-4Select the motif and choose Object > Create Motif.
+4. Select the motif and choose Object > Create Motif.
 
 ![CreateMotifBead.png](assets/CreateMotifBead.png)
 
-5Select a custom motif set from the droplist and enter a name in the Motif Name field.
+5. Select a custom motif set from the droplist and enter a name in the Motif Name field.
 
-6Deselect the Remove other functions option. This ensures that beads are preserved.
+6. Deselect the Remove other functions option. This ensures that beads are preserved.
 
-7Click OK.
+7. Click OK.
 
-8Click two reference points for the bead motif. These should coincide with entry and exit points.
+8. Click two reference points for the bead motif. These should coincide with entry and exit points.
 
 ![CreateBead3.png](assets/CreateBead3.png)
 
-9Use you custom bead and fixing in bead runs or individual placements.
+9. Use you custom bead and fixing in bead runs or individual placements.
 
 ![CreateBead4.png](assets/CreateBead4.png)
 

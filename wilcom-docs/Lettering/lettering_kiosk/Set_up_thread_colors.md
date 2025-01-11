@@ -8,31 +8,31 @@ Thread colors are set up for each design layout. All three sample designs need t
 
 ## To set up thread colors...
 
-1Click the Open icon. The Open Design dialog opens.
+1. Click the Open icon. The Open Design dialog opens.
 
 ![OpenDesigns.png](assets/OpenDesigns.png)
 
-2Navigate to the Designs folder of your EmbroideryStudio e4 installation:
+2. Navigate to the Designs folder of your EmbroideryStudio e4 installation:
 
 C:\\Program Files\\Wilcom\\EmbroideryStudio_e4.0\\Kiosk\\Designs
 
 Alternatively, specify your own folder.
 
-3Select a design to edit and click Open.
+3. Select a design to edit and click Open.
 
-4Use the Color Palette tools to add or remove colors according to the thread setup on your machine/s.
+4. Use the Color Palette tools to add or remove colors according to the thread setup on your machine/s.
 
 ![lettering_kiosk00042.png](assets/lettering_kiosk00042.png)
 
-5Open the Threads docker and select your thread chart.
+5. Open the Threads docker and select your thread chart.
 
 ![lettering_kiosk00045.png](assets/lettering_kiosk00045.png)
 
-6Assign threads to the palette with the Match All button. Alternatively, select threads corresponding to the thread setup on your machine, and assign these. The design layout defaults to the first color in the palette. The tooltip tells you the corresponding thread of each color.
+6. Assign threads to the palette with the Match All button. Alternatively, select threads corresponding to the thread setup on your machine, and assign these. The design layout defaults to the first color in the palette. The tooltip tells you the corresponding thread of each color.
 
 ![lettering_kiosk00048.png](assets/lettering_kiosk00048.png)
 
-7Click Save to save the file in the design folder. The modified palette for this design will appear in the kiosk when you next run it.
+7. Click Save to save the file in the design folder. The modified palette for this design will appear in the kiosk when you next run it.
 
 ## Related topics...
 

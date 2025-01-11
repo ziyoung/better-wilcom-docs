@@ -9,11 +9,11 @@ When available, the Simple Offsets feature allows you to quickly create outline 
 
 ## To create outlines and borders...
 
-1Select a source object/s and click the Simple Offsets icon.
+1. Select a source object/s and click the Simple Offsets icon.
 
 ![SimpleOffsets00025.png](assets/SimpleOffsets00025.png)
 
-2Adjust the settings as required:
+2. Adjust the settings as required:
 
 | Option            | Function                                                                    |
 | ----------------- | --------------------------------------------------------------------------- |
@@ -22,6 +22,6 @@ When available, the Simple Offsets feature allows you to quickly create outline 
 | Object type       | Choice of outline object types: Run, Triple Run or Column C.                |
 | Offsets for holes | Option to exclude or include outlines for any holes in the selected object. |
 
-3Click OK to apply settings. The design outline is stitched in the current palette color using current properties. Change settings as required.
+3. Click OK to apply settings. The design outline is stitched in the current palette color using current properties. Change settings as required.
 
 Tip: ![KanjiWithOutlines.png](assets/KanjiWithOutlines.png)You can use Simple Offsets to create outlines around entire designs, including lettering.

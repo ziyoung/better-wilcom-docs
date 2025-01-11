@@ -9,13 +9,13 @@ As an alternative to Cross Stitch Run, you can digitize a single stitch or line 
 
 ## To digitize a single stitch or line...
 
-1Click the Single Line or Full Cross icon. If you are using Full Cross, the currently selected cross stitch type applies.
+1. Click the Single Line or Full Cross icon. If you are using Full Cross, the currently selected cross stitch type applies.
 
-2Select a color from the color palette.
+2. Select a color from the color palette.
 
-3Click the Pencil icon.
+3. Click the Pencil icon.
 
-4Click a square to make a single stitch, or click and drag the pencil to make a line. Press Ctrl and drag to draw straight vertical lines.
+4. Click a square to make a single stitch, or click and drag the pencil to make a line. Press Ctrl and drag to draw straight vertical lines.
 
 ![CrossPencilExample.png](assets/CrossPencilExample.png)
 

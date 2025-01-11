@@ -4,16 +4,16 @@ EmbroideryStudio supports [WIA](../../glossary/glossary)\-compatible scanners. S
 
 ## To set up scanners...
 
-1Connect the scanner using the accompanying instructions.
+1. Connect the scanner using the accompanying instructions.
 
-2Set it up in MS Windows® using the accompanying instructions and/or the Microsoft MS Windows® documentation.
+2. Set it up in MS Windows® using the accompanying instructions and/or the Microsoft MS Windows® documentation.
 
-3Start EmbroideryStudio.
+3. Start EmbroideryStudio.
 
-4Select Setup > Scanner Setup. The Select Source dialog opens displaying a list of scanner drivers loaded on your computer.
+4. Select Setup > Scanner Setup. The Select Source dialog opens displaying a list of scanner drivers loaded on your computer.
 
 ![SelectSourceScanner.png](assets/SelectSourceScanner.png)
 
-5Select the scanning driver to use, then click Select.
+5. Select the scanning driver to use, then click Select.
 
 Note: If you have trouble with scanning after re-starting EmbroideryStudio, there may be a conflict with previously installed scanner drivers. Re-install EmbroideryStudio and test the scanner. If the selected scanner driver does not work in EmbroideryStudio, select another scanner driver from the list. There are usually two installed for each scanner.

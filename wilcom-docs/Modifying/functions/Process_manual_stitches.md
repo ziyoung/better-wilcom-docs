@@ -9,25 +9,25 @@ Tip: You can also split larger [manual objects](../../glossary/glossary) into sm
 
 ## To process manual stitches...
 
-1Open a machine file without object/outline recognition.
+1. Open a machine file without object/outline recognition.
 
-2Edit parts of the design as required.
+2. Edit parts of the design as required.
 
-3Select the part of the design you want to process. You can select the whole design or individual manual objects.
+3. Select the part of the design you want to process. You can select the whole design or individual manual objects.
 
 ![functions00089.png](assets/functions00089.png)
 
-4Select Stitch > Process Stitches. The Process Stitches dialog opens.
+4. Select Stitch > Process Stitches. The Process Stitches dialog opens.
 
 ![functions00092.png](assets/functions00092.png)
 
-5In the Stitch Values panel, enter the number of Target Stitches as either a percentage or absolute value (in millimeters).
+5. In the Stitch Values panel, enter the number of Target Stitches as either a percentage or absolute value (in millimeters).
 
-6Adjust the density for each stitch type as required. You can change the density for selected objects and/or for specific stitch types only.
+6. Adjust the density for each stitch type as required. You can change the density for selected objects and/or for specific stitch types only.
 
-7Click Recognition to set advanced recognition options as required.
+7. Click Recognition to set advanced recognition options as required.
 
-8Click OK. Selected objects are processed and converted to [Column A](../../glossary/glossary) or Run objects with fill or outline stitch [properties](../../glossary/glossary) as well as general and connector properties. If an object is not recognized, it remains a [manual object](../../glossary/glossary) with general and connector properties only. In this case, the target stitch count may not be reached.
+8. Click OK. Selected objects are processed and converted to [Column A](../../glossary/glossary) or Run objects with fill or outline stitch [properties](../../glossary/glossary) as well as general and connector properties. If an object is not recognized, it remains a [manual object](../../glossary/glossary) with general and connector properties only. In this case, the target stitch count may not be reached.
 
 ![functions00095.png](assets/functions00095.png)
 

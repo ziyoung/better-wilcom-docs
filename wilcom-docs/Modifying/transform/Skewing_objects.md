@@ -9,13 +9,13 @@ You can skew objects directly on screen or by setting an exact skew angle.
 
 ## To skew objects...
 
-1Select the objects to skew.
+1. Select the objects to skew.
 
-2Click the object a second time. Skew handles are diamond-shaped and appear at the center-top and bottom of the object.
+2. Click the object a second time. Skew handles are diamond-shaped and appear at the center-top and bottom of the object.
 
 ![transform00061.png](assets/transform00061.png)
 
-3Drag handles left or right.
+3. Drag handles left or right.
 
 ![transform00064.png](assets/transform00064.png)
 

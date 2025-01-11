@@ -8,15 +8,15 @@ The Sequin Palette Editor lets you prepare a palette of sequins according to cap
 
 ## To set up a sequin palette...
 
-1Select the machine format that supports the machine you are using or the design type you want to create.
+1. Select the machine format that supports the machine you are using or the design type you want to create.
 
-2Click the Sequin Palette Editor icon. Fields are arranged so that parameters for each sequin can be viewed at once.
+2. Click the Sequin Palette Editor icon. Fields are arranged so that parameters for each sequin can be viewed at once.
 
 ![SequinPaletteSetup1.png](assets/SequinPaletteSetup1.png)
 
-3Set the number of sequins available per device. Depending on machine type, up to eight (8) sequins may be supported. If you have chosen a twin-sequin machine, this value is limited to 2.
+3. Set the number of sequins available per device. Depending on machine type, up to eight (8) sequins may be supported. If you have chosen a twin-sequin machine, this value is limited to 2.
 
-4Use the More button to add devices. Click X in the column header to remove.
+4. Use the More button to add devices. Click X in the column header to remove.
 
 ![SequinPaletteEditorMore.png](assets/SequinPaletteEditorMore.png)
 
@@ -34,17 +34,17 @@ Typical configurations include:
 
 Note: Typically the machine operator will use Needle 1 to position the starting point. Thus single devices are usually mounted on the last needle. In terms of software configuration, it makes no difference.
 
-5Select predefined or custom sequin shapes from the droplist.
+5. Select predefined or custom sequin shapes from the droplist.
 
-6Set color and size for each sequin as well as hole size. Colors can be defined for front and reverse sides as well as a transparency factor for translucent sequins.
+6. Set color and size for each sequin as well as hole size. Colors can be defined for front and reverse sides as well as a transparency factor for translucent sequins.
 
 ![SequinPaletteColor.png](assets/SequinPaletteColor.png)
 
-7If you are using reversible or ‘flip’ sequins, define the reverse color as well. Flip sequins are generally used with twin- or multi-sequin machines, but may be used on their own.
+7. If you are using reversible or ‘flip’ sequins, define the reverse color as well. Flip sequins are generally used with twin- or multi-sequin machines, but may be used on their own.
 
 ![SequinPaletteReverseColor.png](assets/SequinPaletteReverseColor.png)
 
-8If you are using transparent sequins, define a transparency factor from 0 to 90 for each sequin.
+8. If you are using transparent sequins, define a transparency factor from 0 to 90 for each sequin.
 
 ![TransparentSequins.png](assets/TransparentSequins.png)
 

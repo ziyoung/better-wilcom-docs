@@ -4,21 +4,21 @@ You can set up multiple named machines for the purposes of runtime analysis with
 
 ## To configure machine runtime settings...
 
-1Select Setup > Machine Runtime Setup. Or run the command from the Design Information > Runtime tab. The Machine Runtime Setup dialog opens. The dialog lists all machines currently defined for the purposes of runtime analysis.
+1. Select Setup > Machine Runtime Setup. Or run the command from the Design Information > Runtime tab. The Machine Runtime Setup dialog opens. The dialog lists all machines currently defined for the purposes of runtime analysis.
 
 ![MachineRuntimeSetup.png](assets/MachineRuntimeSetup.png)
 
-2Click Create to set up a new runtime definition. The Machine Runtime Settings dialog opens.
+2. Click Create to set up a new runtime definition. The Machine Runtime Settings dialog opens.
 
 ![hardware00046.png](assets/hardware00046.png)
 
-3Use the Name and Comment fields to uniquely identify the machine or machine class.
+3. Use the Name and Comment fields to uniquely identify the machine or machine class.
 
 The class may be based on machine model. However different machines of the same model may be set up for different purposes – e.g. to run at different speeds. If so, you’ll need to set up different classes to suit.
 
 Note: Machine types set up here are independent of machines defined in Connection Manager Setup or Embroidery Machine Connection dialogs.
 
-4Create a runtime definition for the machine. Parameters are based on machine specs, controller feedback, and/or empirical observation:
+4. Create a runtime definition for the machine. Parameters are based on machine specs, controller feedback, and/or empirical observation:
 
 | Option              | Function                                                                                                                                                                                                           |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -31,6 +31,6 @@ Note: Machine types set up here are independent of machines defined in Connectio
 | Design start time   | Time the machine takes to go from stop to normal speed – e.g. it may stitch a number of slow stitches to start off. May be available from machine specs or empirical observation.                                  |
 | Design end time     | Stopping time – the machine may slow down and then travel to the center of the hoop before actually stopping.                                                                                                      |
 
-5Click OK. All machines or machine classes you define are listed in the Machine Runtime Setup dialog. From here they can be updated or removed from the system.
+5. Click OK. All machines or machine classes you define are listed in the Machine Runtime Setup dialog. From here they can be updated or removed from the system.
 
 ![MachineRuntimeSetupCreate.png](assets/MachineRuntimeSetupCreate.png)

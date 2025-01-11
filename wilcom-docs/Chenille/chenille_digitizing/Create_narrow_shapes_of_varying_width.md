@@ -12,22 +12,22 @@ To fill narrow shapes of varying width, use Coil or Square fill with Moss stitch
 
 ## To digitize shapes of varying width...
 
-1Select your preferred stitch pattern with Fill Stitch > Coil or Square.
+1. Select your preferred stitch pattern with Fill Stitch > Coil or Square.
 
-2Select the preferred chenille stitch type:
+2. Select the preferred chenille stitch type:
 
 | Chenille stitch                          | Uses  |                                                                                                                             |
 | ---------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
 | ![Moss00032.png](assets/Moss00032.png)   | Moss  | Create dense cover using looped stitch typical of chenille raised stitching. Can be used with Coil or Square fill patterns. |
 | ![Chain00033.png](assets/Chain00033.png) | Chain | Create decorative stitching resembling links of a chain. Can be used with Square fill pattern.                              |
 
-3Create a chenille object using Column A or Column B as your input method.
+3. Create a chenille object using Column A or Column B as your input method.
 
 ![DigitizeCoilVaryWidth1.png](assets/DigitizeCoilVaryWidth1.png)
 
 Tip: Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
 
-4Press Spacebar or Enter to generate the shape.
+4. Press Spacebar or Enter to generate the shape.
 
 - Use Spacebar to generate open-ended coil stitching. This is useful for joining objects.
 - Use Enter to generate closed-ended coil stitching.

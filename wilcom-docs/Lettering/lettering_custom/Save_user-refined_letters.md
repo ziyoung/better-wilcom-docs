@@ -9,11 +9,11 @@ User-refined letters are saved via the Create User-Refined Letter option. This i
 
 ## To save a user-refined letter...
 
-1Create a lettering object with an embroidery font and size it to the required dimensions.
+1. Create a lettering object with an embroidery font and size it to the required dimensions.
 
 ![UserRefinedLettering1.png](assets/UserRefinedLettering1.png)
 
-2Use the Reshape tool to reshape selected letters as necessary. The Stitch Angle and Reshape Object tools let you add, delete, or adjust stitch angles.
+2. Use the Reshape tool to reshape selected letters as necessary. The Stitch Angle and Reshape Object tools let you add, delete, or adjust stitch angles.
 
 ![UserRefinedLettering2.png](assets/UserRefinedLettering2.png)
 
@@ -21,15 +21,15 @@ In the example, the letter ‘a’ tends to close over at reduced sizes. You may
 
 ![lettering_custom00014.png](assets/lettering_custom00014.png)
 
-3Still in Reshape mode, select the modified letter by clicking the diamond control point.
+3. Still in Reshape mode, select the modified letter by clicking the diamond control point.
 
 ![UserRefinedLettering3.png](assets/UserRefinedLettering3.png)
 
-4Select Object > Create User-Refined Letter.
+4. Select Object > Create User-Refined Letter.
 
 ![CreateUserRefinedLetter.png](assets/CreateUserRefinedLetter.png)
 
-5Set a height range for the letter:
+5. Set a height range for the letter:
 
 | Option       | Function                                                                                   |
 | ------------ | ------------------------------------------------------------------------------------------ |
@@ -37,9 +37,9 @@ In the example, the letter ‘a’ tends to close over at reduced sizes. You may
 | Greater than | The letter will only be at heights greater than that specified.                            |
 | Less than    | The letter will only be at heights less than that specified.                               |
 
-6Give the new letter a unique name that you can easily identify. By default, the new version is given the name ‘User 1’.
+6. Give the new letter a unique name that you can easily identify. By default, the new version is given the name ‘User 1’.
 
-7Click OK. A confirmation message appears. The letter is now available for use in all new lettering created with this font.
+7. Click OK. A confirmation message appears. The letter is now available for use in all new lettering created with this font.
 
 ![SaveLetter.png](assets/SaveLetter.png)
 

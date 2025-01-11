@@ -7,15 +7,15 @@
 
 ## To apply automatic underlay to branched objects...
 
-1Select the branched object and right-click Auto Underlay.
+1. Select the branched object and right-click Auto Underlay.
 
 ![connectors00088.png](assets/connectors00088.png)
 
-2Select the First Underlay checkbox and select an underlay type.
+2. Select the First Underlay checkbox and select an underlay type.
 
-3Optionally, add a second underlay.
+3. Optionally, add a second underlay.
 
-4Press Enter or click Apply. Underlay stitches are automatically generated for the branched object.
+4. Press Enter or click Apply. Underlay stitches are automatically generated for the branched object.
 
 ![connectors00091.png](assets/connectors00091.png)
 

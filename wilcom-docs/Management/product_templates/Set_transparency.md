@@ -4,28 +4,28 @@ Because you want product images to display correctly on any color background, yo
 
 ## To set the transparency...
 
-1Choose Magic Wand Mask.
+1. Choose Magic Wand Mask.
 
 ![MagicWandMask.png](assets/MagicWandMask.png)
 
-2Click the background to select the whole area.
+2. Click the background to select the whole area.
 
-3If needed, click the + button to add more area until you have selected the whole background.
+3. If needed, click the + button to add more area until you have selected the whole background.
 
 ![AdditiveMode.png](assets/AdditiveMode.png)
 
-4Adjust the ‘Tolerance’ setting to limit the range of colors included in the transparency. If the background is too similar to the foreground, this can become problematic.
+4. Adjust the ‘Tolerance’ setting to limit the range of colors included in the transparency. If the background is too similar to the foreground, this can become problematic.
 
-5Click Invert Mask. The garment alone will be selected.
+5. Click Invert Mask. The garment alone will be selected.
 
 ![InvertMask.png](assets/InvertMask.png)
 
-6Select Object > Create > Cut Selection.
+6. Select Object > Create > Cut Selection.
 
-7In the Object Manager, select the background and click Delete.
+7. In the Object Manager, select the background and click Delete.
 
 ![ObjectManagerSelectBackground.png](assets/ObjectManagerSelectBackground.png)
 
-8The garment will be appear on a gray and white checker pattern. This means the background is transparent.
+8. The garment will be appear on a gray and white checker pattern. This means the background is transparent.
 
 ![ObjectManagerDeleteBackground.png](assets/ObjectManagerDeleteBackground.png)

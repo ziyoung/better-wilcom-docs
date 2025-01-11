@@ -4,20 +4,20 @@ Some machines require an explicit End of Design function code in order to recogn
 
 ## To set end-of-design functions...
 
-1Open a design.
+1. Open a design.
 
-2Access the Machine Format Settings > Standard dialog. Only fields relevant to the selected machine format will appear.
+2. Access the Machine Format Settings > Standard dialog. Only fields relevant to the selected machine format will appear.
 
 ![machines00015.png](assets/machines00015.png)
 
-3In the End of Design panel, select the appropriate option for your machine:
+3. In the End of Design panel, select the appropriate option for your machine:
 
 | Option        | Function                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------ |
 | End of design | Some machines require an explicit End of Design function code – e.g. some Tajima machines. |
 | Stop          | Some machines require a Stop code instead – e.g. Happy machines.                           |
 
-4Click Save then Close.
+4. Click Save then Close.
 
 ## Related topics...
 

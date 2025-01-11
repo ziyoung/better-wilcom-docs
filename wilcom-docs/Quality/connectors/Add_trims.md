@@ -9,9 +9,9 @@ Tip: Make sure that all stitches you trim have been tied in and off, otherwise s
 
 ## To add a trim...
 
-1Travel to the needle position where you want to trim the thread.
+1. Travel to the needle position where you want to trim the thread.
 
-2Click the Insert Trim icon. A trim function is inserted at the current needle position.
+2. Click the Insert Trim icon. A trim function is inserted at the current needle position.
 
 ![TrimFunction.png](assets/TrimFunction.png)
 

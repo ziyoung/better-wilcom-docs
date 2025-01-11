@@ -19,48 +19,32 @@ const list = globby.sync(["./wilcom-docs/**/*.md"]);
 
 (async function () {
   let i = -1;
-  const tags = new Set();
+  const files = new Set();
   for (const file of list) {
     i++;
     console.log("Processing: ", file, i);
     let originFile = readFileSync(file, "utf8").toString();
-    // const reg = /<[^>/]+?>/g;
-    // while (true) {
-    //   const match = reg.exec(originFile);
-    //   if (!match) break;
-    //   // const tag = match[0].split(' ')[0];
-    //   tags.add(match[0]);
-    //   console.warn(match[0]);
-    // }
-    const patterns = [
-      '<Ctrl>',
-      '<USER>',
-      '<Shift>',
-      '<PRESET_LETTERING>',
-      '<PRESET_SATIN_1>',
-      '<PRESET_SATIN_2>',
-      '<function>',
-      '<prefix>',
-      '<number>',
-      '<extension>',
-      '<Device>'
-    ];
-    let updated = false;
-    for (const pattern of patterns) {
-      if (originFile.includes(pattern)) {
-        updated = true;
-        const newPattern = pattern.replace(/</g, '&lt;').replace(/>/g, '&gt;');
-        originFile = originFile.replaceAll(pattern, newPattern);
-      }
-    }
-    if (updated) {
+    const reg = /\n(\d+)\w+/g;
+    const match = originFile.match(reg);
+    // console.log(match);
+    if (
+      match &&
+      match
+        .slice(0, 3)
+        .map((item) => item.trim())
+        .every((item, index) => item.startsWith(String(index + 1)))
+    ) {
+      originFile = originFile.replace(reg, function (str, m1) {
+        return str.replace(`\n${m1}`, `\n${m1}. `);
+      });
       writeFileSync(file, originFile);
-      console.log('update ', file);
+      console.log("update ", file);
+      // files.add([file, match]);
+      // return
     }
   }
-  // console.log([...tags]);
-  // writeFileSync("./tags.json", JSON.stringify([...tags]));
-  console.log('tags', [...tags])
+  // console.log(files.size);
+  // writeFileSync("./tags.json", JSON.stringify([...files], null, 2));
 })();
 
 // for (const file of list) {

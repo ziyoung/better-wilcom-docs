@@ -6,9 +6,9 @@ Tip: For more accurate results, zoom in before you measure. The measurement is a
 
 ## To measure a distance on screen...
 
-1Select View > Measure or press M and click the start point.
+1. Select View > Measure or press M and click the start point.
 
-2Move the pointer to the end point and hold the mouse still. If activated, length and angle measurements appear in a tooltip.
+2. Move the pointer to the end point and hold the mouse still. If activated, length and angle measurements appear in a tooltip.
 
 ![MeasureDistance.png](assets/MeasureDistance.png)
 
@@ -22,7 +22,7 @@ The following information displays in the Status Bar:
 
 Measurements are shown in millimeters or inches according to selection.
 
-3Press Esc again to exit the command.
+3. Press Esc again to exit the command.
 
 ## Related topics...
 

@@ -12,13 +12,13 @@ Four types of Envelope effect are available – Bridge, Pennant, Perspective and
 
 ## To apply an envelope...
 
-1Select the lettering object you want to distort. To apply an envelope to several objects, group them first, then apply the envelope.
+1. Select the lettering object you want to distort. To apply an envelope to several objects, group them first, then apply the envelope.
 
-2Select Edit > Envelope.
+2. Select Edit > Envelope.
 
 ![EnvelopeToolbar.png](assets/EnvelopeToolbar.png)
 
-3Select an envelope type from among the following alternatives:
+3. Select an envelope type from among the following alternatives:
 
 ![reshape00060.png](assets/reshape00060.png)
 
@@ -26,7 +26,7 @@ Shaping handles display around the envelope outline.
 
 ![EnvelopeBridge1.png](assets/EnvelopeBridge1.png)
 
-4Drag handles up or down to shape the object.
+4. Drag handles up or down to shape the object.
 
 - To move two handles in opposite directions, hold the Shift key down while dragging.
 
@@ -36,7 +36,7 @@ Shaping handles display around the envelope outline.
 
 ![EnvelopeBridge4.png](assets/EnvelopeBridge4.png)
 
-5Press Esc to finish.
+5. Press Esc to finish.
 
 ## Related topics...
 

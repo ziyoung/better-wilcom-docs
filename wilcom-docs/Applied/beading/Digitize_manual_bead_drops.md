@@ -9,23 +9,23 @@ Note: Manual bead stitching is a difficult digitizing skill to master and you ne
 
 ## To digitize manual bead drops...
 
-1Select a machine format that supports bead mode via the Select Machine Format dialog. [See Select bead-capable machines for details.](Select_bead-capable_machines)
+1. Select a machine format that supports bead mode via the Select Machine Format dialog. [See Select bead-capable machines for details.](Select_bead-capable_machines)
 
-2Set up your palette in the Bead Palette Editor according to the machine type – single, twin, multi-bead – that you have selected.
+2. Set up your palette in the Bead Palette Editor according to the machine type – single, twin, multi-bead – that you have selected.
 
-3Select a color for the fixing stitch from the Color toolbar.
+3. Select a color for the fixing stitch from the Color toolbar.
 
-4Click the Manual Bead icon. If you have activated twin-bead mode, bead options are displayed in the droplist.
+4. Click the Manual Bead icon. If you have activated twin-bead mode, bead options are displayed in the droplist.
 
 ![BeadingManualDroplist.png](assets/BeadingManualDroplist.png)
 
 Tip: Zoom in for more accurate digitizing. Hold down Ctrl+Shift to constrain the cursor to horizontal and vertical directions, or 15° increments.
 
-5Select a bead and left-click to begin your manual bead placement. It must start with at least one stitch. How you proceed depends on the layout style you are aiming for. The most common is ‘flat’:
+5. Select a bead and left-click to begin your manual bead placement. It must start with at least one stitch. How you proceed depends on the layout style you are aiming for. The most common is ‘flat’:
 
 ![FixingStyleLaid.png](assets/FixingStyleLaid.png)
 
-6One technique for creating a ‘flat’ fixing stitch is as follows:
+6. One technique for creating a ‘flat’ fixing stitch is as follows:
 
 - Click-stitch forward as manual run stitching.
 - Move forward one bead length and right-click to drop a bead. An outline appears.
@@ -38,17 +38,17 @@ Tip: Zoom in for more accurate digitizing. Hold down Ctrl+Shift to constrain the
 
 Tip: If you make a mistake while digitizing, press Backspace to retrace your steps.
 
-7Continue digitizing manually in the same way – right-click to drop a bead, left-click to digitize fixing stitches. Press Enter to finish.
+7. Continue digitizing manually in the same way – right-click to drop a bead, left-click to digitize fixing stitches. Press Enter to finish.
 
 ![ManualBeadLaydown2.png](assets/ManualBeadLaydown2.png)
 
 Tip: Remember to test your beading drops on the machine at normal speed (low-to-medium) and then at high speed. Differences will show up at high speed.
 
-8If you have activated multi-bead mode, press the Tab key to switch between available bead shapes while digitizing.
+8. If you have activated multi-bead mode, press the Tab key to switch between available bead shapes while digitizing.
 
 ![ManualBeadLaydown3.png](assets/ManualBeadLaydown3.png)
 
-9Press Enter to finish.
+9. Press Enter to finish.
 
 ![ManualBeadLaydown4.png](assets/ManualBeadLaydown4.png)
 
@@ -60,19 +60,19 @@ The recommended technique for creating a ‘sideways’ layout is similar in pri
 
 ![FixingStyleOver.png](assets/FixingStyleOver.png)
 
-1Click-stitch forward as manual run stitching.
+1. Click-stitch forward as manual run stitching.
 
-2Turn sideways at the point you want to drop the bead.
+2. Turn sideways at the point you want to drop the bead.
 
-3Move forward one bead length and right-click to drop the bead. A bead outline appears.
+3. Move forward one bead length and right-click to drop the bead. A bead outline appears.
 
-4Click-stitch backwards. This stitch is going through the hole and will pull the bead back and down.
+4. Click-stitch backwards. This stitch is going through the hole and will pull the bead back and down.
 
 ![ManualBeadSideways1.png](assets/ManualBeadSideways1.png)
 
-5Click-stitch forward as manual run stitching until you reach the point of the next bead drop.
+5. Click-stitch forward as manual run stitching until you reach the point of the next bead drop.
 
-6Press Enter to finish.
+6. Press Enter to finish.
 
 ![ManualBeadSideways2.png](assets/ManualBeadSideways2.png)
 
@@ -82,19 +82,19 @@ Below is the ‘classic’ upright layout. In this procedure we add some stitch 
 
 ![FixingStyleUpright.png](assets/FixingStyleUpright.png)
 
-1Click-stitch forward as manual run stitching.
+1. Click-stitch forward as manual run stitching.
 
-2Optionally, click-stitch a bead surround in manual run stitching. This will help ‘seat’ the upright bead.
+2. Optionally, click-stitch a bead surround in manual run stitching. This will help ‘seat’ the upright bead.
 
-3Right-click in the center of the surround to drop the bead. A bead outline appears.
+3. Right-click in the center of the surround to drop the bead. A bead outline appears.
 
-4Click-stitch forwards to the edge of the bead surround. This stitch is going through the hole and will secure the bead in the upright position.
+4. Click-stitch forwards to the edge of the bead surround. This stitch is going through the hole and will secure the bead in the upright position.
 
 ![ManualBeadUpright1.png](assets/ManualBeadUpright1.png)
 
-5Click-stitch forward as manual run stitching until you reach the point of the next bead surround.
+5. Click-stitch forward as manual run stitching until you reach the point of the next bead surround.
 
-6Press Enter to finish.
+6. Press Enter to finish.
 
 ![ManualBeadUpright2.png](assets/ManualBeadUpright2.png)
 

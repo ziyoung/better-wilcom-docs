@@ -7,23 +7,23 @@ The Use Object tab allows you to select object outlines from the design window a
 
 ## To use an object as a carving stamp...
 
-1Choose an embroidery object or [vector object](../../glossary/glossary) to serve as your stamp.
+1. Choose an embroidery object or [vector object](../../glossary/glossary) to serve as your stamp.
 
 ![UseObject1.png](assets/UseObject1.png)
 
-2Click the Carving Stamp icon and select the Use Object tab.
+2. Click the Carving Stamp icon and select the Use Object tab.
 
 ![UseObject2.png](assets/UseObject2.png)
 
-3Click the Start Selecting button. Any pre-selected objects remain selected.
+3. Click the Start Selecting button. Any pre-selected objects remain selected.
 
-4Hover the mouse over any object in the design window.
+4. Hover the mouse over any object in the design window.
 
-5Click the Use Stamp button to apply the selection as a carving stamp.
+5. Click the Use Stamp button to apply the selection as a carving stamp.
 
 ![patterns00138.png](assets/patterns00138.png)
 
-6Optionally, click the Add to Library button to add the selection to the library for future reference.
+6. Optionally, click the Add to Library button to add the selection to the library for future reference.
 
 Tip: You can also use lettering, embroidery or TrueType, as an input to stamp creation.
 

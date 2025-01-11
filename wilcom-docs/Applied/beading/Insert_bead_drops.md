@@ -14,43 +14,43 @@ In preference to the Manual Bead tool, some digitizers flesh out designs using R
 
 ## To insert bead drops...
 
-1Select a machine format that supports bead mode via the Select Machine Format dialog.
+1. Select a machine format that supports bead mode via the Select Machine Format dialog.
 
-2Set up your bead palette – single or more – according to machine capabilities.
+2. Set up your bead palette – single or more – according to machine capabilities.
 
-3Set a fixed run length to suit the bead type/s you are using.
+3. Set a fixed run length to suit the bead type/s you are using.
 
 ![beading00125.png](assets/beading00125.png)
 
-4Create the design or pattern you want and choose the bead or beads to use.
+4. Create the design or pattern you want and choose the bead or beads to use.
 
 ![beading00128.png](assets/beading00128.png)
 
-5Optionally, open the Stitch List.
+5. Optionally, open the Stitch List.
 
-6Press the Home button and travel through the design using arrow keys or Travel tools.
+6. Press the Home button and travel through the design using arrow keys or Travel tools.
 
-7Travel to the insertion point and select Insert Function from the toolbar or Stitch List popup menu.
+7. Travel to the insertion point and select Insert Function from the toolbar or Stitch List popup menu.
 
 ![DropBeads2.png](assets/DropBeads2.png)
 
-8From the Functions list, select Drop Bead. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary) or [empty jump](../../glossary/glossary). See your machine manual for details.
+8. From the Functions list, select Drop Bead. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary) or [empty jump](../../glossary/glossary). See your machine manual for details.
 
 ![InsertFunctionDropBead.png](assets/InsertFunctionDropBead.png)
 
-9When the Drop Bead function is correctly defined, click OK. The Select Bead dialog opens showing available beads.
+9. When the Drop Bead function is correctly defined, click OK. The Select Bead dialog opens showing available beads.
 
 ![SelectBead.png](assets/SelectBead.png)
 
-10Choose a preferred bead. The Drop Bead function, together with any additional empty stitches or jumps, is added at the current needle position.
+10. Choose a preferred bead. The Drop Bead function, together with any additional empty stitches or jumps, is added at the current needle position.
 
 ![DropBeads3.png](assets/DropBeads3.png)
 
-11Continue traveling and inserting beads by the same method.
+11. Continue traveling and inserting beads by the same method.
 
 ![DropBeads4.png](assets/DropBeads4.png)
 
-12To delete a bead drop, travel to the location and click the Clear Bead icon.
+12. To delete a bead drop, travel to the location and click the Clear Bead icon.
 
 ## Related topics...
 

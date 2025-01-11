@@ -4,33 +4,33 @@ In addition to the dedicated Monogramming feature, EmbroideryStudio allows you t
 
 ## To add monogram lettering...
 
-1Right-click the Lettering icon to access object properties.
+1. Right-click the Lettering icon to access object properties.
 
 ![lettering_advanced00015.png](assets/lettering_advanced00015.png)
 
-2Select a suitable monogram font such as Octagon Monogram. [See also Standard Fonts.](../../Management/sample_fonts/Standard_Fonts)
+2. Select a suitable monogram font such as Octagon Monogram. [See also Standard Fonts.](../../Management/sample_fonts/Standard_Fonts)
 
 ![OctagonMonogram.png](assets/OctagonMonogram.png)
 
-3Click Insert Symbol. The Insert Symbol dialog opens.
+3. Click Insert Symbol. The Insert Symbol dialog opens.
 
 ![InsertSymbolOctagonMonogram.png](assets/InsertSymbolOctagonMonogram.png)
 
 Tip: When you select a character, a keystroke appears in the Selection field. This indicates the key combination required to type the character directly on-screen.
 
-4Select a left-facing letter. Octagon Monogram, for example, has three sets of each letter, one for the left side, one for the middle and one for the right side. When selecting letters, you need to ensure letter orientation is correct.
+4. Select a left-facing letter. Octagon Monogram, for example, has three sets of each letter, one for the left side, one for the middle and one for the right side. When selecting letters, you need to ensure letter orientation is correct.
 
-5Select a middle letter and then a right-facing letter.
+5. Select a middle letter and then a right-facing letter.
 
 ![MonogramAlphabets1.png](assets/MonogramAlphabets1.png)
 
-6Select a border if required.
+6. Select a border if required.
 
 ![lettering_advanced00020.png](assets/lettering_advanced00020.png)
 
-7Click OK. The selected characters are displayed in the text entry panel.
+7. Click OK. The selected characters are displayed in the text entry panel.
 
-8Click Create Text.
+8. Click Create Text.
 
 ![MonogramSamples1.png](assets/MonogramSamples1.png)
 

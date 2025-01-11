@@ -7,7 +7,7 @@ hero:
   text: "Better UI & Better Experience"
   tagline: Another Docs Site for Wilcom Studio
   image:
-    src: /assets/hero.png
+    src: /hero.png
     alt: Wilcom Studio
   actions:
     - theme: brand

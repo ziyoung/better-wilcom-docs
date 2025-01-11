@@ -10,13 +10,13 @@ In CorelDRAW Graphics, the Tag as Appliqué button allows you to tag selected ve
 
 ## To convert a vector graphic to an appliqué object...
 
-1Create or open a vector graphic in CorelDRAW Graphics and select it.
+1. Create or open a vector graphic in CorelDRAW Graphics and select it.
 
-2Click Tag As Appliqué. The object is tagged for conversion with a thick dotted outline. The CorelDRAW® Object Manager also indicates which objects have been tagged as appliqué.
+2. Click Tag As Appliqué. The object is tagged for conversion with a thick dotted outline. The CorelDRAW® Object Manager also indicates which objects have been tagged as appliqué.
 
 ![applique00002.png](assets/applique00002.png)
 
-3Click Convert Graphics to Embroidery. EmbroideryStudio automatically converts the vector object to appliqué and switches to Wilcom Workspace.
+3. Click Convert Graphics to Embroidery. EmbroideryStudio automatically converts the vector object to appliqué and switches to Wilcom Workspace.
 
 ![TagVectorAsApplique6.png](assets/TagVectorAsApplique6.png)
 

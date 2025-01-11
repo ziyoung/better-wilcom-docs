@@ -9,11 +9,11 @@ When EmbroideryStudio converts a vector graphic, it preserves nodes and control 
 
 ## To reshape objects with Bézier controls...
 
-1Select an object and click Reshape Object. [Control points](../../glossary/glossary) appear together with Reshape Views toolbar.
+1. Select an object and click Reshape Object. [Control points](../../glossary/glossary) appear together with Reshape Views toolbar.
 
-2Toggle on Show Reshape Nodes together with Show Bézier Handles.
+2. Toggle on Show Reshape Nodes together with Show Bézier Handles.
 
-3Reshape objects in one of two ways:
+3. Reshape objects in one of two ways:
 
 - Drag the control handle to reshape the curve around reshape-nodes.
 
@@ -25,7 +25,7 @@ When EmbroideryStudio converts a vector graphic, it preserves nodes and control 
 
 Note: Generally, bézier node dragging preserves the shape of the curve more accurately.
 
-4Release the mouse and/or press Enter to finish. Again depending on system settings, stitches are generated as soon as the reshape-nodes are moved or after Enter is pressed.
+4. Release the mouse and/or press Enter to finish. Again depending on system settings, stitches are generated as soon as the reshape-nodes are moved or after Enter is pressed.
 
 Tip: Press Spacebar to toggle between corner and curve reshape-nodes.
 

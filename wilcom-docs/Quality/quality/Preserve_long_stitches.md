@@ -9,21 +9,21 @@ Apply Auto Jump to satin objects with stitches that exceed the maximum stitch le
 
 ## To preserve long stitches...
 
-1Right-click the Auto Jump icon with or without objects selected to access object properties.
+1. Right-click the Auto Jump icon with or without objects selected to access object properties.
 
 ![quality00131.png](assets/quality00131.png)
 
-2Select the Auto Jump checkbox.
+2. Select the Auto Jump checkbox.
 
-3In the Max length field, enter the maximum stitch length to allow. Stitches exceeding this value will have Auto Jump applied.
+3. In the Max length field, enter the maximum stitch length to allow. Stitches exceeding this value will have Auto Jump applied.
 
 Note: This value must be smaller than or equal to the maximum stitch length possible for the selected [format](../../glossary/glossary).
 
-4Adjust Jump length as required.
+4. Adjust Jump length as required.
 
 Smaller jumps increase the time required to stitch out, but move the frame more smoothly across the design.
 
-5Choose a Length calculation method:
+5. Choose a Length calculation method:
 
 | Option       | Function                                                                     |
 | ------------ | ---------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Smaller jumps increase the time required to stitch out, but move the frame more 
 
 The option you select depends on the way your machine measures stitch length. See your machine documentation for details.
 
-6Press Enter or click Apply.
+6. Press Enter or click Apply.
 
 ![quality00137.png](assets/quality00137.png)
 

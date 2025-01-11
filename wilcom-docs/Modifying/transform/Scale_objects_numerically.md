@@ -6,9 +6,9 @@ Caution: If you scale a machine file by more than ±10%, however, changes to sti
 
 ## To scale objects numerically...
 
-1Select the objects or design to scale.
+1. Select the objects or design to scale.
 
-2In the Property Bar, either:
+2. In the Property Bar, either:
 
 - Enter an exact height and width, or
 - Enter the new height and width as a percentage of current dimensions.
@@ -17,7 +17,7 @@ Caution: If you scale a machine file by more than ±10%, however, changes to sti
 
 Tip: Toggle Lock Aspect Ratio to preserve aspect ratio.
 
-3Press Enter to apply.
+3. Press Enter to apply.
 
 ![transform00029.png](assets/transform00029.png)
 

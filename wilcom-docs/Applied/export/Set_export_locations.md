@@ -7,17 +7,17 @@ In some production environments, each file is placed in a specific location wher
 
 ## To set export locations...
 
-1Run the Export Multi-Decoration Files procedure.
+1. Run the Export Multi-Decoration Files procedure.
 
 ![ExportMultiDecorationFiles00018.png](assets/ExportMultiDecorationFiles00018.png)
 
-2To set or change the default multi-decoration file export settings, click the Locations button.
+2. To set or change the default multi-decoration file export settings, click the Locations button.
 
 ![FileLocations.png](assets/FileLocations.png)
 
-3Select file locations via the browse (...) button for each design component.
+3. Select file locations via the browse (...) button for each design component.
 
-4Click OK to finish.
+4. Click OK to finish.
 
 Once set, your settings are remembered for each successive session.
 

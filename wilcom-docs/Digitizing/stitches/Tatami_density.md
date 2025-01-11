@@ -12,31 +12,31 @@ Tip: When you increase stitch spacing, Auto Underlay should be turned off. If to
 
 ## To set tatami density...
 
-1Select the digitizing method you want to use – e.g. Complex Turning.
+1. Select the digitizing method you want to use – e.g. Complex Turning.
 
-2Select Tatami and create an [embroidery object](../../glossary/glossary). Alternatively, select an existing embroidery object and click Tatami.
+2. Select Tatami and create an [embroidery object](../../glossary/glossary). Alternatively, select an existing embroidery object and click Tatami.
 
 ![TatamiStitches1.png](assets/TatamiStitches1.png)
 
-3Right-click the Tatami icon to access object properties.
+3. Right-click the Tatami icon to access object properties.
 
 ![stitches00081.png](assets/stitches00081.png)
 
-4Adjust Spacing as required. For increased density, enter a smaller value. For more open stitching, enter a larger value.
+4. Adjust Spacing as required. For increased density, enter a smaller value. For more open stitching, enter a larger value.
 
 ![stitches00084.png](assets/stitches00084.png)
 
-5Adjust Length as required.
+5. Adjust Length as required.
 
 ![stitches00087.png](assets/stitches00087.png)
 
-6In the Min length field, enter the length of the shortest stitch to be generated.
+6. In the Min length field, enter the length of the shortest stitch to be generated.
 
 ![stitches00090.png](assets/stitches00090.png)
 
-7Adjust other settings as desired.
+7. Adjust other settings as desired.
 
-8Press Enter or click Apply.
+8. Press Enter or click Apply.
 
 ## Related topics...
 

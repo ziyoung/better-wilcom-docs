@@ -7,31 +7,31 @@ Printed catalogs contain thumbnails plus limited text details. You can prepare c
 
 ## To print a design catalog...
 
-1Open Design Library and filter designs as desired.
+1. Open Design Library and filter designs as desired.
 
 ![DesignLibrarySelectDesigns.png](assets/DesignLibrarySelectDesigns.png)
 
-2Select the designs you want to include in the catalog.
+2. Select the designs you want to include in the catalog.
 
-3Select Manage Designs > Print Selected to Catalog. The Print Catalog Options dialog opens.
+3. Select Manage Designs > Print Selected to Catalog. The Print Catalog Options dialog opens.
 
 ![PrintCatalogOptions.png](assets/PrintCatalogOptions.png)
 
-4Adjust settings as preferred:
+4. Adjust settings as preferred:
 
 - Change Scale (%) to adjust thumbnail size.
 - Select a catalog format – thumbnails with or without design details.
 - Choose output target – PDF file or actual printer.
 
-5Click Print. The Print Design dialog opens.
+5. Click Print. The Print Design dialog opens.
 
 ![PrintDesign.png](assets/PrintDesign.png)
 
-6Click Preview to view the catalog.
+6. Click Preview to view the catalog.
 
 ![PrintDesignCatalog.png](assets/PrintDesignCatalog.png)
 
-7To print the design, choose an option:
+7. To print the design, choose an option:
 
 | Option             | Purpose                                                                                                                                                                                      |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

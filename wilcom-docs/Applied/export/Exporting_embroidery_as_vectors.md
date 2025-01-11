@@ -4,19 +4,19 @@ Once digitized in EmbroideryStudio, embroidery designs can be output as vectors.
 
 ## To export embroidery as vectors...
 
-1Open the embroidery design for export.
+1. Open the embroidery design for export.
 
-2Optionally, select particular objects for export.
+2. Optionally, select particular objects for export.
 
 ![ExportVectors1.png](assets/ExportVectors1.png)
 
-3Choose File > Export Design as Vector.
+3. Choose File > Export Design as Vector.
 
 ![ExportDesignAsVector.png](assets/ExportDesignAsVector.png)
 
-4Choose a file format – EPS or EMF – and export location.
+4. Choose a file format – EPS or EMF – and export location.
 
-5Once saved, open in CorelDRAW Graphics or third-party application for further processing.
+5. Once saved, open in CorelDRAW Graphics or third-party application for further processing.
 
 ![ExportVectors2.png](assets/ExportVectors2.png)
 

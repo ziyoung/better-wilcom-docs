@@ -8,11 +8,11 @@ Empty stitch is a tight (zero length) lockstitch used together with, or as an al
 
 ## To add empty stitches and jumps...
 
-1Travel to the needle position where you want to trim the thread.
+1. Travel to the needle position where you want to trim the thread.
 
-2Click the Insert Empty Stitch icon to insert an empty stitch.
+2. Click the Insert Empty Stitch icon to insert an empty stitch.
 
-3Click the Insert Empty Jump icon to insert an empty jump.
+3. Click the Insert Empty Jump icon to insert an empty jump.
 
 ![AddEmptyFunctions.png](assets/AddEmptyFunctions.png)
 

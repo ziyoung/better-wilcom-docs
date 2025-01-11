@@ -4,12 +4,12 @@ If you modify the NORMAL [template](../../glossary/glossary) supplied with Embro
 
 ## To revert to the NORMAL template...
 
-1Close EmbroideryStudio.
+1. Close EmbroideryStudio.
 
-2Click the MS Windows® Start button and navigate to the Wilcom EmbroideryStudio group.
+2. Click the MS Windows® Start button and navigate to the Wilcom EmbroideryStudio group.
 
-3Select Revert. The Revert to Factory Settings dialog opens.
+3. Select Revert. The Revert to Factory Settings dialog opens.
 
 ![properties00071.png](assets/properties00071.png)
 
-4Select the Templates checkbox and click OK. The original settings for the NORMAL template are restored.
+4. Select the Templates checkbox and click OK. The original settings for the NORMAL template are restored.

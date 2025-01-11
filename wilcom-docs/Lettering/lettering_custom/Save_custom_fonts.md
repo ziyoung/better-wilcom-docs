@@ -4,26 +4,26 @@ Use custom fonts to store any letters you create. To make a new font, you name i
 
 ## To save custom fonts...
 
-1Digitize the objects that make up the new letter, and select them.
+1. Digitize the objects that make up the new letter, and select them.
 
 ![CustomLetter2.png](assets/CustomLetter2.png)
 
-2Select Object > Create Letter.
+2. Select Object > Create Letter.
 
 ![CreateLetter00053.png](assets/CreateLetter00053.png)
 
-3Click Create. The Create Alphabet dialog opens.
+3. Click Create. The Create Alphabet dialog opens.
 
 ![CreateAlphabet.png](assets/CreateAlphabet.png)
 
-4Enter a name for your new font.
+4. Enter a name for your new font.
 
-5Enter spacing in the Default Letter Spacing field. As a rule of thumb:
+5. Enter spacing in the Default Letter Spacing field. As a rule of thumb:
 
 - Use 8-10% for standard fonts such as block and serif styles.
 - Use 0% for script-style fonts.
 
-6Select a method of joining adjacent letters in the Default Join Type list.
+6. Select a method of joining adjacent letters in the Default Join Type list.
 
 | Option       | Function                                                                                                                                              |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,9 +33,9 @@ Use custom fonts to store any letters you create. To make a new font, you name i
 
 Note: The lettering stitch method should be preset to give the best results. In most cases, Closest Join is recommended in order to minimize trims. Bear in mind though that the join method can be changed by the end user.
 
-7Click OK.
+7. Click OK.
 
-8Enter additional values for the selected letter in the Create Letter dialog.
+8. Enter additional values for the selected letter in the Create Letter dialog.
 
 ## Related topics...
 

@@ -7,11 +7,11 @@ The Transform by Reference Line Freely tool lets you rotate selected objects wit
 
 ## To rotate an object by reference line...
 
-1Select objects to rotate.
+1. Select objects to rotate.
 
-2Select Edit > Transform > Transform by Reference Line Freely.
+2. Select Edit > Transform > Transform by Reference Line Freely.
 
-3Follow the prompt line:
+3. Follow the prompt line:
 
 - Click the first reference point. This becomes the anchor point for the rotation.
 - Click a second reference point. An outline attaches to the pointer.

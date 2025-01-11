@@ -7,37 +7,37 @@ The Use Pattern tab lets you select and apply predefined stamp patterns. You can
 
 ## To apply predefined patterns...
 
-1Select an [embroidery object](../../glossary/glossary) or not as required.
+1. Select an [embroidery object](../../glossary/glossary) or not as required.
 
-2Click the Carving Stamp icon. The Use Pattern tab is open by default.
+2. Click the Carving Stamp icon. The Use Pattern tab is open by default.
 
 ![patterns00127.png](assets/patterns00127.png)
 
-3Select a pattern set from the Set list. The droplist contains predefined pattern sets as well as custom sets. Many are shared with other features such as Monogramming.
+3. Select a pattern set from the Set list. The droplist contains predefined pattern sets as well as custom sets. Many are shared with other features such as Monogramming.
 
-4Select a predefined stamp pattern. A thumbnail appears in the preview panel and the Use Stamp button is enabled.
+4. Select a predefined stamp pattern. A thumbnail appears in the preview panel and the Use Stamp button is enabled.
 
-5Click the Use Stamp button and move the mouse pointer to the design window.
+5. Click the Use Stamp button and move the mouse pointer to the design window.
 
-6Move the mouse pointer to the desired position over the target object/s.
+6. Move the mouse pointer to the desired position over the target object/s.
 
 - Right-click to mirror the stamp.
 - Press Shift to prevent Auto Scroll.
 
-7Click the mouse button to fix the anchor point.
+7. Click the mouse button to fix the anchor point.
 
 ![patterns00130.png](assets/patterns00130.png)
 
-8Swivel the pattern about the anchor point to the desired guide point position.
+8. Swivel the pattern about the anchor point to the desired guide point position.
 
-9Optionally, with the Shift key pressed, resize the stamp while moving the mouse pointer.
+9. Optionally, with the Shift key pressed, resize the stamp while moving the mouse pointer.
 
-10Click the mouse button.
+10. Click the mouse button.
 
 - If you have pre-selected an object or objects, the stamp pattern is applied only to those objects.
 - If no objects are pre-selected, the stamp pattern is applied to any underlying objects.
 
-11Press Esc to exit the feature.
+11. Press Esc to exit the feature.
 
 Note: The Rename and Delete buttons are enabled whenever a custom stamp is selected. When the Rename button is clicked, the Rename Split Pattern dialog opens.
 

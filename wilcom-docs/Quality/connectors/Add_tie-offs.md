@@ -7,9 +7,9 @@ You can add tie-offs in your design using the Tie-Off tool. This provides a semi
 
 ## To add a tie-off...
 
-1Travel to the object you want to tie-off.
+1. Travel to the object you want to tie-off.
 
-2Click the Insert Tie-off icon. A Tie-off function is inserted.
+2. Click the Insert Tie-off icon. A Tie-off function is inserted.
 
 ![StitchListTieOffs.png](assets/StitchListTieOffs.png)
 

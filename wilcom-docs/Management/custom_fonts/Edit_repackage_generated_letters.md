@@ -10,29 +10,29 @@ The process of TrueType font conversion is fully automatic. Lettering shapes are
 
 ## To edit & repackage generated letters...
 
-1First set up a grid and save the file for future reference. Whenever you need to fix or edit characters, the grid helps with reference.
+1. First set up a grid and save the file for future reference. Whenever you need to fix or edit characters, the grid helps with reference.
 
 Set up grid spacing in the Options dialog via Setup > Options > Grid & Guides. Turn on Snap to Guides. Set vertical spacing to 10mm and horizontal spacing to 0.50 mm.
 
 ![custom_fonts00051.png](assets/custom_fonts00051.png)
 
-2Generate a sample and study the letters. The complete font set depends on whether you have chosen to convert All Characters or Extended ASCII. The standard character set contains alphanumeric characters only.
+2. Generate a sample and study the letters. The complete font set depends on whether you have chosen to convert All Characters or Extended ASCII. The standard character set contains alphanumeric characters only.
 
 ![custom_fonts00054.png](assets/custom_fonts00054.png)
 
 Tip: You only need to generate those characters that you want to edit and repackage. You can do this over time.
 
-3Note the lettering height. Normally this will default to 10mm but set it to whatever height you prefer to work with.
+3. Note the lettering height. Normally this will default to 10mm but set it to whatever height you prefer to work with.
 
-4Before you start editing, turn off underlay. When you repackage, characters should be without underlay.
+4. Before you start editing, turn off underlay. When you repackage, characters should be without underlay.
 
 ![TurnOffUnderlay.png](assets/TurnOffUnderlay.png)
 
-5Break apart the font, line-by-line and letter-by-letter, until you arrive at the component objects.
+5. Break apart the font, line-by-line and letter-by-letter, until you arrive at the component objects.
 
 ![CustomFont2.png](assets/CustomFont2.png)
 
-6Zoom in to edit letter shapes with the Reshape Object and Knife tools.
+6. Zoom in to edit letter shapes with the Reshape Object and Knife tools.
 
 - Typically you will want to add or remove control points, adjust overlaps, and resequence component objects.
 
@@ -42,15 +42,15 @@ Tip: You only need to generate those characters that you want to edit and repack
 
 ![CustomLettersCut.png](assets/CustomLettersCut.png)
 
-7When you have edited the letter to your satisfaction, select all component objects and apply closest join.
+7. When you have edited the letter to your satisfaction, select all component objects and apply closest join.
 
 ![CustomLettersClosestJoin.png](assets/CustomLettersClosestJoin.png)
 
-8Repackage the edited letter to the converted embroidery font. Select letter components and save using the Object > Create Letter command.
+8. Repackage the edited letter to the converted embroidery font. Select letter components and save using the Object > Create Letter command.
 
 ![custom_fonts00067.png](assets/custom_fonts00067.png)
 
-9In the dialog, specify...
+9. In the dialog, specify...
 
 | Field            | Action                                                        |
 | ---------------- | ------------------------------------------------------------- |
@@ -58,17 +58,17 @@ Tip: You only need to generate those characters that you want to edit and repack
 | Letter name      | This should be the actual character – e.g. ‘L’.               |
 | Reference height | This needs to be the height of the sample letter – e.g. 10mm. |
 
-10Click OK. The following warning will appear...
+10. Click OK. The following warning will appear...
 
 ![WarningLetterExists.png](assets/WarningLetterExists.png)
 
-11Click Yes to proceed and enter a reference line as prompted.
+11. Click Yes to proceed and enter a reference line as prompted.
 
 ![custom_fonts00070.png](assets/custom_fonts00070.png)
 
-12Add any other modified letters to your converted TrueType font in the same way.
+12. Add any other modified letters to your converted TrueType font in the same way.
 
-13Test your updated font via Object Properties > Lettering. Note that changes are preserved and underlay automatically added to the repackaged characters. Test at different font heights.
+13. Test your updated font via Object Properties > Lettering. Note that changes are preserved and underlay automatically added to the repackaged characters. Test at different font heights.
 
 ![TestLatinFont.png](assets/TestLatinFont.png)
 

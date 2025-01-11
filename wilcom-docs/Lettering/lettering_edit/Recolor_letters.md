@@ -7,15 +7,15 @@ EmbroideryStudio lets you change the color of individual letters.
 
 ## To recolor individual letters...
 
-1Click Lettering then click the lettering object.
+1. Click Lettering then click the lettering object.
 
-2Select a letter (or letters) by dragging the cursor over the letter.
+2. Select a letter (or letters) by dragging the cursor over the letter.
 
 ![RecolorLetters1.png](assets/RecolorLetters1.png)
 
-3Click a color on the [Color](../../glossary/glossary) toolbar.
+3. Click a color on the [Color](../../glossary/glossary) toolbar.
 
-4Press Enter.
+4. Press Enter.
 
 ![RecolorLetters0.png](assets/RecolorLetters0.png)
 

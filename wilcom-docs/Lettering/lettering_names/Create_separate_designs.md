@@ -7,15 +7,15 @@ You can create individual designs from each name in a teamname design.
 
 ## To create separate designs...
 
-1Open a design and click the Team Names icon. By default all member names are selected.
+1. Open a design and click the Team Names icon. By default all member names are selected.
 
 ![lettering_names00081.png](assets/lettering_names00081.png)
 
-2Select names to output – click Select All or use Ctrl and Shift keys to selectively choose.
+2. Select names to output – click Select All or use Ctrl and Shift keys to selectively choose.
 
-3To create individual embroidery designs for each team member, click Create Designs. Designs are generated for each name. The name is now a normal lettering object.
+3. To create individual embroidery designs for each team member, click Create Designs. Designs are generated for each name. The name is now a normal lettering object.
 
-4Save each design out individually.
+4. Save each design out individually.
 
 ## Related topics...
 

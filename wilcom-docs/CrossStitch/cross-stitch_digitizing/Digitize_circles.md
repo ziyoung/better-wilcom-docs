@@ -7,13 +7,13 @@ The Circle tool provides a quick way to digitize filled or unfilled circles.
 
 ## To digitize a circle...
 
-1Click the Circle icon.
+1. Click the Circle icon.
 
-2Select a color from the color palette.
+2. Select a color from the color palette.
 
-3Select an Outline or Fill stitch type.
+3. Select an Outline or Fill stitch type.
 
-4Mark the center point then mark a point on the circumference.
+4. Mark the center point then mark a point on the circumference.
 
 - If you want a perfect circle, press Enter.
 - If you want an ellipse, mark a third reference point.

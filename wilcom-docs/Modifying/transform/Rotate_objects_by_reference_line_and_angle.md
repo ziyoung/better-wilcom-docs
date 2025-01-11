@@ -7,20 +7,20 @@ The Transform tool provides another method for transforming selected objects usi
 
 ## To rotate objects by reference line and angle...
 
-1Select the objects to rotate.
+1. Select the objects to rotate.
 
-2Decide which two points in the object or design will form the reference line. This should be a significant line – e.g. one which must be perfectly horizontal or vertical in the final design.
+2. Decide which two points in the object or design will form the reference line. This should be a significant line – e.g. one which must be perfectly horizontal or vertical in the final design.
 
-3Select Edit > Transform > Transform by Reference Line Numerically.
+3. Select Edit > Transform > Transform by Reference Line Numerically.
 
 ![TransformRotate.png](assets/TransformRotate.png)
 
-4Select the Rotate to checkbox, and enter the rotation angle of the reference line. For example, to rotate the image so it aligns with the horizontal axis, enter a value of 0°. The Angle field accepts angles from 0 to ±180 degrees.
+4. Select the Rotate to checkbox, and enter the rotation angle of the reference line. For example, to rotate the image so it aligns with the horizontal axis, enter a value of 0°. The Angle field accepts angles from 0 to ±180 degrees.
 
 ![transform00055.png](assets/transform00055.png)
 
-5Click OK.
+5. Click OK.
 
-6Click to mark the start and end points of the reference line.
+6. Click to mark the start and end points of the reference line.
 
 Press Ctrl to constrain the angle of the axis to 15° increments. Alternatively, press Enter twice to use a horizontal reference line by default.

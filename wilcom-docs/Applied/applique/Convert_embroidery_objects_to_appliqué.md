@@ -6,13 +6,13 @@ You can convert complex fill and other objects to appliqué by adding entry, [ex
 
 ## To convert embroidery objects to appliqué...
 
-1Right-click an object and select Convert and the icon from the popup menu.
+1. Right-click an object and select Convert and the icon from the popup menu.
 
 ![applique00021.png](assets/applique00021.png)
 
-2Click the outline to set the stitch entry and exit points or press Enter to accept the defaults.
+2. Click the outline to set the stitch entry and exit points or press Enter to accept the defaults.
 
-3Mark a frame out position or press Enter to accept the default.
+3. Mark a frame out position or press Enter to accept the default.
 
 The object is converted and stitches regenerated.
 

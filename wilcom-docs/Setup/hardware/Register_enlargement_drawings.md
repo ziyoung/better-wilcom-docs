@@ -4,16 +4,16 @@ When you place an enlargement drawing on the digitizing tablet, you need to regi
 
 ## To register an enlargement drawing...
 
-1Select Setup > Tablet Setup.
+1. Select Setup > Tablet Setup.
 
 ![TabletSetup.png](assets/TabletSetup.png)
 
-2In the Drawing Scale panel, enter the scale of the enlargement drawing. To calculate the scale, divide the height the enlargement drawing by the required height of the final embroidery. Enlargement drawings are generally prepared at a scale of 3.00.
+2. In the Drawing Scale panel, enter the scale of the enlargement drawing. To calculate the scale, divide the height the enlargement drawing by the required height of the final embroidery. Enlargement drawings are generally prepared at a scale of 3.00.
 
-3Tick the Save as defaults checkbox. This saves the registration information for this drawing so you do not have to re-register each time you resume digitizing.
+3. Tick the Save as defaults checkbox. This saves the registration information for this drawing so you do not have to re-register each time you resume digitizing.
 
-4Click OK and place the enlargement drawing on the digitizing tablet.
+4. Click OK and place the enlargement drawing on the digitizing tablet.
 
-5Click the origin and rotation points of the drawing with Button 1 of the digitizing puck. This completes the registration.
+5. Click the origin and rotation points of the drawing with Button 1 of the digitizing puck. This completes the registration.
 
 ![hardware00085.png](assets/hardware00085.png)

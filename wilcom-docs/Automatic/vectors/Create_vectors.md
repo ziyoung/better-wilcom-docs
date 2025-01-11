@@ -1,13 +1,13 @@
 # Create vectors
 
-| ![OpenObject.png](assets/OpenObject.png)       | Use Graphics Digitizing > Digitize Open Shape to digitize open shapes. Press &lt;Ctrl&gt; to constrain.                                                   |
-| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![ClosedObject.png](assets/ClosedObject.png)   | Use Graphics Digitizing > Digitize Closed Shape to digitize closed shapes. Press &lt;Ctrl&gt; to constrain.                                               |
-| ![Ellipse.png](assets/Ellipse.png)             | Use Graphics Digitizing > Ellipse to digitize ellipse or circle embroidery objects.                                                                 |
-| ![Rectangle.png](assets/Rectangle.png)         | Use Graphics Digitizing > Rectangle to digitize rectangle or square embroidery objects. Press &lt;Ctrl&gt; to constrain.                                  |
+| ![OpenObject.png](assets/OpenObject.png)       | Use Graphics Digitizing > Digitize Open Shape to digitize open shapes. Press &lt;Ctrl&gt; to constrain.                                                         |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![ClosedObject.png](assets/ClosedObject.png)   | Use Graphics Digitizing > Digitize Closed Shape to digitize closed shapes. Press &lt;Ctrl&gt; to constrain.                                                     |
+| ![Ellipse.png](assets/Ellipse.png)             | Use Graphics Digitizing > Ellipse to digitize ellipse or circle embroidery objects.                                                                             |
+| ![Rectangle.png](assets/Rectangle.png)         | Use Graphics Digitizing > Rectangle to digitize rectangle or square embroidery objects. Press &lt;Ctrl&gt; to constrain.                                        |
 | ![BasicShapes.png](assets/BasicShapes.png)     | Use Graphics Digitizing > Basic Shapes to digitize basic shapes. Press &lt;Ctrl&gt; to maintain aspect ratio. Press &lt;Shift&gt; to center at the first point. |
-| ![VectorOutline.png](assets/VectorOutline.png) | Use Outline Stitch Types > Vector Outline to create vector outlines with no stitch properties applying.                                             |
-| ![VectorFill.png](assets/VectorFill.png)       | Use Fill Stitch Types > Vector Fill to create vector fills with no stitch properties applying.                                                      |
+| ![VectorOutline.png](assets/VectorOutline.png) | Use Outline Stitch Types > Vector Outline to create vector outlines with no stitch properties applying.                                                         |
+| ![VectorFill.png](assets/VectorFill.png)       | Use Fill Stitch Types > Vector Fill to create vector fills with no stitch properties applying.                                                                  |
 
 Use the Graphics Digitizing tools to create [vector objects](../../glossary/glossary) directly in EmbroideryStudio. Digitizing vector outlines and fills is like digitizing any other objects except that they have no stitch properties applying.
 

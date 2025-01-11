@@ -9,23 +9,23 @@ Note: You must be able to identify the ports on your computer. If in doubt, cons
 
 ## To enter serial port settings...
 
-1Select Legacy Features > Hardware Setup.
+1. Select Legacy Features > Hardware Setup.
 
 ![HardwareSetup00036.png](assets/HardwareSetup00036.png)
 
-2Select a device from the Type list and select an item in the Name column, then click Settings. The &lt;Device&gt; Setup dialog opens.
+2. Select a device from the Type list and select an item in the Name column, then click Settings. The &lt;Device&gt; Setup dialog opens.
 
 ![hardware00039.png](assets/hardware00039.png)
 
-3In the Connected To panel, select a serial port from the Port list.
+3. In the Connected To panel, select a serial port from the Port list.
 
-4Click Setup. The Serial Port Setup dialog opens.
+4. Click Setup. The Serial Port Setup dialog opens.
 
 ![SerialPortSetup.png](assets/SerialPortSetup.png)
 
-5Enter the Baud rate, Data Bits, Stop Bits and Parity and Handshaking settings for the device.
+5. Enter the Baud rate, Data Bits, Stop Bits and Parity and Handshaking settings for the device.
 
-6Click OK.
+6. Click OK.
 
 Note: The port settings must match those of the embroidery machine or selected device. The type of handshaking must match the type of cable you are using. Check the communications setup section of the documentation that came with the device.
 

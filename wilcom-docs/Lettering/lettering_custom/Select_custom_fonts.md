@@ -9,20 +9,20 @@ To use a custom font, select it like any other font. If a letter has a multi-cha
 
 ## To select custom fonts...
 
-1Right-click the Lettering icon to access object properties.
+1. Right-click the Lettering icon to access object properties.
 
 ![lettering_custom00060.png](assets/lettering_custom00060.png)
 
-2Select a custom font from the droplist.
+2. Select a custom font from the droplist.
 
-3Enter the names of the letters you want to use in the text box.
+3. Enter the names of the letters you want to use in the text box.
 
 - If the letter name is a single character – e.g. ‘A’ – enter that character.
 - If the letter name consists of more than one character – e.g. ‘Star’ – enter a tilde (\~) followed by the letter name.
 
 Tip: Combine letters that use single or multiple characters in their name by prefacing the single character with two tildes – e.g. \~Star\~\~A\~Star.
 
-4Set the formatting values as you would for other lettering objects.
+4. Set the formatting values as you would for other lettering objects.
 
 ## Related topics...
 

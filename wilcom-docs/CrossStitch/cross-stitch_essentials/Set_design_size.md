@@ -12,11 +12,11 @@ Known commercially as ‘evenweave’, these fabrics are suited to traditional c
 
 ## To set the design size...
 
-1Select Special > Fabric Count. The Fabric Count dialog opens.
+1. Select Special > Fabric Count. The Fabric Count dialog opens.
 
 ![FabricCount.png](assets/FabricCount.png)
 
-2Select a fabric count option, inches or millimeters:
+2. Select a fabric count option, inches or millimeters:
 
 | Option            | Purpose                                                                                                                                                                                               |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ Tip: By clicking Update, you get an immediate conversion of any values you have 
 
 ![cross-stitch_essentials00010.png](assets/cross-stitch_essentials00010.png)
 
-3Click OK.
+3. Click OK.
 
 ![cross-stitch_essentials00013.png](assets/cross-stitch_essentials00013.png)
 

@@ -9,13 +9,13 @@ In ES Cross Stitch you work with stitch blocks or areas rather than design objec
 
 ## To copy, cut and paste stitch blocks...
 
-1Select the stitch block to copy or cut. [See Selecting & locking stitches for details.](Selecting_locking_stitches)
+1. Select the stitch block to copy or cut. [See Selecting & locking stitches for details.](Selecting_locking_stitches)
 
-2Click the Copy or Cut icon. The selected area or areas are copied to the clipboard.
+2. Click the Copy or Cut icon. The selected area or areas are copied to the clipboard.
 
-3Click the Paste icon. The duplicate area is pasted over top of the selected area.
+3. Click the Paste icon. The duplicate area is pasted over top of the selected area.
 
-4Click and drag to move the pasted stitch block.
+4. Click and drag to move the pasted stitch block.
 
 ![cross-stitch_editing00013.png](assets/cross-stitch_editing00013.png)
 

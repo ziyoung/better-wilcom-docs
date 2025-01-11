@@ -11,11 +11,11 @@ The User-Defined Split function lets you add detail to filled objects by digitiz
 
 ## To create new objects with user-defined splits...
 
-1Select a fill input method such as Complex Fill and suitable stitch type.
+1. Select a fill input method such as Complex Fill and suitable stitch type.
 
-2Click the User-Defined Split icon.
+2. Click the User-Defined Split icon.
 
-3Digitize the object boundaries, entry and [exit points](../../glossary/glossary) and [stitch angle](../../glossary/glossary) as you normally would, following the prompts in the Prompt Line.
+3. Digitize the object boundaries, entry and [exit points](../../glossary/glossary) and [stitch angle](../../glossary/glossary) as you normally would, following the prompts in the Prompt Line.
 
 ![UserDefinedSplit1.png](assets/UserDefinedSplit1.png)
 
@@ -23,19 +23,19 @@ When you have completed the object, you will be prompted to digitize the split l
 
 ![PromptLineUserDefinedSplit.png](assets/PromptLineUserDefinedSplit.png)
 
-4Digitize the split line or press Enter to accept the default. Repeat this step for any additional split lines.
+4. Digitize the split line or press Enter to accept the default. Repeat this step for any additional split lines.
 
 ![UserDefinedSplit2.png](assets/UserDefinedSplit2.png)
 
-5If you have accepted the default, click Reshape Object. Click the diamond control point in the center of the split line to invoke resizing control points. Use these to resize, rotate, or reposition the split line.
+5. If you have accepted the default, click Reshape Object. Click the diamond control point in the center of the split line to invoke resizing control points. Use these to resize, rotate, or reposition the split line.
 
 ![UserDefinedSplit4.png](assets/UserDefinedSplit4.png)
 
-6Alternatively, click the split line at any point. [Control points](../../glossary/glossary) appear together with Reshape Views toolbar. Use these to reshape the split line like any outline object. Note that the split line can extend beyond the object itself.
+6. Alternatively, click the split line at any point. [Control points](../../glossary/glossary) appear together with Reshape Views toolbar. Use these to reshape the split line like any outline object. Note that the split line can extend beyond the object itself.
 
 ![UserDefinedSplit3.png](assets/UserDefinedSplit3.png)
 
-7Press Esc to complete.
+7. Press Esc to complete.
 
 ## Tips for use...
 

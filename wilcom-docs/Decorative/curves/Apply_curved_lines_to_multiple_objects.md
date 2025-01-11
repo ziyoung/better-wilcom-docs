@@ -9,23 +9,23 @@ You can apply Florentine Effect or Liquid Effect to multiple objects in a design
 
 ## To apply a curved line to multiple objects...
 
-1Using the Digitize Run tool, digitize a guideline for the curve to follow. Digitize a second line if you want to apply Liquid Effect.
+1. Using the Digitize Run tool, digitize a guideline for the curve to follow. Digitize a second line if you want to apply Liquid Effect.
 
 ![CurvedLineMultipleObjects1.png](assets/CurvedLineMultipleObjects1.png)
 
-2With the guideline selected, select Object > Use for Florentine Effect. This tags the digitized run as the default curve line.
+2. With the guideline selected, select Object > Use for Florentine Effect. This tags the digitized run as the default curve line.
 
 Tip: With two guidelines selected, the Object > Use for Liquid Effect command becomes available.
 
-3Select an object and click the Florentine Effect icon. Notice that the turning stitches follow the guideline.
+3. Select an object and click the Florentine Effect icon. Notice that the turning stitches follow the guideline.
 
 ![CurvedLineMultipleObjects2.png](assets/CurvedLineMultipleObjects2.png)
 
-4Apply to the other objects in the same way. Notice that the turning stitches again follow the original guideline.
+4. Apply to the other objects in the same way. Notice that the turning stitches again follow the original guideline.
 
 ![CurvedLineMultipleObjects4.png](assets/CurvedLineMultipleObjects4.png)
 
-5Press Esc to complete. Optionally, delete the original run object if not required as part of the design.
+5. Press Esc to complete. Optionally, delete the original run object if not required as part of the design.
 
 Tip: Turn on TrueView™ or use the Show Needle Points tool to view the results.
 

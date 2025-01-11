@@ -9,18 +9,18 @@ Note: Before you send appliqué shapes to a cutter, make sure it is set up on yo
 
 ## To output appliqué shapes...
 
-1Create or open an appliqué design.
+1. Create or open an appliqué design.
 
 ![PartialAppliqueSample300035.png](assets/PartialAppliqueSample300035.png)
 
-2Click Send to Appliqué Cutter or select File > Send to Appliqué Cutter.
+2. Click Send to Appliqué Cutter or select File > Send to Appliqué Cutter.
 
 ![SendToAppliqueCutter00036.png](assets/SendToAppliqueCutter00036.png)
 
-3From the Name list, select the appliqué cutter. For more information, refer to the User Manual of the particular cutter you are using.
+3. From the Name list, select the appliqué cutter. For more information, refer to the User Manual of the particular cutter you are using.
 
-4Click Preview to preview the pattern. The Print Preview dialog opens showing every appliqué shape in the order of the stitching sequence.
+4. Click Preview to preview the pattern. The Print Preview dialog opens showing every appliqué shape in the order of the stitching sequence.
 
 ![SendToAppliqueCutterPreview.png](assets/SendToAppliqueCutterPreview.png)
 
-5Click Print Now to output appliqué shapes to cutter.
+5. Click Print Now to output appliqué shapes to cutter.

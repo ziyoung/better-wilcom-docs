@@ -29,8 +29,8 @@ The single multi-decoration file – ‘Design1.EMB’ – contains embroidery, 
 When bling objects in a design contain rhinestones of different size, shape, and/or color, and the Multiple Files output option is selected in the Settings dialog, files will take a suffix of the following form:
 
 - &lt;filename&gt;_SSx_&lt;color&gt;
-- &lt;filename&gt;_SSx_&lt;color&gt;_&lt;shape_name&gt;
-- &lt;filename&gt;_&lt;color&gt;_&lt;shape_name&gt;_&lt;XxY&gt;
+- &lt;filename&gt;_SSx_&lt;color&gt;\_&lt;shape_name&gt;
+- &lt;filename&gt;_&lt;color&gt;_&lt;shape*name&gt;*&lt;XxY&gt;
 
 For example, consider a design with the following bling types:
 

@@ -9,23 +9,23 @@ Tip: If your product level allows it, you can add and format TrueType lettering 
 
 ## To convert TrueType letters on-the-fly...
 
-1Right-click the Lettering icon to access object properties.
+1. Right-click the Lettering icon to access object properties.
 
 ![lettering_custom00002.png](assets/lettering_custom00002.png)
 
-2Select a TrueType font from the droplist.
+2. Select a TrueType font from the droplist.
 
-3Enter the text you want to embroider.
+3. Enter the text you want to embroider.
 
-4Optionally, click TTF Conversion to adjust conversion settings. Whenever you choose a TrueType font in the Object Properties docker, calculated settings are used by default. As always, conversion settings can be further refined by the user.
+4. Optionally, click TTF Conversion to adjust conversion settings. Whenever you choose a TrueType font in the Object Properties docker, calculated settings are used by default. As always, conversion settings can be further refined by the user.
 
 ![ConversionSettings.png](assets/ConversionSettings.png)
 
-5Click OK to return to the Object Properties > Special > Lettering docker.
+5. Click OK to return to the Object Properties > Special > Lettering docker.
 
-6Select a baseline, adjust letter height and spacings, and click Create Text.
+6. Select a baseline, adjust letter height and spacings, and click Create Text.
 
-7Click an insertion point to create text on-screen.
+7. Click an insertion point to create text on-screen.
 
 ## Related topics...
 

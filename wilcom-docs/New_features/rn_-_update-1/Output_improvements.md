@@ -12,7 +12,7 @@ Where...
 
 | Setting         | Details                                                                                                              |
 | --------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Filename format | Filenames take the format &lt;prefix&gt;&lt;number&gt;.&lt;extension&gt;                                                               |
+| Filename format | Filenames take the format &lt;prefix&gt;&lt;number&gt;.&lt;extension&gt;                                             |
 | Prefix          | ASCII only, no unicode characters. No Windows reserved characters. Length limit 8 characters.                        |
 | Number          | Numeric only. Range 1 – 99,999,999.                                                                                  |
 | Interval        | Interval is numeric only and is the amount the number is incremented each time a file is generated. Range is 1 – 99. |

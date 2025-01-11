@@ -10,23 +10,23 @@ Use the Wreath tool to duplicate objects around a center point. The Kaleidoscope
 
 ## To create wreaths...
 
-1Select the object or design.
+1. Select the object or design.
 
-2Click the Wreath icon. The associated settings are activated.
+2. Click the Wreath icon. The associated settings are activated.
 
-3Move the pointer. Optionally, click the Kaleidoscope toggle to mirror duplicates.
+3. Move the pointer. Optionally, click the Kaleidoscope toggle to mirror duplicates.
 
-4Enter the number of wreath points. Because objects are mirrored, Kaleidoscope works best with an even number.
+4. Enter the number of wreath points. Because objects are mirrored, Kaleidoscope works best with an even number.
 
 ![MirrorMergeWreathPosition.png](assets/MirrorMergeWreathPosition.png)
 
-5Move the pointer to position duplicates. Hold down Ctrl to constrain the reference line to 45° increments.
+5. Move the pointer to position duplicates. Hold down Ctrl to constrain the reference line to 45° increments.
 
-6For more precise positioning, adjust Distance and Angle settings. Tab from field to field to enter values. Press Enter to confirm.
+6. For more precise positioning, adjust Distance and Angle settings. Tab from field to field to enter values. Press Enter to confirm.
 
 Note: Distance and angle are measured from the center of the source to the center of the wreath or kaleidoscope.
 
-7Click to mark the reflection point and press Enter to confirm. The selection is duplicated and distributed around the center point.
+7. Click to mark the reflection point and press Enter to confirm. The selection is duplicated and distributed around the center point.
 
 ![productivity00076.png](assets/productivity00076.png)
 

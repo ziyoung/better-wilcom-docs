@@ -7,11 +7,11 @@ Use the Eraser tool to remove stitches. The eraser will remove either fill stitc
 
 ## To erase fills and single lines...
 
-1Click the Eraser icon.
+1. Click the Eraser icon.
 
-2Click Full Cross on the Stitch toolbar.
+2. Click Full Cross on the Stitch toolbar.
 
-3Click and drag the cursor across the stitches you want to remove.
+3. Click and drag the cursor across the stitches you want to remove.
 
 Only fill stitches are removed. Single line borders remain.
 
@@ -19,9 +19,9 @@ Only fill stitches are removed. Single line borders remain.
 
 Tip: You can also erase cross stitches by selecting them and pressing the Delete key.
 
-4Click Single Line on the Stitch toolbar.
+4. Click Single Line on the Stitch toolbar.
 
-5Click anywhere on a single line. The line is removed. Cross stitches remain.
+5. Click anywhere on a single line. The line is removed. Cross stitches remain.
 
 ![cross-stitch_editing00026.png](assets/cross-stitch_editing00026.png)
 

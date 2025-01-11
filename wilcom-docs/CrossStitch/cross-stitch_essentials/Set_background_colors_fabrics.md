@@ -4,18 +4,18 @@ In ES Cross Stitch you can change the background color of the Design Window to m
 
 ## To set background color or fabric...
 
-1Select Special > Options.
+1. Select Special > Options.
 
-2Select the Background tab.
+2. Select the Background tab.
 
 ![cross-stitch_essentials00024.png](assets/cross-stitch_essentials00024.png)
 
-3Select the Design Window background type.
+3. Select the Design Window background type.
 
 - Color: uses the selected color.
 - Fabric: uses an image of a fabric.
 
-4Select a color or fabric to use.
+4. Select a color or fabric to use.
 
 - To select a background color, click Edit. Select a color from the Color dialog and click OK.
 
@@ -27,4 +27,4 @@ You can center or tile the fabric bitmap in the Design Window. If the bitmap is 
 
 ![OpenFabric.png](assets/OpenFabric.png)
 
-5Click OK.
+5. Click OK.

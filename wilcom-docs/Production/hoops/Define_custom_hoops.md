@@ -7,17 +7,17 @@ If you are using a hoop size that is not in the hoop list, you can define a cust
 
 ## To define a custom hoop...
 
-1Right-click the Show Hoop icon. The Options > Hoop dialog opens.
+1. Right-click the Show Hoop icon. The Options > Hoop dialog opens.
 
 ![hoops00035.png](assets/hoops00035.png)
 
-2Click Create. The Create Hoop dialog opens.
+2. Click Create. The Create Hoop dialog opens.
 
 ![hoops00038.png](assets/hoops00038.png)
 
-3Select the required format for your hoop from the droplist – e.g. rectangle, circle, etc.
+3. Select the required format for your hoop from the droplist – e.g. rectangle, circle, etc.
 
-4In the Stitching Area Dimensions panel, enter the dimensional characteristics of the stitching area:
+4. In the Stitching Area Dimensions panel, enter the dimensional characteristics of the stitching area:
 
 - Circle: Circle stitching areas only require a Diameter to be specified.
 
@@ -39,13 +39,13 @@ If you are using a hoop size that is not in the hoop list, you can define a cust
 
 ![hoops00053.png](assets/hoops00053.png)
 
-5Click Save Hoop or Save Hoop As. The Save Hoop As dialog opens.
+5. Click Save Hoop or Save Hoop As. The Save Hoop As dialog opens.
 
 ![SaveHoopAs.png](assets/SaveHoopAs.png)
 
-6Give your hoop a meaningful name – e.g. ‘Rectangle 180x120’.
+6. Give your hoop a meaningful name – e.g. ‘Rectangle 180x120’.
 
-7Click Save. Your user-defined hoop is now available for use along with the system-defined hoops.
+7. Click Save. Your user-defined hoop is now available for use along with the system-defined hoops.
 
 ## Tips for use...
 

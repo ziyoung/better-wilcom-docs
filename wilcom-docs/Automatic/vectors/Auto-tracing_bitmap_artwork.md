@@ -9,19 +9,19 @@ Tip: Once digitized in EmbroideryStudio, embroidery designs can be output as vec
 
 ## To auto-trace bitmap artwork...
 
-1Scan or insert a bitmap image.
+1. Scan or insert a bitmap image.
 
-2Select the image and process it using the Prepare Bitmap Colors tool.
+2. Select the image and process it using the Prepare Bitmap Colors tool.
 
 ![vectors00048.png](assets/vectors00048.png)
 
-3Click the Auto Trace To Vectors icon. The design is automatically traced into vectors, both outlines and filled shapes.
+3. Click the Auto Trace To Vectors icon. The design is automatically traced into vectors, both outlines and filled shapes.
 
 ![vectors00049.png](assets/vectors00049.png)
 
 Note: If the bitmap needs preliminary color reduction, clicking Auto Trace To Vectors takes you directly to the Prepare Bitmap Colors dialog.
 
-4Select the shape/s you want to convert to embroidery and convert using any of the available techniques.
+4. Select the shape/s you want to convert to embroidery and convert using any of the available techniques.
 
 ![vectors00052.png](assets/vectors00052.png)
 

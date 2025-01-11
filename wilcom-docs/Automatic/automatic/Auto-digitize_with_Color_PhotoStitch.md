@@ -11,44 +11,44 @@ Use Color PhotoStitch to create embroidery from photographs and other images. Wh
 
 ## To process the image...
 
-1Insert the bitmap image in your design and scale it to the required size.
+1. Insert the bitmap image in your design and scale it to the required size.
 
 ![ColorPhotoStitch1.png](assets/ColorPhotoStitch1.png)
 
-2Crop the image as desired using the Crop Bitmap tools.
+2. Crop the image as desired using the Crop Bitmap tools.
 
-3With the image selected, click Color PhotoStitch.
+3. With the image selected, click Color PhotoStitch.
 
 ![ColorPhotoStitch100105.png](assets/ColorPhotoStitch100105.png)
 
 Note: Support is provided for transparent backgrounds in 24 bit and 32 bit images.
 
-4Set the number of thread colors. There will be a point a diminishing returns where more colors do not always result in greater design clarity or stitchability. Usually 7 to 10 colors produce the best results.
+4. Set the number of thread colors. There will be a point a diminishing returns where more colors do not always result in greater design clarity or stitchability. Usually 7 to 10 colors produce the best results.
 
-5Use the zoom buttons to examine the previews in detail. You can also zoom in and out with the mouse wheel.
+5. Use the zoom buttons to examine the previews in detail. You can also zoom in and out with the mouse wheel.
 
-6Optionally, adjust stitching resolution to high, medium, or low. High resolution allows greater detail but with a higher stitch count.
+6. Optionally, adjust stitching resolution to high, medium, or low. High resolution allows greater detail but with a higher stitch count.
 
 ![automatic00108.png](assets/automatic00108.png)
 
-7Click Adjust Bitmap for further options:
+7. Click Adjust Bitmap for further options:
 
 - Click Auto Adjust to allow the software to optimize image settings for automatic digitizing.
 - Use Brightness and Contrast settings to further differentiate darker and lighter areas of stitching.
 - Click Reset to return adjusted settings to default image settings.
 
-8Choose between several image variations:
+8. Choose between several image variations:
 
 | Option | Function                                                                                                                                                                             |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Sepia  | In photographic terms, ‘sepia’ refers to the dark-brown color of old-fashioned prints. Originally the process involved adding a pigment made from cuttlefish ink during development. |
 | Gray   | Grayscale images are ones composed exclusively of shades of gray, varying from black at the weakest intensity to white at the strongest.                                             |
 
-9Use Color Matching to assign image colors to the color palette for manual thread matching. This ensures the best representation. Alternatively, automatically match them to the current color palette or current thread chart. Select one or more available thread charts to match to.
+9. Use Color Matching to assign image colors to the color palette for manual thread matching. This ensures the best representation. Alternatively, automatically match them to the current color palette or current thread chart. Select one or more available thread charts to match to.
 
 ![ColorMatchingMethod00111.png](assets/ColorMatchingMethod00111.png)
 
-10Use Apply to generate temporary stitching without closing the dialog. Further adjust settings until you obtain the result you want and click OK to confirm.
+10. Use Apply to generate temporary stitching without closing the dialog. Further adjust settings until you obtain the result you want and click OK to confirm.
 
 ![automatic00114.png](assets/automatic00114.png)
 

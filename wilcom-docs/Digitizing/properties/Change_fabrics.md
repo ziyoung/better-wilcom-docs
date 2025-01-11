@@ -4,17 +4,17 @@ Normally you choose a [fabric](../../glossary/glossary) when you start a design 
 
 ## To change fabrics...
 
-1Select Design > Auto Fabric.
+1. Select Design > Auto Fabric.
 
 ![AutoFabric.png](assets/AutoFabric.png)
 
-2Tick the Apply Auto Fabric checkbox to activate the feature. Conversely, you can turn off auto fabrics at any stage. You are prompted to confirm the decision.
+2. Tick the Apply Auto Fabric checkbox to activate the feature. Conversely, you can turn off auto fabrics at any stage. You are prompted to confirm the decision.
 
 ![TurningAutoFabricOff.png](assets/TurningAutoFabricOff.png)
 
-3From the list, choose a fabric type matching or nearest to the fabric you intend to work with.
+3. From the list, choose a fabric type matching or nearest to the fabric you intend to work with.
 
-4Click OK.
+4. Click OK.
 
 The selected fabric is displayed in the Status bar. If you choose to apply an auto fabric to a design with no previous fabric, you are prompted to apply it to new objects only or to existing objects as well.
 

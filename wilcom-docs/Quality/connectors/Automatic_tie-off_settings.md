@@ -13,11 +13,11 @@ Tip: For narrow shapes or columns – e.g. small lettering – use only one tie-
 
 ## To adjust tie-off settings...
 
-1Click the Object Properties icon and select the Connectors tab.
+1. Click the Object Properties icon and select the Connectors tab.
 
 ![connectors00020.png](assets/connectors00020.png)
 
-2In the Tie Off panel, select a tie-off option:
+2. In the Tie Off panel, select a tie-off option:
 
 | Option                     | Function                                                                                                                                    |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ Tip: For narrow shapes or columns – e.g. small lettering – use only one tie-
 | Always tie off last        | A tie-off is inserted if the object is the last one in the design.                                                                          |
 | Next connector longer than | A tie-off is inserted if the next connector exceeds the specified length.                                                                   |
 
-3Select a default tie-off method. The system will apply this method where it can but switch where necessary, depending on stitch spacing and type.
+3. Select a default tie-off method. The system will apply this method where it can but switch where necessary, depending on stitch spacing and type.
 
 | Method | Function                                                                                                                                         |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -35,7 +35,7 @@ Tip: For narrow shapes or columns – e.g. small lettering – use only one tie-
 | 2      | Adds a specified number of small stitches up and back down the last stitching line. Generally used with open fills where it is less visible.     |
 | 3      | Splits the second-last stitching line into three equal stitches. Also adds a specified number of small stitches back up the last stitching line. |
 
-4Set the tie-off values:
+4. Set the tie-off values:
 
 | Option | Function                                           |
 | ------ | -------------------------------------------------- |

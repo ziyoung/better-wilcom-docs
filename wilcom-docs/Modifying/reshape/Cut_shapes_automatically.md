@@ -9,11 +9,11 @@ The Automatic Knife tool assists semi-automated digitizing of vector artwork. Wh
 
 ## To cut shapes automatically...
 
-1Select one or more suitable objects for cutting.
+1. Select one or more suitable objects for cutting.
 
 ![KnifeDetail200087.png](assets/KnifeDetail200087.png)
 
-2Click the Automatic Knife icon.
+2. Click the Automatic Knife icon.
 
 EmbroideryStudio cuts the selected object automatically, discarding any unwanted fragments.
 

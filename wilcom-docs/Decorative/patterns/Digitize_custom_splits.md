@@ -9,24 +9,24 @@ The Digitize tab allows you to digitize split lines and directly apply in situ o
 
 ## To digitize custom splits...
 
-1Select an embroidery object or not as required. If embroidery objects are pre-selected, digitized stamps will apply only to these objects.
+1. Select an embroidery object or not as required. If embroidery objects are pre-selected, digitized stamps will apply only to these objects.
 
 ![DigitizeCarvingStamps1.png](assets/DigitizeCarvingStamps1.png)
 
-2Click the Carving Stamp icon and select the Digitize tab of the dialog.
+2. Click the Carving Stamp icon and select the Digitize tab of the dialog.
 
 ![patterns00143.png](assets/patterns00143.png)
 
-3Click the Start Digitizing button. You are prompted to enter a starting point for the stamp outline.
+3. Click the Start Digitizing button. You are prompted to enter a starting point for the stamp outline.
 
 ![DigitizeCarvingStamps2.png](assets/DigitizeCarvingStamps2.png)
 
-4Digitize split lines:
+4. Digitize split lines:
 
 - Press Enter once to complete a boundary.
 - Press Enter again to finish stamp digitizing.
 
-5Click the enabled Stamp button.
+5. Click the enabled Stamp button.
 
 - Click the Stamp button to apply the stamp to selected applicable objects only.
 
@@ -40,7 +40,7 @@ The Digitize tab allows you to digitize split lines and directly apply in situ o
 
 ![DigitizeCarvingStamps7.png](assets/DigitizeCarvingStamps7.png)
 
-6Optionally, click the Add to Library button to add the selection to the library for future reference.
+6. Optionally, click the Add to Library button to add the selection to the library for future reference.
 
 ## Related topics...
 

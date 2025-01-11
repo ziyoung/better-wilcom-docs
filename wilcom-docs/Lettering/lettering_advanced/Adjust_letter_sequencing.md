@@ -7,15 +7,15 @@ You can specify the sequence in which letters are stitched to minimize registrat
 
 ## To adjust letter sequencing...
 
-1Right-click the Lettering icon or double-click selected lettering object/s to access object properties.
+1. Right-click the Lettering icon or double-click selected lettering object/s to access object properties.
 
 ![lettering_advanced00045.png](assets/lettering_advanced00045.png)
 
-2Click Sequence. The Letter Sequence dialog opens.
+2. Click Sequence. The Letter Sequence dialog opens.
 
 ![LetteringSequenceClosestJoin.png](assets/LetteringSequenceClosestJoin.png)
 
-3Select a stitching sequence. Options include:
+3. Select a stitching sequence. Options include:
 
 - In-line: Select whether you want the lettering to be stitched left-to-right or right-to-left in each line.
 
@@ -31,6 +31,6 @@ You can specify the sequence in which letters are stitched to minimize registrat
 
 Note: You can combine both In-line and Line-by-line sequencing options.
 
-4Click OK to return to the Special tab.
+4. Click OK to return to the Special tab.
 
 Tip: Travel through your design to check the stitching sequence. [See Travel through designs for details.](../../Basics/view/Travel_through_designs)

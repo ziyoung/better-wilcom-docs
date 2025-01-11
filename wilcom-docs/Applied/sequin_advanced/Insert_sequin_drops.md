@@ -17,49 +17,49 @@ In preference to the Manual Sequin tool, some digitizers flesh out designs using
 
 ## To insert sequin drops...
 
-1Select a machine format that supports sequin mode via the Select Machine Format dialog.
+1. Select a machine format that supports sequin mode via the Select Machine Format dialog.
 
-2Set up your sequin palette – single, twin, quad, etc – according to machine capabilities.
+2. Set up your sequin palette – single, twin, quad, etc – according to machine capabilities.
 
-3Set a fixed run length to suit the sequin type/s you are using.
+3. Set a fixed run length to suit the sequin type/s you are using.
 
 ![sequin_advanced00108.png](assets/sequin_advanced00108.png)
 
-4Choose a digitizing method to create the design or pattern you want.
+4. Choose a digitizing method to create the design or pattern you want.
 
 ![DropSequins1.png](assets/DropSequins1.png)
 
-5Optionally, open the Stitch List.
+5. Optionally, open the Stitch List.
 
-6Press the Home button and travel through the design using arrow keys or Travel tools.
+6. Press the Home button and travel through the design using arrow keys or Travel tools.
 
-7Travel to the insertion point and press the ‘hotkey’ 5. Alternatively, click the Drop Sequin button.
+7. Travel to the insertion point and press the ‘hotkey’ 5. Alternatively, click the Drop Sequin button.
 
 ![InsertSequinDrop2.png](assets/InsertSequinDrop2.png)
 
-8If you are using a twin-sequin palette, press the hotkey 6 to drop the other sequin. Alternatively, right-click the Drop Sequin button.
+8. If you are using a twin-sequin palette, press the hotkey 6 to drop the other sequin. Alternatively, right-click the Drop Sequin button.
 
 ![DropSequins3.png](assets/DropSequins3.png)
 
-9If you are using a multi-sequin palette, select Insert Function from the toolbar or the Stitch List popup menu.
+9. If you are using a multi-sequin palette, select Insert Function from the toolbar or the Stitch List popup menu.
 
 ![sequin_advanced00117.png](assets/sequin_advanced00117.png)
 
-10From the Functions list, select Drop Sequin. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary) or [empty jump](../../glossary/glossary). See your machine manual for details.
+10. From the Functions list, select Drop Sequin. Depending on machine requirements, you will either add the function to the current stitch, or insert it on an [empty stitch](../../glossary/glossary) or [empty jump](../../glossary/glossary). See your machine manual for details.
 
 ![InsertFunctionDropSequin.png](assets/InsertFunctionDropSequin.png)
 
-11When the Drop Sequin function is correctly defined, click OK. The Select Sequin dialog opens showing available sequins.
+11. When the Drop Sequin function is correctly defined, click OK. The Select Sequin dialog opens showing available sequins.
 
 ![SelectSequinQuad.png](assets/SelectSequinQuad.png)
 
-12 [Drop Sequin function, together with any additional empty stitches or jumps, is added at the current needle position.](../../glossary/glossary)
+1. 2 [Drop Sequin function, together with any additional empty stitches or jumps, is added at the current needle position.](../../glossary/glossary)
 
-13Continue traveling and inserting sequins by the same methods.
+2. Continue traveling and inserting sequins by the same methods.
 
 ![DropSequins5.png](assets/DropSequins5.png)
 
-14To delete a sequin drop, travel to the location and press 4. Alternatively, click the Clear Sequin button.
+14. To delete a sequin drop, travel to the location and press 4. Alternatively, click the Clear Sequin button.
 
 Tip: If you are using Triple Run, the repeat stitch will tack down your sequin drop. If you are using Single Run, you can use the Backtrack tool to tack down the sequin drops.
 

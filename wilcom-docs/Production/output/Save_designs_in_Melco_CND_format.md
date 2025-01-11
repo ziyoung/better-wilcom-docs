@@ -12,19 +12,19 @@ When you save to CND format, you need to specify how to convert turning tatami s
 
 ## To save designs in Melco CND format...
 
-1Select File > Export Machine File. The Export Design dialog opens.
+1. Select File > Export Machine File. The Export Design dialog opens.
 
 ![ExportMachineFileCND.png](assets/ExportMachineFileCND.png)
 
-2Choose Melco CND from the Files of Type list.
+2. Choose Melco CND from the Files of Type list.
 
-3In the File name field, enter a name for the design.
+3. In the File name field, enter a name for the design.
 
-4Click Options. The Save Options dialog opens.
+4. Click Options. The Save Options dialog opens.
 
 ![output00021.png](assets/output00021.png)
 
-5Select the required option for converting Turning Tatami fills:
+5. Select the required option for converting Turning Tatami fills:
 
 | Option                        | Function                                                                                                                                                                                 |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ When you save to CND format, you need to specify how to convert turning tatami s
 
 Note: These functions are also available when you send a CND design for stitching.
 
-6Click OK and then Save.
+6. Click OK and then Save.
 
 ## Related topics...
 

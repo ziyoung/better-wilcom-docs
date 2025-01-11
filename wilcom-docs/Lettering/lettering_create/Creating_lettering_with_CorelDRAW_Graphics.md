@@ -10,13 +10,13 @@ Note: For a detailed description of the CorelDRAW® Graphics Suite interface, ac
 
 ## To create lettering with CorelDRAW Graphics...
 
-1Switch to CorelDRAW Graphics.
+1. Switch to CorelDRAW Graphics.
 
-2Create a CorelDRAW® Graphics Suite text object and select it.
+2. Create a CorelDRAW® Graphics Suite text object and select it.
 
 ![CreateLetteringInGraphicsMode1.png](assets/CreateLetteringInGraphicsMode1.png)
 
-3Click Convert Graphics to Embroidery. Wilcom Workspace opens in a few moments and the converted embroidery lettering displays. Change to a native embroidery font and adjust settings as desired.
+3. Click Convert Graphics to Embroidery. Wilcom Workspace opens in a few moments and the converted embroidery lettering displays. Change to a native embroidery font and adjust settings as desired.
 
 ![CreateLetteringInGraphicsMode4.png](assets/CreateLetteringInGraphicsMode4.png)
 

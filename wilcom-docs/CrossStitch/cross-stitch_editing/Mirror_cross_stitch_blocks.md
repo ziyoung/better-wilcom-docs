@@ -8,9 +8,9 @@ You can mirror blocks of cross stitches either horizontally or vertically.
 
 ## To mirror blocks of cross stitches...
 
-1Select the stitch block to mirror.
+1. Select the stitch block to mirror.
 
-2Click the Mirror Selection Horizontal icon.
+2. Click the Mirror Selection Horizontal icon.
 
 ![cross-stitch_editing00035.png](assets/cross-stitch_editing00035.png)
 

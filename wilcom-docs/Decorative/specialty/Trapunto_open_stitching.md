@@ -11,17 +11,17 @@ Accordion Spacing extends the usefulness of Trapunto by providing a simple way t
 
 ## To create open stitching with trapunto...
 
-1With or without a [complex fill ](../../glossary/glossary)object selected, right-click the Tatami icon to access object properties.
+1. With or without a [complex fill ](../../glossary/glossary)object selected, right-click the Tatami icon to access object properties.
 
 ![specialty00104.png](assets/specialty00104.png)
 
-2In the Spacing field, enter the required stitch spacing. The larger the value, the more open the spacing.
+2. In the Spacing field, enter the required stitch spacing. The larger the value, the more open the spacing.
 
 ![specialty00107.png](assets/specialty00107.png)
 
-3Press Enter.
+3. Press Enter.
 
-4With the [complex fill](../../glossary/glossary) object selected, click the Trapunto icon.
+4. With the [complex fill](../../glossary/glossary) object selected, click the Trapunto icon.
 
 Travel runs and overlapping rows are removed and consistent row spacing applied.
 

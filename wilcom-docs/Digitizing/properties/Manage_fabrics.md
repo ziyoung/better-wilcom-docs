@@ -4,17 +4,17 @@ In addition to predefined [fabric](../../glossary/glossary) settings, you can cr
 
 ## To create a new fabric...
 
-1Select Setup > Manage Auto Fabrics.
+1. Select Setup > Manage Auto Fabrics.
 
 If you already have custom fabrics defined, you have the option of editing, renaming, or deleting.
 
 ![properties00025.png](assets/properties00025.png)
 
-2To create a new fabric type, click Create.
+2. To create a new fabric type, click Create.
 
-3Enter a new fabric name. If you want to base the new fabric on [default settings](../../glossary/glossary), select blank.
+3. Enter a new fabric name. If you want to base the new fabric on [default settings](../../glossary/glossary), select blank.
 
-4Click OK.
+4. Click OK.
 
 The Auto Fabric Settings dialog opens. This dialog allows you to set the fabric values for four object groups – Tatami/Program Split, Wide Satin, Narrow Satin, and Lettering – as well as enter details of any recommended stabilizers.
 

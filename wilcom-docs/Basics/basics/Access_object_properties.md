@@ -7,7 +7,7 @@ The most important [docker](../../glossary/glossary) is Object Properties. Use i
 
 ## To access object properties...
 
-1Open the Object Properties docker by any of the following means:
+1. Open the Object Properties docker by any of the following means:
 
 - Click the Object Properties tool.
 - Double-click an object in the design window.
@@ -16,9 +16,9 @@ The most important [docker](../../glossary/glossary) is Object Properties. Use i
 
 ![basics00029.png](assets/basics00029.png)
 
-2Select a tab to access the properties to adjust.
+2. Select a tab to access the properties to adjust.
 
-3Adjust general properties – width, height, position – by means of the Property Bar. Press Enter to apply. Press Esc to discard changes.
+3. Adjust general properties – width, height, position – by means of the Property Bar. Press Enter to apply. Press Esc to discard changes.
 
 ![PropertyBar.png](assets/PropertyBar.png)
 

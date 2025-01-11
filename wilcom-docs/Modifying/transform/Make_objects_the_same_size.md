@@ -9,11 +9,11 @@ You can scale objects to the same size as a reference object. Resize height or w
 
 ## To make objects the same size...
 
-1Select the objects to resize.
+1. Select the objects to resize.
 
-2Select the object that is the size you require.
+2. Select the object that is the size you require.
 
-3Click a sizing tool or select Arrange > Make Same Size > ...
+3. Click a sizing tool or select Arrange > Make Same Size > ...
 
 ![transform00037.png](assets/transform00037.png)
 

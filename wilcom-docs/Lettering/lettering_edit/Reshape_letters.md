@@ -7,36 +7,36 @@ Create special lettering effects by reshaping letter outlines with the Reshape O
 
 ## To reshape letters...
 
-1Select the lettering object and click Reshape Object.
+1. Select the lettering object and click Reshape Object.
 
-2Click the letter outline. Control points appear around the outline. Selectively turn off control points as required.
+2. Click the letter outline. Control points appear around the outline. Selectively turn off control points as required.
 
 ![lettering_edit00053.png](assets/lettering_edit00053.png)
 
-3Select reshape nodes by any of the following means:
+3. Select reshape nodes by any of the following means:
 
 - Drag a [selection marquee](../../glossary/glossary) around the reshape nodes you require.
 - To select multiple nodes, hold down Ctrl or Shift as you select.
 
 ![lettering_edit00056.png](assets/lettering_edit00056.png)
 
-4Reshape the letter like any other object and press Enter.
+4. Reshape the letter like any other object and press Enter.
 
 ![lettering_edit00059.png](assets/lettering_edit00059.png)
 
 Tip: Press Spacebar to toggle between selected corner and curve reshape-nodes.
 
-5Adjust stitch angles as required and press Enter.
+5. Adjust stitch angles as required and press Enter.
 
 ![lettering_edit00062.png](assets/lettering_edit00062.png)
 
 Tip: Holding down the Ctrl key, click the outline wherever you want to place an additional stitch angle.
 
-6Adjust entry/exit points as required and press Enter.
+6. Adjust entry/exit points as required and press Enter.
 
 ![lettering_edit00065.png](assets/lettering_edit00065.png)
 
-7Press Esc to finish.
+7. Press Esc to finish.
 
 ![ReshapeLetters0.png](assets/ReshapeLetters0.png)
 

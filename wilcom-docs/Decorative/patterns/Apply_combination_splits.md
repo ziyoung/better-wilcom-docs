@@ -10,11 +10,11 @@ Standard program split consists of a satin foreground and background – i.e. Sa
 
 ## To apply combination splits...
 
-1Right-click the Program Split icon to access object properties.
+1. Right-click the Program Split icon to access object properties.
 
 ![patterns00045.png](assets/patterns00045.png)
 
-2In the Combination Split panel, click the desired option:
+2. In the Combination Split panel, click the desired option:
 
 ![patterns00048.png](assets/patterns00048.png)
 

@@ -4,14 +4,14 @@ When you select an object, [selection handles](../../glossary/glossary) display 
 
 ## To rotate objects interactively...
 
-1Select the objects to rotate.
+1. Select the objects to rotate.
 
-2Click a second time. Rotation handles appear at the corners and an anchor point at the center.
+2. Click a second time. Rotation handles appear at the corners and an anchor point at the center.
 
 ![transform00040.png](assets/transform00040.png)
 
-3Optionally, drag the anchor point to any position.
+3. Optionally, drag the anchor point to any position.
 
 ![transform00043.png](assets/transform00043.png)
 
-4Click-and-drag a rotation handle in either direction.
+4. Click-and-drag a rotation handle in either direction.

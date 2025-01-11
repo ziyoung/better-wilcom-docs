@@ -7,13 +7,13 @@ Using the Object Properties docker, you can specify letter formatting before add
 
 ## To create lettering with object properties...
 
-1Right-click the Lettering icon to access object properties.
+1. Right-click the Lettering icon to access object properties.
 
 ![lettering_create00023.png](assets/lettering_create00023.png)
 
-2Enter the text you want to embroider in the text entry panel. To start a new line, press Enter.
+2. Enter the text you want to embroider in the text entry panel. To start a new line, press Enter.
 
-3Select a font from the Font droplist. To filter the list:
+3. Select a font from the Font droplist. To filter the list:
 
 - Choose a font type: Embroidery, TrueType, or All.
 - Choose a TrueType font style: Block, Serif, Script, Decorative, or All. These only apply to TrueType fonts.
@@ -23,15 +23,15 @@ Using the Object Properties docker, you can specify letter formatting before add
 
 Tip: Check min/max recommendations for each font and stay within them for best results. [See Standard Fonts for details.](../../Management/sample_fonts/Standard_Fonts)
 
-4Select a baseline from the droplist. Baselines determine the shape of lettering objects in a design.
+4. Select a baseline from the droplist. Baselines determine the shape of lettering objects in a design.
 
 ![lettering_create00029.png](assets/lettering_create00029.png)
 
-5Click Create Text in the docker.
+5. Click Create Text in the docker.
 
-6Click on screen to place the lettering, or mark reference points for the selected baseline.
+6. Click on screen to place the lettering, or mark reference points for the selected baseline.
 
-7Press Enter to generate. Letters are filled with stitches according to current settings in the Object Properties docker. Change these at any time.
+7. Press Enter to generate. Letters are filled with stitches according to current settings in the Object Properties docker. Change these at any time.
 
 ![CreateLettering2.png](assets/CreateLettering2.png)
 

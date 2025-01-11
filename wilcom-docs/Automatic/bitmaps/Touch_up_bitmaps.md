@@ -4,13 +4,13 @@ Sometimes you need to edit bitmap images directly in a third-party graphics pack
 
 ## To touch up a bitmap...
 
-1Select the image.
+1. Select the image.
 
 ![EditImage1.png](assets/EditImage1.png)
 
-2Select Graphics > Edit Using >.... The image opens in the select graphics package.
+2. Select Graphics > Edit Using >.... The image opens in the select graphics package.
 
-3Edit the image and save.
+3. Edit the image and save.
 
 ![EditImage3.png](assets/EditImage3.png)
 
@@ -18,7 +18,7 @@ Note: If you return to EmbroideryStudio before closing the image in the graphics
 
 ![EditImage4.png](assets/EditImage4.png)
 
-4Return to the graphics package and select either File > Close or File > Exit & Return &lt;FileName&gt;. In EmbroideryStudio, the stripes will disappear.
+4. Return to the graphics package and select either File > Close or File > Exit & Return &lt;FileName&gt;. In EmbroideryStudio, the stripes will disappear.
 
 ## Related topics...
 

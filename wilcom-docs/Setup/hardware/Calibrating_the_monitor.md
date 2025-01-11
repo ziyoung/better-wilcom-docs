@@ -4,15 +4,15 @@ You need to calibrate your monitor so that designs at 1:1 scale appear at real s
 
 ## To calibrate the monitor...
 
-1Select Setup > Calibrate Screen.
+1. Select Setup > Calibrate Screen.
 
 ![CalibrateScreen.png](assets/CalibrateScreen.png)
 
-2Measure the height and width of the dialog box.
+2. Measure the height and width of the dialog box.
 
-3Enter the measurement in the Width and Height fields.
+3. Enter the measurement in the Width and Height fields.
 
-4Click OK.
+4. Click OK.
 
 ## Related topics...
 

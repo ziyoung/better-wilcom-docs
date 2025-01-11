@@ -1,8 +1,8 @@
 # Digitize regular shapes
 
 | ![Rectangle.png](assets/Rectangle.png) | Use Graphics Digitizing > Rectangle to digitize rectangle or square objects. Press &lt;Ctrl&gt; for a square. |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| ![Ellipse.png](assets/Ellipse.png)     | Use Graphics Digitizing > Ellipse to digitize ellipse or circle objects.                                |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ![Ellipse.png](assets/Ellipse.png)     | Use Graphics Digitizing > Ellipse to digitize ellipse or circle objects.                                      |
 
 EmbroideryStudio provides digitizing tools for quickly creating regular shapes such as circles and squares, ovals and rectangles.
 

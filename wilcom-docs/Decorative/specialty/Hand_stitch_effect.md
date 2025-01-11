@@ -9,17 +9,17 @@ Fashion trends sometimes favor a more organic look which is very hard to achieve
 
 ## To apply hand stitch effect...
 
-1Choose the object you want to apply the effect to or toggle on Hand Stitch effect before you start digitizing. It can be applied to satin, tatami, run, backstitch, and other stitch types.
+1. Choose the object you want to apply the effect to or toggle on Hand Stitch effect before you start digitizing. It can be applied to satin, tatami, run, backstitch, and other stitch types.
 
-2Click the Hand Stitch icon. The effect is applied based on current settings.
+2. Click the Hand Stitch icon. The effect is applied based on current settings.
 
 ![HandStitchEffect1.png](assets/HandStitchEffect1.png)
 
-3Right-click the Hand Stitch icon to access object properties.
+3. Right-click the Hand Stitch icon to access object properties.
 
 ![specialty00027.png](assets/specialty00027.png)
 
-4Adjust stitch roughness settings to diminish or exaggerate the effect:
+4. Adjust stitch roughness settings to diminish or exaggerate the effect:
 
 - In the Length field, enter a value between 0 and 5 to set stitch-length variation. ‘0’ indicates that no change is applied to current stitch settings.
 
@@ -29,7 +29,7 @@ Fashion trends sometimes favor a more organic look which is very hard to achieve
 
 ![HandStitchEffect3.png](assets/HandStitchEffect3.png)
 
-5Adjust stitch mass settings to diminish or exaggerate stitch mass:
+5. Adjust stitch mass settings to diminish or exaggerate stitch mass:
 
 - In the Count field, select a multiplication factor to increase hand-stitch density.
 
@@ -39,7 +39,7 @@ Fashion trends sometimes favor a more organic look which is very hard to achieve
 
 ![HandStitchEffect5.png](assets/HandStitchEffect5.png)
 
-6Optionally, in the Variant field, enter a value between 1 and 10 to experiment with variants of the same roughness and mass settings.
+6. Optionally, in the Variant field, enter a value between 1 and 10 to experiment with variants of the same roughness and mass settings.
 
 ![HandStitchEffect6.png](assets/HandStitchEffect6.png)
 

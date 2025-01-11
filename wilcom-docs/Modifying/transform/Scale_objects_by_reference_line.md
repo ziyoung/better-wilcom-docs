@@ -7,20 +7,20 @@ You can scale an object or design by marking reference points and specifying a l
 
 ## To scale an object by reference line...
 
-1Select the objects or design to scale.
+1. Select the objects or design to scale.
 
-2Select Edit > Transform > Transform by Reference Line Numerically.
+2. Select Edit > Transform > Transform by Reference Line Numerically.
 
 You are prompted to enter start and end points. You will have already decided which two points in the object or design will form the reference line.
 
 ![transform00032.png](assets/transform00032.png)
 
-3Click to mark the reference points. Press Ctrl to constrain the angle of the axis to 15° increments.
+3. Click to mark the reference points. Press Ctrl to constrain the angle of the axis to 15° increments.
 
-4Alternatively, press Enter twice to use the default reference line. The Transform by Reference Line dialog opens.
+4. Alternatively, press Enter twice to use the default reference line. The Transform by Reference Line dialog opens.
 
 ![TransformResize.png](assets/TransformResize.png)
 
-5Select the Resize to checkbox, and enter the required distance between reference points.
+5. Select the Resize to checkbox, and enter the required distance between reference points.
 
-6Click OK.
+6. Click OK.

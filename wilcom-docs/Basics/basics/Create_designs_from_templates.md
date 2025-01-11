@@ -7,21 +7,21 @@ Templates are special files used to store styles, [default properties](../../glo
 
 ## To create a design based on a template...
 
-1Select File > New from Template or, holding down the Shift key, click New Design. The New from Template dialog opens.
+1. Select File > New from Template or, holding down the Shift key, click New Design. The New from Template dialog opens.
 
 ![NewFromTemplate.png](assets/NewFromTemplate.png)
 
-2Select a template from the droplist. When you create a file based on a template, its settings are copied to the new design.
+2. Select a template from the droplist. When you create a file based on a template, its settings are copied to the new design.
 
-3If you want, additionally, to use fabric settings, tick the checkbox. From the droplist, choose a fabric type nearest the one you intend to work with.
+3. If you want, additionally, to use fabric settings, tick the checkbox. From the droplist, choose a fabric type nearest the one you intend to work with.
 
-4Optionally, choose a background to match the selected auto fabric.
+4. Optionally, choose a background to match the selected auto fabric.
 
-5Choose a target machine from the droplist. You normally decide which [machine format](../../glossary/glossary) to use before you start. However, formats can be changed at any time.
+5. Choose a target machine from the droplist. You normally decide which [machine format](../../glossary/glossary) to use before you start. However, formats can be changed at any time.
 
 Tip: You can customize or add formats to suit the target machine.
 
-6Click OK to accept. A blank design opens in the design window based on the selected template. Settings will apply to all newly created [embroidery objects](../../glossary/glossary). Any selected fabric is displayed in the Status Bar.
+6. Click OK to accept. A blank design opens in the design window based on the selected template. Settings will apply to all newly created [embroidery objects](../../glossary/glossary). Any selected fabric is displayed in the Status Bar.
 
 Tip: The New from Template option is activated by default. Turn it off if you prefer work without predefined fabric settings.
 

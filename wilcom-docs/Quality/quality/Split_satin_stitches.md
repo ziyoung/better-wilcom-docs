@@ -7,13 +7,13 @@ While Auto Split is used primarily to prevent long stitches in wide columns, it 
 
 ## To split satin stitches...
 
-1Click the Satin icon with or without objects selected to access object properties.
+1. Click the Satin icon with or without objects selected to access object properties.
 
 ![quality00118.png](assets/quality00118.png)
 
-2Select the Auto Split checkbox.
+2. Select the Auto Split checkbox.
 
-3Enter a [maximum](../../glossary/glossary) satin stitch length to allow before Auto Split is applied.
+3. Enter a [maximum](../../glossary/glossary) satin stitch length to allow before Auto Split is applied.
 
 Stitches that exceed this value will be split into smaller stitches. This value can be smaller than the maximum stitch generally used in the design.
 
@@ -21,11 +21,11 @@ Stitches that exceed this value will be split into smaller stitches. This value 
 
 Tip: Use a length of 7.00 mm to preserve the satin effect.
 
-4In the Min length field, enter the shortest stitch that can be generated when using Auto Split.
+4. In the Min length field, enter the shortest stitch that can be generated when using Auto Split.
 
 ![quality00124.png](assets/quality00124.png)
 
-5Press Enter or click Apply.
+5. Press Enter or click Apply.
 
 Tip: As an alternative to Auto Split, try a textured tatami fill or [Program Split](../../glossary/glossary). Or, use User Defined Split to manage split lines in satin fills.
 

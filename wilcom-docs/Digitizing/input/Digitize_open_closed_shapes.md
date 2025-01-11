@@ -1,7 +1,7 @@
 # Digitize open & closed shapes
 
 | ![OpenObject.png](assets/OpenObject.png)     | Use Graphics Digitizing > Digitize Open Shape to digitize open shapes. Press &lt;Ctrl&gt; to constrain.           |
-| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | ![ClosedObject.png](assets/ClosedObject.png) | Use Graphics Digitizing > Digitize Closed Shape to digitize closed shapes. Press &lt;Ctrl&gt; to create a square. |
 
 Use the Digitize Open Shape tool to digitize open shapes with any kind of outline stitch. Digitize Open Shape places a row of stitches along a digitized line. This tool is typically used to add borders or details to designs. Digitize free-form closed shapes with the Digitize Closed Shape tool. This tool can be used with either outline or fill stitch types.

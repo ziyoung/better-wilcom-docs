@@ -9,20 +9,20 @@ You can use automatic jumps as [connectors](../../glossary/glossary) between emb
 
 ## To use jumps as connectors...
 
-1Click the Object Properties icon and select the Connectors tab.
+1. Click the Object Properties icon and select the Connectors tab.
 
 ![connectors00004.png](assets/connectors00004.png)
 
-2Select a connector method:
+2. Select a connector method:
 
 | Option        | Function                                                                                                                                                                                      |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | After object  | Adjust connectors immediately following the current object.                                                                                                                                   |
 | Inside object | Adjust connectors joining components of lettering objects or motif runs. This setting also applies to disconnected parts of branched objects. It does not apply to segments within an object. |
 
-3Select Jump and enter a distance for each frame movement. Shorter jump values generally improve stitch quality and reduce wear on the machine but may increase stitch-out time.
+3. Select Jump and enter a distance for each frame movement. Shorter jump values generally improve stitch quality and reduce wear on the machine but may increase stitch-out time.
 
-4Adjust trims and ties as required:
+4. Adjust trims and ties as required:
 
 | Option     | Function                                                                                                                                                        |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

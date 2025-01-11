@@ -4,20 +4,20 @@ Some embroidery machines are equipped with a borer. The borer often replaces one
 
 ## To set borer functions...
 
-1Open a design.
+1. Open a design.
 
-2Access the Machine Format Settings > Standard dialog. Only fields relevant to the selected machine format will appear.
+2. Access the Machine Format Settings > Standard dialog. Only fields relevant to the selected machine format will appear.
 
 ![machines00012.png](assets/machines00012.png)
 
-3In the Boring panel, enter the required borer offset.
+3. In the Boring panel, enter the required borer offset.
 
 - If your machine automatically inserts an offset when a Borer In function is encountered, enter an offset of 0 mm.
 - If your machine requires an offset value, enter an offset of ±12.0 mm.
 
-4Enter the needle number to which the borer is attached.
+4. Enter the needle number to which the borer is attached.
 
-5Click Save then Close.
+5. Click Save then Close.
 
 ## Related topics...
 

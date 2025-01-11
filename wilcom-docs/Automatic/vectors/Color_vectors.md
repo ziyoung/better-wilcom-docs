@@ -7,15 +7,15 @@ EmbroideryStudio lets you set colors for vector outlines as well as fills. Color
 
 ## To color vectors...
 
-1Create or insert a vector graphic.
+1. Create or insert a vector graphic.
 
 ![VectorObjectsColoring.png](assets/VectorObjectsColoring.png)
 
-2Ungroup the vector objects as necessary.
+2. Ungroup the vector objects as necessary.
 
-3Select a vector object, right-click and select Properties from the popup menu. The Object Properties docker opens.
+3. Select a vector object, right-click and select Properties from the popup menu. The Object Properties docker opens.
 
-4To change the outline color of the selected object, adjust the settings in the Line panel:
+4. To change the outline color of the selected object, adjust the settings in the Line panel:
 
 - Select an outline style from the Style list.
 - Select an outline width from the Width field.
@@ -23,11 +23,11 @@ EmbroideryStudio lets you set colors for vector outlines as well as fills. Color
 
 ![VectorObjectsColoringOutlines.png](assets/VectorObjectsColoringOutlines.png)
 
-5To fill the selected object with a solid color, select the Solid Fill icon and click the Color droplist to access the colors.
+5. To fill the selected object with a solid color, select the Solid Fill icon and click the Color droplist to access the colors.
 
 ![VectorObjectsColoringSolidFill.png](assets/VectorObjectsColoringSolidFill.png)
 
-6To fill the selected object with a pattern fill, select the Pattern Fill icon and adjust the settings:
+6. To fill the selected object with a pattern fill, select the Pattern Fill icon and adjust the settings:
 
 - Select a pattern style from the droplist.
 - Select a foreground color via the Front button.
@@ -35,7 +35,7 @@ EmbroideryStudio lets you set colors for vector outlines as well as fills. Color
 
 ![VectorObjectsColoringPatternFill.png](assets/VectorObjectsColoringPatternFill.png)
 
-7To fill the selected object with a bitmap – e.g. a fabric texture – select the Bitmap Fill icon and click the Load button to insert an image file via the Open dialog.
+7. To fill the selected object with a bitmap – e.g. a fabric texture – select the Bitmap Fill icon and click the Load button to insert an image file via the Open dialog.
 
 ![VectorObjectsColoringBitmapFill.png](assets/VectorObjectsColoringBitmapFill.png)
 

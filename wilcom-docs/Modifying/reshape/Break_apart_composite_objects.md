@@ -9,11 +9,11 @@ Note: When saved into earlier versions of the software, monograms, appliqués, l
 
 ## To break apart a composite object...
 
-1Select the object you want to break apart – e.g. branched object, appliqué, monogram, lettering, etc.
+1. Select the object you want to break apart – e.g. branched object, appliqué, monogram, lettering, etc.
 
 ![reshape00069.png](assets/reshape00069.png)
 
-2Click the Break Apart icon or select Arrange > Break Apart. The branched object is split into component objects.
+2. Click the Break Apart icon or select Arrange > Break Apart. The branched object is split into component objects.
 
 ![reshape00070.png](assets/reshape00070.png)
 

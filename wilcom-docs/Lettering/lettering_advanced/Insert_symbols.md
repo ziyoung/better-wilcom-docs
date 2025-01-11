@@ -9,21 +9,21 @@ Add special characters and symbols to your lettering designs.
 
 ## To insert symbols...
 
-1Right-click the Lettering icon to access object properties.
+1. Right-click the Lettering icon to access object properties.
 
 ![lettering_advanced00001.png](assets/lettering_advanced00001.png)
 
 Tip: If you already know the keyboard shortcut for a symbol, you can add it by entering the combination on screen or in the docker.
 
-2Click Insert Symbol.
+2. Click Insert Symbol.
 
 ![InsertSymbol.png](assets/InsertSymbol.png)
 
-3Select a font or symbol set from the Symbol set list.
+3. Select a font or symbol set from the Symbol set list.
 
-4Select the symbols you want to use. Selected symbols are displayed in the Selection field.
+4. Select the symbols you want to use. Selected symbols are displayed in the Selection field.
 
-5Click OK. The selected symbols are displayed in the text entry panel of the Object Properties > Special > Lettering docker.
+5. Click OK. The selected symbols are displayed in the text entry panel of the Object Properties > Special > Lettering docker.
 
 ## Related topics...
 

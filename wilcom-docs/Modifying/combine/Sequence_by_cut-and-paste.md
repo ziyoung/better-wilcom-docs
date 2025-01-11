@@ -8,15 +8,15 @@ You can resequence objects by cutting an object from the design and pasting it b
 
 ## To sequence objects by cut-and-paste...
 
-1Select the object (or objects) to resequence.
+1. Select the object (or objects) to resequence.
 
-2Click the Cut icon. The selected object is removed to the [clipboard](../../glossary/glossary).
+2. Click the Cut icon. The selected object is removed to the [clipboard](../../glossary/glossary).
 
 ![combine00050.png](assets/combine00050.png)
 
-3Travel to the point in the [stitching sequence](../../glossary/glossary) where you want to paste the object. You can place it between other objects or ‘nest’ it within another object.
+3. Travel to the point in the [stitching sequence](../../glossary/glossary) where you want to paste the object. You can place it between other objects or ‘nest’ it within another object.
 
-4Click the Paste icon. The object is pasted according to current settings.
+4. Click the Paste icon. The object is pasted according to current settings.
 
 ![combine00053.png](assets/combine00053.png)
 

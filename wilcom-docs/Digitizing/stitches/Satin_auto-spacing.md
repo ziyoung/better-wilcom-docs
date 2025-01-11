@@ -12,15 +12,15 @@ Adjust Auto Spacing to specify how rapidly spacing changes and by how much. You 
 
 ## To adjust auto-spacing settings...
 
-1Right-click the Satin icon to access object properties.
+1. Right-click the Satin icon to access object properties.
 
 ![stitches00044.png](assets/stitches00044.png)
 
-2Click Settings. The Auto Spacing Settings dialog opens.
+2. Click Settings. The Auto Spacing Settings dialog opens.
 
 ![AutoSpacingSettings.png](assets/AutoSpacingSettings.png)
 
-3Adjust stitch settings in the Stitch panel:
+3. Adjust stitch settings in the Stitch panel:
 
 | Setting | Function                                                                                                                                                                                                              |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ Adjust Auto Spacing to specify how rapidly spacing changes and by how much. You 
 
 ![stitches00049.png](assets/stitches00049.png)
 
-4Adjust spacing offsets for different thread types.
+4. Adjust spacing offsets for different thread types.
 
 The offset determines the amount by which stitch settings will be adjusted for different thread thicknesses.
 
@@ -42,7 +42,7 @@ The offset determines the amount by which stitch settings will be adjusted for d
 
 Note: You assign the thread type in the Add Thread dialog. Stitch spacing of the assigned thread type is automatically adjusted according to the values set there.
 
-5Click OK.
+5. Click OK.
 
 ## Related topics...
 

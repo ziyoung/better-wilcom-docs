@@ -9,11 +9,11 @@ Use the Column B tool to digitize shapes where one side is different to the othe
 
 ## To digitize asymmetric columns...
 
-1Click the Column B icon.
+1. Click the Column B icon.
 
-2Select a color and stitch type – e.g. Satin.
+2. Select a color and stitch type – e.g. Satin.
 
-3Digitize the first side of the shape – i.e. top or left – by marking points.
+3. Digitize the first side of the shape – i.e. top or left – by marking points.
 
 - Click to enter corner points.
 - Right-click to enter curve points.
@@ -22,11 +22,11 @@ Use the Column B tool to digitize shapes where one side is different to the othe
 
 Tip: If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
 
-4Press Enter.
+4. Press Enter.
 
 An elastic line attaches to the pointer, ready for you to digitize the second side of the shape.
 
-5Digitize the second – i.e. bottom or right – side of the object.
+5. Digitize the second – i.e. bottom or right – side of the object.
 
 ![InputBDigitizing.png](assets/InputBDigitizing.png)
 
@@ -34,7 +34,7 @@ Tip: Stitch angles vary from tightly turning fills to parallel fills, depending 
 
 ![input00119.png](assets/input00119.png)
 
-6When you have finished digitizing the shape, either:
+6. When you have finished digitizing the shape, either:
 
 - Press Enter to keep the last stitch and place the [exit point](../../glossary/glossary) at the last point you digitized, or
 - Press Spacebar to omit the last stitch and place the exit point on the opposite side of the column.

@@ -7,11 +7,11 @@ You can choose to turn off automatic trimming, to always trim connecting stitche
 
 ## To adjust automatic trim settings...
 
-1Click the Object Properties icon and select the Connectors tab.
+1. Click the Object Properties icon and select the Connectors tab.
 
 ![connectors00024.png](assets/connectors00024.png)
 
-2In the Trim After panel, select a trim option:
+2. In the Trim After panel, select a trim option:
 
 | Option                                | Function                                                                                                                                                                                                        |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

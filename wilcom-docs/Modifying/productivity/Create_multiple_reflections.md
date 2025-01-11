@@ -7,21 +7,21 @@ Use the Reflect tool to duplicate and mirror designs simultaneously. Set any num
 
 ## To create reflected objects...
 
-1Select the object or design.
+1. Select the object or design.
 
-2Click the Reflect icon. The associated settings are activated.
+2. Click the Reflect icon. The associated settings are activated.
 
-3Move the pointer to position duplicates.
+3. Move the pointer to position duplicates.
 
 ![MirrorMergeReflectPosition.png](assets/MirrorMergeReflectPosition.png)
 
 Tip: Press Shift to disable Auto-Scroll while using Mirror Merge.
 
-4Adjust the number of columns and rows required in the settings toolbar. Tab from field to field to enter values.
+4. Adjust the number of columns and rows required in the settings toolbar. Tab from field to field to enter values.
 
-5For more precise positioning, adjust spacing settings. Press Enter to confirm.
+5. For more precise positioning, adjust spacing settings. Press Enter to confirm.
 
-6Click to mark the reflection point and press Enter to confirm.
+6. Click to mark the reflection point and press Enter to confirm.
 
 ![MirrorMergeReflectMultiples.png](assets/MirrorMergeReflectMultiples.png)
 

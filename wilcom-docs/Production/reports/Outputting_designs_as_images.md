@@ -4,13 +4,13 @@ Designers frequently want to distribute their designs for viewing in real colors
 
 ## To output a design as an image...
 
-1Open the embroidery design.
+1. Open the embroidery design.
 
-2Select File > Capture Design Bitmap.
+2. Select File > Capture Design Bitmap.
 
 ![CaptureDesignBitmap.png](assets/CaptureDesignBitmap.png)
 
-3Select a Selection option:
+3. Select a Selection option:
 
 | Option                | Function                                                                         |
 | --------------------- | -------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ Designers frequently want to distribute their designs for viewing in real colors
 
 ![reports00003.png](assets/reports00003.png)
 
-4Select an Output option:
+4. Select an Output option:
 
 | Option         | Function                                                                                                                                                                                                                                                                                                         |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@ Designers frequently want to distribute their designs for viewing in real colors
 | Send via email | Lets you send the screen capture as an email. A new email message opens with the image attached. This option only works with the default MAPI compliant desktop email. It won’t work with email apps or other clients that don’t support the MAPI standard. Generally, this means MS Outlook email clients only. |
 | Save & send    | Lets you both save to hard disk and send as an email attachment.                                                                                                                                                                                                                                                 |
 
-5Select Include background/fabric to include the background color or fabric with the screen capture.
+5. Select Include background/fabric to include the background color or fabric with the screen capture.
 
 ![CaptureDesignBitmap3.png](assets/CaptureDesignBitmap3.png)
 

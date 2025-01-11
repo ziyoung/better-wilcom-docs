@@ -13,7 +13,6 @@ Tatami stitch consists of rows of run stitches and is suitable for filling large
 <iframe src="https://www.youtube.com/embed/4-RwGATLML8" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
 </iframe>
 
 ## Related video
@@ -21,7 +20,6 @@ Tatami stitch consists of rows of run stitches and is suitable for filling large
 <iframe src="https://www.youtube.com/embed/qGkIuSS5Bk0" frameborder="0" 
 		 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 		 allowfullscreen="" style="width: 560px; height: 315px;">
-<p>&#160;</p>
 </iframe>
 
 ## Related topics

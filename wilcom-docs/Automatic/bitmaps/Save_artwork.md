@@ -4,21 +4,21 @@ All images placed in the design window, whether by scanning, pasting or insertin
 
 ## To save artwork...
 
-1Scan or load the image you want to use.
+1. Scan or load the image you want to use.
 
-2Still in CorelDRAW Graphics mode, select the image.
+2. Still in CorelDRAW Graphics mode, select the image.
 
 ![EditImage300083.png](assets/EditImage300083.png)
 
-3Select File > Export. The Export dialog opens.
+3. Select File > Export. The Export dialog opens.
 
 ![ExportGraphics.png](assets/ExportGraphics.png)
 
-4Choose a suitable file format from the droplist – e.g. BMP or PNG.
+4. Choose a suitable file format from the droplist – e.g. BMP or PNG.
 
-5Select an export folder, then select a format from the Save as type droplist.
+5. Select an export folder, then select a format from the Save as type droplist.
 
-6Enter a file name and click Export.
+6. Enter a file name and click Export.
 
 Note: This file is not referenced by the EMB file. Any further changes to it are not reflected in the embedded image.
 

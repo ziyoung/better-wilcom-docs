@@ -16,31 +16,31 @@ Tip: You can create offset objects from bling-fill objects. All the same options
 
 ## To create a bling fill...
 
-1Optionally, toggle on Show Bling Work Area to visualize the design within the work area of the selected machine model.
+1. Optionally, toggle on Show Bling Work Area to visualize the design within the work area of the selected machine model.
 
-2Click the Bling Fill button.
+2. Click the Bling Fill button.
 
-3Digitize control points for a closed object in the same way as Complex Fill.
+3. Digitize control points for a closed object in the same way as Complex Fill.
 
 ![bling00044.png](assets/bling00044.png)
 
-4Press Enter to close the shape. You are prompted to create another boundary.
+4. Press Enter to close the shape. You are prompted to create another boundary.
 
-5Press Enter twice to finish the object.
+5. Press Enter twice to finish the object.
 
-6Double-click the object to view properties. The Object Properties docker opens at the Bling Fills tab.
+6. Double-click the object to view properties. The Object Properties docker opens at the Bling Fills tab.
 
 ![bling00047.png](assets/bling00047.png)
 
-7Select a fill type – Column Fill or Contour Fill.
+7. Select a fill type – Column Fill or Contour Fill.
 
 ![bling00050.png](assets/bling00050.png)
 
-8Adjust angles and shift as required – these settings are only available with Column Fill.
+8. Adjust angles and shift as required – these settings are only available with Column Fill.
 
 ![bling00053.png](assets/bling00053.png)
 
-9Use pattern settings as for sequin fills to create simple or multiline bling fills:
+9. Use pattern settings as for sequin fills to create simple or multiline bling fills:
 
 - For a simple fill, set the fill type to Simple and adjust pattern as desired.
 
@@ -50,11 +50,11 @@ Tip: You can create offset objects from bling-fill objects. All the same options
 
 ![BlingFillWithContourFillMultiline1.png](assets/BlingFillWithContourFillMultiline1.png)
 
-10Adjust line spacing settings as required.
+10. Adjust line spacing settings as required.
 
 ![bling00061.png](assets/bling00061.png)
 
-11Add borders as required. See below
+11. Add borders as required. See below
 
 Tip: By default, Automatic Overlap Removal is selected in order to automatically remove unwanted items from overlapping bling objects. Choose another option if you want to manually edit rhinestone overlaps.
 

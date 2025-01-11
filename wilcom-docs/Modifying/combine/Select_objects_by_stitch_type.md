@@ -4,16 +4,16 @@ You can select [embroidery objects](../../glossary/glossary) of the same stitch 
 
 ## To select objects by stitch type...
 
-1Select Edit > Select by Stitch Type. The Select by Stitch Type dialog opens.
+1. Select Edit > Select by Stitch Type. The Select by Stitch Type dialog opens.
 
 ![SelectByStitchType.png](assets/SelectByStitchType.png)
 
-2Select a stitch type from the list.
+2. Select a stitch type from the list.
 
 - To select a range of stitch types, hold down Shift as you click.
 - To select multiple stitch types, hold down Ctrl as you click.
 
-3Click OK. Objects using the selected stitch types are selected in the design.
+3. Click OK. Objects using the selected stitch types are selected in the design.
 
 ![combine00042.png](assets/combine00042.png)
 

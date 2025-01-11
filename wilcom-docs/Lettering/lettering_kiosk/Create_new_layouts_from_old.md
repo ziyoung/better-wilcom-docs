@@ -8,31 +8,31 @@ To create custom design layouts is not very different to setting up thread color
 
 ## To create a new layout from an old one...
 
-1Click the Open icon. The Open Design dialog opens.
+1. Click the Open icon. The Open Design dialog opens.
 
 ![OpenDesigns00070.png](assets/OpenDesigns00070.png)
 
-2Navigate to the Designs folder of your EmbroideryStudio e4 installation:
+2. Navigate to the Designs folder of your EmbroideryStudio e4 installation:
 
 C:\\Program Files\\Wilcom\\EmbroideryStudio_e4.0\\Kiosk\\Designs
 
 Alternatively, specify your own folder.
 
-3Select a design to edit and click Open.
+3. Select a design to edit and click Open.
 
-4Before you do anything else, select File > Save As and save the design under a different name.
+4. Before you do anything else, select File > Save As and save the design under a different name.
 
-5Double-click the design to open its properties.
+5. Double-click the design to open its properties.
 
 ![BasicLayout00073.png](assets/BasicLayout00073.png)
 
-6Edit the default text and select an alternative font from the droplist as desired.
+6. Edit the default text and select an alternative font from the droplist as desired.
 
-7Click the Update Text button to view the result on screen.
+7. Click the Update Text button to view the result on screen.
 
 ![BasicLayout3.png](assets/BasicLayout3.png)
 
-8Change default thread color as desired. The design will appear in the kiosk design chooser when you next run it.
+8. Change default thread color as desired. The design will appear in the kiosk design chooser when you next run it.
 
 ## Related topics...
 

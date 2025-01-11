@@ -14,26 +14,26 @@ Tip: If you are using a digitizing tablet, you can quickly switch between preset
 
 ## To apply satin stitch with fixed spacing...
 
-1Select the digitizing method you want to use – e.g. [Column C](../../glossary/glossary).
+1. Select the digitizing method you want to use – e.g. [Column C](../../glossary/glossary).
 
-2Select Satin and create an [embroidery object](../../glossary/glossary). Alternatively, select an existing embroidery object and click Satin.
+2. Select Satin and create an [embroidery object](../../glossary/glossary). Alternatively, select an existing embroidery object and click Satin.
 
 ![SatinSpacingSelected00059.png](assets/SatinSpacingSelected00059.png)
 
-3Right-click the Satin icon to access object properties.
+3. Right-click the Satin icon to access object properties.
 
 ![stitches00060.png](assets/stitches00060.png)
 
-4Untick Auto Spacing.
+4. Untick Auto Spacing.
 
-5In the Spacing field, enter a fixed spacing:
+5. In the Spacing field, enter a fixed spacing:
 
 - To increase density, enter a smaller value.
 - To reduce density, enter a larger value.
 
 ![stitches00063.png](assets/stitches00063.png)
 
-6Press Enter or click Apply.
+6. Press Enter or click Apply.
 
 ## Related topics...
 

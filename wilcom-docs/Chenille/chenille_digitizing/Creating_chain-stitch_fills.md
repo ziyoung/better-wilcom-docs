@@ -12,13 +12,13 @@ Tip: With Chain stitch blocks, there is no need for borders as such. Chain itsel
 
 ## To digitize a chain-stitch fill...
 
-1Open a new design using the Chenille template and select a machine format to suit.
+1. Open a new design using the Chenille template and select a machine format to suit.
 
-2Choose an input method – graphical or traditional.
+2. Choose an input method – graphical or traditional.
 
 Since stitch angle has no relevance to chain stitching, Complex Fill is fine for most shapes. Some graphic tools may be used – Closed Shape, Rectangle, Ellipse, and Basic Shapes.
 
-3Select Chain stitch and choose a suitable fill pattern:
+3. Select Chain stitch and choose a suitable fill pattern:
 
 | Fill pattern                             | Uses        |                                                                          |
 | ---------------------------------------- | ----------- | ------------------------------------------------------------------------ |
@@ -26,9 +26,9 @@ Since stitch angle has no relevance to chain stitching, Complex Fill is fine for
 | ![Offset.png](assets/Offset.png)         | Offset Fill | Create offset fill stitching in any closed shape.                        |
 | ![SpiralFill.png](assets/SpiralFill.png) | Spiral Fill | Create spiral stitching from the center of any closed object.            |
 
-4Right-click for settings and adjust spacing and length as necessary. Stitch length determines the size of chain. The greater the value, the larger the pattern. Spacing needs to accommodate yarn thickness.
+4. Right-click for settings and adjust spacing and length as necessary. Stitch length determines the size of chain. The greater the value, the larger the pattern. Spacing needs to accommodate yarn thickness.
 
-5Digitize the boundary like any embroidery object:
+5. Digitize the boundary like any embroidery object:
 
 - Left-click for corner points
 - Right-click for curve points.
@@ -37,11 +37,11 @@ Since stitch angle has no relevance to chain stitching, Complex Fill is fine for
 
 Tip: Use the prompts in the Prompt Bar to help you digitize. If you make a mistake, press Backspace to delete the last reference point. Press Esc to undo all new reference points.
 
-6Press Enter to complete. The chain-fill object is generated according to current settings.
+6. Press Enter to complete. The chain-fill object is generated according to current settings.
 
 ![ChenilleShapesChain.png](assets/ChenilleShapesChain.png)
 
-7With the object selected, open Object Properties to adjust fill settings, including spacing.
+7. With the object selected, open Object Properties to adjust fill settings, including spacing.
 
 ## Related topics
 

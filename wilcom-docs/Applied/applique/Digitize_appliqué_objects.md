@@ -8,40 +8,40 @@
 
 ## To digitize appliqué objects...
 
-1Click the Appliqué icon and digitize the boundary of the shape. Follow the prompts. If you make a mistake, press Backspace to delete the last reference point.
+1. Click the Appliqué icon and digitize the boundary of the shape. Follow the prompts. If you make a mistake, press Backspace to delete the last reference point.
 
 Tip: If you only need to create a single-boundary appliqué object, you may prefer to use the Appliqué without Holes tool.
 
-2Press Enter to close the shape. You can create another appliqué object at this stage.
+2. Press Enter to close the shape. You can create another appliqué object at this stage.
 
-3Press Enter again.
+3. Press Enter again.
 
-4Click the outline to set entry and [exit points](../../glossary/glossary) or press Enter to accept defaults.
+4. Click the outline to set entry and [exit points](../../glossary/glossary) or press Enter to accept defaults.
 
-5If prompted to do so, mark the [frame-out](../../glossary/glossary) position or press Enter to accept the default.
+5. If prompted to do so, mark the [frame-out](../../glossary/glossary) position or press Enter to accept the default.
 
 Frame-out commands are specified as a Stop function or Color Change respectively. They can be set after guide run and/or tack stitch.
 
 ![AppliqueFrameOut.png](assets/AppliqueFrameOut.png)
 
-6Press Enter. Up to four layers of stitching – [guide run](../../glossary/glossary), cutting line, tack and cover – are generated, depending on current settings.
+6. Press Enter. Up to four layers of stitching – [guide run](../../glossary/glossary), cutting line, tack and cover – are generated, depending on current settings.
 
 ![applique00012.png](assets/applique00012.png)
 
-7Double-click the appliqué object to check the settings.
+7. Double-click the appliqué object to check the settings.
 
 ![applique00015.png](assets/applique00015.png)
 
-8Adjust settings as required:
+8. Adjust settings as required:
 
 - Fabric swatch: [See Add fabric swatches to appliqué for details.](Add_fabric_swatches_to_appliqué)
 - Guide run: [See Adjust guide run settings for details.](Adjust_guide_run_settings)
 - Tack stitch: [See Adjust tack stitch settings for details.](Adjust_tack_stitch_settings)
 - Cover stitch: [See Adjust cover stitch settings for details.](Adjust_cover_stitch_settings)
 
-9Optionally, apply [Smart Corners](../../glossary/glossary) to appliqué objects.
+9. Optionally, apply [Smart Corners](../../glossary/glossary) to appliqué objects.
 
-10Optionally, run Stitch Player or use the travel tools to check the appliqué stitching sequence.
+10. Optionally, run Stitch Player or use the travel tools to check the appliqué stitching sequence.
 
 ## Related topics...
 

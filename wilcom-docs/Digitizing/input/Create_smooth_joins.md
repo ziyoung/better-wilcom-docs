@@ -8,11 +8,11 @@ The ‘continuous input’ option provides a simple and efficient way of digitiz
 
 ## To create smooth joins...
 
-1Click the Options icon or select Setup > Options and click the General tab.
+1. Click the Options icon or select Setup > Options and click the General tab.
 
 ![input00104.png](assets/input00104.png)
 
-2Select a continuous input method:
+2. Select a continuous input method:
 
 - Normal: Use this for non-continuous input.
 - Continuous replace: Use this to continue digitizing the same object after each Enter keypress. Any [properties](../../glossary/glossary) you change during digitizing will affect the entire object, not just the section you are working on.
@@ -23,15 +23,15 @@ The ‘continuous input’ option provides a simple and efficient way of digitiz
 
 ![input00110.png](assets/input00110.png)
 
-3Click OK.
+3. Click OK.
 
-4Digitize the Column A object. When you press Enter, the digitized object fills with stitches. The input tool is still active.
+4. Digitize the Column A object. When you press Enter, the digitized object fills with stitches. The input tool is still active.
 
-5If you are using Continuous Add mode, you can select another stitch type at this point.
+5. If you are using Continuous Add mode, you can select another stitch type at this point.
 
 Tip: To stop the screen scrolling while moving the mouse, hold down Shift and click the stitch type button you require.
 
-6Recommence digitizing where you left off and press Enter when you have finished.
+6. Recommence digitizing where you left off and press Enter when you have finished.
 
 If you are using Continuous Add mode, the new section is a new object. This means that, while the two sections are smoothly joined, they can have different properties, including stitch type.
 

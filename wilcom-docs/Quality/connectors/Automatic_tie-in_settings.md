@@ -7,13 +7,13 @@ Tie-in stitches are inserted at the start of objects to prevent stitches from un
 
 ## To adjust tie-in settings...
 
-1Click the Object Properties icon.
+1. Click the Object Properties icon.
 
-2Select the Connectors tab.
+2. Select the Connectors tab.
 
 ![connectors00013.png](assets/connectors00013.png)
 
-3Select Tie In from the list and select a tie-in option:
+3. Select Tie In from the list and select a tie-in option:
 
 | Option             | Function                                                                         |
 | ------------------ | -------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ Tie-in stitches are inserted at the start of objects to prevent stitches from un
 | After Trim/CC      | Tie-ins are inserted after trims and color changes.                              |
 | Previous connector | Tie-ins are inserted when the previous connector exceeds the length you specify. |
 
-4Set tie-in values:
+4. Set tie-in values:
 
 | Option | Function                                          |
 | ------ | ------------------------------------------------- |

@@ -10,19 +10,19 @@ Tip: If you are editing images in a third-party graphics application, you can co
 
 ## To import a bitmap image...
 
-1Click the Import Graphic icon or select File > Import Graphic.
+1. Click the Import Graphic icon or select File > Import Graphic.
 
 ![ImportGraphicDroplist.png](assets/ImportGraphicDroplist.png)
 
-2Navigate to the graphics folder. The dialog defaults to ‘All graphic files’ which displays all supported file types, bitmap and vector.
+2. Navigate to the graphics folder. The dialog defaults to ‘All graphic files’ which displays all supported file types, bitmap and vector.
 
-3Filter the Files of Type list as required – e.g. ‘BMP’.
+3. Filter the Files of Type list as required – e.g. ‘BMP’.
 
 Note: While ‘All graphic files’ includes both vector and bitmap formats, for native CDR and other vector file types, use the CorelDRAW® Graphics Suite import function.
 
-4Select a file and click Open.
+4. Select a file and click Open.
 
-5Scale and transform the image on-screen or via the Property and Transform toolbars.
+5. Scale and transform the image on-screen or via the Property and Transform toolbars.
 
 ![bitmaps00044.png](assets/bitmaps00044.png)
 

@@ -9,13 +9,13 @@ In essence, creating an embroidery design with the Instant Smart Design tool is 
 
 ## To auto-digitize ‘instant embroidery’...
 
-1Load and preset the artwork as necessary.
+1. Load and preset the artwork as necessary.
 
 ![AutoDigitizeInstantEmbroidery1.png](assets/AutoDigitizeInstantEmbroidery1.png)
 
-2Optionally, choose a color matching method.
+2. Optionally, choose a color matching method.
 
-3Click Instant Smart Design and study the result.
+3. Click Instant Smart Design and study the result.
 
 ![AutoDigitizeInstantEmbroidery2.png](assets/AutoDigitizeInstantEmbroidery2.png)
 
@@ -23,7 +23,7 @@ By default, artwork colors are added to the palette. If you have chosen to match
 
 ![AutoDigitizeInstantEmbroidery3.png](assets/AutoDigitizeInstantEmbroidery3.png)
 
-4Edit the result as preferred – e.g. change colors, change stitch types, delete any unwanted background stitching, etc.
+4. Edit the result as preferred – e.g. change colors, change stitch types, delete any unwanted background stitching, etc.
 
 - Use the Color-Object List and/or Sequence toolbar to optimize the stitch sequence of your auto-digitized objects.
 - Use the Closest Join and/or the Reshape tool to minimize connectors.

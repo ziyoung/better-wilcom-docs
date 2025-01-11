@@ -7,13 +7,13 @@ Supervisors can lock the kiosk to protect against unauthorized use. They can lat
 
 ## To create a password for the kiosk...
 
-1Click the Options icon or select Setup > Options. Click the Kiosk tab.
+1. Click the Options icon or select Setup > Options. Click the Kiosk tab.
 
 ![lettering_kiosk00023.png](assets/lettering_kiosk00023.png)
 
-2Enter a secure password and click OK.
+2. Enter a secure password and click OK.
 
-3Select Window > Kiosk start the kiosk. You will be prompted to enter the password.
+3. Select Window > Kiosk start the kiosk. You will be prompted to enter the password.
 
 ![KioskPasswordConfirm.png](assets/KioskPasswordConfirm.png)
 

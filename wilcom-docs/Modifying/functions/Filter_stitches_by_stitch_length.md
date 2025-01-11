@@ -7,28 +7,28 @@ You can apply a filter to the Stitch List so that only stitches of a certain len
 
 ## To filter stitches by stitch length...
 
-1Open the Stitch List.
+1. Open the Stitch List.
 
 ![functions00071.png](assets/functions00071.png)
 
-2Right-click a stitch and select Show Stitches from the popup menu. The Show Stitches dialog opens.
+2. Right-click a stitch and select Show Stitches from the popup menu. The Show Stitches dialog opens.
 
 ![ShowStitches.png](assets/ShowStitches.png)
 
-3Select the range of stitch lengths you want to show:
+3. Select the range of stitch lengths you want to show:
 
 | Option    | Function                                                    |
 | --------- | ----------------------------------------------------------- |
 | Radial    | Corresponds to the actual stitch length.                    |
 | Axial X,Y | Corresponds to the horizontal and vertical frame movements. |
 
-4Click OK. Only the selected stitches are displayed in the list.
+4. Click OK. Only the selected stitches are displayed in the list.
 
 ![StitchList5.png](assets/StitchList5.png)
 
 Tip: To display the text in the associated stitch color, select Colored Text from the popup menu.
 
-5To show all stitches again, right-click in the Stitch List and select Show All from the popup menu.
+5. To show all stitches again, right-click in the Stitch List and select Show All from the popup menu.
 
 ## Related topics...
 

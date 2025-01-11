@@ -7,16 +7,16 @@ The Color-Object List provides an easy way to select objects in designs and acce
 
 ## To sequence with the Color-Object List...
 
-1Click the Color-Object List icon.
+1. Click the Color-Object List icon.
 
 ![ObjectListResequence1.png](assets/ObjectListResequence1.png)
 
-2Select the color block or object to resequence.
+2. Select the color block or object to resequence.
 
 - To select a range of items, hold down Shift as you click.
 - To select multiple items, hold down Ctrl as you click.
 
-3Click-and-drag selected objects to reposition them.
+3. Click-and-drag selected objects to reposition them.
 
 ![ObjectListResequence2.png](assets/ObjectListResequence2.png)
 

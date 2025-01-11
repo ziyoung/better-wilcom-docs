@@ -6,13 +6,13 @@ Note: For machine formats that have no bead capability, the bead palette will di
 
 ## To select a bead-capable machine...
 
-1Select Design > Select Machine Format.
+1. Select Design > Select Machine Format.
 
 ![SelectMachineFormat.png](assets/SelectMachineFormat.png)
 
-2From the Available Machine Formats list, select a bead-capable machine format – e.g. Tajima TBF, Dahao.
+2. From the Available Machine Formats list, select a bead-capable machine format – e.g. Tajima TBF, Dahao.
 
-3Click OK. Default bead shapes are now available for selection from the Bead Palette. If you have selected a twin-bead-capable machine, bead shapes and sizes are displayed in pairs. Up to eight (8) beads can be supported when the Dahao machine format is selected.
+3. Click OK. Default bead shapes are now available for selection from the Bead Palette. If you have selected a twin-bead-capable machine, bead shapes and sizes are displayed in pairs. Up to eight (8) beads can be supported when the Dahao machine format is selected.
 
 ![beading00008.png](assets/beading00008.png)
 

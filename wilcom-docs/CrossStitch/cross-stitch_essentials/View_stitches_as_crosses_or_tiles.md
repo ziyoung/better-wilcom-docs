@@ -7,8 +7,8 @@ There are two display modes for ES Cross Stitch – crosses or colored tiles. Wh
 
 ## To view stitches as crosses or tiles...
 
-1Click the Crosses icon. Any digitized areas are shown as crosses (or lines for line borders).
+1. Click the Crosses icon. Any digitized areas are shown as crosses (or lines for line borders).
 
-2Click again to show stitches as colored tiles.
+2. Click again to show stitches as colored tiles.
 
 ![cross-stitch_essentials00038.png](assets/cross-stitch_essentials00038.png)

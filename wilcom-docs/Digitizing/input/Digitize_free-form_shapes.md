@@ -12,11 +12,11 @@ Digitize free-form shapes with Complex Fill or with Complex Turning. The method 
 
 ## To digitize a free-form shape...
 
-1Insert artwork to use as a digitizing backdrop. Make sure Show Bitmaps or Show Vectors are toggled on or press 0 (zero) to see artwork on screen.
+1. Insert artwork to use as a digitizing backdrop. Make sure Show Bitmaps or Show Vectors are toggled on or press 0 (zero) to see artwork on screen.
 
-2Select a color and stitch type.
+2. Select a color and stitch type.
 
-3Select a tool and mark corner or curve points around the outline of the shape.
+3. Select a tool and mark corner or curve points around the outline of the shape.
 
 - Click to enter corner points.
 - Right-click to enter curve points.
@@ -25,24 +25,24 @@ Digitize free-form shapes with Complex Fill or with Complex Turning. The method 
 
 Tip: If you make a mistake, press Backspace to delete the last point. Press Esc to undo all new points. Press Esc again to exit digitizing mode.
 
-4Close the shape:
+4. Close the shape:
 
 - To close with the same type of point as the last entered – i.e. corner or curve – press Enter.
 - To close using a different type of point, mark the last on top of the first and press Enter.
 
 ![input00125.png](assets/input00125.png)
 
-5Optionally, digitize additional (internal) boundaries in the same way and press Enter.
+5. Optionally, digitize additional (internal) boundaries in the same way and press Enter.
 
 ![CreateFreeShape3.png](assets/CreateFreeShape3.png)
 
-6Define entry and exit points by marking two points outside the object boundary and press Enter. The Closest Join method (the default) automatically calculates closest join between objects while digitizing. When deactivated, entry and exit points need to be set manually.
+6. Define entry and exit points by marking two points outside the object boundary and press Enter. The Closest Join method (the default) automatically calculates closest join between objects while digitizing. When deactivated, entry and exit points need to be set manually.
 
 ![input00128.png](assets/input00128.png)
 
 Tip: If you choose to digitize entry/exit points manually, place them opposite each other on the boundary in order to minimize travel stitching. Then define the stitch angle to be perpendicular to the line between entry and exit points.
 
-7Mark stitch angles:
+7. Mark stitch angles:
 
 - If you are using Complex Fill, mark two points.
 
@@ -58,7 +58,7 @@ Tip: If you choose to digitize entry/exit points manually, place them opposite e
 
 Tip: You can adjust and/or add [stitch angles](../../glossary/glossary) using the Reshape Object tool.
 
-8Press Enter. Free shapes generally stitch out in several segments, joined by travel runs. However, all segments and boundaries are part of the same object.
+8. Press Enter. Free shapes generally stitch out in several segments, joined by travel runs. However, all segments and boundaries are part of the same object.
 
 Tip: To view stitches better, toggle off Show Bitmaps (press D).
 

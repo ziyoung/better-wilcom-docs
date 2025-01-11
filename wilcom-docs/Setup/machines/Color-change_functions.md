@@ -24,13 +24,13 @@ For needle addressing machines, you need to specify how many needles are on the 
 
 ## To set color change functions...
 
-1Open a design.
+1. Open a design.
 
-2Access the Machine Format Settings > Standard dialog. Only fields relevant to the selected machine format will appear.
+2. Access the Machine Format Settings > Standard dialog. Only fields relevant to the selected machine format will appear.
 
 ![machines00009.png](assets/machines00009.png)
 
-3In the Color Change panel, select a method for interpreting color-change functions:
+3. In the Color Change panel, select a method for interpreting color-change functions:
 
 | Method            | Converts color-change functions to... |
 | ----------------- | ------------------------------------- |
@@ -39,23 +39,23 @@ For needle addressing machines, you need to specify how many needles are on the 
 | Stop & jump       | Stop and Jump functions               |
 | Needle no & jumps | Needle Number and Jump functions      |
 
-4For needle-addressing machines, enter the number of needles on the machine in the No of Needles field.
+4. For needle-addressing machines, enter the number of needles on the machine in the No of Needles field.
 
-5Optionally, select the Use Group Addressing checkbox.
+5. Optionally, select the Use Group Addressing checkbox.
 
 Some machines can group two heads together so you can stitch a design using needles from both heads. For example, if a machine has two heads and nine needles per head, the machine moves the hoop from the first head under the second head, which allows you to stitch 18 colors without a manual change.
 
 Note: If this is the case, enter the combined number of needles on the machine in the No of Needles field.
 
-6Optionally, select the First CC required checkbox.
+6. Optionally, select the First CC required checkbox.
 
 Some machines require a First CC code to initialize the machine and bring the head back to the first color change needle position.
 
-7Optionally, select the Return to Start checkbox.
+7. Optionally, select the Return to Start checkbox.
 
 This returns the needle to the start of design, preparing the machine for the repeat run.
 
-8Click Save then Close.
+8. Click Save then Close.
 
 ## Related topics...
 

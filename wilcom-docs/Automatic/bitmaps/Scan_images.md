@@ -6,19 +6,19 @@ Tip: You can also scan in your own textured backgrounds to see what a design wil
 
 ## To scan an image...
 
-1Set up your scanner.
+1. Set up your scanner.
 
-2Prepare the artwork for scanning.
+2. Prepare the artwork for scanning.
 
-3Select File > Scan Graphic.
+3. Select File > Scan Graphic.
 
-4Choose a scanning mode and resolution. If you are scanning a fabric background, set the scan to 256 colors, 100% and 72 dpi (dots per inch). These settings will give a small file which will display well on your screen without taking up too much disk space or memory.
+4. Choose a scanning mode and resolution. If you are scanning a fabric background, set the scan to 256 colors, 100% and 72 dpi (dots per inch). These settings will give a small file which will display well on your screen without taking up too much disk space or memory.
 
-5Preview the image in the scanning program.
+5. Preview the image in the scanning program.
 
-6Select the area to be scanned and scan the image.
+6. Select the area to be scanned and scan the image.
 
-7Save the scanned picture in a compatible format picture file to your My Designs folder.
+7. Save the scanned picture in a compatible format picture file to your My Designs folder.
 
 Note: Scanned drawings are [bitmaps](../../glossary/glossary) and must be saved separately from the design file or they will be lost when you close the design.
 

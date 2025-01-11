@@ -7,25 +7,25 @@ Use the Bead Palette Editor to prepare a palette of beads for use according to y
 
 ## To set up a bead palette...
 
-1Select the machine format that supports the machine you are using.
+1. Select the machine format that supports the machine you are using.
 
-2Click the Bead Palette Editor icon. Fields for each bead are arranged in tabular form.
+2. Click the Bead Palette Editor icon. Fields for each bead are arranged in tabular form.
 
 ![BeadPaletteEditor00020.png](assets/BeadPaletteEditor00020.png)
 
-3Set the number of beads available per device. Depending on machine type, up to eight (8) beads may be supported. If you have chosen a twin-bead machine, this value is limited to 2.
+3. Set the number of beads available per device. Depending on machine type, up to eight (8) beads may be supported. If you have chosen a twin-bead machine, this value is limited to 2.
 
-4Use the More button to add devices. Click X in the column header to remove.
+4. Use the More button to add devices. Click X in the column header to remove.
 
 ![BeadPaletteEditorMore.png](assets/BeadPaletteEditorMore.png)
 
-5Select a bead from the droplist.
+5. Select a bead from the droplist.
 
-6Set color, bead and hole size, as well as height.
+6. Set color, bead and hole size, as well as height.
 
 ![beading00025.png](assets/beading00025.png)
 
-7Set up other beads in the same way, and click OK. Beads are available for selection.
+7. Set up other beads in the same way, and click OK. Beads are available for selection.
 
 ![BeadingDropdownTwinBlank.png](assets/BeadingDropdownTwinBlank.png)
 

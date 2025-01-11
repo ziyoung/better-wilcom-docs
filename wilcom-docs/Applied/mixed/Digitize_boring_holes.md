@@ -13,17 +13,17 @@ Whether you are digitizing for borer knife or needle, the technique is the same.
 
 ## To digitize the boring hole...
 
-1Ensure Penetrations is on.
+1. Ensure Penetrations is on.
 
-2Open the Stitch List to visualize what is happening at the stitch level.
+2. Open the Stitch List to visualize what is happening at the stitch level.
 
-3Click the Run icon and digitize a stabilizing run around the borer hole. This helps prevent the fabric from tearing.
+3. Click the Run icon and digitize a stabilizing run around the borer hole. This helps prevent the fabric from tearing.
 
 ![mixed00030.png](assets/mixed00030.png)
 
-4Click the Borers icon. A [machine function](../../glossary/glossary) is inserted to indicate the change from stitching to boring.
+4. Click the Borers icon. A [machine function](../../glossary/glossary) is inserted to indicate the change from stitching to boring.
 
-5Using the Run tool, digitize cutting lines. For a round hole, two intersecting lines are sufficient. For an oval hole, digitize a single cutting line.
+5. Using the Run tool, digitize cutting lines. For a round hole, two intersecting lines are sufficient. For an oval hole, digitize a single cutting line.
 
 Diamond shapes represent borer cuts on the fabric. Size indicates depth of cut. They do not appear in TrueView™.
 
@@ -31,35 +31,35 @@ Diamond shapes represent borer cuts on the fabric. Size indicates depth of cut. 
 
 Note: Some digitizers prefer to use the Manual tool. Each stitch you digitize becomes a boring hole. Bear in mind though that holes digitized in this way cannot be scaled.
 
-6Reduce Run length to 1.0-1.5 mm to place borer penetrations closer together. This ensures a clean cut.
+6. Reduce Run length to 1.0-1.5 mm to place borer penetrations closer together. This ensures a clean cut.
 
-7Because the boring knife does not require tie-in and tie-off stitches, deactivate these functions via Object Properties > Connectors.
+7. Because the boring knife does not require tie-in and tie-off stitches, deactivate these functions via Object Properties > Connectors.
 
-8Click Borers again to deselect it. This returns you to normal stitching. You now need to stabilize the fabric and create borders by stitching around them with zigzag and satin cover stitches.
+8. Click Borers again to deselect it. This returns you to normal stitching. You now need to stabilize the fabric and create borders by stitching around them with zigzag and satin cover stitches.
 
 ## To stabilize the hole...
 
-1Using Zigzag stitch, digitize around the hole with Column A or, if you have it, the Ring tool.
+1. Using Zigzag stitch, digitize around the hole with Column A or, if you have it, the Ring tool.
 
 ![BoringHole03.png](assets/BoringHole03.png)
 
-2Turn off underlay and adjust stitch length to around 3mm.
+2. Turn off underlay and adjust stitch length to around 3mm.
 
-3Place the inside edge close to the hole center so it ‘wraps’ the fabric.
+3. Place the inside edge close to the hole center so it ‘wraps’ the fabric.
 
-4In the Stitch List you will see Borer In and Borer Out functions whenever the borer knife is engaged.
+4. In the Stitch List you will see Borer In and Borer Out functions whenever the borer knife is engaged.
 
 ## To create cover stitching...
 
-1Digitize the cover stitching with Column A and Satin. Or, as a shortcut, duplicate the zigzag object and apply satin stitch.
+1. Digitize the cover stitching with Column A and Satin. Or, as a shortcut, duplicate the zigzag object and apply satin stitch.
 
-2Again, ensure underlay is turned off.
+2. Again, ensure underlay is turned off.
 
 ![Boring04.png](assets/Boring04.png)
 
-3Use Align Centers to align all objects.
+3. Use Align Centers to align all objects.
 
-4Try experimenting with other styles of cover stitching:
+4. Try experimenting with other styles of cover stitching:
 
 - For a more open style, try Zigzag on its own by decreasing stitch spacing to around 1mm.
 

@@ -9,7 +9,7 @@ The Outlines & Offsets tool allows you to specify both negative and positive off
 
 ## To create negative offsets...
 
-1Select a source object/s and click the Outlines & Offsets icon.
+1. Select a source object/s and click the Outlines & Offsets icon.
 
 ![productivity00046.png](assets/productivity00046.png)
 

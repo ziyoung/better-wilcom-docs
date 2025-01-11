@@ -10,13 +10,13 @@ Caution: Manual stitches are not well suited to [scaling](../../glossary/glossar
 
 ## To digitize individual stitches...
 
-1Click the Manual or Triple Manual icon.
+1. Click the Manual or Triple Manual icon.
 
-2Click to mark the start of the stitch and again to mark its end.
+2. Click to mark the start of the stitch and again to mark its end.
 
 The end-point becomes the beginning of the next stitch.
 
-3Continue marking stitch points until the manual stitch object is complete.
+3. Continue marking stitch points until the manual stitch object is complete.
 
 ![functions00078.png](assets/functions00078.png)
 

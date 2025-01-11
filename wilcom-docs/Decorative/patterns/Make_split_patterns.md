@@ -4,17 +4,17 @@ Make your own patterns to use in program split fills. Create patterns from the o
 
 ## To make a split pattern...
 
-1Select the object (or objects) you want to use for the pattern.
+1. Select the object (or objects) you want to use for the pattern.
 
 ![patterns00101.png](assets/patterns00101.png)
 
-2Select Object > Create Program Split.
+2. Select Object > Create Program Split.
 
 ![CreateProgramSplit.png](assets/CreateProgramSplit.png)
 
-3Enter a name in the Create Program Split dialog.
+3. Enter a name in the Create Program Split dialog.
 
-4Click OK. The new pattern is automatically selected in the Pattern list.
+4. Click OK. The new pattern is automatically selected in the Pattern list.
 
 ## Related topics...
 

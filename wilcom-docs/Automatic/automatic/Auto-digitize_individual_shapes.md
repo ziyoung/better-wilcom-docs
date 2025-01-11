@@ -12,32 +12,32 @@ The Auto-Digitizing tools provide everything necessary to automatically digitize
 
 ## To auto-digitize individual shapes...
 
-1Load and preset the artwork as necessary.
+1. Load and preset the artwork as necessary.
 
 ![PropertyBar.png](assets/PropertyBar.png)
 
-2Select an auto-digitizing fill method:
+2. Select an auto-digitizing fill method:
 
 - Use Tatami Fill Object with Holes for large areas, preserving any holes within them.
 - If you want holes ignored, use Tatami Fill Object.
 - Use Turning Satin Object to digitize narrow turning shapes with satin stitch.
 
-3Click the shapes you want to digitize. Stitches are generated according to current settings.
+3. Click the shapes you want to digitize. Stitches are generated according to current settings.
 
 ![AutoDigitizeBitmap2.png](assets/AutoDigitizeBitmap2.png)
 
-4Optionally, edit object properties, including colors, stitch angles, entry/exit points and so on.
+4. Optionally, edit object properties, including colors, stitch angles, entry/exit points and so on.
 
 ![AutoDigitizeBitmap3.png](assets/AutoDigitizeBitmap3.png)
 
 ## To auto-digitize outlines and details...
 
-1Select an auto-digitizing outline method:
+1. Select an auto-digitizing outline method:
 
 - Use Centerline Run Object to create centerlines in narrow shapes with run stitching.
 - Use Outline Run Object to create outlines of run stitching.
 
-2Again click the shapes you want to digitize. Stitches are generated according to current stitch settings.
+2. Again click the shapes you want to digitize. Stitches are generated according to current stitch settings.
 
 ![AutoDigitizeBitmap4.png](assets/AutoDigitizeBitmap4.png)
 

@@ -4,9 +4,9 @@ Add a cross stitch border or a single line border, or both, to selected areas of
 
 ## To add borders to selected areas...
 
-1Select either the Single Line or Full Cross icon.
+1. Select either the Single Line or Full Cross icon.
 
-2Click the Flood Fill icon and click inside an area. A line of outline stitches is added around the edges of the selection.
+2. Click the Flood Fill icon and click inside an area. A line of outline stitches is added around the edges of the selection.
 
 Tip: Click again in the selection to add another line of stitches inside the first line.
 
